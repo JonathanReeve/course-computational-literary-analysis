@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<div class="narrative">
+  <h1 class="text-title">{{ page.title }}</h1>
+  <p class="citation"> by {{ page.author }}</p>
+  {{ content }}
+</div>
