@@ -5,7 +5,7 @@ title:               Computational Literary Analysis
 tagline:             'Course readings and annotation platform.'
 description:         'Read and annotate course texts here.'
 url:                 'http://github.com/JonathanReeve/course-computational-literary-analysis'
-baseurl:             '/readings'
+baseurl:             '/'
 
 # About/contact
 author:
