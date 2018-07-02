@@ -1,10 +1,10 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Introduction to Computational Literary Analysis Readings
-tagline:             'Read and annotate the course readings here. '
-description:         'Contains texts for Wilkie Collins\'s The Moonstone, Katherine Mansfield\'s The Garden Party and Other Stories and James Joyce\'s _Dubliners_.'
-url:                 'http://course-computational-literary-analysis.github.io'
+title:               Computational Literary Analysis
+tagline:             'Course readings and annotation platform.'
+description:         'Read and annotate course texts here.'
+url:                 'http://github.com/JonathanReeve/course-computational-literary-analysis'
 baseurl:             '/readings'
 
 # About/contact
