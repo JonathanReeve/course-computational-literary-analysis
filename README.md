@@ -1,5 +1,7 @@
 # Introduction to Computational Literary Analysis
 
+[![Join the chat at https://gitter.im/course-computational-literary-analysis/Lobby](https://badges.gitter.im/course-computational-literary-analysis/Lobby.svg)](https://gitter.im/course-computational-literary-analysis/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
  - Instructor: Jonathan Reeve
  - Room: D-Lab,
  - Office Hours: TBD
