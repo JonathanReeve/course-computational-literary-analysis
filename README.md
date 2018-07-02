@@ -3,7 +3,7 @@
  - Instructor: Jonathan Reeve
  - Room: D-Lab, 350 Barrows Hall
  - Office: Barrows Hall Room 350J
- - Office Hours: Fridays, 10am-12pm
+ - Office Hours: Fridays, 10am-12pm, or by appointment
  - Email address: jonathan.reeve@columbia.edu
  - [Course website: https://github.com/JonathanReeve/course-computational-literary-analysis](https://github.com/JonathanReeve/course-computational-literary-analysis)
  - [Course chatroom: https://gitter.im/course-computational-literary-analysis/Lobby#](https://gitter.im/course-computational-literary-analysis/Lobby#)
@@ -30,9 +30,15 @@ This course presumes no prior knowledge of programming, computer science, or qua
 
 ## Resources
 
-The best resource for this course is [the course GitHub repository](https://github.com/JonathanReeve/course-computational-literary-analysis). We will also have a [Gitter chatroom](https://gitter.im/course-computational-literary-analysis/Lobby#) for any questions you might have along the way, especially those that you think might be able to be answered by other students. Check out what's happening on Gitter as often as you can, and ask any questions you have there, first. You'll probably have to sign up for Gitter with a GitHub username, if you don't already have one. Unless you're already well established on GitHub, please use your real name as your GitHub/Gitter username. (Mine is JonathanReeve, for example.)
+The best resource for this course is [the course GitHub repository](https://github.com/JonathanReeve/course-computational-literary-analysis). That repo will always contain the most up-to-date copy of this course syllabus, which is subject to change. We will also have a [Gitter chatroom](https://gitter.im/course-computational-literary-analysis/Lobby#) for any questions you might have along the way, especially those that you think might be able to be answered by other students. Check out what's happening on Gitter as often as you can, and ask any questions you have there, first. You'll probably have to sign up for Gitter with a GitHub username, if you don't already have one. Unless you're already well established on GitHub, please use your real name as your GitHub/Gitter username. (Mine is JonathanReeve, for example.)
 
 If you want a second opinion about a question, or have questions that we can't answer in the chatroom, a good website for getting help with programming is [StackOverflow](https://stackoverflow.com). Also, the Internet is full of Python learning resources. One of my favorites is [CodeCademy](https://codecademy.com), which has a game-like interactive interface, badges, and more. If you like a good puzzle, and like being challenged, there's also the older [Python Challenge](http://pythonchallenge.com). 
+
+Resources related to text analysis include, but are by no means limited to: 
+
+ - [The NLTK Book](http://www.nltk.org/book/)
+ - [My introduction to text analysis tutorial](https://github.com/JonathanReeve/dataviz-workshop-2017)
+ - [My advanced text analysis tutorial with SpaCy](https://github.com/JonathanReeve/advanced-text-analysis-workshop-2017) 
 
 ## Requirements
 
@@ -57,7 +63,7 @@ All readings will be provided in digital form on the course GitHub repository, b
 
 ## Annotations
 
-For each reading assignment, please write at least two annotations to our editions of the text, using [hypothes.is](http://hypothes.is). Links are provided below. You may write about anything you want, but it will help your final project to think about ways in which computational analysis might help you to better understand what you observe in the text. Good annotations are: 
+For each reading assignment, please write at least two annotations to our editions of the text, using [hypothes.is](http://hypothes.is). Links are provided below. You'll have to sign up for a hypothes.is account first. As above, please use your real name as your username, so I know who you are. You may write about anything you want, but it will help your final project to think about ways in which computational analysis might help you to better understand what you observe in the text. Good annotations are: 
 
  - Concise (think: a long tweet)
  - Well-written (although not too formal)
@@ -97,7 +103,7 @@ Attendance is crucial. Although most course materials will be published in the c
 Text: [Wilkie Collins, _The Moonstone_](https://course-computational-literary-analysis.netlify.com/texts/moonstone)
 Tools: Python (Anaconda)
 
- - Unit 1.1: Course intro. Motivation: what is possible with computational literary analysis? 
+ - Unit 1.1: Course intro. [Motivation: what is possible with computational literary analysis?](http://jonreeve.com/presentations/icla-intro)
  - Unit 1.2: Installing Python. Python 2 v. 3. Jupyter. Jupyter toolchain, module installation, package importing. Strings. 
    - Text: [_The Moonstone_, First Period, Through Chapter IX](https://course-computational-literary-analysis.netlify.com/texts/moonstone/)
  - Unit 1.3: **No Class: Independence Day Holiday**
