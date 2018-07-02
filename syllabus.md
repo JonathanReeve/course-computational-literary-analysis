@@ -38,16 +38,24 @@ Coursework falls into three categories:
 
 Additionally, there are three course readings, all novels. Reading these will help you to contextualize the quantitative analyses, and will prepare you for the close reading tasks of the final paper. 
 
-## Attendance 
+## Readings
 
-Attendance is crucial. Although most course materials will be published in the course GitHub repository, they cannot replace hands-on experience with the techniques this course teaches. This is doubly true of in-class discussions of our readings. If you can't make it to a class for some reason, please let me know in advance. 
+All readings will be provided in digital form on the course GitHub repository, but if you prefer to read on paper, or to supplement your reading with background information and critical articles, I highly recommend the Broadview and Norton Critical Editions: 
+
+ - Wilkie Collins, _The Moonstone_, Broadview Edition
+   - [Available as paperback, pdf, or epub at Broadview Press](https://broadviewpress.com/product/the-moonstone/#tab-description)
+ - Katherine Mansfield, _The Garden Party and Other Stories_, in _Katherine Mansfield's Selected Stories_, Norton Critical Edition
+   - [Available as _Katherine Mansfield's Selected Stories_, in paperback from Norton Critical Editions](http://books.wwnorton.com/books/webad.aspx?id=11871)
+ - James Joyce, _Dubliners_, Norton Critical Edition
+   - [Available as paperback from Norton Critical Editions](http://books.wwnorton.com/books/webad.aspx?id=10295)
 
 ## Annotations
 
-For each reading assignment, please write at least two annotations to our editions of the text, using [hypothes.is](http://hypothes.is). Links are provided below. Good annotations are: 
- - concise (think: a long tweet)
- - well-written (although not too formal)
- - observant (rather than evaluative)
+For each reading assignment, please write at least two annotations to our editions of the text, using [hypothes.is](http://hypothes.is). Links are provided below. You may write about anything you want, but it will help your final project to think about ways in which computational analysis might help you to better understand what you observe in the text. Good annotations are: 
+
+ - Concise (think: a long tweet)
+ - Well-written (although not too formal)
+ - Observant (rather than evaluative)
 
 You may respond to another student's annotation for one of your two, if you want.
 
@@ -69,6 +77,10 @@ Final papers will be evaluated according to the:
  - Literary interpretation of the results
  - Integration of the computational analysis with the literary argument
 
+## Attendance 
+
+Attendance is crucial. Although most course materials will be published in the course GitHub repository, they cannot replace hands-on experience with the techniques this course teaches. This is doubly true of in-class discussions of our readings. If you can't make it to a class for some reason, please let me know in advance. 
+
 # Schedule
 
 ## Week 1: Introduction to Python for Text Analysis
@@ -77,7 +89,7 @@ Tools: Python (Anaconda)
 
  - Unit 1.1: Course intro. Motivation: what is possible with computational literary analysis? 
  - Unit 1.2: Installing Python. Python 2 v. 3. Jupyter. Jupyter toolchain, module installation, package importing. Strings. 
-   - Text: First Period, Through Chapter IX
+   - Text: _The Moonstone_, First Period, Through Chapter IX
  - Unit 1.3: No Class: Independence Day Holiday
  - Unit 1.4: Working with strings. Splitting, concatenating, slicing, indexing. Working with lists and dictionaries. Slicing, indexing, appending. 
    - Text: First Period, Through Chapter XV
@@ -125,7 +137,7 @@ Tools: NLTK, SpaCy
    - Texts: "An Ideal Family," "The Lady's Maid" 
 
 ## Week 5: Linguistic Techniques II
-Text: James Joyce, _Dubliners_  
+Text: James Joyce, _Dubliners_
 Tools: SpaCy
 
  - Unit 5.1: Review of Week 4 and Homework 4. 
