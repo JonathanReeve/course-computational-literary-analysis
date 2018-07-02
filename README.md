@@ -1,9 +1,13 @@
 # Introduction to Computational Literary Analysis
 
  - Instructor: Jonathan Reeve
- - Room: D-Lab,
- - Office Hours: TBD
+ - Room: D-Lab, 350 Barrows Hall
+ - Office: Barrows Hall Room 350J
+ - Office Hours: Fridays, 10am-12pm
  - Email address: jonathan.reeve@columbia.edu
+ - [Course website: https://github.com/JonathanReeve/course-computational-literary-analysis](https://github.com/JonathanReeve/course-computational-literary-analysis)
+ - [Course chatroom: https://gitter.im/course-computational-literary-analysis/Lobby#](https://gitter.im/course-computational-literary-analysis/Lobby#)
+ - [Readings: https://course-computational-literary-analysis.netlify.com/](https://course-computational-literary-analysis.netlify.com/)
 
 ## Description
 
@@ -26,11 +30,9 @@ This course presumes no prior knowledge of programming, computer science, or qua
 
 ## Resources
 
-The best resource for this course is [the course GitHub repository](https://github.com/JonathanReeve/course-computational-literary-analysis). We will also have a [Gitter chatroom]() for any questions you might have along the way, especially those that you think might be able to be answered by other students. Check out what's happening on Gitter as often as you can, and ask any questions you have there, first. 
+The best resource for this course is [the course GitHub repository](https://github.com/JonathanReeve/course-computational-literary-analysis). We will also have a [Gitter chatroom](https://gitter.im/course-computational-literary-analysis/Lobby#) for any questions you might have along the way, especially those that you think might be able to be answered by other students. Check out what's happening on Gitter as often as you can, and ask any questions you have there, first. You'll probably have to sign up for Gitter with a GitHub username, if you don't already have one. Unless you're already well established on GitHub, please use your real name as your GitHub/Gitter username. (Mine is JonathanReeve, for example.)
 
-If you want a second opinion, or have questions that we can't answer in the chatroom, a good website for getting help with programming is [StackOverflow](https://stackoverflow.com). 
-
-Also, the Internet is full of Python learning resources. One of my favorites is [CodeCademy](https://codecademy.com), which has a game-like interactive interface, badges, and more. If you like a good puzzle, and like being challenged, there's also the older [Python Challenge](http://pythonchallenge.com). 
+If you want a second opinion about a question, or have questions that we can't answer in the chatroom, a good website for getting help with programming is [StackOverflow](https://stackoverflow.com). Also, the Internet is full of Python learning resources. One of my favorites is [CodeCademy](https://codecademy.com), which has a game-like interactive interface, badges, and more. If you like a good puzzle, and like being challenged, there's also the older [Python Challenge](http://pythonchallenge.com). 
 
 ## Requirements
 
@@ -92,29 +94,29 @@ Attendance is crucial. Although most course materials will be published in the c
 # Schedule
 
 ## Week 1: Introduction to Python for Text Analysis
-Text: [Wilkie Collins, _The Moonstone_](/readings/texts/moonstone)
+Text: [Wilkie Collins, _The Moonstone_](https://course-computational-literary-analysis.netlify.com/texts/moonstone)
 Tools: Python (Anaconda)
 
  - Unit 1.1: Course intro. Motivation: what is possible with computational literary analysis? 
  - Unit 1.2: Installing Python. Python 2 v. 3. Jupyter. Jupyter toolchain, module installation, package importing. Strings. 
-   - Text: [_The Moonstone_, First Period, Through Chapter IX](https://course-computational-literary-analysis.github.io/readings/texts/moonstone)
+   - Text: [_The Moonstone_, First Period, Through Chapter IX](https://course-computational-literary-analysis.netlify.com/texts/moonstone/)
  - Unit 1.3: **No Class: Independence Day Holiday**
  - Unit 1.4: Working with strings. Splitting, concatenating, slicing, indexing. Working with lists and dictionaries. Slicing, indexing, appending. 
-   - Text: [First Period, Through Chapter XV](https://course-computational-literary-analysis.github.io/readings/texts/moonstone/#chapter-x)
+   - Text: [First Period, Through Chapter XV](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#chapter-x)
  
 ## Week 2 (7/9-7/13): Basic Text Analysis
 Text: _The Moonstone_, Continued
 Tools: Natural Language ToolKit (NLTK)
 
  - Unit 2.1: Review of Week 1 and Homework 1. Loading and manipulating plain text files.
-   - Text: [First Period, Complete.](https://course-computational-literary-analysis.github.io/readings/texts/moonstone/#chapter-xv)
+   - Text: [First Period, Complete.](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#chapter-xv)
    - **Homework 1 due**
  - Unit 2.2: Working with words. Tokenization techniques. Lemmatizers.
-   - Text: [Second Period, First Narrative](/readings/texts/moonstone/#second-period)
+   - Text: [Second Period, First Narrative](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#second-period)
  - Unit 2.3: Basic text statistics with the NLTK. Type / token ratios. Loops, functions, and other control structures. 
-   - Text: [Second Period, Second Narrative ](/readings/texts/moonstone/#second-narrative)
+   - Text: [Second Period, Second Narrative ](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#second-narrative)
  - Unit 2.4: More text statistics. Concordances, collocations, dispersion plots. 
-   - Text: [Second Period, Third Narrative](/readings/texts/moonstone/#third-narrative)
+   - Text: [Second Period, Third Narrative](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#third-narrative)
 
 ## Week 3 (7/16-7/19): Word Frequency Analyses
 Text: _The Moonstone_ and Katherine Mansfield, _The Garden Party and Other Stories_ 
@@ -122,27 +124,27 @@ Tools: Scikit-Learn, Pandas
 
  - Unit 3.1: Review of Week 2 and Homework 2. Working with corpora and partitioned texts. Chapterization.
    - **Homework 2 due**
-   - Text: [Second Period, Fourth and Fifth Narratives](/readings/texts/moonstone/#fourth-narrative)
+   - Text: [Second Period, Fourth and Fifth Narratives](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#fourth-narrative)
  - Unit 3.2: Word frequency analyses. Document-term matrices. Principal Component Analysis and Latent Semantic Analysis.
-   - Text: [_The Moonstone_, Complete](/readings/texts/moonstone/#sixth-narrative)
+   - Text: [_The Moonstone_, Complete](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#sixth-narrative)
  - Unit 3.3: Data visualization using Pandas and Matplotlib.
-   - Texts: ["The Garden Party"](/readings/texts/garden-party/#the-garden-party)
+   - Texts: ["The Garden Party"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-garden-party)
  - Unit 3.4: Stylometry: character voice and authorship attribution. 
-   - Texts: ["The Daughters of the Late Colonel,"](/readings/texts/garden-party/#the-daughters-of-the-late-colonel) ["Mr. and Mrs. Dove"](/readings/texts/garden-party/#mr-and-mrs-dove)
+   - Texts: ["The Daughters of the Late Colonel,"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-daughters-of-the-late-colonel) ["Mr. and Mrs. Dove"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#mr-and-mrs-dove)
 
 ## Week 4 (7/23-7/26): Linguistic Techniques I
-Text: [Katherine Mansfield, _The Garden Party and Other Stories_](/readings/texts/garden-party)
+Text: [Katherine Mansfield, _The Garden Party and Other Stories_](https://course-computational-literary-analysis.netlify.com/texts/garden-party)
 Tools: NLTK, SpaCy
 
  - Unit 4.1: Review of Week 3 and Homework 3. 
    - **Homework 3 due**
-   - Texts: ["The Young Girl,"](/readings/texts/garden-party/#the-young-girl) ["Life of Ma Parker"](/readings/texts/garden-party/#life-of-ma-parker)
+   - Texts: ["The Young Girl,"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-young-girl) ["Life of Ma Parker"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#life-of-ma-parker)
  - Unit 4.2: Words: lexical tools. WordNet. Navigating hyponym trees. 
-   - Texts: ["Marriage à la Mode,"](/readings/texts/garden-party/#marriage-a-la-mode) ["The Voyage"](/readings/texts/garden-party/#the-voyage)
+   - Texts: ["Marriage à la Mode,"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#marriage-a-la-mode) ["The Voyage"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-voyage)
  - Unit 4.4: Word probabilities. Identifying improbable words and ngrams. 
-   - Texts: ["Her First Ball,"](/readings/texts/garden-party/#her-first-ball) ["The Stranger"](/readings/texts/garden-party/#the-stranger)
+   - Texts: ["Her First Ball,"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#her-first-ball) ["The Stranger"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-stranger)
  - Unit 4.5: Quantifying parts-of-speech. Using Penn Treebank tags. Verb tense analyses. 
-   - Texts: ["An Ideal Family,"](/readings/texts/garden-party/#an-ideal-family) ["The Lady's Maid"](/readings/texts/garden-party/#the-ladys-maid)
+   - Texts: ["An Ideal Family,"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#an-ideal-family) ["The Lady's Maid"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-ladys-maid)
 
 ## Week 5 (7/30-8/2): Linguistic Techniques II
 Text: James Joyce, _Dubliners_
@@ -150,20 +152,20 @@ Tools: SpaCy
 
  - Unit 5.1: Review of Week 4 and Homework 4. 
    - **Homework 4 due**
-   - Texts: ["The Sisters,"](/readings/texts/dubliners/#the-sisters) ["An Encounter"](/readings/texts/dubliners/#an-encounter)
+   - Texts: ["The Sisters,"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#the-sisters) ["An Encounter"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#an-encounter)
  - Unit 5.2: Intro to final project. 
-   - Texts: ["Araby"](/readings/texts/dubliners/#araby), ["Eveline"](/readings/texts/dubliners/#eveline)
+   - Texts: ["Araby"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#araby), ["Eveline"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#eveline)
  - Unit 5.3: TF/IDF and distinguishing words. Macro-etymological textual analysis. 
-   - Texts: ["After the Race,"](/readings/texts/dubliners/#after-the-race) ["Two Gallants"](/readings/texts/dubliners/#two-gallants)
+   - Texts: ["After the Race,"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#after-the-race) ["Two Gallants"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#two-gallants)
  - Unit 5.4: Sentences: dependency parsing. Literary character attribute detection with dependency trees.
-   - Texts: ["The Boarding House,"](/readings/texts/dubliners/#the-boarding-house) ["Clay"](/readings/texts/dubliners/#clay)
+   - Texts: ["The Boarding House,"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#the-boarding-house) ["Clay"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#clay)
 
 ## Week 6 (8/6-8/9): Advanced Topics
 Text: James Joyce, _Dubliners_
 Tools: Scikit-Learn, SpaCy
 
  - Unit 6.1: Review of Week 5. 
-   - Text: ["The Dead"](/readings/texts/dubliners/#the-dead)
+   - Text: ["The Dead"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#the-dead)
  - Unit 6.2: Word embeddings. Document vectors. Semantic document similarity. 
  - Unit 6.3: Final project presentations. 
  - Unit 6.4: Final project presentations continued. Wrap-up. 
