@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+title:               Introduction to Computational Literary Analysis Readings
+tagline:             'Read and annotate the course readings here. '
+description:         'Contains texts for Wilkie Collins\'s The Moonstone, Katherine Mansfield\'s The Garden Party and Other Stories and James Joyce\'s _Dubliners_.'
+url:                 'http://course-computational-literary-analysis.github.io'
+baseurl:             '/readings'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Jonathan Reeve
+  url:               https://github.com/JonathanReeve/course-computational-literary-analysis
+  email:             jonathan.reeve@columbia.edu
 
 # Permalinks
 
