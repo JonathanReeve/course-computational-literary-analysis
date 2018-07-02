@@ -14,6 +14,7 @@ toc:
 - Second Narrative
 - Third Narrative
 - Fourth Narrative
+- Sixth Narrative
 ---
 
 ## Prologue
