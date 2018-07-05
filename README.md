@@ -109,6 +109,7 @@ Tools: Python (Anaconda)
  - Unit 1.3: **No Class: Independence Day Holiday**
  - Unit 1.4: Working with strings. Splitting, concatenating, slicing, indexing. Working with lists and dictionaries. Slicing, indexing, appending. 
    - Text: [First Period, Through Chapter XV](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#chapter-x)
+   - [Homework 1 assigned.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW1.ipynb)
  
 ## Week 2 (7/9-7/13): Basic Text Analysis
 Text: _The Moonstone_, Continued
