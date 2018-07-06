@@ -9,7 +9,7 @@ publication-date: 2018
 toc:
 - Prologue
 - Chapter X
-- Chapter XV
+- Chapter _Xv_
 - Second Period
 - Second Narrative
 - Third Narrative
@@ -42,7 +42,7 @@ for a moment to the period before the assault, and to the stories
 current in our camp of the treasure in jewels and gold stored up in the
 Palace of Seringapatam.
 
-### II
+### _Ii_
 
 One of the wildest of these stories related to a Yellow Diamond–a famous
 gem in the native annals of India.
@@ -53,7 +53,7 @@ from its peculiar colour, partly from a superstition which represented
 it as feeling the influence of the deity whom it adorned, and growing
 and lessening in lustre with the waxing and waning of the moon, it first
 gained the name by which it continues to be known in India to this
-day–the name of THE MOONSTONE. A similar superstition was once
+day–the name of _The Moonstone_. A similar superstition was once
 prevalent, as I have heard, in ancient Greece and Rome; not applying,
 however (as in India), to a diamond devoted to the service of a god, but
 to a semi-transparent stone of the inferior order of gems, supposed to
@@ -118,7 +118,7 @@ strangers to the rest, who had won their master’s confidence by
 conforming, or appearing to conform, to the Mussulman faith; and to
 those three men report pointed as the three priests in disguise.
 
-### III
+### _Iii_
 
 So, as told in our camp, ran the fanciful story of the Moonstone. It
 made no serious impression on any of us except my cousin–whose love of
@@ -210,7 +210,7 @@ He answered, “That is all.”
 
 I turned my back on him; and we have not spoken since.
 
-### IV
+### _Iv_
 
 I beg it to be understood that what I write here about my cousin (unless
 some necessity should arise for making it public) is for the information
@@ -221,7 +221,7 @@ assault; but, as may easily be imagined, his own remembrance of the
 circumstances under which I surprised him in the armoury has been enough
 to keep him silent. It is reported that he means to exchange into
 another regiment, avowedly for the purpose of separating himself from
-ME.
+_Me_.
 
 Whether this be true or not, I cannot prevail upon myself to become his
 accuser–and I think with good reason. If I made the matter public, I
@@ -248,21 +248,21 @@ gives the Diamond away.
 
 ### First Period
 
-THE LOSS OF THE DIAMOND (1848)
+_The Loss Of The Diamond_ (1848)
 
-The events related by GABRIEL BETTEREDGE, house-steward in the service
-of JULIA, LADY VERINDER.
+The events related by _Gabriel Betteredge_, house-steward in the service
+of _Julia_, _Lady Verinder_.
 
 ### Chapter I
 
-In the first part of ROBINSON CRUSOE, at page one hundred and
+In the first part of _Robinson Crusoe_, at page one hundred and
 twenty-nine, you will find it thus written:
 
 “Now I saw, though too late, the Folly of beginning a Work before we
 count the Cost, and before we judge rightly of our own Strength to go
 through with it.”
 
-Only yesterday, I opened my ROBINSON CRUSOE at that place. Only this
+Only yesterday, I opened my _Robinson Crusoe_ at that place. Only this
 morning (May twenty-first, Eighteen hundred and fifty), came my lady’s
 nephew, Mr. Franklin Blake, and held a short conversation with me, as
 follows:–
@@ -321,21 +321,21 @@ Crusoe saw, as quoted above–namely, the folly of beginning a work before
 we count the cost, and before we judge rightly of our own strength to go
 through with it. Please to remember, I opened the book by accident, at
 that bit, only the day before I rashly undertook the business now in
-hand; and, allow me to ask–if THAT isn’t prophecy, what is?
+hand; and, allow me to ask–if _That_ isn’t prophecy, what is?
 
 I am not superstitious; I have read a heap of books in my time; I am a
 scholar in my own way. Though turned seventy, I possess an active
 memory, and legs to correspond. You are not to take it, if you please,
 as the saying of an ignorant man, when I express my opinion that such a
-book as ROBINSON CRUSOE never was written, and never will be written
+book as _Robinson Crusoe_ never was written, and never will be written
 again. I have tried that book for years–generally in combination with a
 pipe of tobacco–and I have found it my friend in need in all the
-necessities of this mortal life. When my spirits are bad–ROBINSON
-CRUSOE. When I want advice–ROBINSON CRUSOE. In past times when my wife
-plagued me; in present times when I have had a drop too much–ROBINSON
-CRUSOE. I have worn out six stout ROBINSON CRUSOES with hard work in my
+necessities of this mortal life. When my spirits are bad–_Robinson_
+_Crusoe_. When I want advice–_Robinson Crusoe_. In past times when my wife
+plagued me; in present times when I have had a drop too much–_Robinson_
+_Crusoe_. I have worn out six stout _Robinson Crusoes_ with hard work in my
 service. On my lady’s last birthday she gave me a seventh. I took a drop
-too much on the strength of it; and ROBINSON CRUSOE put me right again.
+too much on the strength of it; and _Robinson Crusoe_ put me right again.
 Price four shillings and sixpence, bound in blue, with a picture into
 the bargain.
 
@@ -344,7 +344,7 @@ it? I seem to be wandering off in search of Lord knows what, Lord knows
 where. We will take a new sheet of paper, if you please, and begin over
 again, with my best respects to you.
 
-### Chapter II
+### Chapter _Ii_
 
 I spoke of my lady a line or two back. Now the Diamond could never have
 been in our house, where it was lost, if it had not been made a present
@@ -395,7 +395,7 @@ encouragement to others. In the meantime, I will go on with my story.
 Well, there I was in clover, you will say. Placed in a position of trust
 and honour, with a little cottage of my own to live in, with my rounds
 on the estate to occupy me in the morning, and my accounts in the
-afternoon, and my pipe and my ROBINSON CRUSOE in the evening–what more
+afternoon, and my pipe and my _Robinson Crusoe_ in the evening–what more
 could I possibly want to make me happy? Remember what Adam wanted when
 he was alone in the Garden of Eden; and if you don’t blame it in Adam,
 don’t blame it in me.
@@ -479,17 +479,17 @@ woollen waistcoat, and saying I would think about it.
 The perturbation in my mind, in regard to thinking about it, being truly
 dreadful after my lady had gone away, I applied the remedy which I have
 never yet found to fail me in cases of doubt and emergency. I smoked a
-pipe and took a turn at ROBINSON CRUSOE. Before I had occupied myself
+pipe and took a turn at _Robinson Crusoe_. Before I had occupied myself
 with that extraordinary book five minutes, I came on a comforting bit
 (page one hundred and fifty-eight), as follows: “To-day we love, what
 to-morrow we hate.” I saw my way clear directly. To-day I was all for
-continuing to be farm-bailiff; to-morrow, on the authority of ROBINSON
-CRUSOE, I should be all the other way. Take myself to-morrow while in
+continuing to be farm-bailiff; to-morrow, on the authority of _Robinson_
+_Crusoe_, I should be all the other way. Take myself to-morrow while in
 to-morrow’s humour, and the thing was done. My mind being relieved in
 this manner, I went to sleep that night in the character of Lady
 Verinder’s farm bailiff, and I woke up the next morning in the character
 of Lady Verinder’s house-steward. All quite comfortable, and all through
-ROBINSON CRUSOE!
+_Robinson Crusoe_!
 
 My daughter Penelope has just looked over my shoulder to see what I have
 done so far. She remarks that it is beautifully written, and every word
@@ -504,7 +504,7 @@ here is another false start, and more waste of good writing-paper.
 What’s to be done now? Nothing that I know of, except for you to keep
 your temper, and for me to begin it all over again for the third time.
 
-### Chapter III
+### Chapter _Iii_
 
 The question of how I am to start the story properly I have tried to
 settle in two ways. First, by scratching my head, which led to nothing.
@@ -541,7 +541,7 @@ me from throwing that hat up to the ceiling. I had not seen Mr. Franklin
 since he was a boy, living along with us in this house. He was, out of
 all sight (as I remember him), the nicest boy that ever spun a top or
 broke a window. Miss Rachel, who was present, and to whom I made that
-remark, observed, in return, that SHE remembered him as the most
+remark, observed, in return, that _She_ remembered him as the most
 atrocious tyrant that ever tortured a doll, and the hardest driver of an
 exhausted little girl in string harness that England could produce. “I
 burn with indignation, and I ache with fatigue,” was the way Miss Rachel
@@ -569,10 +569,10 @@ that the only way of being even with his country for the manner in which
 it had treated him, was not to let his country have the honour of
 educating his son. “How can I trust my native institutions,” was the
 form in which he put it, “after the way in which my native institutions
-have behaved to ME?” Add to this, that Mr. Blake disliked all boys, his
+have behaved to _Me_?” Add to this, that Mr. Blake disliked all boys, his
 own included, and you will admit that it could only end in one way.
 Master Franklin was taken from us in England, and was sent to
-institutions which his father COULD trust, in that superior country,
+institutions which his father _Could_ trust, in that superior country,
 Germany; Mr. Blake himself, you will observe, remaining snug in England,
 to improve his fellow-countrymen in the Parliament House, and to publish
 a statement on the subject of the Duke in possession, which has remained
@@ -678,14 +678,14 @@ They first looked up the road, and down the road, and made sure that
 they were alone. Then they all three faced about, and stared hard in the
 direction of our house. Then they jabbered and disputed in their own
 language, and looked at each other like men in doubt. Then they all
-turned to their little English boy, as if they expected HIM to help
+turned to their little English boy, as if they expected _Him_ to help
 them. And then the chief Indian, who spoke English, said to the boy,
 “Hold out your hand.”
 
 On hearing those dreadful words, my daughter Penelope said she didn’t
 know what prevented her heart from flying straight out of her. I thought
 privately that it might have been her stays. All I said, however, was,
-“You make my flesh creep.” (NOTA BENE: Women like these little
+“You make my flesh creep.” (_Nota Bene_: Women like these little
 compliments.)
 
 Well, when the Indian said, “Hold out your hand,” the boy shrunk back,
@@ -763,7 +763,7 @@ mean?”
 Mr. Franklin comes.” I winked to show I meant that in joke. Penelope
 took it quite seriously. My girl’s earnestness tickled me. “What on
 earth should Mr. Franklin know about it?” I inquired. “Ask him,” says
-Penelope. “And see whether HE thinks it a laughing matter, too.” With
+Penelope. “And see whether _He_ thinks it a laughing matter, too.” With
 that parting shot, my daughter left me.
 
 I settled it with myself, when she was gone, that I really would ask
@@ -777,7 +777,7 @@ Mr. Franklin, like Penelope, took the thing seriously. How seriously,
 you will understand, when I tell you that, in his opinion, “It” meant
 the Moonstone.
 
-### Chapter IV
+### Chapter _Iv_
 
 I am truly sorry to detain you over me and my beehive chair. A sleepy
 old man, in a sunny back yard, is not an interesting object, I am well
@@ -817,7 +817,7 @@ and seeing in Nancy’s face, that she would fetch her fellow-servant in
 with more hard words than might be needful under the circumstances, it
 struck me that I had nothing particular to do, and that I might as well
 fetch Rosanna myself; giving her a hint to be punctual in future, which
-I knew she would take kindly from ME.
+I knew she would take kindly from _Me_.
 
 “Where is Rosanna?” I inquired.
 
@@ -892,7 +892,7 @@ nine times out of ten she quietly put on her bonnet, and had her turn by
 herself. She never quarrelled, she never took offence; she only kept a
 certain distance, obstinately and civilly, between the rest of them and
 herself. Add to this that, plain as she was, there was just a dash of
-something that wasn’t like a housemaid, and that WAS like a lady, about
+something that wasn’t like a housemaid, and that _Was_ like a lady, about
 her. It might have been in her voice, or it might have been in her face.
 All I can say is, that the other women pounced on it like lightning the
 first day she came into the house, and said (which was most unjust) that
@@ -1042,7 +1042,7 @@ never seen it before!”
 
 I looked where she pointed. The tide was on the turn, and the horrid
 sand began to shiver. The broad brown face of it heaved slowly, and then
-dimpled and quivered all over. “Do you know what it looks like to ME?”
+dimpled and quivered all over. “Do you know what it looks like to _Me_?”
 says Rosanna, catching me by the shoulder again. “It looks as if it had
 hundreds of suffocating people under it–all struggling to get to the
 surface, and all sinking lower and lower in the dreadful deeps! Throw a
@@ -1173,7 +1173,7 @@ when she was a child, and she’s none the worse for it. Let’s be serious.
 What did the jugglers do?”
 
 I was something dissatisfied with my daughter–not for letting
-Mr. Franklin kiss her; Mr. Franklin was welcome to THAT–but for forcing
+Mr. Franklin kiss her; Mr. Franklin was welcome to _That_–but for forcing
 me to tell her foolish story at second hand. However, there was no help
 for it now but to mention the circumstances. Mr. Franklin’s merriment
 all died away as I went on. He sat knitting his eyebrows, and twisting
@@ -1184,7 +1184,7 @@ fixing them well in his mind.
 “‘Is it on the road to this house, and on no other, that the English
 gentleman will travel to-day?’ ‘Has the English gentleman got It about
 him?’ I suspect,” says Mr. Franklin, pulling a little sealed paper
-parcel out of his pocket, “that ‘It’ means THIS. And ‘this,’ Betteredge,
+parcel out of his pocket, “that ‘It’ means _This_. And ‘this,’ Betteredge,
 means my uncle Herncastle’s famous Diamond.”
 
 “Good Lord, sir!” I broke out, “how do you come to be in charge of the
@@ -1331,7 +1331,7 @@ I expected him to break out, even at that polite way of putting it. To
 my surprise he did nothing of the sort; he alarmed me by taking the
 thing with an unnatural quiet. His eyes, of a glittering bright grey,
 just settled on me for a moment; and he laughed, not out of himself,
-like other people, but INTO himself, in a soft, chuckling, horridly
+like other people, but _Into_ himself, in a soft, chuckling, horridly
 mischievous way. “Thank you, Betteredge,” he said. “I shall remember my
 niece’s birthday.” With that, he turned on his heel, and walked out of
 the house.
@@ -1376,10 +1376,10 @@ object of a conspiracy in India? Question the second: Has the conspiracy
 followed the Colonel’s Diamond to England? Question the third: Did the
 Colonel know the conspiracy followed the Diamond; and has he purposely
 left a legacy of trouble and danger to his sister, through the innocent
-medium of his sister’s child? THAT is what I am driving at, Betteredge.
+medium of his sister’s child? _That_ is what I am driving at, Betteredge.
 Don’t let me frighten you.”
 
-It was all very well to say that, but he HAD frightened me.
+It was all very well to say that, but he _Had_ frightened me.
 
 If he was right, here was our quiet English house suddenly invaded by a
 devilish Indian Diamond–bringing after it a conspiracy of living rogues,
@@ -1399,10 +1399,10 @@ contending with a perturbed stomach or mind–which you please; they mean
 the same thing–and, checking himself just as he was starting with his
 part of the story, said to me sharply, “What do you want?”
 
-What did I want? I didn’t tell HIM; but I’ll tell YOU, in confidence. I
-wanted a whiff of my pipe, and a turn at ROBINSON CRUSOE.
+What did I want? I didn’t tell _Him_; but I’ll tell _You_, in confidence. I
+wanted a whiff of my pipe, and a turn at _Robinson Crusoe_.
 
-### Chapter VI
+### Chapter _Vi_
 
 Keeping my private sentiments to myself, I respectfully requested
 Mr. Franklin to go on. Mr. Franklin replied, “Don’t fidget,
@@ -1428,7 +1428,7 @@ that his brother-in-law was in possession of certain papers which were
 likely to be of service to him in his lawsuit. He called on the Colonel,
 on pretence of welcoming him back to England. The Colonel was not to be
 deluded in that way. ‘You want something,’ he said, ‘or you would never
-have compromised your reputation by calling on ME.’ My father saw that
+have compromised your reputation by calling on _Me_.’ My father saw that
 the one chance for him was to show his hand; he admitted, at once, that
 he wanted the papers. The Colonel asked for a day to consider his
 answer. His answer came in the shape of a most extraordinary letter,
@@ -1651,7 +1651,7 @@ smoothly, higher and higher, over the Shivering Sand.
 “What are you thinking of?” says Mr. Franklin, suddenly.
 
 “I was thinking, sir,” I answered, “that I should like to shy the
-Diamond into the quicksand, and settle the question in THAT way.”
+Diamond into the quicksand, and settle the question in _That_ way.”
 
 “If you have got the value of the stone in your pocket,” answered
 Mr. Franklin, “say so, Betteredge, and in it goes!”
@@ -1740,7 +1740,7 @@ aunt?”
 
 “That’s not beyond guessing, sir, at any rate,” I said. “Colonel
 Herncastle knew my lady well enough to know that she would have refused
-to accept any legacy that came to her from HIM.”
+to accept any legacy that came to her from _Him_.”
 
 “How did he know that Rachel might not refuse to accept it, too?”
 
@@ -1753,7 +1753,7 @@ another mystery about the Colonel’s legacy which is not accounted for
 yet. How are we to explain his only giving Rachel her birthday present
 conditionally on her mother being alive?”
 
-“I don’t want to slander a dead man, sir,” I answered. “But if he HAS
+“I don’t want to slander a dead man, sir,” I answered. “But if he _Has_
 purposely left a legacy of trouble and danger to his sister, by the
 means of her child, it must be a legacy made conditional on his sister’s
 being alive to feel the vexation of it.”
@@ -1857,7 +1857,7 @@ heard the last of his horse’s hoofs on the drive, and when I turned
 about in the yard and found I was alone again, I felt half inclined to
 ask myself if I hadn’t woke up from a dream.
 
-### Chapter VII
+### Chapter _Vii_
 
 While I was in this bewildered frame of mind, sorely needing a little
 quiet time by myself to put me right again, my daughter Penelope got in
@@ -1876,9 +1876,9 @@ The afternoon wore on, and my lady and Miss Rachel came back.
 
 Needless to say how astonished they were, when they heard that
 Mr. Franklin Blake had arrived, and had gone off again on horseback.
-Needless also to say, that THEY asked awkward questions directly, and
+Needless also to say, that _They_ asked awkward questions directly, and
 that the “foreign politics” and the “falling asleep in the sun” wouldn’t
-serve a second time over with THEM. Being at the end of my invention, I
+serve a second time over with _Them_. Being at the end of my invention, I
 said Mr. Franklin’s arrival by the early train was entirely attributable
 to one of Mr. Franklin’s freaks. Being asked, upon that, whether his
 galloping off again on horseback was another of Mr. Franklin’s freaks, I
@@ -2010,7 +2010,7 @@ palm of the boy’s hand, I instantly suspected that I had disturbed the
 three Indians, lurking about the house, and bent, in their heathenish
 way, on discovering the whereabouts of the Diamond that night.
 
-### Chapter VIII
+### Chapter _Viii_
 
 Here, for one moment, I find it necessary to call a halt.
 
@@ -2092,7 +2092,7 @@ you are told that it means a taste in my young master or my young
 mistress for natural history. Sometimes, again, you see them occupied
 for hours together in spoiling a pretty flower with pointed instruments,
 out of a stupid curiosity to know what the flower is made of. Is its
-colour any prettier, or its scent any sweeter, when you DO know? But
+colour any prettier, or its scent any sweeter, when you _Do_ know? But
 there! the poor souls must get through the time, you see–they must get
 through the time. You dabbled in nasty mud, and made pies, when you were
 a child; and you dabble in nasty science, and dissect spiders, and spoil
@@ -2110,8 +2110,8 @@ their living, to be forced to work for the clothes that cover them, the
 roof that shelters them, and the food that keeps them going. But compare
 the hardest day’s work you ever did with the idleness that splits
 flowers and pokes its way into spiders’ stomachs, and thank your stars
-that your head has got something it MUST think of, and your hands
-something that they MUST do.
+that your head has got something it _Must_ think of, and your hands
+something that they _Must_ do.
 
 As for Mr. Franklin and Miss Rachel, they tortured nothing, I am glad to
 say. They simply confined themselves to making a mess; and all they
@@ -2288,7 +2288,7 @@ and a glass of water. Crowds at the performance with the legs. Ditto at
 the performance with the tongue. And with all this, the sweetest
 tempered person (I allude to Mr. Godfrey)–the simplest and pleasantest
 and easiest to please–you ever met with. He loved everybody. And
-everybody loved HIM. What chance had Mr. Franklin–what chance had
+everybody loved _Him_. What chance had Mr. Franklin–what chance had
 anybody of average reputation and capacities–against such a man as this?
 
 On the fourteenth, came Mr. Godfrey’s answer.
@@ -2300,7 +2300,7 @@ he elegantly called his cousin’s “natal day.” Miss Rachel, I was
 informed, joined Mr. Franklin in making fun of the verses at dinner; and
 Penelope, who was all on Mr. Franklin’s side, asked me, in great
 triumph, what I thought of that. “Miss Rachel has led you off on a false
-scent, my dear,” I replied; “but MY nose is not so easily mystified.
+scent, my dear,” I replied; “but _My_ nose is not so easily mystified.
 Wait till Mr. Ablewhite’s verses are followed by Mr. Ablewhite himself.”
 
 My daughter replied, that Mr. Franklin might strike in, and try his
@@ -2416,7 +2416,7 @@ time, without much loitering by the way. Cheer up! I’ll ease you with
 another new chapter here–and, what is more, that chapter shall take you
 straight into the thick of the story.
 
-### Chapter IX
+### Chapter _Ix_
 
 June twenty-first, the day of the birthday, was cloudy and unsettled at
 sunrise, but towards noon it cleared up bravely.
@@ -2559,7 +2559,7 @@ considerate to the old servant who had been in the house when she was
 born, stopped me. “Look, Gabriel!” she said, and flashed the jewel
 before my eyes in a ray of sunlight that poured through the window.
 
-Lord bless us! it WAS a Diamond! As large, or nearly, as a plover’s
+Lord bless us! it _Was_ a Diamond! As large, or nearly, as a plover’s
 egg! The light that streamed from it was like the light of the harvest
 moon. When you looked down into the stone, you looked into a yellow deep
 that drew your eyes into it so that they saw nothing else. It seemed
@@ -2568,7 +2568,7 @@ thumb, seemed unfathomable as the heavens themselves. We set it in the
 sun, and then shut the light out of the room, and it shone awfully out
 of the depths of its own brightness, with a moony gleam, in the dark. No
 wonder Miss Rachel was fascinated: no wonder her cousins screamed. The
-Diamond laid such a hold on ME that I burst out with as large an “O” as
+Diamond laid such a hold on _Me_ that I burst out with as large an “O” as
 the Bouncers themselves. The only one of us who kept his senses was
 Mr. Godfrey. He put an arm round each of his sister’s waists, and,
 looking compassionately backwards and forwards between the Diamond and
@@ -2579,7 +2579,7 @@ remind me of the dinner. I hobbled off to my army of waiters downstairs.
 As I went out, Mr. Godfrey said, “Dear old Betteredge, I have the truest
 regard for him!” He was embracing his sisters, and ogling Miss Rachel,
 while he honoured me with that testimony of affection. Something like a
-stock of love to draw on THERE! Mr. Franklin was a perfect savage by
+stock of love to draw on _There_! Mr. Franklin was a perfect savage by
 comparison with him.
 
 At the end of half an hour, I presented myself, as directed, in my
@@ -2612,7 +2612,7 @@ spirits, and I saw she had something to say to me. She gave me a kiss on
 the top of my bald head, and whispered, “News for you, father! Miss
 Rachel has refused him.”
 
-“Who’s ‘HIM’?” I asked.
+“Who’s ‘_Him_’?” I asked.
 
 “The ladies’ committee-man, father,” says Penelope. “A nasty sly
 fellow! I hate him for trying to supplant Mr. Franklin!”
@@ -2633,7 +2633,7 @@ Ablewhite, at any rate; and, if I was a lady, I should be another!”
 
 Here I should have protested again. But my daughter had got the
 hair-brush by this time, and the whole strength of her feelings had
-passed into THAT. If you are bald, you will understand how she
+passed into _That_. If you are bald, you will understand how she
 sacrificed me. If you are not, skip this bit, and thank God you have got
 something in the way of a defence between your hair-brush and your head.
 
@@ -2706,7 +2706,7 @@ picking up his discretion (as his enemies said) by a kind of instinct,
 and proving to be generally right where more carefully conducted doctors
 turned out to be wrong.
 
-What HE said about the Diamond to Miss Rachel was said, as usual, by way
+What _He_ said about the Diamond to Miss Rachel was said, as usual, by way
 of a mystification or joke. He gravely entreated her (in the interests
 of science) to let him take it home and burn it. “We will first heat it,
 Miss Rachel,” says the doctor, “to such and such a degree; then we will
@@ -2765,7 +2765,7 @@ the prosperity of the festival at heart.
 
 One of our ladies present at dinner was worthy Mrs. Threadgall, widow of
 the late Professor of that name. Talking of her deceased husband
-perpetually, this good lady never mentioned to strangers that he WAS
+perpetually, this good lady never mentioned to strangers that he _Was_
 deceased. She thought, I suppose, that every able-bodied adult in
 England ought to know as much as that. In one of the gaps of silence,
 somebody mentioned the dry and rather nasty subject of human anatomy;
@@ -2803,7 +2803,7 @@ went, with a cordiality that there was no stopping anyhow. “I shall be
 delighted,” says he, “to send the Professor my card, if you will oblige
 me by mentioning his present address.”
 
-“His present address, sir, is THE GRAVE,” says Mrs. Threadgall, suddenly
+“His present address, sir, is _The Grave_,” says Mrs. Threadgall, suddenly
 losing her temper, and speaking with an emphasis and fury that made the
 glasses ring again. “The Professor has been dead these ten years.”
 
@@ -3061,7 +3061,7 @@ discovery–they would take them all. The sacrifice of caste is a serious
 thing in India, if you like. The sacrifice of life is nothing at all.”
 
 I expressed my opinion upon this, that they were a set of murdering
-thieves. Mr. Murthwaite expressed HIS opinion that they were a wonderful
+thieves. Mr. Murthwaite expressed _His_ opinion that they were a wonderful
 people. Mr. Franklin, expressing no opinion at all, brought us back to
 the matter in hand.
 
@@ -3107,14 +3107,14 @@ looked round at me, in his dry, droning way, and said:
 
 “The Indians will want their umbrellas, Mr. Betteredge, to-night!”
 
-It was all very well for HIM to joke. But I was not an eminent
+It was all very well for _Him_ to joke. But I was not an eminent
 traveller–and my way in this world had not led me into playing ducks
 and drakes with my own life, among thieves and murderers in the
 outlandish places of the earth. I went into my own little room, and sat
 down in my chair in a perspiration, and wondered helplessly what was to
 be done next. In this anxious frame of mind, other men might have ended
 by working themselves up into a fever; I ended in a different way. I lit
-my pipe, and took a turn at ROBINSON CRUSOE.
+my pipe, and took a turn at _Robinson Crusoe_.
 
 Before I had been at it five minutes, I came to this amazing bit–page
 one hundred and sixty-one–as follows:
@@ -3123,7 +3123,7 @@ one hundred and sixty-one–as follows:
 itself, when apparent to the Eyes; and we find the Burthen of Anxiety
 greater, by much, than the Evil which we are anxious about.”
 
-The man who doesn’t believe in ROBINSON CRUSOE, after THAT, is a man
+The man who doesn’t believe in _Robinson Crusoe_, after _That_, is a man
 with a screw loose in his understanding, or a man lost in the mist of
 his own self-conceit! Argument is thrown away upon him; and pity is
 better reserved for some person with a livelier faith.
@@ -3150,10 +3150,10 @@ hold on for another hour, old Father Time would bring up their
 carriages, and relieve us of them altogether.
 
 Everything wears off in this world; and even the comforting effect of
-ROBINSON CRUSOE wore off, after Penelope left me. I got fidgety again,
+_Robinson Crusoe_ wore off, after Penelope left me. I got fidgety again,
 and resolved on making a survey of the grounds before the rain came.
 Instead of taking the footman, whose nose was human, and therefore
-useless in any emergency, I took the bloodhound with me. HIS nose for a
+useless in any emergency, I took the bloodhound with me. _His_ nose for a
 stranger was to be depended on. We went all round the premises, and out
 into the road–and returned as wise as we went, having discovered no such
 thing as a lurking human creature anywhere.
@@ -3169,7 +3169,7 @@ little joke; and so we got rid of our dinner company.
 
 The next thing to tell is the story of the night.
 
-### Chapter XI
+### Chapter _Xi_
 
 When the last of the guests had driven away, I went back into the inner
 hall and found Samuel at the side-table, presiding over the brandy and
@@ -3205,7 +3205,7 @@ thieves in the house?”
 
 Without taking notice of this fantastic way of talking, my lady wished
 the gentlemen good-night. She next turned to Miss Rachel, and kissed
-her. “Why not let ME keep the Diamond for you to-night?” she asked.
+her. “Why not let _Me_ keep the Diamond for you to-night?” she asked.
 
 Miss Rachel received that proposal as she might, ten years since, have
 received a proposal to part her from a new doll. My lady saw there was
@@ -3295,8 +3295,8 @@ the dogs again, when I heard a sudden whisking of petticoats on the
 stairs behind me.
 
 I turned about, and there was Penelope flying down after me like mad.
-“Father!” she screamed, “come up-stairs, for God’s sake! THE DIAMOND
-IS GONE!” “Are you out of your mind?” I asked her.
+“Father!” she screamed, “come up-stairs, for God’s sake! _The Diamond_
+_Is Gone_!” “Are you out of your mind?” I asked her.
 
 “Gone!” says Penelope. “Gone, nobody knows how! Come up and see.”
 
@@ -3356,7 +3356,7 @@ after we heard it locked inside by Miss Rachel. My mistress came out
 among us, looking sorely puzzled and distressed. “The loss of the
 Diamond seems to have quite overwhelmed Rachel,” she said, in reply to
 Mr. Franklin. “She shrinks, in the strangest manner, from speaking of
-it, even to ME. It is impossible you can see her for the present.”
+it, even to _Me_. It is impossible you can see her for the present.”
 Having added to our perplexities by this account of Miss Rachel, my
 lady, after a little effort, recovered her usual composure, and acted
 with her usual decision.
@@ -3520,7 +3520,7 @@ fine commanding voice, and a mighty resolute eye, and a grand frock-coat
 which buttoned beautifully up to his leather stock. “I’m the man you
 want!” was written all over his face; and he ordered his two inferior
 police men about with a severity which convinced us all that there was
-no trifling with HIM.
+no trifling with _Him_.
 
 He began by going round the premises, outside and in; the result of that
 investigation proving to him that no thieves had broken in upon us from
@@ -3659,7 +3659,7 @@ expressed herself to him (as the person chiefly instrumental in fetching
 the police) to that effect. If this guess was right, why–having lost her
 Diamond–should she object to the presence in the house of the very
 people whose business it was to recover it for her? And how, in Heaven’s
-name, could SHE know that the Moonstone would never be found again?
+name, could _She_ know that the Moonstone would never be found again?
 
 As things stood, at present, no answer to those questions was to be
 hoped for from anybody in the house. Mr. Franklin appeared to think it a
@@ -3944,7 +3944,7 @@ Bibles and hymn-books, and looked as sour as verjuice over their
 reading–a result, which I have observed, in my sphere of life, to
 follow generally on the performance of acts of piety at unaccustomed
 periods of the day. As for me, I hadn’t even heart enough to open my
-ROBINSON CRUSOE. I went out into the yard, and, being hard up for a
+_Robinson Crusoe_. I went out into the yard, and, being hard up for a
 little cheerful society, set my chair by the kennels, and talked to the
 dogs.
 
@@ -3966,7 +3966,7 @@ glimmer of light had broken in on us, so far. A day or two after,
 however, the darkness lifted a little. How, and with what result, you
 shall presently see.
 
-### Chapter XII
+### Chapter _Xii_
 
 The Thursday night passed, and nothing happened. With the Friday morning
 came two pieces of news.
@@ -4222,7 +4222,7 @@ Wednesday afternoon, that bit of the painting was completed. The vehicle
 dried it in twelve hours–that is to say, dried it by three o’clock on
 Thursday morning. At eleven on Thursday morning you held your inquiry
 here. Take three from eleven, and eight remains. That paint had been
-EIGHT HOURS DRY, Mr. Superintendent, when you supposed that the
+_Eight Hours Dry_, Mr. Superintendent, when you supposed that the
 women-servants’ petticoats smeared it.”
 
 First knock-down blow for Mr. Seegrave! If he had not suspected poor
@@ -4241,7 +4241,7 @@ came out among us suddenly.
 She addressed herself to the Sergeant, without appearing to notice (or
 to heed) that he was a perfect stranger to her.
 
-“Did you say,” she asked, pointing to Mr. Franklin, “that HE had put the
+“Did you say,” she asked, pointing to Mr. Franklin, “that _He_ had put the
 clue into your hands?”
 
 (“This is Miss Verinder,” I whispered, behind the Sergeant.)
@@ -4302,7 +4302,7 @@ enough! natural enough!”
 
 Here was the excuse that I had made for her (when she forgot herself
 before Superintendent Seegrave, on the previous day) being made for her
-over again, by a man who couldn’t have had MY interest in making it–for
+over again, by a man who couldn’t have had _My_ interest in making it–for
 he was a perfect stranger! A kind of cold shudder ran through me, which
 I couldn’t account for at the time. I know, now, that I must have got my
 first suspicion, at that moment, of a new light (and horrid light)
@@ -4314,7 +4314,7 @@ heard from Miss Rachel, at that first interview between them.
 to Mr. Franklin. “Let us forget what has passed, and go straight on with
 this business. Thanks to you, we know when the paint was dry. The next
 thing to discover is when the paint was last seen without that smear.
-YOU have got a head on your shoulders–and you understand what I mean.”
+_You_ have got a head on your shoulders–and you understand what I mean.”
 
 Mr. Franklin composed himself, and came back with an effort from Miss
 Rachel to the matter in hand.
@@ -4362,7 +4362,7 @@ them?”
 
 “Perfectly free,” said the Sergeant.
 
-“THAT will smooth them down, sir,” I remarked, “from the cook to the
+“_That_ will smooth them down, sir,” I remarked, “from the cook to the
 scullion.”
 
 “Go, and do it at once, Mr. Betteredge.”
@@ -4435,7 +4435,7 @@ he hit back smartly, to the best of his ability, on leaving the room.
 “I have abstained from expressing any opinion, so far,” says
 Mr. Superintendent, with his military voice still in good working
 order. “I have now only one remark to offer on leaving this case in your
-hands. There IS such a thing, Sergeant, as making a mountain out of a
+hands. There _Is_ such a thing, Sergeant, as making a mountain out of a
 molehill. Good morning.”
 
 “There is also such a thing as making nothing out of a molehill, in
@@ -4451,7 +4451,7 @@ as to whistle, when his mind was hard at work, seeing its way inch by
 inch to its own private ends, on which occasions “The Last Rose of
 Summer” evidently helped and encouraged him. I suppose it fitted in
 somehow with his character. It reminded him, you see, of his favourite
-roses, and, as HE whistled it, it was the most melancholy tune going.
+roses, and, as _He_ whistled it, it was the most melancholy tune going.
 
 Turning from the window, after a minute or two, the Sergeant walked into
 the middle of the room, and stopped there, deep in thought, with his
@@ -4467,7 +4467,7 @@ threshold of the door.
 “Can you guess yet,” inquired Mr. Franklin, “who has stolen the
 Diamond?”
 
-“NOBODY HAS STOLEN THE DIAMOND,” answered Sergeant Cuff.
+“_Nobody Has Stolen The Diamond_,” answered Sergeant Cuff.
 
 We both started at that extraordinary view of the case, and both
 earnestly begged him to tell us what he meant.
@@ -4475,12 +4475,12 @@ earnestly begged him to tell us what he meant.
 “Wait a little,” said the Sergeant. “The pieces of the puzzle are not
 all put together yet.”
 
-### Chapter XIII
+### Chapter _Xiii_
 
 I found my lady in her own sitting room. She started and looked annoyed
 when I mentioned that Sergeant Cuff wished to speak to her.
 
-“MUST I see him?” she asked. “Can’t you represent me, Gabriel?”
+“_Must I_ see him?” she asked. “Can’t you represent me, Gabriel?”
 
 I felt at a loss to understand this, and showed it plainly, I suppose,
 in my face. My lady was so good as to explain herself.
@@ -4488,7 +4488,7 @@ in my face. My lady was so good as to explain herself.
 “I am afraid my nerves are a little shaken,” she said. “There is
 something in that police-officer from London which I recoil from–I don’t
 know why. I have a presentiment that he is bringing trouble and misery
-with him into the house. Very foolish, and very unlike ME–but so it is.”
+with him into the house. Very foolish, and very unlike _Me_–but so it is.”
 
 I hardly knew what to say to this. The more I saw of Sergeant Cuff, the
 better I liked him. My lady rallied a little after having opened her
@@ -4573,7 +4573,7 @@ servants.”
 interrupting him.
 
 “The women won’t, Mr. Betteredge,” answered the Sergeant, “if I can tell
-them I am going to examine the wardrobes of EVERYBODY–from her ladyship
+them I am going to examine the wardrobes of _Everybody_–from her ladyship
 downwards–who slept in the house on Wednesday night. It’s a mere
 formality,” he added, with a side look at my mistress; “but the servants
 will accept it as even dealing between them and their betters; and,
@@ -4744,7 +4744,7 @@ it for a moment with a melancholy interest, and put up his penknife.
 “Come out into the garden,” he said, “and let’s have a look at the
 roses.”
 
-### Chapter XIV
+### Chapter _Xiv_
 
 The nearest way to the garden, on going out of my lady’s sitting-room,
 was by the shrubbery path, which you already know of. For the sake of
@@ -4771,7 +4771,7 @@ no doubt, in the house, instead of out of it. But doors and listeners
 have a knack of getting together; and, in my line of life, we cultivate
 a healthy taste for the open air.”
 
-Who was to circumvent THIS man? I gave in–and waited as patiently as I
+Who was to circumvent _This_ man? I gave in–and waited as patiently as I
 could to hear what was coming next.
 
 “We won’t enter into your young lady’s motives,” the Sergeant went on;
@@ -4807,7 +4807,7 @@ in the open space, where we could see round us on every side.
 
 “About that young person, Rosanna Spearman?” he said. “It isn’t very
 likely, with her personal appearance, that she has got a lover. But, for
-the girl’s own sake, I must ask you at once whether SHE has provided
+the girl’s own sake, I must ask you at once whether _She_ has provided
 herself with a sweetheart, poor wretch, like the rest of them?”
 
 What on earth did he mean, under present circumstances, by putting such
@@ -4913,7 +4913,7 @@ out–dead silence, and lips as pale as ashes. Samuel, the footman,
 followed Rosanna. Remained a minute or two. Report, on coming out:
 “Whoever blacks Sergeant Cuff’s boots ought to be ashamed of himself.”
 Nancy, the kitchen-maid, went last. Remained a minute or two. Report, on
-coming out: “Sergeant Cuff has a heart; HE doesn’t cut jokes,
+coming out: “Sergeant Cuff has a heart; _He_ doesn’t cut jokes,
 Mr. Betteredge, with a poor hard-working girl.”
 
 Going into the Court of Justice, when it was all over, to hear if there
@@ -4942,7 +4942,7 @@ lose your head, you know, for the second time.”
 I began to doubt whether I had been one too many for the celebrated
 Cuff, after all! It was rather a relief to me that we were interrupted
 here by a knock at the door, and a message from the cook. Rosanna
-Spearman HAD asked to go out, for the usual reason, that her head was
+Spearman _Had_ asked to go out, for the usual reason, that her head was
 bad, and she wanted a breath of fresh air. At a sign from the Sergeant,
 I said, Yes. “Which is the servants’ way out?” he asked, when the
 messenger had gone. I showed him the servants’ way out. “Lock the door
@@ -4961,7 +4961,7 @@ maid and the first housemaid, those two being also the women who had
 taken the lead in persecuting their unfortunate fellow-servant from the
 first. Reaching these conclusions, I looked in on them, casually as it
 might be, in the servants’ hall, and, finding tea going forward,
-instantly invited myself to that meal. (For, NOTA BENE, a drop of tea is
+instantly invited myself to that meal. (For, _Nota Bene_, a drop of tea is
 to a woman’s tongue what a drop of oil is to a wasting lamp.)
 
 My reliance on the tea-pot, as an ally, did not go unrewarded. In less
@@ -4969,7 +4969,7 @@ than half an hour I knew as much as the Sergeant himself.
 
 My lady’s maid and the housemaid, had, it appeared, neither of them
 believed in Rosanna’s illness of the previous day. These two devils–I
-ask your pardon; but how else CAN you describe a couple of spiteful
+ask your pardon; but how else _Can_ you describe a couple of spiteful
 women?–had stolen up-stairs, at intervals during the Thursday afternoon;
 had tried Rosanna’s door, and found it locked; had knocked, and not been
 answered; had listened, and not heard a sound inside. When the girl had
@@ -5109,7 +5109,7 @@ fir-plantation which led to the Shivering Sand.
 Side by side, in the grey of the summer evening, Sergeant Cuff and I set
 forth for the Shivering Sand.
 
-### Chapter XV
+### Chapter _Xv_
 
 The Sergeant remained silent, thinking his own thoughts, till we entered
 the plantation of firs which led to the quicksand. There he roused
@@ -5120,7 +5120,7 @@ my boat, and as you may, I think, be of some assistance to me before the
 evening is out, I see no use in our mystifying one another any longer,
 and I propose to set you an example of plain speaking on my side. You
 are determined to give me no information to the prejudice of Rosanna
-Spearman, because she has been a good girl to YOU, and because you pity
+Spearman, because she has been a good girl to _You_, and because you pity
 her heartily. Those humane considerations do you a world of credit, but
 they happen in this instance to be humane considerations clean thrown
 away. Rosanna Spearman is not in the slightest danger of getting into
@@ -5130,7 +5130,7 @@ face!”
 
 “Do you mean that my lady won’t prosecute?” I asked.
 
-“I mean that your lady CAN’T prosecute,” said the Sergeant. “Rosanna
+“I mean that your lady _Can_’T prosecute,” said the Sergeant. “Rosanna
 Spearman is simply an instrument in the hands of another person, and
 Rosanna Spearman will be held harmless for that other person’s sake.”
 
@@ -5178,7 +5178,7 @@ fire (not to destroy it; two of her fellow-servants are prying outside
 her door, and she knows better than to make a smell of burning, and to
 have a lot of tinder to get rid of)–lights a fire, I say, to dry and
 iron the substitute dress after wringing it out, keeps the stained dress
-hidden (probably ON her), and is at this moment occupied in making away
+hidden (probably _On_ her), and is at this moment occupied in making away
 with it, in some convenient place, on that lonely bit of beach ahead of
 us. I have traced her this evening to your fishing village, and to one
 particular cottage, which we may possibly have to visit, before we go
@@ -5204,12 +5204,12 @@ house to ask you to take me to the north end of the beach by another
 way. Sand–in respect of its printing off people’s footsteps–is one of
 the best detective officers I know. If we don’t meet with Rosanna
 Spearman by coming round on her in this way, the sand may tell us what
-she has been at, if the light only lasts long enough. Here IS the sand.
+she has been at, if the light only lasts long enough. Here _Is_ the sand.
 If you will excuse my suggesting it–suppose you hold your tongue, and
 let me go first?”
 
 If there is such a thing known at the doctor’s shop as a
-DETECTIVE-FEVER, that disease had now got fast hold of your humble
+_Detective_-_Fever_, that disease had now got fast hold of your humble
 servant. Sergeant Cuff went on between the hillocks of sand, down to the
 beach. I followed him (with my heart in my mouth); and waited at a
 little distance for what was to happen next.
@@ -5279,7 +5279,7 @@ evidence to the contrary that we can’t resist. Very confused footsteps,
 you will please to observe–purposely confused, I should say. Ah, poor
 soul, she understands the detective virtues of sand as well as I do!
 But hasn’t she been in rather too great a hurry to tread out the marks
-thoroughly? I think she has. Here’s one footstep going FROM Cobb’s Hole;
+thoroughly? I think she has. Here’s one footstep going _From C_obb’s Hole;
 and here is another going back to it. Isn’t that the toe of her shoe
 pointing straight to the water’s edge? And don’t I see two heel-marks
 further down the beach, close at the water’s edge also? I don’t want to
@@ -5324,7 +5324,7 @@ the name of Limping Lucy. The two deformed girls had, I suppose, a kind
 of fellow-feeling for each other. Anyway, the Yollands and Rosanna
 always appeared to get on together, at the few chances they had of
 meeting, in a pleasant and friendly manner. The fact of Sergeant Cuff
-having traced the girl to THEIR cottage, set the matter of my helping
+having traced the girl to _Their_ cottage, set the matter of my helping
 his inquiries in quite a new light. Rosanna had merely gone where she
 was in the habit of going; and to show that she had been in company with
 the fisherman and his family was as good as to prove that she had been
@@ -5376,8 +5376,8 @@ shall only say, at parting, that Rosanna Spearman has a sincere
 well-wisher in myself, your obedient servant. But, oh dear me! she will
 never get on in her present place; and my advice to her is–leave it.”
 
-“Bless your heart alive! she is GOING to leave it!” cries
-Mrs. Yolland. (NOTA BENE–I translate Mrs. Yolland out of the Yorkshire
+“Bless your heart alive! she is _Going_ to leave it!” cries
+Mrs. Yolland. (_Nota Bene_–I translate Mrs. Yolland out of the Yorkshire
 language into the English language. When I tell you that the
 all-accomplished Cuff was every now and then puzzled to understand her
 until I helped him, you will draw your own conclusions as to what your
@@ -5455,7 +5455,7 @@ Please say she’s heartily welcome to the things she bought of me–as a
 gift. And don’t leave the money on the table,” says Mrs. Yolland,
 putting it down suddenly before the Sergeant, as if it burnt her
 fingers–“don’t, there’s a good man! For times are hard, and flesh is
-weak; and I MIGHT feel tempted to put it back in my pocket again.”
+weak; and _I Might_ feel tempted to put it back in my pocket again.”
 
 “Come along!” I said, “I can’t wait any longer: I must go back to the
 house.”
@@ -5524,7 +5524,7 @@ she took away. One and ninepence and three and sixpence–total, five and
 three. With my love and respects–and I can’t find it in my conscience to
 take a poor girl’s savings, when she may want them herself.”
 
-“I can’t find it in MY conscience, ma’am, to give the money back,” says
+“I can’t find it in _My_ conscience, ma’am, to give the money back,” says
 Sergeant Cuff. “You have as good as made her a present of the things–you
 have indeed.”
 
@@ -5534,7 +5534,7 @@ wonderfully.
 “There can’t be a doubt about it,” answered the Sergeant. “Ask
 Mr. Betteredge.”
 
-It was no use asking ME. All they got out of ME was, “Good-night.”
+It was no use asking _Me_. All they got out of _Me_ was, “Good-night.”
 
 “Bother the money!” says Mrs. Yolland. With these words, she appeared
 to lose all command over herself; and, making a sudden snatch at the
@@ -5686,7 +5686,7 @@ have put the muzzle on worse family difficulties than this, in my time.”
 As he said the words I heard my mistress’s voice calling to us to come
 in.
 
-### Chapter XVI
+### Chapter _Xvi_
 
 We found my lady with no light in the room but the reading-lamp. The
 shade was screwed down so as to overshadow her face. Instead of looking
@@ -5706,7 +5706,7 @@ Sergeant Cuff looked at me. I made a step forward to speak to my
 mistress–and, feeling my heart fail me (if I must own it), took a step
 back again, and said nothing.
 
-“May I ask your ladyship WHEN Miss Verinder informed you that she was
+“May I ask your ladyship _When M_iss Verinder informed you that she was
 going to her aunt’s?” inquired the Sergeant.
 
 “About an hour since,” answered my mistress.
@@ -5813,7 +5813,7 @@ Sergeant got on the subject of roses and the merits of grass walks and
 gravel walks immediately. I left the two together, and went out with a
 heavy heart. This was the first trouble I remember for many a long year
 which wasn’t to be blown off by a whiff of tobacco, and which was even
-beyond the reach of ROBINSON CRUSOE.
+beyond the reach of _Robinson Crusoe_.
 
 Being restless and miserable, and having no particular room to go to, I
 took a turn on the terrace, and thought it over in peace and quietness
@@ -5935,7 +5935,7 @@ odd manner.”
 
 “You, sir!”
 
-“I can’t explain it,” says Mr. Franklin; “but, if the girl IS concerned
+“I can’t explain it,” says Mr. Franklin; “but, if the girl _Is_ concerned
 in the loss of the Diamond, I do really believe she was on the point of
 confessing everything–to me, of all the people in the world–not two
 minutes since.”
@@ -6057,7 +6057,7 @@ honestly and easily at the same time. There was a coincidence, this
 evening, between the period of Rosanna Spearman’s return from the Sands
 and the period when Miss Verinder stated her resolution to leave the
 house. Whatever Rosanna may have hidden, it’s clear to my mind that your
-young lady couldn’t go away until she knew that it WAS hidden. The two
+young lady couldn’t go away until she knew that it _Was_ hidden. The two
 must have communicated privately once already to-night. If they try to
 communicate again, when the house is quiet, I want to be in the way, and
 stop it. Don’t blame me for upsetting your sleeping arrangements,
@@ -6071,7 +6071,7 @@ had condemned himself to pass the night.
 
 “So do I,” he said, gravely.
 
-### Chapter XVII
+### Chapter _Xvii_
 
 Nothing happened in the night; and (I am happy to add) no attempt at
 communication between Miss Rachel and Rosanna rewarded the vigilance of
@@ -6097,7 +6097,7 @@ visit your own angry sense of your own family scandal upon Me.”
 “What do you want?” Mr. Franklin broke in, sharply enough.
 
 “I want to remind you, sir, that I have at any rate, thus far, not been
-PROVED to be wrong. Bearing that in mind, be pleased to remember, at the
+_Proved_ to be wrong. Bearing that in mind, be pleased to remember, at the
 same time, that I am an officer of the law acting here under the
 sanction of the mistress of the house. Under these circumstances, is it,
 or is it not, your duty as a good citizen, to assist me with any special
@@ -6160,7 +6160,7 @@ well rid of him.
 “You must make it right with Rosanna,” Mr. Franklin said to me, when we
 were alone. “I seem to be fated to say or do something awkward, before
 that unlucky girl. You must have seen yourself that Sergeant Cuff laid a
-trap for both of us. If he could confuse ME, or irritate HER into
+trap for both of us. If he could confuse _Me_, or irritate _Her_ into
 breaking out, either she or I might have said something which would
 answer his purpose. On the spur of the moment, I saw no better way out
 of it than the way I took. It stopped the girl from saying anything, and
@@ -6169,7 +6169,7 @@ listening, Betteredge, when I was speaking to you last night.”
 
 He had done worse than listen, as I privately thought to myself. He had
 remembered my telling him that the girl was in love with Mr. Franklin;
-and he had calculated on THAT, when he appealed to Mr. Franklin’s
+and he had calculated on _That_, when he appealed to Mr. Franklin’s
 interest in Rosanna–in Rosanna’s hearing.
 
 “As to listening, sir,” I remarked (keeping the other point to myself),
@@ -6219,7 +6219,7 @@ I attended my lady after breakfast, and assisted her in the settlement
 of our household accounts. She only once alluded to the matter of the
 Moonstone, and that was in the way of forbidding any present mention of
 it between us. “Wait till that man comes back,” she said, meaning the
-Sergeant. “We MUST speak of it then: we are not obliged to speak of it
+Sergeant. “We _Must_ speak of it then: we are not obliged to speak of it
 now.”
 
 After leaving my mistress, I found Penelope waiting for me in my room.
@@ -6385,7 +6385,7 @@ quarter to two. Five minutes afterwards, I heard my name called, from
 the drive outside the house. I knew the voice directly. Sergeant Cuff
 had returned from Frizinghall.
 
-### Chapter XVIII
+### Chapter _Xviii_
 
 Going down to the front door, I met the Sergeant on the steps.
 
@@ -6402,8 +6402,8 @@ mind, and there isn’t a doubt on Mr. Murthwaite’s mind, that they came
 to this place to steal the Moonstone. Their calculations were all thrown
 out, of course, by what happened in the house on Wednesday night; and
 they have no more to do with the actual loss of the jewel than you have.
-But I can tell you one thing, Mr. Betteredge–if WE don’t find the
-Moonstone, THEY will. You have not heard the last of the three jugglers
+But I can tell you one thing, Mr. Betteredge–if _We_ don’t find the
+Moonstone, _They_ will. You have not heard the last of the three jugglers
 yet.”
 
 Mr. Franklin came back from his walk as the Sergeant said those
@@ -6599,7 +6599,7 @@ discover that she was being watched. Do you mean to tell me that you
 have let her give you the slip?”
 
 “I am afraid, sir,” says Joyce, beginning to tremble, “that I was
-perhaps a little TOO careful not to let her discover me. There are such
+perhaps a little _Too_ careful not to let her discover me. There are such
 a many passages in the lower parts of this house—-”
 
 “How long is it since you missed her?”
@@ -6678,14 +6678,14 @@ pay our friend, Mrs. Yolland, another visit on Monday next.”
 I went with the Sergeant to order the pony-chaise. In the stable-yard we
 got a new light thrown on the missing girl.
 
-### Chapter XIX
+### Chapter _Xix_
 
 The news of Rosanna’s disappearance had, as it appeared, spread among
 the out-of-door servants. They too had made their inquiries; and they
 had just laid hands on a quick little imp, nicknamed “Duffy”–who was
 occasionally employed in weeding the garden, and who had seen Rosanna
 Spearman as lately as half-an-hour since. Duffy was certain that the
-girl had passed him in the fir-plantation, not walking, but RUNNING, in
+girl had passed him in the fir-plantation, not walking, but _Running_, in
 the direction of the sea-shore.
 
 “Does this boy know the coast hereabouts?” asked Sergeant Cuff.
@@ -6752,9 +6752,9 @@ down to where the rocks and the sand joined. The South Spit was just
 awash with the flowing tide; the waters heaved over the hidden face of
 the Shivering Sand. Now this way and now that, with an obstinate
 patience that was dreadful to see, Sergeant Cuff tried the boot in the
-footsteps, and always found it pointing the same way–straight TO the
+footsteps, and always found it pointing the same way–straight _To_ the
 rocks. Hunt as he might, no sign could he find anywhere of the footsteps
-walking FROM them.
+walking _From_ them.
 
 He gave it up at last. Still keeping silence, he looked again at me; and
 then he looked out at the waters before us, heaving in deeper and deeper
@@ -6777,7 +6777,7 @@ tide. As in the vision of a dream, the poor lost creature came back
 before me. I saw her again as I had seen her in the past time–on the
 morning when I went to fetch her into the house. I heard her again,
 telling me that the Shivering Sand seemed to draw her to it against her
-will, and wondering whether her grave was waiting for her THERE. The
+will, and wondering whether her grave was waiting for her _There_. The
 horror of it struck at me, in some unfathomable way, through my own
 child. My girl was just her age. My girl, tried as Rosanna was tried,
 might have lived that miserable life, and died this dreadful death.
@@ -6801,7 +6801,7 @@ to the great waves leaping up in clouds of foam against the headlands on
 either side of us.
 
 “No boat that ever was built,” he answered, “could have got to her
-through THAT.”
+through _That_.”
 
 Sergeant Cuff looked for the last time at the foot-marks on the sand,
 which the rain was now fast blurring out.
@@ -6885,7 +6885,7 @@ I followed the rest of them, with the help of the groom’s arm. Through
 the driving rain we went back–to meet the trouble and the terror that
 were waiting for us at the house.
 
-### Chapter XX
+### Chapter _Xx_
 
 Those in front had spread the news before us. We found the servants in a
 state of panic. As we passed my lady’s door, it was thrown open
@@ -6936,7 +6936,7 @@ was for love of Mr. Franklin Blake. Asked next, if she had mentioned
 this notion of hers to any other person, Penelope answered, “I have not
 mentioned it, for Rosanna’s sake.” I felt it necessary to add a word to
 this. I said, “And for Mr. Franklin’s sake, my dear, as well. If Rosanna
-HAS died for love of him, it is not with his knowledge or by his fault.
+_Has_ died for love of him, it is not with his knowledge or by his fault.
 Let him leave the house to-day, if he does leave it, without the useless
 pain of knowing the truth.” Sergeant Cuff said, “Quite right,” and fell
 silent again; comparing Penelope’s notion (as it seemed to me) with some
@@ -6963,7 +6963,7 @@ enough to set Miss Rachel’s temper in a flame. He had been too fond of
 his cousin to like to confess this to himself, until the truth had been
 forced on him, when she drove off to her aunt’s. His eyes once opened in
 that cruel way which you know of, Mr. Franklin had taken his
-resolution–the one resolution which a man of any spirit COULD take–to
+resolution–the one resolution which a man of any spirit _Could_ take–to
 leave the house.
 
 What he had to say to the Sergeant was spoken in my presence. He
@@ -7014,7 +7014,7 @@ itself in every line of her face; and I knew that Sergeant Cuff would
 meet his match, when a woman like my mistress was strung up to hear the
 worst he could say to her.
 
-### Chapter XXI
+### Chapter _Xxi_
 
 The first words, when we had taken our seats, were spoken by my lady.
 
@@ -7100,7 +7100,7 @@ Diamond for some purpose of her own? Is that true?”
 “Quite true, my lady.”
 
 “Very well. Now, before you begin, I have to tell you, as Miss
-Verinder’s mother, that she is ABSOLUTELY INCAPABLE of doing what you
+Verinder’s mother, that she is _Absolutely Incapable_ of doing what you
 suppose her to have done. Your knowledge of her character dates from a
 day or two since. My knowledge of her character dates from the beginning
 of her life. State your suspicion of her as strongly as you please–it is
@@ -7171,7 +7171,7 @@ with that character, what does she do? She betrays an incomprehensible
 resentment against Mr. Blake, Mr. Superintendent, and myself–otherwise,
 the very three people who have all, in their different ways, been trying
 to help her to recover her lost jewel. Having brought my inquiry to that
-point–THEN, my lady, and not till then, I begin to look back into my own
+point–_Then_, my lady, and not till then, I begin to look back into my own
 mind for my own experience. My own experience explains Miss Verinder’s
 otherwise incomprehensible conduct. It associates her with those other
 young ladies that I know of. It tells me she has debts she daren’t
@@ -7183,7 +7183,7 @@ from plain facts. What does your ladyship’s experience say against it?”
 “What I have said already,” answered my mistress. “The circumstances
 have misled you.”
 
-I said nothing on my side. ROBINSON CRUSOE–God knows how–had got into my
+I said nothing on my side. _Robinson Crusoe_–God knows how–had got into my
 muddled old head. If Sergeant Cuff had found himself, at that moment,
 transported to a desert island, without a man Friday to keep him
 company, or a ship to take him off–he would have found himself exactly
@@ -7248,7 +7248,7 @@ this case, I felt that a person of Mr. Betteredge’s character and
 position in the house–knowing the servants as he did, and having the
 honour of the family at heart–would be safer to take as an assistant
 than any other person whom I could lay my hand on. I should have tried
-Mr. Blake as well–but for one obstacle in the way. HE saw the drift of
+Mr. Blake as well–but for one obstacle in the way. _He_ saw the drift of
 my proceedings at a very early date; and, with his interest in Miss
 Verinder, any mutual understanding was impossible between him and me. I
 trouble your ladyship with these particulars to show you that I have
@@ -7268,7 +7268,7 @@ last; and I summon Sergeant Cuff to contradict me, if he dares!”
 Having given vent in those words, I felt greatly relieved. Her ladyship
 honoured me by a little friendly pat on the shoulder. I looked with
 righteous indignation at the Sergeant, to see what he thought of such a
-testimony as THAT. The Sergeant looked back like a lamb, and seemed to
+testimony as _That_. The Sergeant looked back like a lamb, and seemed to
 like me better than ever.
 
 My lady informed him that he might continue his statement. “I
@@ -7302,7 +7302,7 @@ person of all others to lead your ladyship off, and to lead me off, on a
 false scent.”
 
 Was it possible (I asked myself) that he could put his case against Miss
-Rachel and Rosanna in a more horrid point of view than this? It WAS
+Rachel and Rosanna in a more horrid point of view than this? It _Was_
 possible, as you shall now see.
 
 “I had another reason for suspecting the deceased woman,” he said,
@@ -7419,7 +7419,7 @@ the last train leaves for London to-night.”
 With that, she stepped into the chaise, and, taking the reins herself,
 drove off to Frizinghall.
 
-### Chapter XXII
+### Chapter _Xxii_
 
 My mistress having left us, I had leisure to think of Sergeant Cuff. I
 found him sitting in a snug corner of the hall, consulting his
@@ -7465,9 +7465,9 @@ would only have helped me to bring them out!” He was so eloquent in
 drawing the picture of his own neglected merits, and so pathetic in
 lamenting over it when it was done, that I felt quite at my wits’ end
 how to console him, when it suddenly occurred to me that here was a case
-for the wholesome application of a bit of ROBINSON CRUSOE. I hobbled out
+for the wholesome application of a bit of _Robinson Crusoe_. I hobbled out
 to my own room, and hobbled back with that immortal book. Nobody in the
-library! The map of Modern Italy stared at ME; and I stared at the map
+library! The map of Modern Italy stared at _Me_; and I stared at the map
 of Modern Italy.
 
 I tried the drawing-room. There was his handkerchief on the floor, to
@@ -7487,11 +7487,11 @@ window, drawing hieroglyphics with his finger in the damp on the glass.
 “Your sherry is waiting for you, sir,” I said to him. I might as well
 have addressed myself to one of the four walls of the room; he was down
 in the bottomless deep of his own meditations, past all pulling up. “How
-do YOU explain Rachel’s conduct, Betteredge?” was the only answer I
-received. Not being ready with the needful reply, I produced ROBINSON
-CRUSOE, in which I am firmly persuaded some explanation might have been
+do _You_ explain Rachel’s conduct, Betteredge?” was the only answer I
+received. Not being ready with the needful reply, I produced _Robinson_
+_Crusoe_, in which I am firmly persuaded some explanation might have been
 found, if we had only searched long enough for it. Mr. Franklin shut up
-ROBINSON CRUSOE, and floundered into his German-English gibberish on the
+_Robinson Crusoe_, and floundered into his German-English gibberish on the
 spot. “Why not look into it?” he said, as if I had personally objected
 to looking into it. “Why the devil lose your patience, Betteredge, when
 patience is all that’s wanted to arrive at the truth? Don’t interrupt
@@ -7572,7 +7572,7 @@ Mr. Betteredge?”
 “You shall judge for yourself, Sergeant.” I thereupon read him the
 letter (with my best emphasis and discretion), in the following words:
 
-“MY GOOD GABRIEL,–I request that you will inform Sergeant Cuff, that I
+“_My Good Gabriel_,–I request that you will inform Sergeant Cuff, that I
 have performed the promise I made to him; with this result, so far as
 Rosanna Spearman is concerned. Miss Verinder solemnly declares, that she
 has never spoken a word in private to Rosanna, since that unhappy woman
@@ -7586,7 +7586,7 @@ words, of Rosanna Spearman’s suicide–this is what has come of it.”
 Having reached that point, I looked up, and asked Sergeant Cuff what he
 thought of the letter, so far?
 
-“I should only offend you if I expressed MY opinion,” answered the
+“I should only offend you if I expressed _My_ opinion,” answered the
 Sergeant. “Go on, Mr. Betteredge,” he said, with the most exasperating
 resignation, “go on.”
 
@@ -7631,7 +7631,7 @@ Cuff if he had any remark to make.
 “It’s no part of my duty, Mr. Betteredge,” he answered, “to make remarks
 on a case, when I have done with it.”
 
-I tossed the cheque across the table to him. “Do you believe in THAT
+I tossed the cheque across the table to him. “Do you believe in _That_
 part of her ladyship’s letter?” I said, indignantly.
 
 The Sergeant looked at the cheque, and lifted up his dismal eyebrows in
@@ -7645,7 +7645,7 @@ remembering it.”
 “What do you mean?” I asked.
 
 “Her ladyship has smoothed matters over for the present very cleverly,”
-said the Sergeant. “But THIS family scandal is of the sort that bursts
+said the Sergeant. “But _This_ family scandal is of the sort that bursts
 up again when you least expect it. We shall have more detective-business
 on our hands, sir, before the Moonstone is many months older.”
 
@@ -7791,7 +7791,7 @@ over the pen to the person who is appointed to follow my lead. If you
 are as tired of reading this narrative as I am of writing it–Lord, how
 we shall enjoy ourselves on both sides a few pages further on!
 
-### Chapter XXIII
+### Chapter _Xxiii_
 
 I had kept the pony chaise ready, in case Mr. Franklin persisted in
 leaving us by the train that night. The appearance of the luggage,
@@ -7811,7 +7811,7 @@ Miss Rachel added at the end, which will account for the steadiness of
 Mr. Franklin’s determination, if it accounts for nothing else.
 
 “You will wonder, I dare say” (her ladyship wrote), "at my allowing my
-own daughter to keep me perfectly in the dark. A Diamond worth twenty
+own daughter to keep me perfectly in the dark. _A D_iamond worth twenty
 thousand pounds has been lost–and I am left to infer that the mystery of
 its disappearance is no mystery to Rachel, and that some
 incomprehensible obligation of silence has been laid on her, by some
@@ -7885,7 +7885,7 @@ It was dull and dreary enough, when the long summer evening closed in,
 on that Saturday night.
 
 I kept my spirits from sinking by sticking fast to my pipe and my
-ROBINSON CRUSOE. The women (excepting Penelope) beguiled the time by
+_Robinson Crusoe_. The women (excepting Penelope) beguiled the time by
 talking of Rosanna’s suicide. They were all obstinately of opinion that
 the poor girl had stolen the Moonstone, and that she had destroyed
 herself in terror of being found out. My daughter, of course, privately
@@ -7928,7 +7928,7 @@ end it regularly, once a week, in these islands–that is to say, we all
 anticipated bedtime, and fell asleep in our chairs.
 
 How the Monday affected the rest of the household I don’t know. The
-Monday gave ME a good shake up. The first of Sergeant Cuff’s prophecies
+Monday gave _Me_ a good shake up. The first of Sergeant Cuff’s prophecies
 of what was to happen–namely, that I should hear from the Yollands–came
 true on that day.
 
@@ -7949,14 +7949,14 @@ a fierce look, as she rested herself on her crutch.
 
 “That’s not a respectful way to speak of any gentleman,” I answered. “If
 you wish to inquire for my lady’s nephew, you will please to mention him
-as MR. Franklin Blake.”
+as _Mr_. Franklin Blake.”
 
 She limped a step nearer to me, and looked as if she could have eaten me
-alive. “MR. Franklin Blake?” she repeated after me. “Murderer Franklin
+alive. “_Mr_. Franklin Blake?” she repeated after me. “Murderer Franklin
 Blake would be a fitter name for him.”
 
 My practice with the late Mrs. Betteredge came in handy here. Whenever a
-woman tries to put you out of temper, turn the tables, and put HER out
+woman tries to put you out of temper, turn the tables, and put _Her_ out
 of temper instead. They are generally prepared for every effort you can
 make in your own defence, but that. One word does it as well as a
 hundred; and one word did it with Limping Lucy. I looked her pleasantly
@@ -7976,8 +7976,8 @@ say that, Lucy?”
 “What do you care? What does any man care? Oh! if she had only thought
 of the men as I think, she might have been living now!”
 
-“She always thought kindly of ME, poor soul,” I said; “and, to the best
-of my ability, I always tried to act kindly by HER.”
+“She always thought kindly of _Me_, poor soul,” I said; “and, to the best
+of my ability, I always tried to act kindly by _Her_.”
 
 I spoke those words in as comforting a manner as I could. The truth is,
 I hadn’t the heart to irritate the girl by another of my smart replies.
@@ -8010,7 +8010,7 @@ Where is he?” cries the girl, lifting her head from the crutch, and
 flaming out again through her tears. “Where’s this gentleman that I
 mustn’t speak of, except with respect? Ha, Mr. Betteredge, the day is
 not far off when the poor will rise against the rich. I pray Heaven they
-may begin with HIM. I pray Heaven they may begin with HIM.”
+may begin with _Him_. I pray Heaven they may begin with _Him_.”
 
 Here was another of your average good Christians, and here was the usual
 break-down, consequent on that same average Christianity being pushed
@@ -8182,7 +8182,7 @@ an ink-mark drawn round one of the police reports. Here it is, at your
 service. Read it as I read it, and you will set the right value on the
 Sergeant’s polite attention in sending me the news of the day:
 
-“LAMBETH–Shortly before the closing of the court, Mr. Septimus Luker,
+“_Lambeth_–Shortly before the closing of the court, Mr. Septimus Luker,
 the well-known dealer in ancient gems, carvings, intagli, \&c., \&c.,
 applied to the sitting magistrate for advice. The applicant stated that
 he had been annoyed, at intervals throughout the day, by the proceedings
@@ -8258,22 +8258,22 @@ country-house. Please to excuse the faults of this composition–my
 talking so much of myself, and being too familiar, I am afraid, with
 you. I mean no harm; and I drink most respectfully (having just done
 dinner) to your health and prosperity, in a tankard of her ladyship’s
-ale. May you find in these leaves of my writing, what ROBINSON CRUSOE
+ale. May you find in these leaves of my writing, what _Robinson Crusoe_
 found in his experience on the desert island–namely, “something to
 comfort yourselves from, and to set in the Description of Good and Evil,
 on the Credit Side of the Account.”–Farewell.
 
-THE END OF THE FIRST PERIOD.
+_The End Of The First Period_.
 
 ## Second Period
 
-THE DISCOVERY OF THE TRUTH (1848-1849)
+_The Discovery Of The Truth_ (1848-1849)
 
 The events related in several narratives.
 
 ## First Narrative
 
-Contributed by MISS CLACK; niece of the late SIR JOHN VERINDER
+Contributed by _Miss Clack_; niece of the late _Sir John Verinder_
 
 ### Chapter I
 
@@ -8332,10 +8332,10 @@ day as it happened; and everything down to the smallest particular,
 shall be told here. My sacred regard for truth is (thank God) far above
 my respect for persons. It will be easy for Mr. Blake to suppress what
 may not prove to be sufficiently flattering in these pages to the person
-chiefly concerned in them. He has purchased my time, but not even HIS
+chiefly concerned in them. He has purchased my time, but not even _His_
 wealth can purchase my conscience too.[^fn1] 
 
-[^fn1]: ADDED BY FRANKLIN BLAKE.–Miss Clack may make her mind quite easy on this point. Nothing will be added, altered or removed, in her manuscript, or in any of the other manuscripts which pass through my hands. Whatever opinions any of the writers may express, whatever peculiarities of treatment may mark, and perhaps in a literary sense, disfigure the narratives which I am now collecting, not a line will be tampered with anywhere, from first to last. As genuine documents they are sent to me–and as genuine documents I shall preserve them, endorsed by the attestations of witnesses who can speak to the facts. It only remains to be added that “the person chiefly concerned” in Miss Clack’s narrative, is happy enough at the present moment, not only to brave the smartest exercise of Miss Clack’s pen, but even to recognise its unquestionable value as an instrument for the exhibition of Miss Clack’s character.
+[^fn1]: _Added By Franklin Blake_.–Miss Clack may make her mind quite easy on this point. Nothing will be added, altered or removed, in her manuscript, or in any of the other manuscripts which pass through my hands. Whatever opinions any of the writers may express, whatever peculiarities of treatment may mark, and perhaps in a literary sense, disfigure the narratives which I am now collecting, not a line will be tampered with anywhere, from first to last. As genuine documents they are sent to me–and as genuine documents I shall preserve them, endorsed by the attestations of witnesses who can speak to the facts. It only remains to be added that “the person chiefly concerned” in Miss Clack’s narrative, is happy enough at the present moment, not only to brave the smartest exercise of Miss Clack’s pen, but even to recognise its unquestionable value as an instrument for the exhibition of Miss Clack’s character.
 
 My diary informs me, that I was accidentally passing Aunt Verinder’s
 house in Montagu Square, on Monday, 3rd July, 1848.
@@ -8357,7 +8357,7 @@ applicable to the person who answered the door. The hall was dirty, and
 the chair was hard; but the blessed consciousness of returning good for
 evil raised me quite above any trifling considerations of that kind. The
 tract was one of a series addressed to young women on the sinfulness of
-dress. In style it was devoutly familiar. Its title was, “A Word With
+dress. In style it was devoutly familiar. Its title was, “_A W_ord With
 You On Your Cap-Ribbons.”
 
 “My lady is much obliged, and begs you will come and lunch to-morrow at
@@ -8503,7 +8503,7 @@ scream rent the atmosphere of guilt. A man’s voice below exclaimed
 fingers unfastening his bandage, and extracting his gag. He looked in
 amazement at two respectable strangers, and faintly articulated, “What
 does it mean?” The two respectable strangers looked back, and said,
-“Exactly the question we were going to ask YOU.”
+“Exactly the question we were going to ask _You_.”
 
 The inevitable explanation followed. No! Let me be scrupulously
 particular. Sal volatile and water followed, to compose dear
@@ -8666,7 +8666,7 @@ to have been essentially unregenerate from her childhood upwards, I was
 prepared for whatever my aunt could tell me on the subject of her
 daughter. It might have gone on from bad to worse till it ended in
 Murder; and I should still have said to myself, The natural result! oh,
-dear, dear, the natural result! The one thing that DID shock me was the
+dear, dear, the natural result! The one thing that _Did_ shock me was the
 course my aunt had taken under the circumstances. Here surely was a case
 for a clergyman, if ever there was one yet! Lady Verinder had thought
 it a case for a physician. All my poor aunt’s early life had been passed
@@ -8700,7 +8700,7 @@ through Mr. Luker? Discovery through my nephew?”
 As the word passed her lips, a special providence occurred. The servant
 opened the door, and announced Mr. Godfrey Ablewhite.
 
-### Chapter II
+### Chapter _Ii_
 
 Mr. Godfrey followed the announcement of his name–as Mr. Godfrey does
 everything else–exactly at the right time. He was not so close on the
@@ -8727,7 +8727,7 @@ What have I lost? Nothing but Nervous Force–which the law doesn’t
 recognise as property; so that, strictly speaking, I have lost nothing
 at all. If I could have had my own way, I would have kept my adventure
 to myself–I shrink from all this fuss and publicity. But Mr. Luker made
-HIS injuries public, and my injuries, as the necessary consequence, have
+_His_ injuries public, and my injuries, as the necessary consequence, have
 been proclaimed in their turn. I have become the property of the
 newspapers, until the gentle reader gets sick of the subject. I am very
 sick indeed of it myself. May the gentle reader soon be like me! And
@@ -8741,7 +8741,7 @@ prospects? And are we nicely off for Trousers?”
 The heavenly gentleness of his smile made his apologies irresistible.
 The richness of his deep voice added its own indescribable charm to the
 interesting business question which he had just addressed to me. In
-truth, we were almost TOO nicely off for Trousers; we were quite
+truth, we were almost _Too_ nicely off for Trousers; we were quite
 overwhelmed by them. I was just about to say so, when the door opened
 again, and an element of worldly disturbance entered the room, in the
 person of Miss Verinder.
@@ -8922,7 +8922,7 @@ aunt with a modest medicinal peace-offering, in the shape of a bottle of
 salts. We none of us produced the slightest effect on her. “Godfrey,
 stay where you are. Mamma, there is not the least reason to be alarmed
 about me. Clack, you’re dying to hear the end of it–I won’t faint,
-expressly to oblige YOU.”
+expressly to oblige _You_.”
 
 Those were the exact words she used–taken down in my diary the moment I
 got home. But, oh, don’t let us judge! My Christian friends, don’t let
@@ -8941,7 +8941,7 @@ over my admirable friend. His complexion deepened. He lost the genial
 suavity of manner which is one of his greatest charms. A noble
 indignation inspired his reply.
 
-“They DO say it,” he answered. “There are people who don’t hesitate to
+“They _Do_ say it,” he answered. “There are people who don’t hesitate to
 accuse Mr. Luker of telling a falsehood to serve some private interests
 of his own. He has over and over again solemnly declared that, until
 this scandal assailed him, he had never even heard of the Moonstone. And
@@ -8984,7 +8984,7 @@ the hand.
 “I am certain,” she said, “that I have found out the true reason of your
 unwillingness to speak of this matter before my mother and before me. An
 unlucky accident has associated you in people’s minds with Mr. Luker.
-You have told me what scandal says of HIM. What does scandal say of
+You have told me what scandal says of _Him_. What does scandal say of
 you?”
 
 Even at the eleventh hour, dear Mr. Godfrey–always ready to return good
@@ -8992,7 +8992,7 @@ for evil–tried to spare her.
 
 “Don’t ask me!” he said. “It’s better forgotten, Rachel–it is, indeed.”
 
-“I WILL hear it!” she cried out, fiercely, at the top of her voice.
+“_I Will_ hear it!” she cried out, fiercely, at the top of her voice.
 
 “Tell her, Godfrey!” entreated my aunt. “Nothing can do her such harm
 as your silence is doing now!”
@@ -9034,8 +9034,8 @@ went on from bad to worse.
 “I must, and will, stop it,” she said. “Mamma! hear what I say. Miss
 Clack! hear what I say. I know the hand that took the Moonstone. I
 know–” she laid a strong emphasis on the words; she stamped her foot
-in the rage that possessed her–“I KNOW THAT GODFREY ABLEWHITE IS
-INNOCENT. Take me to the magistrate, Godfrey! Take me to the
+in the rage that possessed her–“_I Know That Godfrey Ablewhite Is_
+_Innocent_. Take me to the magistrate, Godfrey! Take me to the
 magistrate, and I will swear it!”
 
 My aunt caught me by the hand, and whispered, “Stand between us for a
@@ -9047,17 +9047,17 @@ a little.
 While this was going on, I heard dear Mr. Godfrey still gently
 remonstrating.
 
-“You must not appear publicly in such a thing as this,” he said. “YOUR
+“You must not appear publicly in such a thing as this,” he said. “_Your_
 reputation, dearest Rachel, is something too pure and too sacred to be
 trifled with.”
 
-“MY reputation!” She burst out laughing. “Why, I am accused, Godfrey,
+“_My_ reputation!” She burst out laughing. “Why, I am accused, Godfrey,
 as well as you. The best detective officer in England declares that I
 have stolen my own Diamond. Ask him what he thinks–and he will tell you
 that I have pledged the Moonstone to pay my private debts!” She
 stopped, ran across the room–and fell on her knees at her mother’s feet.
 “Oh mamma! mamma! mamma! I must be mad–mustn’t I?–not to own the
-truth NOW?” She was too vehement to notice her mother’s condition–she
+truth _Now_?” She was too vehement to notice her mother’s condition–she
 was on her feet again, and back with Mr. Godfrey, in an instant. “I
 won’t let you–I won’t let any innocent man–be accused and disgraced
 through my fault. If you won’t take me before the magistrate, draw out a
@@ -9068,7 +9068,7 @@ in the streets!”
 We will not say this was the language of remorse–we will say it was the
 language of hysterics. Indulgent Mr. Godfrey pacified her by taking a
 sheet of paper, and drawing out the declaration. She signed it in a
-feverish hurry. “Show it everywhere–don’t think of ME,” she said, as she
+feverish hurry. “Show it everywhere–don’t think of _Me_,” she said, as she
 gave it to him. “I am afraid, Godfrey, I have not done you justice,
 hitherto, in my thoughts. You are more unselfish–you are a better man
 than I believed you to be. Come here when you can, and I will try and
@@ -9190,7 +9190,7 @@ thought of the bluish tinge which I had noticed in her complexion. A
 light which was not of this world–a light shining prophetically from an
 unmade grave–dawned on my mind. My aunt’s secret was a secret no longer.
 
-### Chapter III
+### Chapter _Iii_
 
 Consideration for poor Lady Verinder forbade me even to hint that I had
 guessed the melancholy truth, before she opened her lips. I waited her
@@ -9418,7 +9418,7 @@ Sergeant Cuff.”
 “And I commit both those enormities, ma’am. I judge the Sergeant to have
 been utterly wrong; and I offer the opinion that, if he had known
 Rachel’s character as I know it, he would have suspected everybody in
-the house but HER. I admit that she has her faults–she is secret, and
+the house but _Her_. I admit that she has her faults–she is secret, and
 self-willed; odd and wild, and unlike other girls of her age. But true
 as steel, and high-minded and generous to a fault. If the plainest
 evidence in the world pointed one way, and if nothing but Rachel’s word
@@ -9548,7 +9548,7 @@ depravity. Very well. Say he did. Why the devil—-”
 “I beg your pardon, Mr. Bruff. If I hear the devil referred to in that
 manner, I must leave the room.”
 
-“I beg YOUR pardon, Miss Clack–I’ll be more careful in my choice of
+“I beg _Your_ pardon, Miss Clack–I’ll be more careful in my choice of
 language for the future. All I meant to ask was this. Why–even supposing
 he did take the Diamond–should Franklin Blake make himself the most
 prominent person in the house in trying to recover it? You may tell me
@@ -9601,7 +9601,7 @@ get the better of my fallen nature. The moral balance is restored; the
 spiritual atmosphere feels clear once more. Dear friends, we may go on
 again.
 
-### Chapter IV
+### Chapter _Iv_
 
 The signing of the Will was a much shorter matter than I had
 anticipated. It was hurried over, to my thinking, in indecent haste.
@@ -9619,7 +9619,7 @@ ready on my lap. He might as well have expected to move St. Paul’s
 Cathedral by looking at it, as to move Me. There was one merit about him
 (due no doubt to his worldly training) which I have no wish to deny. He
 was quick at seeing things. I appeared to produce almost the same
-impression on him which I had produced on the cabman. HE too uttered a
+impression on him which I had produced on the cabman. _He_ too uttered a
 profane expression, and withdrew in a violent hurry, and left me
 mistress of the field.
 
@@ -9627,13 +9627,13 @@ As soon as we were alone, my aunt reclined on the sofa, and then
 alluded, with some appearance of confusion, to the subject of her Will.
 
 “I hope you won’t think yourself neglected, Drusilla,” she said. “I mean
-to GIVE you your little legacy, my dear, with my own hand.”
+to _Give_ you your little legacy, my dear, with my own hand.”
 
 Here was a golden opportunity! I seized it on the spot. In other words,
 I instantly opened my bag, and took out the top publication. It proved
 to be an early edition–only the twenty-fifth–of the famous anonymous
-work (believed to be by precious Miss Bellows), entitled THE SERPENT AT
-HOME. The design of the book–with which the worldly reader may not be
+work (believed to be by precious Miss Bellows), entitled _The Serpent At_
+_Home_. The design of the book–with which the worldly reader may not be
 acquainted–is to show how the Evil One lies in wait for us in all the
 most apparently innocent actions of our daily lives. The chapters best
 adapted to female perusal are “Satan in the Hair Brush;” “Satan behind
@@ -9686,7 +9686,7 @@ me leave the book, aunt? The doctor can hardly object to that!”
 I slipped it under the sofa cushions, half in, and half out, close by
 her handkerchief, and her smelling-bottle. Every time her hand searched
 for either of these, it would touch the book; and, sooner or later (who
-knows?) the book might touch HER. After making this arrangement, I
+knows?) the book might touch _Her_. After making this arrangement, I
 thought it wise to withdraw. “Let me leave you to repose, dear aunt; I
 will call again to-morrow.” I looked accidentally towards the window as
 I said that. It was full of flowers, in boxes and pots. Lady Verinder
@@ -9901,7 +9901,7 @@ I did not hear) said, unmistakably, “Upstairs, if you please, sir.” The
 next moment I heard footsteps–a man’s footsteps–approaching the
 drawing-room floor. Who could this favoured male visitor possibly be?
 Almost as soon as I asked myself the question, the answer occurred to
-me. Who COULD it be but the doctor?
+me. Who _Could_ it be but the doctor?
 
 In the case of any other visitor, I should have allowed myself to be
 discovered in the drawing-room. There would have been nothing out of the
@@ -9981,7 +9981,7 @@ leaving her to go to the concert?”
 they quite understood. All sent their love; and all expressed a cheering
 belief that Lady Verinder’s indisposition would soon pass away.”
 
-“YOU don’t think it’s serious, do you, Godfrey?”
+“_You_ don’t think it’s serious, do you, Godfrey?”
 
 “Far from it! In a few days, I feel quite sure, all will be well
 again.”
@@ -10009,7 +10009,7 @@ dearest, always speaks the truth.”
 
 He drew his chair close, and took her hand, when he said “hopeless
 love.” There was a momentary silence. He, who thrilled everybody, had
-doubtless thrilled HER. I thought I now understood the words which had
+doubtless thrilled _Her_. I thought I now understood the words which had
 dropped from him when he was alone in the drawing-room, “I’ll do it
 to-day.” Alas! the most rigid propriety could hardly have failed to
 discover that he was doing it now.
@@ -10026,7 +10026,7 @@ Rachel! how kindly you told me, only the other day, that my place in
 your estimation was a higher place than it had ever been yet! Am I mad
 to build the hopes I do on those dear words? Am I mad to dream of some
 future day when your heart may soften to me? Don’t tell me so, if I am!
-Leave me my delusion, dearest! I must have THAT to cherish, and to
+Leave me my delusion, dearest! I must have _That_ to cherish, and to
 comfort me, if I have nothing else!”
 
 His voice trembled, and he put his white handkerchief to his eyes.
@@ -10111,12 +10111,12 @@ person made your face burn, only with thinking of it.”
 heart? Suppose the feeling she had roused in you (in the time when you
 believed in her) was not a feeling to be hidden? Suppose the love this
 wretch had inspired in you? Oh, how can I find words to say it in! How
-can I make a MAN understand that a feeling which horrifies me at myself,
+can I make a _Man_ understand that a feeling which horrifies me at myself,
 can be a feeling that fascinates me at the same time? It’s the breath of
 my life, Godfrey, and it’s the poison that kills me–both in one! Go
 away! I must be out of my mind to talk as I am talking now. No! you
 mustn’t leave me–you mustn’t carry away a wrong impression. I must say
-what is to be said in my own defence. Mind this! HE doesn’t know–he
+what is to be said in my own defence. Mind this! _He_ doesn’t know–he
 never will know, what I have told you. I will never see him–I don’t care
 what happens–I will never, never, never see him again! Don’t ask me his
 name! Don’t ask me any more! Let’s change the subject. Are you doctor
@@ -10131,7 +10131,7 @@ She turned round on a sudden, and beat her hands wildly on the back of
 the ottoman. Her head dropped on the cushions; and she burst out crying.
 Before I had time to feel shocked, at this, I was horror-struck by an
 entirely unexpected proceeding on the part of Mr. Godfrey. Will it be
-credited that he fell on his knees at her feet?–on BOTH knees, I
+credited that he fell on his knees at her feet?–on _Both_ knees, I
 solemnly declare! May modesty mention that he put his arms round her
 next? And may reluctant admiration acknowledge that he electrified her
 with two words?
@@ -10175,7 +10175,7 @@ found in the life you are leading now? You have tried that life, and you
 are wearying of it already. Surround yourself with nobler interests than
 the wretched interests of the world. A heart that loves and honours you;
 a home whose peaceful claims and happy duties win gently on you day by
-day–try the consolation, Rachel, which is to be found THERE! I don’t
+day–try the consolation, Rachel, which is to be found _There_! I don’t
 ask for your love–I will be content with your affection and regard. Let
 the rest be left, confidently left, to your husband’s devotion, and to
 Time that heals even wounds as deep as yours.”
@@ -10312,7 +10312,7 @@ to her. I was so shocked at this, that it never occurred to me, until
 some days afterwards, that she had also died without giving me my little
 legacy.
 
-### Chapter VI
+### Chapter _Vi_
 
 (1.) “Miss Clack presents her compliments to Mr. Franklin Blake; and, in
 sending him the fifth chapter of her humble narrative, begs to say that
@@ -10379,9 +10379,9 @@ the complete series of her Extracts to Mr. Franklin Blake.”
 
 \[To this letter no answer was received. Comment is needless.
 
-(Signed) DRUSILLA CLACK.\]
+(Signed) _Drusilla Clack_.\]
 
-### Chapter VII
+### Chapter _Vii_
 
 The foregoing correspondence will sufficiently explain why no choice is
 left to me but to pass over Lady Verinder’s death with the simple
@@ -10460,8 +10460,8 @@ dressing-gown at eleven o’clock. “Drusilla, dear, I want some servants.
 You are so clever–please get them for me.” I looked round the untidy
 room. The church-bells were going for a week-day service; they suggested
 a word of affectionate remonstrance on my part. “Oh, aunt!” I said
-sadly. “Is THIS worthy of a Christian Englishwoman? Is the passage from
-time to eternity to be made in THIS manner?” My aunt answered, “I’ll put
+sadly. “Is _This_ worthy of a Christian Englishwoman? Is the passage from
+time to eternity to be made in _This_ manner?” My aunt answered, “I’ll put
 on my gown, Drusilla, if you will be kind enough to help me.” What was
 to be said after that? I have done wonders with murderesses–I have never
 advanced an inch with Aunt Ablewhite. “Where is the list,” I asked, “of
@@ -10725,7 +10725,7 @@ former times. She checked herself–laid her head back on the
 pillow–considered a minute–and then answered in these remarkable
 words:
 
-“I SHALL NEVER MARRY MR. GODFREY ABLEWHITE.”
+“_I Shall Never Marry Mr_. _Godfrey Ablewhite_.”
 
 It was my turn to start at that.
 
@@ -10832,7 +10832,7 @@ me–but I am not sure. I was quite helpless, and his ways with ladies
 were very endearing. At any rate, we sat down. I can answer for that, if
 I can answer for nothing more.
 
-### Chapter VIII
+### Chapter _Viii_
 
 “I have lost a beautiful girl, an excellent social position, and a
 handsome income,” Mr. Godfrey began; “and I have submitted to it without
@@ -10852,7 +10852,7 @@ why I have shamefully neglected my dear Ladies. I don’t know why I have
 apostatised from the Mothers’ Small-Clothes. You say to the child, Why
 have you been naughty? And the little angel puts its finger into its
 mouth, and doesn’t know. My case exactly, Miss Clack! I couldn’t
-confess it to anybody else. I feel impelled to confess it to YOU!”
+confess it to anybody else. I feel impelled to confess it to _You_!”
 
 I began to recover myself. A mental problem was involved here. I am
 deeply interested in mental problems–and I am not, it is thought,
@@ -10882,7 +10882,7 @@ the facts, as I had the honour of stating them when we first sat down
 together in these two chairs. I have lost a beautiful girl, an excellent
 social position, and a handsome income; and I have submitted to it
 without a struggle. Can you account for it, dear friend? It’s quite
-beyond ME.”
+beyond _Me_.”
 
 His magnificent head sank on his breast, and he gave up his own mental
 problem in despair.
@@ -10916,7 +10916,7 @@ door, and the footman came in to lay the table for luncheon.
 
 Mr. Godfrey started up, and looked at the clock on the mantelpiece.
 
-“How time flies with YOU!” he exclaimed. “I shall barely catch the
+“How time flies with _You_!” he exclaimed. “I shall barely catch the
 train.”
 
 I ventured on asking why he was in such a hurry to get back to town. His
@@ -10929,7 +10929,7 @@ this evening or to-morrow. I must tell him what has happened between
 Rachel and me. His heart is set on our marriage–there will be great
 difficulty, I fear, in reconciling him to the breaking-off of the
 engagement. I must stop him, for all our sakes, from coming here till he
-IS reconciled. Best and dearest of friends, we shall meet again!”
+_Is_ reconciled. Best and dearest of friends, we shall meet again!”
 
 With those words he hurried out. In equal haste on my side, I ran
 upstairs to compose myself in my own room before meeting Aunt Ablewhite
@@ -11002,7 +11002,7 @@ longer.
 The next day, exactly as I had foreseen, Aunt Ablewhite was as near to
 being astonished as her nature would permit, by the sudden appearance of
 her husband. He had barely been a minute in the house, before he was
-followed, to MY astonishment this time, by an unexpected complication in
+followed, to _My_ astonishment this time, by an unexpected complication in
 the shape of Mr. Bruff.
 
 I never remember feeling the presence of the lawyer to be more unwelcome
@@ -11045,7 +11045,7 @@ presence of my relatives, and in the presence” (she looked at Mr. Bruff)
 chair. The rest of them looked at his face–as if they expected it, after
 seventy years of worldly training, to speak the truth. I looked at the
 top of his bald head; having noticed on other occasions that the temper
-which was really in him had a habit of registering itself THERE.
+which was really in him had a habit of registering itself _There_.
 
 “Some weeks ago,” pursued the old gentleman, “my son informed me that
 Miss Verinder had done him the honour to engage herself to marry him. Is
@@ -11071,7 +11071,7 @@ and that he agreed on his side–he told you the truth.”
 
 The self-registering thermometer at the top of Mr. Ablewhite’s bald head
 began to indicate a rise of temper. His face was more amiable than
-ever–but THERE was the pink at the top of his face, a shade deeper
+ever–but _There_ was the pink at the top of his face, a shade deeper
 already!
 
 “Come, come, my dear!” he said, in his most soothing manner, “now don’t
@@ -11095,7 +11095,7 @@ broken off?”
 “You are to understand that, Mr. Ablewhite, if you please.”
 
 “I am also to take it as a matter of fact that the proposal to withdraw
-from the engagement came, in the first instance, from YOU?”
+from the engagement came, in the first instance, from _You_?”
 
 “It came, in the first instance, from me. And it met, as I have told
 you, with your son’s consent and approval.”
@@ -11104,7 +11104,7 @@ The thermometer went up to the top of the register. I mean, the pink
 changed suddenly to scarlet.
 
 “My son is a mean-spirited hound!” cried this furious old worldling.
-“In justice to myself as his father–not in justice to HIM–I beg to ask
+“In justice to myself as his father–not in justice to _Him_–I beg to ask
 you, Miss Verinder, what complaint you have to make of Mr. Godfrey
 Ablewhite?”
 
@@ -11118,7 +11118,7 @@ Old Mr. Ablewhite fastened on him instantly.
 Your interference would have come with a better grace if you had waited
 until it was asked for.”
 
-Mr. Bruff took no notice. The smooth varnish on HIS wicked old face
+Mr. Bruff took no notice. The smooth varnish on _His_ wicked old face
 never cracked. Rachel thanked him for the advice he had given to her,
 and then turned to old Mr. Ablewhite–preserving her composure in a
 manner which (having regard to her age and her sex) was simply awful to
@@ -11170,14 +11170,14 @@ Rachel started, and looked at him in sudden surprise.
 “Insult!” reiterated Mr. Ablewhite. “I know your motive, Miss Verinder,
 for breaking your promise to my son! I know it as certainly as if you
 had confessed it in so many words. Your cursed family pride is insulting
-Godfrey, as it insulted ME when I married your aunt. Her family–her
+Godfrey, as it insulted _Me_ when I married your aunt. Her family–her
 beggarly family–turned their backs on her for marrying an honest man,
 who had made his own place and won his own fortune. I had no ancestors.
 I wasn’t descended from a set of cut-throat scoundrels who lived by
 robbery and murder. I couldn’t point to the time when the Ablewhites
 hadn’t a shirt to their backs, and couldn’t sign their own names. Ha!
 ha! I wasn’t good enough for the Herncastles, when I married. And now,
-it comes to the pinch, my son isn’t good enough for YOU. I suspected it,
+it comes to the pinch, my son isn’t good enough for _You_. I suspected it,
 all along. You have got the Herncastle blood in you, my young lady! I
 suspected it all along.”
 
@@ -11188,7 +11188,7 @@ Before Mr. Ablewhite could find words to answer in, Rachel spoke in a
 tone of the most exasperating contempt.
 
 “Surely,” she said to the lawyer, “this is beneath notice. If he can
-think in THAT way, let us leave him to think as he pleases.”
+think in _That_ way, let us leave him to think as he pleases.”
 
 From scarlet, Mr. Ablewhite was now becoming purple. He gasped for
 breath; he looked backwards and forwards from Rachel to Mr. Bruff in
@@ -11220,7 +11220,7 @@ others, permit me to take the most pardonable of all liberties–the
 liberty of composing your mind.”
 
 He began to recover himself; he was on the point of breaking out–he
-WOULD have broken out, with anybody else. But my voice (habitually
+_Would_ have broken out, with anybody else. But my voice (habitually
 gentle) possesses a high note or so, in emergencies. In this emergency,
 I felt imperatively called upon to have the highest voice of the two.
 
@@ -11245,8 +11245,8 @@ tore it in two, and threw it back at me across the table. The rest of
 them rose in alarm, not knowing what might happen next. I instantly sat
 down again in my corner. There had once been an occasion, under somewhat
 similar circumstances, when Miss Jane Ann Stamper had been taken by the
-two shoulders and turned out of a room. I waited, inspired by HER
-spirit, for a repetition of HER martyrdom.
+two shoulders and turned out of a room. I waited, inspired by _Her_
+spirit, for a repetition of _Her_ martyrdom.
 
 But no–it was not to be. His wife was the next person whom he addressed.
 “Who–who–who,” he said, stammering with rage, “who asked this impudent
@@ -11262,7 +11262,7 @@ of icy-cold contempt. It was plain to everybody that Rachel had said
 something–short and plain as her answer had been–which gave him the
 upper hand of her at last.
 
-“Oh?” he said. “Miss Clack is here as YOUR guest–in MY house?”
+“Oh?” he said. “Miss Clack is here as _Your_ guest–in _My_ house?”
 
 It was Rachel’s turn to lose her temper at that. Her colour rose, and
 her eyes brightened fiercely. She turned to the lawyer, and, pointing to
@@ -11317,7 +11317,7 @@ The trust of the family in this man was something wonderful to see.
 Without a word more, on her side, Aunt Ablewhite left the room.
 
 “Ah!” said Mr. Bruff, looking after her. “The Herncastle blood has its
-drawbacks, I admit. But there IS something in good breeding after all!”
+drawbacks, I admit. But there _Is_ something in good breeding after all!”
 
 Having made that purely worldly remark, he looked hard at my corner, as
 if he expected me to go. My interest in Rachel–an infinitely higher
@@ -11456,12 +11456,12 @@ reminds me that one more of the many chequered chapters in my life ends
 here. From that day forth, I never saw Rachel Verinder again. She had my
 forgiveness at the time when she insulted me. She has had my prayerful
 good wishes ever since. And when I die–to complete the return on my part
-of good for evil–she will have the LIFE, LETTERS, AND LABOURS OF MISS
-JANE ANN STAMPER left her as a legacy by my will.
+of good for evil–she will have the _Life_, _Letters_, _And Labours Of Miss_
+_Jane Ann Stamper_ left her as a legacy by my will.
 
 ## Second Narrative
 
-Contributed by MATHEW BRUFF, Solicitor, of Gray’s Inn Square
+Contributed by _Mathew Bruff_, Solicitor, of Gray’s Inn Square
 
 ### Chapter I
 
@@ -11596,7 +11596,7 @@ Commons by anybody who applies, on the payment of a shilling fee.)
 
 “Did you hear who asked for the Will?” I asked.
 
-“Yes; the clerk had no hesitation in telling ME. Mr. Smalley, of the
+“Yes; the clerk had no hesitation in telling _Me_. Mr. Smalley, of the
 firm of Skipp and Smalley, asked for it. The Will has not been copied
 yet into the great Folio Registers. So there was no alternative but to
 depart from the usual course, and to let him see the original document.
@@ -11719,7 +11719,7 @@ shape of a romance. But I had my own object in view, and I declined (as
 we lawyers say) to pursue the question into its side issues.
 
 “Mr. Godfrey Ablewhite can hardly be of your way of thinking,” I said.
-“HIS heart must be set on the marriage at any rate?”
+“_His_ heart must be set on the marriage at any rate?”
 
 “He says so, and I suppose I ought to believe him. He would hardly marry
 me, after what I have owned to him, unless he was fond of me.”
@@ -11766,7 +11766,7 @@ a great virtue in a man. In a woman it has a serious drawback of morally
 separating her from the mass of her sex, and so exposing her to
 misconstruction by the general opinion. I strongly suspect myself of
 thinking as the rest of the world think in this matter–except in the
-case of Rachel Verinder. The self-dependence in HER character, was one
+case of Rachel Verinder. The self-dependence in _Her_ character, was one
 of its virtues in my estimation; partly, no doubt, because I sincerely
 admired and liked her; partly, because the view I took of her connexion
 with the loss of the Moonstone was based on my own special knowledge of
@@ -11815,7 +11815,7 @@ a simple impossibility–and she was to put it to him, whether he thought
 it wisest to secure her silence by falling in with her views, or to
 force her, by opposing them, to make the motive under which she was
 acting generally known. If he attempted to defend himself, or to deny
-the facts, she was, in that event, to refer him to ME.
+the facts, she was, in that event, to refer him to _Me_.
 
 Miss Verinder listened attentively till I had done. She then thanked me
 very prettily for my advice, but informed me at the same time that it
@@ -11840,7 +11840,7 @@ me, how can I disgrace him in the eyes of the world after that? I have
 degraded myself by ever thinking of him as my husband. If I say what you
 tell me to say to him–I am owning that I have degraded myself to his
 face. I can’t do that. After what has passed between us, I can’t do
-that! The shame of it would be nothing to HIM. But the shame of it
+that! The shame of it would be nothing to _Him_. But the shame of it
 would be unendurable to *me*.”
 
 Here was another of the marked peculiarities in her character disclosing
@@ -11887,7 +11887,7 @@ private feeling.”
 “What do you mean?”
 
 “You have forgotten the Moonstone, Mr. Bruff. Have I not braved public
-opinion, THERE, with my own private reasons for it?”
+opinion, _There_, with my own private reasons for it?”
 
 Her answer silenced me for the moment. It set me trying to trace the
 explanation of her conduct, at the time of the loss of the Moonstone,
@@ -11904,8 +11904,8 @@ ease.
 
 On the evening of my return, before it was possible for me to receive my
 promised letter, I was surprised by a visit from Mr. Ablewhite the
-elder, and was informed that Mr. Godfrey had got his dismissal–AND HAD
-ACCEPTED IT–that very day.
+elder, and was informed that Mr. Godfrey had got his dismissal–_And Had_
+_Accepted It_–that very day.
 
 With the view I already took of the case, the bare fact stated in the
 words that I have underlined, revealed Mr. Godfrey Ablewhite’s motive
@@ -11943,7 +11943,7 @@ executors decided on the appointment of a new guardian, I feel sincere
 pride and pleasure in recording that my guest and my family parted like
 old friends, on either side.
 
-### Chapter II
+### Chapter _Ii_
 
 The next thing I have to do, is to present such additional information
 as I possess on the subject of the Moonstone, or, to speak more
@@ -12145,7 +12145,7 @@ that evening; and I went upstairs, in no very genial frame of mind,
 little suspecting that the way to my dressing-room and the way to
 discovery, meant, on this particular occasion, one and the same thing.
 
-### Chapter III
+### Chapter _Iii_
 
 The prominent personage among the guests at the dinner party I found to
 be Mr. Murthwaite.
@@ -12177,7 +12177,7 @@ was doing it very dexterously–with all possible consideration for the
 feelings of his host–but it is not the less certain that he was
 composing himself for a nap. It struck me as an experiment worth
 attempting, to try whether a judicious allusion to the subject of the
-Moonstone would keep him awake, and, if it did, to see what HE thought
+Moonstone would keep him awake, and, if it did, to see what _He_ thought
 of the last new complication in the Indian conspiracy, as revealed in
 the prosaic precincts of my office.
 
@@ -12274,7 +12274,7 @@ chance. Up to that time the Moonstone was safe in the strong-room of the
 bank. You drew the Colonel’s Will leaving his jewel to his niece; and
 the Will was proved in the usual way. As a lawyer, you can be at no loss
 to know what course the Indians would take (under English advice) after
-THAT.”
+_That_.”
 
 “They would provide themselves with a copy of the Will from Doctors’
 Commons,” I said.
@@ -12315,7 +12315,7 @@ through the whole of the interval that elapsed before Rachel’s birthday?
 In putting this difficulty to Mr. Murthwaite, I thought it right to add
 that I had heard of the little boy, and the drop of ink, and the rest of
 it, and that any explanation based on the theory of clairvoyance was an
-explanation which would carry no conviction whatever with it, to MY
+explanation which would carry no conviction whatever with it, to _My_
 mind.
 
 “Nor to mine either,” said Mr. Murthwaite. “The clairvoyance in this
@@ -12542,7 +12542,7 @@ it.”
 person who has pledged the Moonstone can redeem it in a year, the jewel
 will be in that person’s possession again at the end of June,
 ’forty-nine. I shall be thousands of miles from England and English
-news at that date. But it may be worth YOUR while to take a note of it,
+news at that date. But it may be worth _Your_ while to take a note of it,
 and to arrange to be in London at the time.”
 
 “You think something serious will happen?” I said.
@@ -12560,15 +12560,15 @@ the ladies of the dinner-party upstairs.
 I made a note of the date, and it may not be amiss if I close my
 narrative by repeating that note here:
 
-JUNE, ’FORTY-NINE. EXPECT NEWS OF THE INDIANS, TOWARDS THE END OF THE
-MONTH.
+_June_, ’_Forty_-_Nine_. _Expect News Of The Indians_, _Towards The End Of The_
+_Month_.
 
 And that done, I hand the pen, which I have now no further claim to use,
 to the writer who follows me next.
 
 ## Third Narrative
 
-Contributed by FRANKLIN BLAKE
+Contributed by _Franklin Blake_
 
 ### Chapter I
 
@@ -12614,7 +12614,7 @@ suffering caused by the bitterest disappointment of my life.
 
 I went abroad, resolved–if change and absence could help me–to forget
 her. It is, I am persuaded, no true view of human nature which denies
-that change and absence DO help a man under these circumstances; they
+that change and absence _Do_ help a man under these circumstances; they
 force his attention away from the exclusive contemplation of his own
 sorrow. I never forgot her; but the pang of remembrance lost its worst
 bitterness, little by little, as time, distance, and novelty interposed
@@ -12667,7 +12667,7 @@ call again at six o’clock that evening.
 At six o’clock I was informed for the second time that Miss Verinder was
 not at home. Had any message been left for me. No message had been left
 for me. Had Miss Verinder not received my card? The servant begged my
-pardon–Miss Verinder HAD received it.
+pardon–Miss Verinder _Had_ received it.
 
 The inference was too plain to be resisted. Rachel declined to see me.
 
@@ -12759,7 +12759,7 @@ open gate of the yard.
 
 There he was–the dear old friend of the happy days that were never to
 come again–there he was in the old corner, on the old beehive chair,
-with his pipe in his mouth, and his ROBINSON CRUSOE on his lap, and his
+with his pipe in his mouth, and his _Robinson Crusoe_ on his lap, and his
 two friends, the dogs, dozing on either side of him! In the position in
 which I stood, my shadow was projected in front of me by the last
 slanting rays of the sun. Either the dogs saw it, or their keen scent
@@ -12771,17 +12771,17 @@ gate.
 My own eyes were full of tears. I was obliged to wait a moment before I
 could trust myself to speak to him.
 
-### Chapter II
+### Chapter _Ii_
 
 “Betteredge!” I said, pointing to the well-remembered book on his knee,
-“has ROBINSON CRUSOE informed you, this evening, that you might expect
+“has _Robinson Crusoe_ informed you, this evening, that you might expect
 to see Franklin Blake?”
 
 “By the lord Harry, Mr. Franklin!” cried the old man, “that’s exactly
-what ROBINSON CRUSOE has done!”
+what _Robinson Crusoe_ has done!”
 
 He struggled to his feet with my assistance, and stood for a moment,
-looking backwards and forwards between ROBINSON CRUSOE and me,
+looking backwards and forwards between _Robinson Crusoe_ and me,
 apparently at a loss to discover which of us had surprised him most. The
 verdict ended in favour of the book. Holding it open before him in both
 hands, he surveyed the wonderful volume with a stare of unutterable
@@ -12861,7 +12861,7 @@ can desire.’ For the rest of that woman’s life, Mr. Franklin, I never
 had to cook my dinner again! Moral: You have put up with Miss Rachel in
 London; don’t put up with her in Yorkshire. Come back to the house!”
 
-Quite unanswerable! I could only assure my good friend that even HIS
+Quite unanswerable! I could only assure my good friend that even _His_
 powers of persuasion were, in this case, thrown away on me.
 
 “It’s a lovely evening,” I said. “I shall walk to Frizinghall, and stay
@@ -12875,7 +12875,7 @@ hear that things were all smooth and pleasant again between you and Miss
 Rachel. If you must have your own way, sir,” he continued, after a
 moment’s reflection, “there is no need to go to Frizinghall to-night for
 a bed. It’s to be had nearer than that. There’s Hotherstone’s Farm,
-barely two miles from here. You can hardly object to THAT on Miss
+barely two miles from here. You can hardly object to _That_ on Miss
 Rachel’s account,” the old man added slily. “Hotherstone lives,
 Mr. Franklin, on his own freehold.”
 
@@ -12907,7 +12907,7 @@ Damme, if one of them isn’t turning his back on the other, and going to
 sleep in a lodging!”
 
 He led the way out, wagging his head and growling ominously. “There’s
-only one more miracle that CAN happen,” he said to me, over his
+only one more miracle that _Can_ happen,” he said to me, over his
 shoulder. “The next thing you’ll do, Mr. Franklin, will be to pay me
 back that seven-and-sixpence you borrowed of me when you were a boy.”
 
@@ -12954,7 +12954,7 @@ nobody has done yet–to find out who took the Diamond.”
 “Let the Diamond be, Mr. Franklin! Take my advice, and let the Diamond
 be! That cursed Indian jewel has misguided everybody who has come near
 it. Don’t waste your money and your temper–in the fine spring time of
-your life, sir–by meddling with the Moonstone. How can YOU hope to
+your life, sir–by meddling with the Moonstone. How can _You_ hope to
 succeed (saving your presence), when Sergeant Cuff himself made a mess
 of it? Sergeant Cuff!” repeated Betteredge, shaking his forefinger at
 me sternly. “The greatest policeman in England!”
@@ -13067,7 +13067,7 @@ gathering darkness, to see his face. In the surprise of the moment, I
 asked a little impatiently what he meant.
 
 “Steady, sir!” proceeded Betteredge. “I mean what I say. Rosanna
-Spearman left a sealed letter behind her–a letter addressed to YOU.”
+Spearman left a sealed letter behind her–a letter addressed to _You_.”
 
 “Where is it?”
 
@@ -13107,7 +13107,7 @@ to-night, and come to me to-morrow morning if you’ll be so kind?’”
 
 We descended the path that led to the Farm.
 
-### Chapter III
+### Chapter _Iii_
 
 I have only the most indistinct recollection of what happened at
 Hotherstone’s Farm.
@@ -13167,7 +13167,7 @@ interest and horror, which it quite fascinated her to see.
 name again, if you please.”
 
 “This gentleman’s name,” answered Betteredge (with a strong emphasis on
-GENTLEMAN), “is Mr. Franklin Blake.”
+_Gentleman_), “is Mr. Franklin Blake.”
 
 The girl turned her back on me, and suddenly left the room. Good
 Mrs. Yolland–as I believe–made some apologies for her daughter’s odd
@@ -13245,7 +13245,7 @@ whilst you were staying in the house of my mistress, Lady Verinder, do
 what you are told to do in the memorandum enclosed with this–and do it
 without any person being present to overlook you. Your humble servant,
 
-“ROSANNA SPEARMAN.”
+“_Rosanna Spearman_.”
 
 I turned to the slip of paper next. Here is the literal copy of it, word
 for word:
@@ -13260,8 +13260,8 @@ of the rocks, on the side of them which overlooks the quicksand. To feel
 along the stick, among the sea-weed (beginning from the end of the stick
 which points towards the beacon), for the Chain. To run my hand along
 the Chain, when found, until I come to the part of it which stretches
-over the edge of the rocks, down into the quicksand. AND THEN TO PULL
-THE CHAIN.”
+over the edge of the rocks, down into the quicksand. _And Then To Pull_
+_The Chain_.”
 
 Just as I had read the last words–underlined in the original–I heard the
 voice of Betteredge behind me. The inventor of the detective-fever had
@@ -13277,7 +13277,7 @@ memorandum–produced a strong impression on him.
 Sergeant said she had got a memorandum of the hiding-place. And here it
 is! Lord save us, Mr. Franklin, here is the secret that puzzled
 everybody, from the great Cuff downwards, ready and waiting, as one may
-say, to show itself to YOU! It’s the ebb now, sir, as anybody may see
+say, to show itself to _You_! It’s the ebb now, sir, as anybody may see
 for themselves. How long will it be till the turn of the tide?” He
 looked up, and observed a lad at work, at some little distance from us,
 mending a net. “Tammie Bright!” he shouted at the top of his voice.
@@ -13337,7 +13337,7 @@ added, confidentially, “there’s nothing in the letter against your
 letting out the secret afterwards. I’ll hang about in the fir
 plantation, and wait till you pick me up. Don’t be longer than you can
 help, sir. The detective-fever isn’t an easy disease to deal with, under
-THESE circumstances.”
+_These_ circumstances.”
 
 With that parting caution, he left me.
 
@@ -13460,7 +13460,7 @@ owner’s name.
 
 I took it up from the sand, and looked for the mark.
 
-I found the mark, and read–MY OWN NAME.
+I found the mark, and read–_My Own Name_.
 
 There were the familiar letters which told me that the nightgown was
 mine. I looked up from them. There was the sun; there were the
@@ -13474,7 +13474,7 @@ I had penetrated the secret which the quicksand had kept from every
 other living creature. And, on the unanswerable evidence of the
 paint-stain, I had discovered Myself as the Thief.
 
-### Chapter IV
+### Chapter _Iv_
 
 I have not a word to say about my own sensations.
 
@@ -13524,7 +13524,7 @@ to the grave.
 
 “Now, Mr. Franklin, there’s one thing certain, at any rate,” said
 Betteredge, throwing the nightgown down on the table between us, and
-pointing to it as if it was a living creature that could hear him. “HE’S
+pointing to it as if it was a living creature that could hear him. “_He_’S
 a liar, to begin with.”
 
 This comforting view of the matter was not the view that presented
@@ -13562,7 +13562,7 @@ Betteredge laid his hand on my arm, and stopped me before I could say
 any more.
 
 “You will be cleared of this, Mr. Franklin, beyond all doubt. But I hope
-you won’t be cleared in THAT way. See what the letter says, sir. In
+you won’t be cleared in _That_ way. See what the letter says, sir. In
 justice to the girl’s memory, see what it says.”
 
 I felt the earnestness with which he spoke–felt it as a friendly rebuke
@@ -13625,7 +13625,7 @@ fairy-story. You were like a lover in a dream. You were the most
 adorable human creature I had ever seen. Something that felt like the
 happy life I had never led yet, leapt up in me at the instant I set eyes
 on you. Don’t laugh at this if you can help it. Oh, if I could only make
-you feel how serious it is to ME!
+you feel how serious it is to _Me_!
 
 "I went back to the house, and wrote your name and mine in my work-box,
 and drew a true lovers’ knot under them. Then, some devil–no, I ought to
@@ -13716,7 +13716,7 @@ down-stairs again.
 
 "After leaving Miss Rachel’s room, I stopped a moment on one of the
 landings, by myself, to see if I had got the paint-stain by any chance
-on MY gown. Penelope Betteredge (the only one of the women with whom I
+on _My_ gown. Penelope Betteredge (the only one of the women with whom I
 was on friendly terms) passed, and noticed what I was about.
 
 "‘You needn’t trouble yourself, Rosanna,’ she said. ‘The paint on Miss
@@ -13788,7 +13788,7 @@ over to the best of my ability, I made it out that the thing wasn’t
 likely, for a reason that I will tell you. If you had been in Miss
 Rachel’s sitting-room, at that time of night, with Miss Rachel’s
 knowledge (and if you had been foolish enough to forget to take care of
-the wet door) SHE would have reminded you–SHE would never have let you
+the wet door) _She_ would have reminded you–_She_ would never have let you
 carry away such a witness against her, as the witness I was looking at
 now! At the same time, I own I was not completely certain in my own
 mind that I had proved my own suspicion to be wrong. You will not have
@@ -13811,8 +13811,8 @@ handing the letter to Betteredge across the table. “If there is anything
 in it that I must look at, you can tell me as you go on.”
 
 “I understand you, Mr. Franklin,” he answered. “It’s natural, sir, in
-YOU. And, God help us all!” he added, in a lower tone, “it’s no less
-natural in HER.”
+_You_. And, God help us all!” he added, in a lower tone, “it’s no less
+natural in _Her_.”
 
 I proceed to copy the continuation of the letter from the original, in
 my own possession:–
@@ -13849,7 +13849,7 @@ left against you was the proof locked up in my drawer.
 "I had just finished your room when I was sent for to be questioned by
 Mr. Seegrave, along with the rest of the servants. Next came the
 examination of all our boxes. And then followed the most extraordinary
-event of the day–to ME–since I had found the paint on your nightgown.
+event of the day–to _Me_–since I had found the paint on your nightgown.
 This event came out of the second questioning of Penelope Betteredge by
 Superintendent Seegrave.
 
@@ -13875,7 +13875,7 @@ myself, ‘the thief is not Penelope, but Mr. Franklin Blake!’
 ashamed of suspecting him of theft, almost as soon as the suspicion had
 passed through my mind.
 
-"But the bare thought that YOU had let yourself down to my level, and
+"But the bare thought that _You_ had let yourself down to my level, and
 that I, in possessing myself of your nightgown, had also possessed
 myself of the means of shielding you from being discovered, and
 disgraced for life–I say, sir, the bare thought of this seemed to open
@@ -13888,7 +13888,7 @@ hand than yours.
 
 "The excitement of this new discovery of mine must, I think, have turned
 my head for a while. I felt such a devouring eagerness to see you–to try
-you with a word or two about the Diamond, and to MAKE you look at me,
+you with a word or two about the Diamond, and to _Make_ you look at me,
 and speak to me, in that way–that I put my hair tidy, and made myself as
 nice as I could, and went to you boldly in the library where I knew you
 were writing.
@@ -13910,7 +13910,7 @@ while you were speaking, your coolness so provoked me that I got bold
 enough, in the heat of the moment, to give you a hint. I said, ‘They
 will never find the Diamond, sir, will they? No! nor the person who
 took it–I’ll answer for that.’ I nodded, and smiled at you, as much as
-to say, ‘I know!’ THIS time, you looked up at me with something like
+to say, ‘I know!’ _This_ time, you looked up at me with something like
 interest in your eyes; and I felt that a few more words on your side and
 mine might bring out the truth. Just at that moment, Mr. Betteredge
 spoilt it all by coming to the door. I knew his footstep, and I also
@@ -13948,7 +13948,7 @@ betraying me. All your underclothing had been renewed, when you came to
 our house–I suppose on your return home from foreign parts.
 
 "The next thing was the arrival of Sergeant Cuff; and the next great
-surprise was the announcement of what HE thought about the smear on the
+surprise was the announcement of what _He_ thought about the smear on the
 door.
 
 “I had believed you to be guilty (as I have owned), more because I
@@ -14033,8 +14033,8 @@ will be sorry to hear that the little doctor has never recovered that
 illness he caught, going home from the birthday dinner. He’s pretty well
 in health; but he lost his memory in the fever, and he has never
 recovered more than the wreck of it since. The work all falls on his
-assistant. Not much of it now, except among the poor. THEY can’t help
-themselves, you know. THEY must put up with the man with the piebald
+assistant. Not much of it now, except among the poor. _They_ can’t help
+themselves, you know. _They_ must put up with the man with the piebald
 hair, and the gipsy complexion–or they would get no doctoring at all.”
 
 “You don’t seem to like him, Betteredge?”
@@ -14122,7 +14122,7 @@ to see the washing-book.
 
 "I found it, and took it to him in my lady’s sitting-room. The Sergeant
 and I had come across each other more than once in former days. I was
-certain he would know me again–and I was NOT certain of what he might do
+certain he would know me again–and I was _Not_ certain of what he might do
 when he found me employed as servant in a house in which a valuable
 jewel had been lost. In this suspense, I felt it would be a relief to me
 to get the meeting between us over, and to know the worst of it at once.
@@ -14148,7 +14148,7 @@ straight for the shrubbery, when you saw me–I am certain, sir, you saw
 me–and you turned away as if I had got the plague, and went into the
 house.[^fn2]
 
-[^fn2]: NOTE: by Franklin Blake. –The writer is entirely mistaken, poor creature. I never noticed her. My intention was certainly to have taken a turn in the shrubbery. But, remembering at the same moment that my aunt might wish to see me, after my return from the railway, I altered my mind, and went into the house.
+[^fn2]: _Note_: by Franklin Blake. –The writer is entirely mistaken, poor creature. I never noticed her. My intention was certainly to have taken a turn in the shrubbery. But, remembering at the same moment that my aunt might wish to see me, after my return from the railway, I altered my mind, and went into the house.
 
 "I made the best of my way indoors again, returning by the servants’
 entrance. There was nobody in the laundry-room at that time; and I sat
@@ -14182,7 +14182,7 @@ were as much as I could manage, without having other risks and
 difficulties added to them? This might have been the case with some
 women–but how could it be the case with me? In the days when I was a
 thief, I had run fifty times greater risks, and found my way out of
-difficulties to which THIS difficulty was mere child’s play. I had been
+difficulties to which _This_ difficulty was mere child’s play. I had been
 apprenticed, as you may say, to frauds and deceptions–some of them on
 such a grand scale, and managed so cleverly, that they became famous,
 and appeared in the newspapers. Was such a little thing as the keeping
@@ -14194,7 +14194,7 @@ nonsense to ask the question! The thing couldn’t be.
 truth is plain enough, surely? Behind your back, I loved you with all my
 heart and soul. Before your face–there’s no denying it–I was frightened
 of you; frightened of making you angry with me; frightened of what you
-might say to me (though you HAD taken the Diamond) if I presumed to tell
+might say to me (though you _Had_ taken the Diamond) if I presumed to tell
 you that I had found it out. I had gone as near to it as I dared when I
 spoke to you in the library. You had not turned your back on me then.
 You had not started away from me as if I had got the plague. I tried to
@@ -14232,8 +14232,8 @@ away, you may depend on it!’
 "I recovered the use of my tongue at that. ‘Do you mean to say
 Mr. Franklin will go with her?’ I asked.
 
-"‘Only too gladly, if she would let him; but she won’t. HE has been made
-to feel her temper; HE is in her black books too–and that after having
+"‘Only too gladly, if she would let him; but she won’t. _He_ has been made
+to feel her temper; _He_ is in her black books too–and that after having
 done all he can to help her, poor fellow! No! no! If they don’t make
 it up before to-morrow, you will see Miss Rachel go one way, and
 Mr. Franklin another. Where he may betake himself to I can’t say. But
@@ -14247,7 +14247,7 @@ you know,’ I asked, ‘what the quarrel is between them?’
 "‘It is all on Miss Rachel’s side,’ Penelope said. ‘And, for anything I
 know to the contrary, it’s all Miss Rachel’s temper, and nothing else. I
 am loth to distress you, Rosanna; but don’t run away with the notion
-that Mr. Franklin is ever likely to quarrel with HER. He’s a great deal
+that Mr. Franklin is ever likely to quarrel with _Her_. He’s a great deal
 too fond of her for that!’
 
 "She had only just spoken those cruel words when there came a call to us
@@ -14357,7 +14357,7 @@ I shall enjoy tearing it up!
 
 "I beg to remain, sir, your true lover and humble servant,
 
-“ROSANNA SPEARMAN.”
+“_Rosanna Spearman_.”
 
 The reading of the letter was completed by Betteredge in silence. After
 carefully putting it back in the envelope, he sat thinking, with his
@@ -14387,7 +14387,7 @@ suggested to any man, under the circumstances–that she was about to
 confess a guilty knowledge of the disappearance of the Diamond. For her
 own sake, I had purposely shown no special interest in what was coming;
 for her own sake, I had purposely looked at the billiard-balls, instead
-of looking at HER–and what had been the result? I had sent her away from
+of looking at _Her_–and what had been the result? I had sent her away from
 me, wounded to the heart! On the Saturday again–on the day when she
 must have foreseen, after what Penelope had told her, that my departure
 was close at hand–the same fatality still pursued us. She had once more
@@ -14411,7 +14411,7 @@ position and future prospects, to interests which concern the living
 people of this narrative, and to events which were already paving my way
 for the slow and toilsome journey from the darkness to the light.
 
-### Chapter VI
+### Chapter _Vi_
 
 I walked to the railway station accompanied, it is needless to say, by
 Gabriel Betteredge. I had the letter in my pocket, and the nightgown
@@ -14433,7 +14433,7 @@ begin surprising me, sir, as soon as you can.”
 “My first question, Betteredge, is this. Was I drunk on the night of
 Rachel’s Birthday?”
 
-“YOU drunk!” exclaimed the old man. “Why it’s the great defect of your
+“_You_ drunk!” exclaimed the old man. “Why it’s the great defect of your
 character, Mr. Franklin that you only drink with your dinner, and never
 touch a drop of liquor afterwards!”
 
@@ -14541,7 +14541,7 @@ we had been shut up together in the seclusion of his own room.
 “Franklin Blake,” said the old gentleman, “this is a very serious
 matter, in more respects than one. In my opinion, it concerns Rachel
 quite as nearly as it concerns you. Her extraordinary conduct is no
-mystery NOW. She believes you have stolen the Diamond.”
+mystery _Now_. She believes you have stolen the Diamond.”
 
 I had shrunk from reasoning my own way fairly to that revolting
 conclusion. But it had forced itself on me, nevertheless. My resolution
@@ -14580,7 +14580,7 @@ objection which I had felt myself.
 
 “As to this,” pursued the lawyer taking up Rosanna Spearman’s
 confession, “I can understand that the letter is a distressing one to
-YOU. I can understand that you may hesitate to analyse it from a purely
+_You_. I can understand that you may hesitate to analyse it from a purely
 impartial point of view. But I am not in your position. I can bring my
 professional experience to bear on this document, just as I should bring
 it to bear on any other. Without alluding to the woman’s career as a
@@ -14588,8 +14588,8 @@ thief, I will merely remark that her letter proves her to have been an
 adept at deception, on her own showing; and I argue from that, that I am
 justified in suspecting her of not having told the whole truth. I won’t
 start any theory, at present, as to what she may or may not have done. I
-will only say that, if Rachel has suspected you ON THE EVIDENCE OF THE
-NIGHTGOWN ONLY, the chances are ninety-nine to a hundred that Rosanna
+will only say that, if Rachel has suspected you _On The Evidence Of The_
+_Nightgown Only_, the chances are ninety-nine to a hundred that Rosanna
 Spearman was the person who showed it to her. In that case, there is the
 woman’s letter, confessing that she was jealous of Rachel, confessing
 that she changed the roses, confessing that she saw a glimpse of hope
@@ -14598,7 +14598,7 @@ don’t stop to ask who took the Moonstone (as a means to her end,
 Rosanna Spearman would have taken fifty Moonstones)–I only say that the
 disappearance of the jewel gave this reclaimed thief who was in love
 with you, an opportunity of setting you and Rachel at variance for the
-rest of your lives. She had not decided on destroying herself, THEN,
+rest of your lives. She had not decided on destroying herself, _Then_,
 remember; and, having the opportunity, I distinctly assert that it was
 in her character, and in her position at the time, to take it. What do
 you say to that?”
@@ -14629,7 +14629,7 @@ your principles generally?”
 
 I started, in ungovernable agitation, to my feet. The lawyer’s question
 reminded me, for the first time since I had left England, that something
-HAD happened.
+_Had_ happened.
 
 In the eighth chapter of Betteredge’s Narrative, an allusion will be
 found to the arrival of a foreigner and a stranger at my aunt’s house,
@@ -14669,7 +14669,7 @@ question at once in the affirmative.
 
 “It would have its effect on her mind,” he said gravely. “And I wish,
 for your sake, the thing had not happened. However, we have discovered
-that there WAS a predisposing influence against you–and there is one
+that there _Was_ a predisposing influence against you–and there is one
 uncertainty cleared out of our way, at any rate. I see nothing more that
 we can do now. Our next step in this inquiry must be the step that takes
 us to Rachel.”
@@ -14702,7 +14702,7 @@ Mr. Bruff’s face softened, for the first time, into a smile.
 “This is how it stands,” he said. “I tell you fairly, I don’t trust your
 discretion, and I don’t trust your temper. But I do trust in Rachel’s
 still preserving, in some remote little corner of her heart, a certain
-perverse weakness for YOU. Touch that–and trust to the consequences for
+perverse weakness for _You_. Touch that–and trust to the consequences for
 the fullest disclosures that can flow from a woman’s lips! The question
 is–how are you to see her?”
 
@@ -14817,7 +14817,7 @@ contrast shook me.
 
 After the lapse of a minute, I roused my manhood, and opened the door.
 
-### Chapter VII
+### Chapter _Vii_
 
 At the moment when I showed myself in the doorway, Rachel rose from the
 piano.
@@ -14882,13 +14882,13 @@ living would have felt humiliated by it.
 instant, and never see you again. You have spoken of what I have done.
 What have I done?”
 
-“What have you done! YOU ask that question of ME?”
+“What have you done! _You_ ask that question of _Me_?”
 
 “I ask it.”
 
 “I have kept your infamy a secret,” she answered. “And I have suffered
 the consequences of concealing it. Have I no claim to be spared the
-insult of your asking me what you have done? Is ALL sense of gratitude
+insult of your asking me what you have done? Is _All_ sense of gratitude
 dead in you? You were once a gentleman. You were once dear to my mother,
 and dearer still to me—-”
 
@@ -14935,18 +14935,18 @@ She went on, without heeding me.
 about the future, in which I am concerned? They say your father’s death
 has made you a rich man. Have you come here to compensate me for the
 loss of my Diamond? And have you heart enough left to feel ashamed of
-your errand? Is THAT the secret of your pretence of innocence, and your
+your errand? Is _That_ the secret of your pretence of innocence, and your
 story about Rosanna Spearman? Is there a motive of shame at the bottom
 of all the falsehood, this time?”
 
 I stopped her there. I could control myself no longer.
 
 “You have done me an infamous wrong!” I broke out hotly. “You suspect
-me of stealing your Diamond. I have a right to know, and I WILL know,
+me of stealing your Diamond. I have a right to know, and _I Will_ know,
 the reason why!”
 
-“Suspect you!” she exclaimed, her anger rising with mine. “YOU VILLAIN,
-I SAW YOU TAKE THE DIAMOND WITH MY OWN EYES!”
+“Suspect you!” she exclaimed, her anger rising with mine. “_You Villain_,
+_I Saw You Take The Diamond With My Own Eyes_!”
 
 The revelation which burst upon me in those words, the overthrow which
 they instantly accomplished of the whole view of the case on which
@@ -15260,7 +15260,7 @@ to have lashed her on the instant into a frenzy of rage.
 
 “Explain myself!” she repeated. “Oh! is there another man like this in
 the world? I spare him, when my heart is breaking; I screen him when my
-own character is at stake; and HE–of all human beings, HE–turns on me
+own character is at stake; and _He_–of all human beings, _He_–turns on me
 now, and tells me that I ought to have explained myself! After
 believing in him as I did, after loving him as I did, after thinking of
 him by day, and dreaming of him by night–he wonders I didn’t charge him
@@ -15271,8 +15271,8 @@ to have said. You villain, you mean, mean, mean villain, I would have
 lost fifty diamonds, rather than see your face lying to me, as I see it
 lying now!”
 
-I took up my hat. In mercy to HER–yes! I can honestly say it–in mercy
-to HER, I turned away without a word, and opened the door by which I had
+I took up my hat. In mercy to _Her_–yes! I can honestly say it–in mercy
+to _Her_, I turned away without a word, and opened the door by which I had
 entered the room.
 
 She followed, and snatched the door out of my hand; she closed it, and
@@ -15344,7 +15344,7 @@ morning? Just as my little plan was complete, what did I hear? I heard
 that you–you!!!–were the foremost person in the house in fetching the
 police. You were the active man; you were the leader; you were working
 harder than any of them to recover the jewel! You even carried your
-audacity far enough to ask to speak to ME about the loss of the
+audacity far enough to ask to speak to _Me_ about the loss of the
 Diamond–the Diamond which you yourself had stolen; the Diamond which
 was all the time in your own hands! After that proof of your horrible
 falseness and cunning, I tore up my letter. But even then–even when I
@@ -15372,7 +15372,7 @@ on the terrace?
 “It may suit your convenience to forget; it suits my convenience to
 remember,” she went on. “I know what I said–for I considered it with
 myself, before I said it. I gave you one opportunity after another of
-owning the truth. I left nothing unsaid that I COULD say–short of
+owning the truth. I left nothing unsaid that _I Could_ say–short of
 actually telling you that I knew you had committed the theft. And all
 the return you made, was to look at me with your vile pretence of
 astonishment, and your false face of innocence–just as you have looked
@@ -15387,19 +15387,19 @@ knowing that you had cruelly wronged an innocent man.”
 burst of indignation, “you would have been disgraced for life! If I had
 spoken out to no ears but yours, you would have denied it, as you are
 denying it now! Do you think I should have believed you? Would a man
-hesitate at a lie, who had done what I saw YOU do–who had behaved about
-it afterwards, as I saw YOU behave? I tell you again, I shrank from the
+hesitate at a lie, who had done what I saw _You_ do–who had behaved about
+it afterwards, as I saw _You_ behave? I tell you again, I shrank from the
 horror of hearing you lie, after the horror of seeing you thieve. You
 talk as if this was a misunderstanding which a few words might have set
 right! Well! the misunderstanding is at an end. Is the thing set
-right? No! the thing is just where it was. I don’t believe you NOW! I
+right? No! the thing is just where it was. I don’t believe you _Now_! I
 don’t believe you found the nightgown, I don’t believe in Rosanna
 Spearman’s letter, I don’t believe a word you have said. You stole it–I
 saw you! You affected to help the police–I saw you! You pledged the
 Diamond to the money-lender in London–I am sure of it! You cast the
 suspicion of your disgrace (thanks to my base silence!) on an innocent
 man! You fled to the Continent with your plunder the next morning!
-After all that vileness, there was but one thing more you COULD do. You
+After all that vileness, there was but one thing more you _Could_ do. You
 could come here with a last falsehood on your lips–you could come here,
 and tell me that I have wronged you!”
 
@@ -15428,7 +15428,7 @@ weakness which can only struggle against you in this way!” She suddenly
 let go of me–she threw up her hands, and wrung them frantically in the
 air. “Any other woman living would shrink from the disgrace of touching
 him!” she exclaimed. “Oh, God! I despise myself even more heartily
-than I despise HIM!”
+than I despise _Him_!”
 
 The tears were forcing their way into my eyes in spite of me–the horror
 of it was to be endured no longer.
@@ -15441,7 +15441,7 @@ had dropped the moment before: she started up–the noble creature!–and
 followed me across the outer room, with a last merciful word at parting.
 
 “Franklin!” she said, “I forgive you! Oh, Franklin, Franklin! we
-shall never meet again. Say you forgive ME!”
+shall never meet again. Say you forgive _Me_!”
 
 I turned, so as to let my face show her that I was past speaking–I
 turned, and waved my hand, and saw her dimly, as in a vision, through
@@ -15450,7 +15450,7 @@ the tears that had conquered me at last.
 The next moment, the worst bitterness of it was over. I was out in the
 garden again. I saw her, and heard her, no more.
 
-### Chapter VIII
+### Chapter _Viii_
 
 Late that evening, I was surprised at my lodgings by a visit from
 Mr. Bruff.
@@ -15519,8 +15519,8 @@ advice may be worth having for all that. I tell you plainly, we shall be
 wasting our time, and cudgelling our brains to no purpose, if we attempt
 to try back, and unravel this frightful complication from the beginning.
 Let us close our minds resolutely to all that happened last year at Lady
-Verinder’s country house; and let us look to what we CAN discover in the
-future, instead of to what we can NOT discover in the past.”
+Verinder’s country house; and let us look to what we _Can_ discover in the
+future, instead of to what we can _Not_ discover in the past.”
 
 “Surely you forget,” I said, “that the whole thing is essentially a
 matter of the past–so far as I am concerned?”
@@ -16030,7 +16030,7 @@ floor of the house, and a gentle voice said behind me:–
 
 I turned round, and found myself face to face with Ezra Jennings.
 
-### Chapter IX
+### Chapter _Ix_
 
 The doctor’s pretty housemaid stood waiting for me, with the street door
 open in her hand. Pouring brightly into the hall, the morning light fell
@@ -16105,9 +16105,9 @@ could but completely forget!”
 memory of which they would be unwilling entirely to lose?”
 
 “That is, I hope, to be said of most men, Mr. Blake. I am afraid it
-cannot truly be said of ALL. Have you any reason to suppose that the
+cannot truly be said of _All_. Have you any reason to suppose that the
 lost remembrance which Mr. Candy tried to recover–while you were
-speaking to him just now–was a remembrance which it was important to YOU
+speaking to him just now–was a remembrance which it was important to _You_
 that he should recall?”
 
 In saying those words, he had touched, of his own accord, on the very
@@ -16118,7 +16118,7 @@ side, in relation to his employer, until I was first satisfied that he
 was a person in whose delicacy and discretion I could trust. The little
 that he had said, thus far, had been sufficient to convince me that I
 was speaking to a gentleman. He had what I may venture to describe as
-the UNSOUGHT SELF-POSSESSION, which is a sure sign of good breeding, not
+the _Unsought Self_-_Possession_, which is a sure sign of good breeding, not
 in England only, but everywhere else in the civilised world. Whatever
 the object which he had in view, in putting the question that he had
 just addressed to me, I felt no doubt that I was justified–so far–in
@@ -16252,7 +16252,7 @@ the dose. After an interval of suspense–the like of which I hope to God
 I shall never feel again–there came a day when the rapidity of the pulse
 slightly, but appreciably, diminished; and, better still, there came
 also a change in the beat–an unmistakable change to steadiness and
-strength. THEN, I knew that I had saved him; and then I own I broke
+strength. _Then_, I knew that I had saved him; and then I own I broke
 down. I laid the poor fellow’s wasted hand back on the bed, and burst
 out crying. An hysterical relief, Mr. Blake–nothing more! Physiology
 says, and says truly, that some men are born with female
@@ -16320,9 +16320,9 @@ wanderings?”
 
 “You shall hear, Mr. Blake. Among my written proofs of the assertion
 which I have just advanced–or, I ought to say, among the written
-experiments, tending to put my assertion to the proof–there IS one, in
+experiments, tending to put my assertion to the proof–there _Is_ one, in
 which your name occurs. For nearly the whole of one night, Mr. Candy’s
-mind was occupied with SOMETHING between himself and you. I have got the
+mind was occupied with _Something_ between himself and you. I have got the
 broken words, as they dropped from his lips, on one sheet of paper. And
 I have got the links of my own discovering which connect those words
 together, on another sheet of paper. The product (as the arithmeticians
@@ -16455,7 +16455,7 @@ that moment, to say which–leapt up in him and showed themselves to me,
 with the suddenness of a flash of light.
 
 “Before you place any confidence in me,” he went on, “you ought to know,
-and you MUST know, under what circumstances I have been received into
+and you _Must_ know, under what circumstances I have been received into
 Mr. Candy’s house. It won’t take long. I don’t profess, sir, to tell my
 story (as the phrase is) to any man. My story will die with me. All I
 ask, is to be permitted to tell you, what I have told Mr. Candy. If you
@@ -16975,7 +16975,7 @@ witnesses whose testimony is beyond dispute.”
 
 I started to my feet. I tried to speak. I could only look at him.
 
-“I believe it CAN be done,” he went on. “And it shall be done–if you
+“I believe it _Can_ be done,” he went on. “And it shall be done–if you
 will only help me. Try to compose yourself–sit down, and hear what I
 have to say to you. You have resumed the habit of smoking; I have seen
 that for myself. How long have you resumed it.”
@@ -17038,7 +17038,7 @@ passage, marked by pencil lines.
 direct bearing on your own position, and on the experiment which I am
 tempting you to try. Observe, Mr. Blake, before you begin, that I am now
 referring you to one of the greatest of English physiologists. The book
-in your hand is Doctor Elliotson’s HUMAN PHYSIOLOGY; and the case which
+in your hand is Doctor Elliotson’s _Human Physiology_; and the case which
 the doctor cites rests on the well-known authority of Mr. Combe.”
 
 The passage pointed out to me was expressed in these terms:–
@@ -17104,8 +17104,8 @@ own mind, and in the minds of your friends.”
 He handed me the second of the two books which he had by him on the
 table.
 
-“There,” he said, “are the far-famed CONFESSIONS OF AN ENGLISH OPIUM
-EATER! Take the book away with you, and read it. At the passage which I
+“There,” he said, “are the far-famed _Confessions Of An English Opium_
+_Eater_! Take the book away with you, and read it. At the passage which I
 have marked, you will find that when De Quincey had committed what he
 calls ‘a debauch of opium,’ he either went to the gallery at the Opera
 to enjoy the music, or he wandered about the London markets on Saturday
@@ -17211,7 +17211,7 @@ anxiously to hear how he would defend it.
 opium–after impelling you to possess yourself of the Diamond, with the
 purpose of securing its safety–might also impel you, acting under the
 same influence and the same motive, to hide it somewhere in your own
-room. YOU assume that the Hindoo conspirators could by no possibility
+room. _You_ assume that the Hindoo conspirators could by no possibility
 commit a mistake. The Indians went to Mr. Luker’s house after the
 Diamond–and, therefore, in Mr. Luker’s possession the Diamond must be!
 Have you any evidence to prove that the Moonstone was taken to London at
@@ -17322,7 +17322,7 @@ opium was tried, and how it ended.
 
 ## Fourth Narrative
 
-Extracted from the Journal of EZRA JENNINGS
+Extracted from the Journal of _Ezra Jennings_
 
 1849.–June 15…. With some interruption from patients, and some
 interruption from pain, I finished my letter to Miss Verinder in time
@@ -17393,7 +17393,7 @@ was going away for a fortnight, on a visit to a friend in the south of
 England. He gave me as many special directions, poor fellow, about the
 patients, as if he still had the large practice which he possessed
 before he was taken ill. The practice is worth little enough now! Other
-doctors have superseded HIM; and nobody who can help it will employ me.
+doctors have superseded _Him_; and nobody who can help it will employ me.
 
 It is perhaps fortunate that he is to be away just at this time. He
 would have been mortified if I had not informed him of the experiment
@@ -17445,7 +17445,7 @@ Here, again, there is a motive under the surface; and, here again, I
 fancy that I can find it out.
 
 What she has forbidden me to tell Mr. Franklin Blake, she is (as I
-interpret it) eager to tell him with her own lips, BEFORE he is put to
+interpret it) eager to tell him with her own lips, _Before_ he is put to
 the test which is to vindicate his character in the eyes of other
 people. I understand and admire this generous anxiety to acquit him,
 without waiting until his innocence may, or may not, be proved. It is
@@ -17540,7 +17540,7 @@ I asked next if he had heard from Mr. Bruff.
 A letter had reached him that morning. Mr. Bruff expressed the strongest
 disapproval of the course which his friend and client was taking under
 my advice. It was mischievous–for it excited hopes that might never be
-realised. It was quite unintelligible to HIS mind, except that it looked
+realised. It was quite unintelligible to _His_ mind, except that it looked
 like a piece of trickery, akin to the trickery of mesmerism,
 clairvoyance, and the like. It unsettled Miss Verinder’s house, and it
 would end in unsettling Miss Verinder herself. He had put the case
@@ -17612,7 +17612,7 @@ Betteredge, with infinite relish of his own description of himself.
 
 “I am very sorry,” I began, “that you and I don’t agree—-”
 
-“Don’t bring ME, into it!” interposed Betteredge. “This is not a matter
+“Don’t bring _Me_, into it!” interposed Betteredge. “This is not a matter
 of agreement, it’s a matter of obedience. Issue your directions,
 sir–issue your directions!”
 
@@ -17698,7 +17698,7 @@ I made another concession, and Betteredge made another note.
 “As to the second corridor,” he went on. “There having been nothing in
 it, last year, but the doors of the rooms (to every one of which I can
 swear, if necessary), my mind is easy, I admit, respecting that part of
-the house only. But, as to Mr. Franklin’s bedroom (if THAT is to be put
+the house only. But, as to Mr. Franklin’s bedroom (if _That_ is to be put
 back to what it was before), I want to know who is responsible for
 keeping it in a perpetual state of litter, no matter how often it may be
 set right–his trousers here, his towels there, and his French novels
@@ -17840,9 +17840,9 @@ established in the cases of the stuffed buzzard, and the Cupid’s wing.
 To my great surprise, Betteredge laid his hand confidentially on my arm,
 and put this extraordinary question to me:
 
-“Mr. Jennings, do you happen to be acquainted with ROBINSON CRUSOE?”
+“Mr. Jennings, do you happen to be acquainted with _Robinson Crusoe_?”
 
-I answered that I had read ROBINSON CRUSOE when I was a child.
+I answered that I had read _Robinson Crusoe_ when I was a child.
 
 “Not since then?” inquired Betteredge.
 
@@ -17851,8 +17851,8 @@ I answered that I had read ROBINSON CRUSOE when I was a child.
 He fell back a few steps, and looked at me with an expression of
 compassionate curiosity, tempered by superstitious awe.
 
-“He has not read ROBINSON CRUSOE since he was a child,” said Betteredge,
-speaking to himself–not to me. “Let’s try how ROBINSON CRUSOE strikes
+“He has not read _Robinson Crusoe_ since he was a child,” said Betteredge,
+speaking to himself–not to me. “Let’s try how _Robinson Crusoe_ strikes
 him now!”
 
 He unlocked a cupboard in a corner, and produced a dirty and dog’s-eared
@@ -17909,16 +17909,16 @@ extraordinary care; he wheeled round, and stared hard at me once more.
 Then he spoke.
 
 “Sir,” he said gravely, “there are great allowances to be made for a man
-who has not read ROBINSON CRUSOE since he was a child. I wish you good
+who has not read _Robinson Crusoe_ since he was a child. I wish you good
 morning.”
 
 He opened his door with a low bow, and left me at liberty to find my own
 way into the garden. I met Mr. Blake returning to the house.
 
 “You needn’t tell me what has happened,” he said. “Betteredge has played
-his last card: he has made another prophetic discovery in ROBINSON
-CRUSOE. Have you humoured his favourite delusion? No? You have let him
-see that you don’t believe in ROBINSON CRUSOE? Mr. Jennings! you have
+his last card: he has made another prophetic discovery in _Robinson_
+_Crusoe_. Have you humoured his favourite delusion? No? You have let him
+see that you don’t believe in _Robinson Crusoe_? Mr. Jennings! you have
 fallen to the lowest possible place in Betteredge’s estimation. Say what
 you like, and do what you like, for the future. You will find that he
 won’t waste another word on you now.”
@@ -17937,7 +17937,7 @@ it has decided me to return to the opium. I shall close this book, and
 take my full dose–five hundred drops.
 
 June 22nd.–Our prospects look better to-day. Mr. Blake’s nervous
-suffering is greatly allayed. He slept a little last night. MY night,
+suffering is greatly allayed. He slept a little last night. _My_ night,
 thanks to the opium, was the night of a man who is stunned. I can’t say
 that I woke this morning; the fitter expression would be, that I
 recovered my senses.
@@ -17958,7 +17958,7 @@ to keep him, if possible, in the same state in which I find him to-day.
 In the meanwhile, I have prevailed on him to write to Mr. Bruff, making
 a point of it that he shall be present as one of the witnesses. I
 especially choose the lawyer, because he is strongly prejudiced against
-us. If we convince HIM, we place our victory beyond the possibility of
+us. If we convince _Him_, we place our victory beyond the possibility of
 dispute.
 
 Mr. Blake has also written to Sergeant Cuff; and I have sent a line to
@@ -18026,7 +18026,7 @@ I will endeavour, in my relations with Mrs. Merridew, to emulate the
 moderation which Betteredge displays in his relations with me. He
 received us to-day, portentously arrayed in his best black suit, and his
 stiffest white cravat. Whenever he looks my way, he remembers that I
-have not read ROBINSON CRUSOE since I was a child, and he respectfully
+have not read _Robinson Crusoe_ since I was a child, and he respectfully
 pities me.
 
 Yesterday, also, Mr. Blake had the lawyer’s answer. Mr. Bruff accepts
@@ -18200,7 +18200,7 @@ nervously with a flower which I had picked in the garden, and which I
 had put into the button-hole of my coat.
 
 “You have seen a great deal of him lately,” she said. “Have you, really
-and truly, seen THAT?”
+and truly, seen _That_?”
 
 “Really and truly,” I answered. “I am quite certain of what will happen
 to-morrow. I wish I could feel as certain of what will happen to-night.”
@@ -18241,7 +18241,7 @@ in the programme on this occasion.
 
 “No,” said the old lady. “I am much obliged to Mr. Jennings–I am aware
 that he is only deceiving me for my own good. I prefer plain dealing. I
-am quite resigned to the explosion–but I DO want to get it over, if
+am quite resigned to the explosion–but _I Do_ want to get it over, if
 possible, before I go to bed.”
 
 Here the door opened, and Mrs. Merridew uttered another little scream.
@@ -18316,9 +18316,9 @@ second dose until that time.
 We talked a little; but both our minds were preoccupied by the coming
 ordeal. The conversation soon flagged–then dropped altogether. Mr. Blake
 idly turned over the books on his bedroom table. I had taken the
-precaution of looking at them, when we first entered the room. THE
-GUARDIAN; THE TATLER; Richardson’s PAMELA; Mackenzie’s MAN OF FEELING;
-Roscoe’s LORENZO DE MEDICI; and Robertson’s CHARLES THE FIFTH–all
+precaution of looking at them, when we first entered the room. _The_
+_Guardian_; _The Tatler_; Richardson’s _Pamela_; Mackenzie’s _Man Of Feeling_;
+Roscoe’s _Lorenzo De Medici_; and Robertson’s _Charles The Fifth_–all
 classical works; all (of course) immeasurably superior to anything
 produced in later times; and all (from my present point of view)
 possessing the one great merit of enchaining nobody’s interest, and
@@ -18396,7 +18396,7 @@ Mr. Blake’s room, and of waiting to see what happens.”
 
 “Oh, very good!” said Mr. Bruff. “My room, or Mr. Blake’s room–it
 doesn’t matter which; I can go on with my papers anywhere. Unless you
-object, Mr. Jennings, to my importing THAT amount of common sense into
+object, Mr. Jennings, to my importing _That_ amount of common sense into
 the proceedings?”
 
 Before I could answer, Mr. Blake addressed himself to the lawyer,
@@ -18441,7 +18441,7 @@ again in the same way, musn’t it?”
 
 “Are you sure you can control yourself, Miss Verinder?”
 
-“In HIS interests, I can do anything!” she answered fervently.
+“In _His_ interests, I can do anything!” she answered fervently.
 
 One look at her face told me that I could trust her. I addressed myself
 again to Mr. Bruff.
@@ -18522,12 +18522,12 @@ Mr. Bruff resumed his papers, with every appearance of being as deeply
 interested in them as ever. But looking towards him now, I saw certain
 signs and tokens which told me that the Law was beginning to lose its
 hold on him at last. The suspended interest of the situation in which we
-were now placed was slowly asserting its influence even on HIS
+were now placed was slowly asserting its influence even on _His_
 unimaginative mind. As for Betteredge, consistency of principle and
 dignity of conduct had become, in his case, mere empty words. He forgot
 that I was performing a conjuring trick on Mr. Franklin Blake; he forgot
 that I had upset the house from top to bottom; he forgot that I had not
-read ROBINSON CRUSOE since I was a child. “For the Lord’s sake, sir,” he
+read _Robinson Crusoe_ since I was a child. “For the Lord’s sake, sir,” he
 whispered to me, “tell us when it will begin to work.”
 
 “Not before midnight,” I whispered back. “Say nothing, and sit still.”
@@ -18650,7 +18650,7 @@ peculiarity in him, feeling the influence in some new way? Were we to
 fail on the very brink of success?
 
 No! He got up again abruptly. “How the devil am I to sleep,” he said,
-“with THIS on my mind?”
+“with _This_ on my mind?”
 
 He looked at the light, burning on the table at the head of his bed.
 After a moment, he took the candle in his hand.
@@ -18822,7 +18822,7 @@ inestimable service. In our legal phrase, you have proved your case.”
 
 Betteredge’s apology was characteristic of the man.
 
-“Mr. Jennings,” he said, “when you read ROBINSON CRUSOE again (which I
+“Mr. Jennings,” he said, “when you read _Robinson Crusoe_ again (which I
 strongly recommend you to do), you will find that he never scruples to
 acknowledge it, when he turns out to have been in the wrong. Please to
 consider me, sir, as doing what Robinson Crusoe did, on the present
@@ -18944,7 +18944,7 @@ a happy time.
 
 ## Fifth Narrative
 
-The Story Resumed by FRANKLIN BLAKE
+The Story Resumed by _Franklin Blake_
 
 ### Chapter I
 
@@ -19153,7 +19153,7 @@ unborn.”
 I asked what was to be done next.
 
 “Come back to my office,” said Mr. Bruff. “Gooseberry, and my second
-man, have evidently followed somebody else. Let us hope that THEY had
+man, have evidently followed somebody else. Let us hope that _They_ had
 their eyes about them at any rate!”
 
 When we reached Gray’s Inn Square, the second man had arrived there
@@ -19233,7 +19233,7 @@ opened. I started to my feet, and confronted–Sergeant Cuff.
 in town, before I wrote to Yorkshire,” said the Sergeant.
 
 He was as dreary and as lean as ever. His eyes had not lost their old
-trick (so subtly noticed in Betteredge’s NARRATIVE) of “looking as if
+trick (so subtly noticed in Betteredge’s _Narrative_) of “looking as if
 they expected something more from you than you were aware of yourself.”
 But, so far as dress can alter a man, the great Cuff was changed beyond
 all recognition. He wore a broad-brimmed white hat, a light shooting
@@ -19243,8 +19243,8 @@ country all his life. When I complimented him on his Metamorphosis, he
 declined to take it as a joke. He complained, quite gravely, of the
 noises and the smells of London. I declare I am far from sure that he
 did not speak with a slightly rustic accent! I offered him breakfast.
-The innocent countryman was quite shocked. HIS breakfast hour was
-half-past six–and HE went to bed with the cocks and hens!
+The innocent countryman was quite shocked. _His_ breakfast hour was
+half-past six–and _He_ went to bed with the cocks and hens!
 
 “I only got back from Ireland last night,” said the Sergeant, coming
 round to the practical object of his visit, in his own impenetrable
@@ -19473,7 +19473,7 @@ substance in question has never been found yet.”
 “Well, Mr. Blake, he saw the sailor reading the newspaper at one table,
 and the mechanic reading the newspaper at another. It was dusk before
 the sailor got up, and left the place. He looked about him suspiciously
-when he got out into the street. The boy–BEING a boy–passed unnoticed.
+when he got out into the street. The boy–_Being_ a boy–passed unnoticed.
 The mechanic had not come out yet. The sailor walked on, looking about
 him, and apparently not very certain of where he was going next. The
 mechanic appeared once more, on the opposite side of the road. The
@@ -19618,7 +19618,7 @@ anything about him?”
 
 “See him?” echoed the landlord. “That’s the one thing that nobody has
 been able to do since seven o’clock this morning. That was the time when
-he left word, last night, that he was to be called. He WAS called–and
+he left word, last night, that he was to be called. He _Was_ called–and
 there was no getting an answer from him, and no opening his door to see
 what was the matter. They tried again at eight, and they tried again at
 nine. No use! There was the door still locked–and not a sound to be
@@ -19773,18 +19773,18 @@ I opened the letter.
 
 “Read the name, Mr. Blake, that I have written inside.”
 
-I read the name that he had written. It was GODFREY ABLEWHITE.
+I read the name that he had written. It was _Godfrey Ablewhite_.
 
 “Now,” said the Sergeant, “come with me, and look at the man on the
 bed.”
 
 I went with him, and looked at the man on the bed.
 
-GODFREY ABLEWHITE!
+_Godfrey Ablewhite_!
 
 ## Sixth Narrative
 
-Contributed by SERGEANT CUFF
+Contributed by _Sergeant Cuff_
 
 ### Chapter I
 
@@ -19810,7 +19810,7 @@ such discoveries as I have made, respecting the proceedings of
 Mr. Godfrey Ablewhite, before, during and after the time, when you and
 he met as guests at the late Lady Verinder’s country-house.
 
-### Chapter II
+### Chapter _Ii_
 
 As to your cousin’s death, then, first.
 
@@ -19925,7 +19925,7 @@ of Mr. Godfrey Ablewhite’s death, I may pass next to the narrative of
 his proceedings before, during, and after the time, when you and he met
 at the late Lady Verinder’s house.
 
-### Chapter III
+### Chapter _Iii_
 
 With regard to the subject now in hand, I may state, at the outset, that
 Mr. Godfrey Ablewhite’s life had two sides to it.
@@ -20032,7 +20032,7 @@ I, together, have found a means of forcing the money-lender to make a
 clean breast of it. We have carefully sifted the statement he has
 addressed to us; and here it is at your service.
 
-### Chapter IV
+### Chapter _Iv_
 
 Late on the evening of Friday, the twenty-third of June (’forty-eight),
 Mr. Luker was surprised by a visit from Mr. Godfrey Ablewhite. He was
@@ -20047,7 +20047,7 @@ undertake to sell it on commission, and to pay a sum down, on the
 anticipated result?
 
 Mr. Luker tested the Diamond, weighed the Diamond and estimated the
-value of the Diamond, before he answered a word. HIS estimate (allowing
+value of the Diamond, before he answered a word. _His_ estimate (allowing
 for the flaw in the stone) was thirty thousand pounds.
 
 Having reached that result, Mr. Luker opened his lips, and put a
@@ -20092,7 +20092,7 @@ the door and the post, before he ventured into the room himself.
 
 In that position, he not only detected you in taking the Diamond out of
 the drawer–he also detected Miss Verinder, silently watching you from
-her bedroom, through her open door. His own eyes satisfied him that SHE
+her bedroom, through her open door. His own eyes satisfied him that _She_
 saw you take the Diamond, too.
 
 Before you left the sitting-room again, you hesitated a little.
@@ -20135,7 +20135,7 @@ test of the truth of the story to be a perfectly reliable one.
 The next question, was the question of what Mr. Luker would do in the
 matter of the Moonstone. He proposed the following terms, as the only
 terms on which he would consent to mix himself up with, what was (even
-in HIS line of business) a doubtful and dangerous transaction.
+in _His_ line of business) a doubtful and dangerous transaction.
 
 Mr. Luker would consent to lend Mr. Godfrey Ablewhite the sum of two
 thousand pounds, on condition that the Moonstone was to be deposited
@@ -20192,7 +20192,7 @@ accepted) he consented, at her request, to consider the marriage as
 broken off. One of his reasons for making this concession has been
 penetrated by Mr. Bruff. Miss Verinder had only a life interest in her
 mother’s property–and there was no raising the twenty thousand pounds on
-THAT.
+_That_.
 
 But you will say, he might have saved the three thousand pounds, to
 redeem the pledged Diamond, if he had married. He might have done so
@@ -20210,7 +20210,7 @@ him no more hope of raising the “provision” than of raising the twenty
 thousand pounds. He couldn’t marry–he really couldn’t marry, under all
 the circumstances.
 
-How he tried his luck again with another lady, and how THAT marriage
+How he tried his luck again with another lady, and how _That_ marriage
 also broke down on the question of money, you know already. You also
 know of the legacy of five thousand pounds, left to him shortly
 afterwards, by one of those many admirers among the soft sex whose good
@@ -20238,15 +20238,15 @@ no other port on her way out; and the authorities at Bombay (already
 communicated with by letter, overland) will be prepared to board the
 vessel, the moment she enters the harbour.
 
-I have the honour to remain, dear sir, your obedient servant, RICHARD
-CUFF (late sergeant in the Detective Force, Scotland Yard,
+I have the honour to remain, dear sir, your obedient servant, _Richard_
+_Cuff_ (late sergeant in the Detective Force, Scotland Yard,
 London).[^fn3]
 
-[^fn3]: NOTE.–Wherever the Report touches on the events of the birthday, or of the three days that followed it, compare with Betteredge’s Narrative, chapters viii. to xiii.
+[^fn3]: _Note_.–Wherever the Report touches on the events of the birthday, or of the three days that followed it, compare with Betteredge’s Narrative, chapters viii. to xiii.
 
 ## Seventh Narrative
 
-In a Letter from MR. CANDY
+In a Letter from _Mr_. _Candy_
 
 Frizinghall, Wednesday, September 26th, 1849.–Dear Mr. Franklin Blake,
 you will anticipate the sad news I have to tell you, on finding your
@@ -20326,11 +20326,11 @@ them to the post.
 My best respects and good wishes attend Miss Verinder. I remain, dear
 Mr. Franklin Blake, truly yours,
 
-THOMAS CANDY.
+_Thomas Candy_.
 
 ## Eighth Narrative
 
-Contributed by GABRIEL BETTEREDGE
+Contributed by _Gabriel Betteredge_
 
 I am the person (as you remember no doubt) who led the way in these
 pages, and opened the story. I am also the person who is left behind, as
@@ -20361,7 +20361,7 @@ to come.
 Having, then, taken my drop (bless you! you have got your favourite
 vice, too; only your vice isn’t mine, and mine isn’t yours), I next
 applied the one infallible remedy–that remedy being, as you know,
-ROBINSON CRUSOE. Where I opened that unrivalled book, I can’t say. Where
+_Robinson Crusoe_. Where I opened that unrivalled book, I can’t say. Where
 the lines of print at last left off running into each other, I know,
 however, perfectly well. It was at page three hundred and eighteen–a
 domestic bit concerning Robinson Crusoe’s marriage, as follows:
@@ -20398,11 +20398,11 @@ Mr. Franklin stared like a person thunderstruck. “May I venture to
 inquire where you got your information?” he asked. “I only got mine
 (imparted in the strictest secrecy) five minutes since.”
 
-Here was an opportunity of producing ROBINSON CRUSOE! Here was a chance
+Here was an opportunity of producing _Robinson Crusoe_! Here was a chance
 of reading that domestic bit about the child which I had marked on the
 day of Mr. Franklin’s marriage! I read those miraculous words with an
 emphasis which did them justice, and then I looked him severely in the
-face. “NOW, sir, do you believe in ROBINSON CRUSOE?” I asked, with a
+face. “_Now_, sir, do you believe in _Robinson Crusoe_?” I asked, with a
 solemnity, suitable to the occasion.
 
 “Betteredge!” says Mr. Franklin, with equal solemnity, “I’m convinced
@@ -20411,7 +20411,7 @@ at last.” He shook hands with me–and I felt that I had converted him.
 With the relation of this extraordinary circumstance, my reappearance in
 these pages comes to an end. Let nobody laugh at the unique anecdote
 here related. You are welcome to be as merry as you please over
-everything else I have written. But when I write of ROBINSON CRUSOE, by
+everything else I have written. But when I write of _Robinson Crusoe_, by
 the Lord it’s serious–and I request you to take it accordingly!
 
 When this is said, all is said. Ladies and gentlemen, I make my bow, and
@@ -20419,11 +20419,11 @@ shut up the story.
 
 ## Epilogue
 
-THE FINDING OF THE DIAMOND
+_The Finding Of The Diamond_
 
 ### Chapter I
 
-The Statement of SERGEANT CUFF’S MAN (1849)
+The Statement of _Sergeant Cuff_’_S Man_ (1849)
 
 On the twenty-seventh of June last, I received instructions from
 Sergeant Cuff to follow three men; suspected of murder, and described as
@@ -20449,8 +20449,8 @@ beforehand, as a means of preventing their being traced, I lost no time
 in returning to England. I left the steamer at Gravesend, and discovered
 that the Indians had gone from that place to London. Thence, I again
 traced them as having left for Plymouth. Inquiries made at Plymouth
-proved that they had sailed, forty-eight hours previously, in the BEWLEY
-CASTLE, East Indiaman, bound direct to Bombay.
+proved that they had sailed, forty-eight hours previously, in the _Bewley_
+_Castle_, East Indiaman, bound direct to Bombay.
 
 On receiving this intelligence, Sergeant Cuff caused the authorities at
 Bombay to be communicated with, overland–so that the vessel might be
@@ -20458,13 +20458,13 @@ boarded by the police immediately on her entering the port. This step
 having been taken, my connection with the matter came to an end. I have
 heard nothing more of it since that time.
 
-### Chapter II
+### Chapter _Ii_
 
-The Statement of THE CAPTAIN (1849)
+The Statement of _The Captain_ (1849)
 
 I am requested by Sergeant Cuff to set in writing certain facts,
 concerning three men (believed to be Hindoos) who were passengers, last
-summer, in the ship BEWLEY CASTLE, bound for Bombay direct, under my
+summer, in the ship _Bewley Castle_, bound for Bombay direct, under my
 command.
 
 The Hindoos joined us at Plymouth. On the passage out I heard no
@@ -20510,11 +20510,11 @@ them, and to my owners.
 Since that time, nothing has been heard to my knowledge of the three
 Hindoos. I have no more to add to what is here written.
 
-### Chapter III
+### Chapter _Iii_
 
-The Statement of MR. MURTHWAITE (1850)
+The Statement of _Mr_. _Murthwaite_ (1850)
 
-(In a letter to MR. BRUFF)
+(In a letter to _Mr_. _Bruff_)
 
 Have you any recollection, my dear sir, of a semi-savage person whom you
 met out at dinner, in London, in the autumn of ’forty-eight? Permit me
@@ -20537,7 +20537,7 @@ understand, when I tell you that even the husbandmen plough the land,
 armed to the teeth), the population is fanatically devoted to the old
 Hindoo religion–to the ancient worship of Bramah and Vishnu. The few
 Mahometan families, thinly scattered about the villages in the interior,
-are afraid to taste meat of any kind. A Mahometan even suspected of
+are afraid to taste meat of any kind. _A M_ahometan even suspected of
 killing that sacred animal, the cow, is, as a matter of course, put to
 death without mercy in these parts by the pious Hindoo neighbours who
 surround him. To strengthen the religious enthusiasm of the people, two
