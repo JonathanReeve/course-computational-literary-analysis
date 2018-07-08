@@ -210,9 +210,9 @@ He answered, “That is all.”
 
 I turned my back on him; and we have not spoken since.
 
-### _Iv_
+### _Iv
 
-I beg it to be understood that what I write here about my cousin (unless
+I_ beg it to be understood that what I write here about my cousin (unless
 some necessity should arise for making it public) is for the information
 of the family only. Herncastle has said nothing that can justify me in
 speaking to our commanding officer. He has been taunted more than once
@@ -248,7 +248,7 @@ gives the Diamond away.
 
 ### First Period
 
-_The Loss Of The Diamond_ (1848)
+_The Loss Of the Diamond_ (1848)
 
 The events related by _Gabriel Betteredge_, house-steward in the service
 of _Julia_, _Lady Verinder_.
@@ -330,10 +330,10 @@ as the saying of an ignorant man, when I express my opinion that such a
 book as _Robinson Crusoe_ never was written, and never will be written
 again. I have tried that book for years–generally in combination with a
 pipe of tobacco–and I have found it my friend in need in all the
-necessities of this mortal life. When my spirits are bad–_Robinson_
-_Crusoe_. When I want advice–_Robinson Crusoe_. In past times when my wife
-plagued me; in present times when I have had a drop too much–_Robinson_
-_Crusoe_. I have worn out six stout _Robinson Crusoes_ with hard work in my
+necessities of this mortal life. When my spirits are bad–_Robinson
+Crusoe_. When I want advice–_Robinson Crusoe_. In past times when my wife
+plagued me; in present times when I have had a drop too much–_Robinson
+Crusoe_. I have worn out six stout _Robinson Crusoes_ with hard work in my
 service. On my lady’s last birthday she gave me a seventh. I took a drop
 too much on the strength of it; and _Robinson Crusoe_ put me right again.
 Price four shillings and sixpence, bound in blue, with a picture into
@@ -344,9 +344,9 @@ it? I seem to be wandering off in search of Lord knows what, Lord knows
 where. We will take a new sheet of paper, if you please, and begin over
 again, with my best respects to you.
 
-### Chapter _Ii_
+### Chapter _Ii
 
-I spoke of my lady a line or two back. Now the Diamond could never have
+I_ spoke of my lady a line or two back. Now the Diamond could never have
 been in our house, where it was lost, if it had not been made a present
 of to my lady’s daughter; and my lady’s daughter would never have been
 in existence to have the present, if it had not been for my lady who
@@ -483,8 +483,8 @@ pipe and took a turn at _Robinson Crusoe_. Before I had occupied myself
 with that extraordinary book five minutes, I came on a comforting bit
 (page one hundred and fifty-eight), as follows: “To-day we love, what
 to-morrow we hate.” I saw my way clear directly. To-day I was all for
-continuing to be farm-bailiff; to-morrow, on the authority of _Robinson_
-_Crusoe_, I should be all the other way. Take myself to-morrow while in
+continuing to be farm-bailiff; to-morrow, on the authority of _Robinson
+Crusoe_, I should be all the other way. Take myself to-morrow while in
 to-morrow’s humour, and the thing was done. My mind being relieved in
 this manner, I went to sleep that night in the character of Lady
 Verinder’s farm bailiff, and I woke up the next morning in the character
@@ -777,9 +777,9 @@ Mr. Franklin, like Penelope, took the thing seriously. How seriously,
 you will understand, when I tell you that, in his opinion, “It” meant
 the Moonstone.
 
-### Chapter _Iv_
+### Chapter _Iv
 
-I am truly sorry to detain you over me and my beehive chair. A sleepy
+I_ am truly sorry to detain you over me and my beehive chair. A sleepy
 old man, in a sunny back yard, is not an interesting object, I am well
 aware. But things must be put down in their places, as things actually
 happened–and you must please to jog on a little while longer with me, in
@@ -3295,8 +3295,8 @@ the dogs again, when I heard a sudden whisking of petticoats on the
 stairs behind me.
 
 I turned about, and there was Penelope flying down after me like mad.
-“Father!” she screamed, “come up-stairs, for God’s sake! _The Diamond_
-_Is Gone_!” “Are you out of your mind?” I asked her.
+“Father!” she screamed, “come up-stairs, for God’s sake! _The Diamond
+Is Gone_!” “Are you out of your mind?” I asked her.
 
 “Gone!” says Penelope. “Gone, nobody knows how! Come up and see.”
 
@@ -4467,7 +4467,7 @@ threshold of the door.
 “Can you guess yet,” inquired Mr. Franklin, “who has stolen the
 Diamond?”
 
-“_Nobody Has Stolen The Diamond_,” answered Sergeant Cuff.
+“_Nobody Has Stolen the Diamond_,” answered Sergeant Cuff.
 
 We both started at that extraordinary view of the case, and both
 earnestly begged him to tell us what he meant.
@@ -4475,9 +4475,9 @@ earnestly begged him to tell us what he meant.
 “Wait a little,” said the Sergeant. “The pieces of the puzzle are not
 all put together yet.”
 
-### Chapter _Xiii_
+### Chapter _Xiii
 
-I found my lady in her own sitting room. She started and looked annoyed
+I_ found my lady in her own sitting room. She started and looked annoyed
 when I mentioned that Sergeant Cuff wished to speak to her.
 
 “_Must I_ see him?” she asked. “Can’t you represent me, Gabriel?”
@@ -5209,7 +5209,7 @@ If you will excuse my suggesting it–suppose you hold your tongue, and
 let me go first?”
 
 If there is such a thing known at the doctor’s shop as a
-_Detective_-_Fever_, that disease had now got fast hold of your humble
+_Detective-Fever_, that disease had now got fast hold of your humble
 servant. Sergeant Cuff went on between the hillocks of sand, down to the
 beach. I followed him (with my heart in my mouth); and waited at a
 little distance for what was to happen next.
@@ -5279,7 +5279,7 @@ evidence to the contrary that we can’t resist. Very confused footsteps,
 you will please to observe–purposely confused, I should say. Ah, poor
 soul, she understands the detective virtues of sand as well as I do!
 But hasn’t she been in rather too great a hurry to tread out the marks
-thoroughly? I think she has. Here’s one footstep going _From C_obb’s Hole;
+thoroughly? I think she has. Here’s one footstep going _From_ Cobb’s Hole;
 and here is another going back to it. Isn’t that the toe of her shoe
 pointing straight to the water’s edge? And don’t I see two heel-marks
 further down the beach, close at the water’s edge also? I don’t want to
@@ -5706,7 +5706,7 @@ Sergeant Cuff looked at me. I made a step forward to speak to my
 mistress–and, feeling my heart fail me (if I must own it), took a step
 back again, and said nothing.
 
-“May I ask your ladyship _When M_iss Verinder informed you that she was
+“May I ask your ladyship _When_ Miss Verinder informed you that she was
 going to her aunt’s?” inquired the Sergeant.
 
 “About an hour since,” answered my mistress.
@@ -7488,8 +7488,8 @@ window, drawing hieroglyphics with his finger in the damp on the glass.
 have addressed myself to one of the four walls of the room; he was down
 in the bottomless deep of his own meditations, past all pulling up. “How
 do _You_ explain Rachel’s conduct, Betteredge?” was the only answer I
-received. Not being ready with the needful reply, I produced _Robinson_
-_Crusoe_, in which I am firmly persuaded some explanation might have been
+received. Not being ready with the needful reply, I produced _Robinson
+Crusoe_, in which I am firmly persuaded some explanation might have been
 found, if we had only searched long enough for it. Mr. Franklin shut up
 _Robinson Crusoe_, and floundered into his German-English gibberish on the
 spot. “Why not look into it?” he said, as if I had personally objected
@@ -7791,9 +7791,9 @@ over the pen to the person who is appointed to follow my lead. If you
 are as tired of reading this narrative as I am of writing it–Lord, how
 we shall enjoy ourselves on both sides a few pages further on!
 
-### Chapter _Xxiii_
+### Chapter _Xxiii
 
-I had kept the pony chaise ready, in case Mr. Franklin persisted in
+I_ had kept the pony chaise ready, in case Mr. Franklin persisted in
 leaving us by the train that night. The appearance of the luggage,
 followed downstairs by Mr. Franklin himself, informed me plainly enough
 that he had held firm to a resolution for once in his life.
@@ -7811,7 +7811,7 @@ Miss Rachel added at the end, which will account for the steadiness of
 Mr. Franklin’s determination, if it accounts for nothing else.
 
 “You will wonder, I dare say” (her ladyship wrote), "at my allowing my
-own daughter to keep me perfectly in the dark. _A D_iamond worth twenty
+own daughter to keep me perfectly in the dark. A Diamond worth twenty
 thousand pounds has been lost–and I am left to infer that the mystery of
 its disappearance is no mystery to Rachel, and that some
 incomprehensible obligation of silence has been laid on her, by some
@@ -8263,11 +8263,11 @@ found in his experience on the desert island–namely, “something to
 comfort yourselves from, and to set in the Description of Good and Evil,
 on the Credit Side of the Account.”–Farewell.
 
-_The End Of The First Period_.
+_The End Of the First Period_.
 
 ## Second Period
 
-_The Discovery Of The Truth_ (1848-1849)
+_The Discovery Of the Truth_ (1848-1849)
 
 The events related in several narratives.
 
@@ -8335,7 +8335,7 @@ may not prove to be sufficiently flattering in these pages to the person
 chiefly concerned in them. He has purchased my time, but not even _His_
 wealth can purchase my conscience too.[^fn1] 
 
-[^fn1]: _Added By Franklin Blake_.–Miss Clack may make her mind quite easy on this point. Nothing will be added, altered or removed, in her manuscript, or in any of the other manuscripts which pass through my hands. Whatever opinions any of the writers may express, whatever peculiarities of treatment may mark, and perhaps in a literary sense, disfigure the narratives which I am now collecting, not a line will be tampered with anywhere, from first to last. As genuine documents they are sent to me–and as genuine documents I shall preserve them, endorsed by the attestations of witnesses who can speak to the facts. It only remains to be added that “the person chiefly concerned” in Miss Clack’s narrative, is happy enough at the present moment, not only to brave the smartest exercise of Miss Clack’s pen, but even to recognise its unquestionable value as an instrument for the exhibition of Miss Clack’s character.
+[^fn1]: _Added by Franklin Blake_.–Miss Clack may make her mind quite easy on this point. Nothing will be added, altered or removed, in her manuscript, or in any of the other manuscripts which pass through my hands. Whatever opinions any of the writers may express, whatever peculiarities of treatment may mark, and perhaps in a literary sense, disfigure the narratives which I am now collecting, not a line will be tampered with anywhere, from first to last. As genuine documents they are sent to me–and as genuine documents I shall preserve them, endorsed by the attestations of witnesses who can speak to the facts. It only remains to be added that “the person chiefly concerned” in Miss Clack’s narrative, is happy enough at the present moment, not only to brave the smartest exercise of Miss Clack’s pen, but even to recognise its unquestionable value as an instrument for the exhibition of Miss Clack’s character.
 
 My diary informs me, that I was accidentally passing Aunt Verinder’s
 house in Montagu Square, on Monday, 3rd July, 1848.
@@ -8357,7 +8357,7 @@ applicable to the person who answered the door. The hall was dirty, and
 the chair was hard; but the blessed consciousness of returning good for
 evil raised me quite above any trifling considerations of that kind. The
 tract was one of a series addressed to young women on the sinfulness of
-dress. In style it was devoutly familiar. Its title was, “_A W_ord With
+dress. In style it was devoutly familiar. Its title was, “A Word With
 You On Your Cap-Ribbons.”
 
 “My lady is much obliged, and begs you will come and lunch to-morrow at
@@ -8992,7 +8992,7 @@ for evil–tried to spare her.
 
 “Don’t ask me!” he said. “It’s better forgotten, Rachel–it is, indeed.”
 
-“_I Will_ hear it!” she cried out, fiercely, at the top of her voice.
+“I _Will_ hear it!” she cried out, fiercely, at the top of her voice.
 
 “Tell her, Godfrey!” entreated my aunt. “Nothing can do her such harm
 as your silence is doing now!”
@@ -9034,8 +9034,8 @@ went on from bad to worse.
 “I must, and will, stop it,” she said. “Mamma! hear what I say. Miss
 Clack! hear what I say. I know the hand that took the Moonstone. I
 know–” she laid a strong emphasis on the words; she stamped her foot
-in the rage that possessed her–“_I Know That Godfrey Ablewhite Is_
-_Innocent_. Take me to the magistrate, Godfrey! Take me to the
+in the rage that possessed her–“I _Know That Godfrey Ablewhite Is
+Innocent_. Take me to the magistrate, Godfrey! Take me to the
 magistrate, and I will swear it!”
 
 My aunt caught me by the hand, and whispered, “Stand between us for a
@@ -9632,8 +9632,8 @@ to _Give_ you your little legacy, my dear, with my own hand.”
 Here was a golden opportunity! I seized it on the spot. In other words,
 I instantly opened my bag, and took out the top publication. It proved
 to be an early edition–only the twenty-fifth–of the famous anonymous
-work (believed to be by precious Miss Bellows), entitled _The Serpent At_
-_Home_. The design of the book–with which the worldly reader may not be
+work (believed to be by precious Miss Bellows), entitled _The Serpent at
+Home_. The design of the book–with which the worldly reader may not be
 acquainted–is to show how the Evil One lies in wait for us in all the
 most apparently innocent actions of our daily lives. The chapters best
 adapted to female perusal are “Satan in the Hair Brush;” “Satan behind
@@ -10725,7 +10725,7 @@ former times. She checked herself–laid her head back on the
 pillow–considered a minute–and then answered in these remarkable
 words:
 
-“_I Shall Never Marry Mr_. _Godfrey Ablewhite_.”
+“I _Shall Never Marry Mr_. _Godfrey Ablewhite_.”
 
 It was my turn to start at that.
 
@@ -11456,8 +11456,8 @@ reminds me that one more of the many chequered chapters in my life ends
 here. From that day forth, I never saw Rachel Verinder again. She had my
 forgiveness at the time when she insulted me. She has had my prayerful
 good wishes ever since. And when I die–to complete the return on my part
-of good for evil–she will have the _Life_, _Letters_, _And Labours Of Miss_
-_Jane Ann Stamper_ left her as a legacy by my will.
+of good for evil–she will have the _Life_, _Letters_, _And Labours Of Miss
+Jane Ann Stamper_ left her as a legacy by my will.
 
 ## Second Narrative
 
@@ -11904,8 +11904,8 @@ ease.
 
 On the evening of my return, before it was possible for me to receive my
 promised letter, I was surprised by a visit from Mr. Ablewhite the
-elder, and was informed that Mr. Godfrey had got his dismissal–_And Had_
-_Accepted It_–that very day.
+elder, and was informed that Mr. Godfrey had got his dismissal–_And Had
+Accepted It_–that very day.
 
 With the view I already took of the case, the bare fact stated in the
 words that I have underlined, revealed Mr. Godfrey Ablewhite’s motive
@@ -12560,8 +12560,8 @@ the ladies of the dinner-party upstairs.
 I made a note of the date, and it may not be amiss if I close my
 narrative by repeating that note here:
 
-_June_, ’_Forty_-_Nine_. _Expect News Of The Indians_, _Towards The End Of The_
-_Month_.
+_June_, ’_Forty-Nine_. _Expect News Of the Indians_, _Towards the End Of the
+Month_.
 
 And that done, I hand the pen, which I have now no further claim to use,
 to the writer who follows me next.
@@ -13107,9 +13107,9 @@ to-night, and come to me to-morrow morning if you’ll be so kind?’”
 
 We descended the path that led to the Farm.
 
-### Chapter _Iii_
+### Chapter _Iii
 
-I have only the most indistinct recollection of what happened at
+I_ have only the most indistinct recollection of what happened at
 Hotherstone’s Farm.
 
 I remember a hearty welcome; a prodigious supper, which would have fed a
@@ -13260,8 +13260,8 @@ of the rocks, on the side of them which overlooks the quicksand. To feel
 along the stick, among the sea-weed (beginning from the end of the stick
 which points towards the beacon), for the Chain. To run my hand along
 the Chain, when found, until I come to the part of it which stretches
-over the edge of the rocks, down into the quicksand. _And Then To Pull_
-_The Chain_.”
+over the edge of the rocks, down into the quicksand. _And Then to Pull
+the Chain_.”
 
 Just as I had read the last words–underlined in the original–I heard the
 voice of Betteredge behind me. The inventor of the detective-fever had
@@ -13474,9 +13474,9 @@ I had penetrated the secret which the quicksand had kept from every
 other living creature. And, on the unanswerable evidence of the
 paint-stain, I had discovered Myself as the Thief.
 
-### Chapter _Iv_
+### Chapter _Iv
 
-I have not a word to say about my own sensations.
+I_ have not a word to say about my own sensations.
 
 My impression is that the shock inflicted on me completely suspended my
 thinking and feeling power. I certainly could not have known what I was
@@ -14411,9 +14411,9 @@ position and future prospects, to interests which concern the living
 people of this narrative, and to events which were already paving my way
 for the slow and toilsome journey from the darkness to the light.
 
-### Chapter _Vi_
+### Chapter _Vi
 
-I walked to the railway station accompanied, it is needless to say, by
+I_ walked to the railway station accompanied, it is needless to say, by
 Gabriel Betteredge. I had the letter in my pocket, and the nightgown
 safely packed in a little bag–both to be submitted, before I slept that
 night, to the investigation of Mr. Bruff.
@@ -14588,8 +14588,8 @@ thief, I will merely remark that her letter proves her to have been an
 adept at deception, on her own showing; and I argue from that, that I am
 justified in suspecting her of not having told the whole truth. I won’t
 start any theory, at present, as to what she may or may not have done. I
-will only say that, if Rachel has suspected you _On The Evidence Of The_
-_Nightgown Only_, the chances are ninety-nine to a hundred that Rosanna
+will only say that, if Rachel has suspected you _On the Evidence Of the
+Nightgown Only_, the chances are ninety-nine to a hundred that Rosanna
 Spearman was the person who showed it to her. In that case, there is the
 woman’s letter, confessing that she was jealous of Rachel, confessing
 that she changed the roses, confessing that she saw a glimpse of hope
@@ -14946,7 +14946,7 @@ me of stealing your Diamond. I have a right to know, and _I Will_ know,
 the reason why!”
 
 “Suspect you!” she exclaimed, her anger rising with mine. “_You Villain_,
-_I Saw You Take The Diamond With My Own Eyes_!”
+I _Saw You Take the Diamond With My Own Eyes_!”
 
 The revelation which burst upon me in those words, the overthrow which
 they instantly accomplished of the whole view of the case on which
@@ -16118,7 +16118,7 @@ side, in relation to his employer, until I was first satisfied that he
 was a person in whose delicacy and discretion I could trust. The little
 that he had said, thus far, had been sufficient to convince me that I
 was speaking to a gentleman. He had what I may venture to describe as
-the _Unsought Self_-_Possession_, which is a sure sign of good breeding, not
+the _Unsought Self-Possession_, which is a sure sign of good breeding, not
 in England only, but everywhere else in the civilised world. Whatever
 the object which he had in view, in putting the question that he had
 just addressed to me, I felt no doubt that I was justified–so far–in
@@ -17104,8 +17104,8 @@ own mind, and in the minds of your friends.”
 He handed me the second of the two books which he had by him on the
 table.
 
-“There,” he said, “are the far-famed _Confessions Of An English Opium_
-_Eater_! Take the book away with you, and read it. At the passage which I
+“There,” he said, “are the far-famed _Confessions Of an English Opium
+Eater_! Take the book away with you, and read it. At the passage which I
 have marked, you will find that when De Quincey had committed what he
 calls ‘a debauch of opium,’ he either went to the gallery at the Opera
 to enjoy the music, or he wandered about the London markets on Saturday
@@ -17916,8 +17916,8 @@ He opened his door with a low bow, and left me at liberty to find my own
 way into the garden. I met Mr. Blake returning to the house.
 
 “You needn’t tell me what has happened,” he said. “Betteredge has played
-his last card: he has made another prophetic discovery in _Robinson_
-_Crusoe_. Have you humoured his favourite delusion? No? You have let him
+his last card: he has made another prophetic discovery in _Robinson
+Crusoe_. Have you humoured his favourite delusion? No? You have let him
 see that you don’t believe in _Robinson Crusoe_? Mr. Jennings! you have
 fallen to the lowest possible place in Betteredge’s estimation. Say what
 you like, and do what you like, for the future. You will find that he
@@ -18316,9 +18316,9 @@ second dose until that time.
 We talked a little; but both our minds were preoccupied by the coming
 ordeal. The conversation soon flagged–then dropped altogether. Mr. Blake
 idly turned over the books on his bedroom table. I had taken the
-precaution of looking at them, when we first entered the room. _The_
-_Guardian_; _The Tatler_; Richardson’s _Pamela_; Mackenzie’s _Man Of Feeling_;
-Roscoe’s _Lorenzo De Medici_; and Robertson’s _Charles The Fifth_–all
+precaution of looking at them, when we first entered the room. _The
+Guardian_; _The Tatler_; Richardson’s _Pamela_; Mackenzie’s _Man Of Feeling_;
+Roscoe’s _Lorenzo De Medici_; and Robertson’s _Charles the Fifth_–all
 classical works; all (of course) immeasurably superior to anything
 produced in later times; and all (from my present point of view)
 possessing the one great merit of enchaining nobody’s interest, and
@@ -20238,8 +20238,8 @@ no other port on her way out; and the authorities at Bombay (already
 communicated with by letter, overland) will be prepared to board the
 vessel, the moment she enters the harbour.
 
-I have the honour to remain, dear sir, your obedient servant, _Richard_
-_Cuff_ (late sergeant in the Detective Force, Scotland Yard,
+I have the honour to remain, dear sir, your obedient servant, _Richard
+Cuff_ (late sergeant in the Detective Force, Scotland Yard,
 London).[^fn3]
 
 [^fn3]: _Note_.–Wherever the Report touches on the events of the birthday, or of the three days that followed it, compare with Betteredge’s Narrative, chapters viii. to xiii.
@@ -20330,9 +20330,9 @@ _Thomas Candy_.
 
 ## Eighth Narrative
 
-Contributed by _Gabriel Betteredge_
+Contributed by _Gabriel Betteredge
 
-I am the person (as you remember no doubt) who led the way in these
+I_ am the person (as you remember no doubt) who led the way in these
 pages, and opened the story. I am also the person who is left behind, as
 it were, to close the story up.
 
@@ -20419,11 +20419,11 @@ shut up the story.
 
 ## Epilogue
 
-_The Finding Of The Diamond_
+_The Finding Of the Diamond_
 
 ### Chapter I
 
-The Statement of _Sergeant Cuff_’_S Man_ (1849)
+The Statement of _Sergeant Cuff_’S _Man_ (1849)
 
 On the twenty-seventh of June last, I received instructions from
 Sergeant Cuff to follow three men; suspected of murder, and described as
@@ -20449,8 +20449,8 @@ beforehand, as a means of preventing their being traced, I lost no time
 in returning to England. I left the steamer at Gravesend, and discovered
 that the Indians had gone from that place to London. Thence, I again
 traced them as having left for Plymouth. Inquiries made at Plymouth
-proved that they had sailed, forty-eight hours previously, in the _Bewley_
-_Castle_, East Indiaman, bound direct to Bombay.
+proved that they had sailed, forty-eight hours previously, in the _Bewley
+Castle_, East Indiaman, bound direct to Bombay.
 
 On receiving this intelligence, Sergeant Cuff caused the authorities at
 Bombay to be communicated with, overland–so that the vessel might be
@@ -20537,7 +20537,7 @@ understand, when I tell you that even the husbandmen plough the land,
 armed to the teeth), the population is fanatically devoted to the old
 Hindoo religion–to the ancient worship of Bramah and Vishnu. The few
 Mahometan families, thinly scattered about the villages in the interior,
-are afraid to taste meat of any kind. _A M_ahometan even suspected of
+are afraid to taste meat of any kind. A Mahometan even suspected of
 killing that sacred animal, the cow, is, as a matter of course, put to
 death without mercy in these parts by the pious Hindoo neighbours who
 surround him. To strengthen the religious enthusiasm of the people, two
