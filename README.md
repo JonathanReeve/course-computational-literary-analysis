@@ -1,9 +1,9 @@
 # Introduction to Computational Literary Analysis
 
  - Instructor: Jonathan Reeve
- - Room: D-Lab, 350 Barrows Hall
+ - Room: D-Lab Collaboratory, 356 Barrows Hall
  - Office: Barrows Hall Room 350J
- - Office Hours: Fridays, 10am-12pm, or by appointment
+ - Office Hours: Fridays, 12pm-2pm, or by appointment 
  - Email address: jonathan.reeve@columbia.edu
  - [Course website: https://github.com/JonathanReeve/course-computational-literary-analysis](https://github.com/JonathanReeve/course-computational-literary-analysis)
  - [Course chatroom: https://gitter.im/course-computational-literary-analysis/Lobby#](https://gitter.im/course-computational-literary-analysis/Lobby#)
@@ -75,13 +75,13 @@ You may respond to another student's annotation for one of your two, if you want
 
 Four short homework assignments, of 3-10 questions each, will be assigned weekly, and are due on Monday the following week. Jupyter notebook templates for each will be provided. Since we'll review the homework answers at the beginning of each week, late work cannot be accepted. There will be no homework due on the Monday of the last week, to give you more time to work on your final projects. 
 
-Submit homework to BCourses, the course management system. If the system is not yet available, please email me your notebook. 
+Submit homework to me at my email address above.
 
 ## Final Project / Paper
 
-The final project will be a literary argument, presented in the form of a short academic paper, created from the application of one or more of the text analysis techniques we have learned toward the analysis of a text or corpus of your choosing. Should you choose to work with a text or corpus other than the ones we've discussed in class, please clear it with me beforehand. Your paper should be a Jupyter notebook, including prose in Markdown, code in Python, in-text citations, and a bibliography. A template will be provided. The length should be about the equivalent of an 6- to 8-page printed paper. You're allowed a maximum of three figures, so produce plots selectively. A word count function will be provided in the Jupyter notebook template. 
+The final project will be a literary argument, presented in the form of a short academic paper, created from the application of one or more of the text analysis techniques we have learned toward the analysis of a text or corpus of your choosing. Should you choose to work with a text or corpus other than the ones we've discussed in class, please clear it with me beforehand. Your paper should be single a Jupyter notebook, including prose in Markdown, code in Python, in-text citations, and a bibliography. A template will be provided. The length should be about the equivalent of an 6- to 8-page printed paper. You're allowed a maximum of three figures, so produce plots selectively. A word count function will be provided in the Jupyter notebook template. 
 
-During the final week of class, we'll have final project presentations. Your paper isn't required to be complete by then, but you'll be expected to speak about your project for about 10 minutes. Consider it a conference presentation. 
+During the final week of class, we'll have final project presentations. Your paper isn't required to be complete by then, but you'll be expected to speak about your project for about 5-7 minutes. Consider it a conference presentation. 
 
 Final papers will be evaluated according to the:
 
@@ -91,7 +91,7 @@ Final papers will be evaluated according to the:
  - Literary interpretation of the results
  - Integration of the computational analysis with the literary argument
 
-As with homework, please submit your final project to BCourses.
+As with homework, please email me your final projects. You may optionally submit your final project to the course repository on GitHub, making it public, for a 5% bonus. 
 
 ## Attendance 
 
@@ -104,10 +104,10 @@ Text: [Wilkie Collins, _The Moonstone_](https://course-computational-literary-an
 Tools: Python (Anaconda)
 
  - Unit 1.1: Course intro. [Motivation: what is possible with computational literary analysis?](http://jonreeve.com/presentations/icla-intro)
- - Unit 1.2: Installing Python. Python 2 v. 3. Jupyter. Jupyter toolchain, module installation, package importing. Strings. 
+ - Unit 1.2: [Installing Python. Python 2 v. 3. Jupyter. Strings.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/01-Python-Basics.ipynb)
    - Text: [_The Moonstone_, First Period, Through Chapter IX](https://course-computational-literary-analysis.netlify.com/texts/moonstone/)
  - Unit 1.3: **No Class: Independence Day Holiday**
- - Unit 1.4: Working with strings. Splitting, concatenating, slicing, indexing. Working with lists and dictionaries. Slicing, indexing, appending. 
+ - Unit 1.4: [Working with strings, lists, and dictionaries.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/01-Python-Basics.ipynb)
    - Text: [First Period, Through Chapter XV](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#chapter-x)
    - [Homework 1 assigned.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW1.ipynb)
  
@@ -115,65 +115,65 @@ Tools: Python (Anaconda)
 Text: _The Moonstone_, Continued
 Tools: Natural Language ToolKit (NLTK)
 
- - Unit 2.1: Review of Week 1 and Homework 1. Loading and manipulating plain text files.
+ - Unit 2.1: Review of Week 1 and Homework 1. [Loading and manipulating plain text files.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/02-Files.ipynb)
    - Text: [First Period, Complete.](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#chapter-xv)
    - **Homework 1 due**
- - Unit 2.2: Working with words. Tokenization techniques. Lemmatizers.
+ - Unit 2.2: [Working with words. Tokenization techniques. Lemmatizers.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/03-Words.ipynb)
    - Text: [Second Period, First Narrative](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#second-period)
- - Unit 2.3: Basic text statistics with the NLTK. Type / token ratios. Loops, functions, and other control structures. 
+ - Unit 2.3: [Basic text statistics with the NLTK. Type / token ratios. Loops, functions, and other control structures.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/04-Word-Frequencies.ipynb)
    - Text: [Second Period, Second Narrative ](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#second-narrative)
- - Unit 2.4: More text statistics. Concordances, collocations, dispersion plots. 
+ - Unit 2.4: [More text statistics. Concordances, collocations, dispersion plots.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/05-NLTK.ipynb)
    - Text: [Second Period, Third Narrative](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#third-narrative)
 
 ## Week 3 (7/16-7/19): Word Frequency Analyses
 Text: _The Moonstone_ and Katherine Mansfield, _The Garden Party and Other Stories_ 
 Tools: Scikit-Learn, Pandas
 
- - Unit 3.1: Review of Week 2 and Homework 2. Working with corpora and partitioned texts. Chapterization.
+ - Unit 3.1: Review of Week 2 and Homework 2. [Numpy, Pandas, and narrative time.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/06-Narrative-Time.ipynb)
    - **Homework 2 due**
    - Text: [Second Period, Fourth and Fifth Narratives](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#fourth-narrative)
- - Unit 3.2: Word frequency analyses. Document-term matrices. Principal Component Analysis and Latent Semantic Analysis.
+ - Unit 3.2: [N-grams and part-of-speech analyses.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/07-Ngrams-POS.ipynb)
    - Text: [_The Moonstone_, Complete](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#sixth-narrative)
- - Unit 3.3: Data visualization using Pandas and Matplotlib.
+ - Unit 3.3: [WordNet and WordNet-based text analysis.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/08-WordNet.ipynb)
    - Texts: ["The Garden Party"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-garden-party)
- - Unit 3.4: Stylometry: character voice and authorship attribution. 
+ - Unit 3.4: [Downloading, using, and iterating over corpora.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/09-Corpora.ipynb) 
    - Texts: ["The Daughters of the Late Colonel,"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-daughters-of-the-late-colonel) ["Mr. and Mrs. Dove"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#mr-and-mrs-dove)
 
 ## Week 4 (7/23-7/26): Linguistic Techniques I
 Text: [Katherine Mansfield, _The Garden Party and Other Stories_](https://course-computational-literary-analysis.netlify.com/texts/garden-party)
 Tools: NLTK, SpaCy
 
- - Unit 4.1: Review of Week 3 and Homework 3. 
+ - Unit 4.1: Review of Week 3 and Homework 3. [Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/10-Corpora-Scikit-Learn.ipynb)
    - **Homework 3 due**
    - Texts: ["The Young Girl,"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-young-girl) ["Life of Ma Parker"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#life-of-ma-parker)
- - Unit 4.2: Words: lexical tools. WordNet. Navigating hyponym trees. 
+ - Unit 4.2: [Comparative stylometry. Corpus-DB.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/11-Stylometry.ipynb)
    - Texts: ["Marriage à la Mode,"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#marriage-a-la-mode) ["The Voyage"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-voyage)
- - Unit 4.4: Word probabilities. Identifying improbable words and ngrams. 
+ - Unit 4.3: [Stylometry, continued.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/12-Stylometry2.ipynb)
    - Texts: ["Her First Ball,"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#her-first-ball) ["The Stranger"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-stranger)
- - Unit 4.5: Quantifying parts-of-speech. Using Penn Treebank tags. Verb tense analyses. 
+ - Unit 4.4: [Topic modeling with LDA. Quote parsing.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/13-Topic-Modeling.ipynb) 
    - Texts: ["An Ideal Family,"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#an-ideal-family) ["The Lady's Maid"](https://course-computational-literary-analysis.netlify.com/texts/garden-party/#the-ladys-maid)
 
 ## Week 5 (7/30-8/2): Linguistic Techniques II
 Text: James Joyce, _Dubliners_
 Tools: SpaCy
 
- - Unit 5.1: Review of Week 4 and Homework 4. 
+ - Unit 5.1: Review of Week 4 and Homework 4. [Using SpaCy. Named entity recognition.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/14-Spacy-NER.ipynb)
    - **Homework 4 due**
    - Texts: ["The Sisters,"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#the-sisters) ["An Encounter"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#an-encounter)
- - Unit 5.2: Intro to final project. 
+ - Unit 5.2: Intro to final project. [Sentiment analysis. Macro-etymological analysis.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/15-Everything-Else.ipynb)
    - Texts: ["Araby"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#araby), ["Eveline"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#eveline)
- - Unit 5.3: TF/IDF and distinguishing words. Macro-etymological textual analysis. 
+ - Unit 5.3: [Sentence structure analysis using SpaCy.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/16-Spacy-Sentences.ipynb) 
    - Texts: ["After the Race,"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#after-the-race) ["Two Gallants"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#two-gallants)
- - Unit 5.4: Sentences: dependency parsing. Literary character attribute detection with dependency trees.
+ - Unit 5.4: [Extras: TEI XML, APIs](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/18-Extras.ipynb)
    - Texts: ["The Boarding House,"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#the-boarding-house) ["Clay"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#clay)
 
 ## Week 6 (8/6-8/9): Advanced Topics
 Text: James Joyce, _Dubliners_
 Tools: Scikit-Learn, SpaCy
 
- - Unit 6.1: Review of Week 5. 
+ - Unit 6.1: Review of Week 5. Writing tips. 
    - Text: ["The Dead"](https://course-computational-literary-analysis.netlify.com/texts/dubliners/#the-dead)
- - Unit 6.2: Word embeddings. Document vectors. Semantic document similarity. 
+ - Unit 6.2: [Extras: Social Network Analysis Example](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/19-Social-Network.ipynb) 
  - Unit 6.3: Final project presentations. 
  - Unit 6.4: Final project presentations continued. Wrap-up. 
-   - **Final project due** 
+   - **Final project due.** 
