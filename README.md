@@ -1,4 +1,4 @@
-# Introduction to Computational Literary Analysis
+# Introduction to Computational Literary Analysis, Summer 2018
 
  - Instructor: Jonathan Reeve
  - Room: D-Lab Collaboratory, 356 Barrows Hall
