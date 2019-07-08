@@ -1,8 +1,8 @@
-# Introduction to Computational Literary Analysis, Summer 2018
+# Introduction to Computational Literary Analysis, Summer 2019
 
  - Instructor: Jonathan Reeve
  - Room: [Dwinelle Hall, Room 229](https://www.berkeley.edu/map?dwinelle)
- - Office: Barrows Hall Room 350
+ - Office: Barrows Hall Room 350J
  - Office Hours: Fridays, 12pm-2pm, or by appointment 
  - Email address: jonathan.reeve@columbia.edu
  - [Course website: https://github.com/JonathanReeve/course-computational-literary-analysis](https://github.com/JonathanReeve/course-computational-literary-analysis)
