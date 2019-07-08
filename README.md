@@ -1,12 +1,13 @@
 # Introduction to Computational Literary Analysis, Summer 2018
 
  - Instructor: Jonathan Reeve
- - Room: D-Lab Collaboratory, 356 Barrows Hall
- - Office: Barrows Hall Room 350J
+ - Room: [Dwinelle Hall, Room 229](https://www.berkeley.edu/map?dwinelle)
+ - Office: Barrows Hall Room 350
  - Office Hours: Fridays, 12pm-2pm, or by appointment 
  - Email address: jonathan.reeve@columbia.edu
  - [Course website: https://github.com/JonathanReeve/course-computational-literary-analysis](https://github.com/JonathanReeve/course-computational-literary-analysis)
- - [Course chatroom: https://gitter.im/course-computational-literary-analysis/Lobby#](https://gitter.im/course-computational-literary-analysis/Lobby#)
+ - [Course description via UC-Berkeley](https://classes.berkeley.edu/content/2019-summer-dighum-150c-002-sem-002) 
+ - [Course chatroom: https://gitter.im/course-computational-literary-analysis/2019](https://gitter.im/course-computational-literary-analysis/2019)
  - [Readings: https://course-computational-literary-analysis.netlify.com/](https://course-computational-literary-analysis.netlify.com/)
 
 ## Description
@@ -30,7 +31,7 @@ This course presumes no prior knowledge of programming, computer science, or qua
 
 ## Resources
 
-The best resource for this course is [the course GitHub repository](https://github.com/JonathanReeve/course-computational-literary-analysis). That repo will always contain the most up-to-date copy of this course syllabus, which is subject to change. We will also have a [Gitter chatroom](https://gitter.im/course-computational-literary-analysis/Lobby#) for any questions you might have along the way, especially those that you think might be able to be answered by other students. Check out what's happening on Gitter as often as you can, and ask any questions you have there, first. You'll probably have to sign up for Gitter with a GitHub username, if you don't already have one. Unless you're already well established on GitHub, please use your real name as your GitHub/Gitter username. (Mine is JonathanReeve, for example.)
+The best resource for this course is [the course GitHub repository](https://github.com/JonathanReeve/course-computational-literary-analysis). That repo will always contain the most up-to-date copy of this course syllabus, which is subject to change. We will also have a [Gitter chatroom](https://gitter.im/course-computational-literary-analysis/2019) for any questions you might have along the way, especially those that you think might be able to be answered by other students. Check out what's happening on Gitter as often as you can, and ask any questions you have there, first. You'll probably have to sign up for Gitter with a GitHub username, if you don't already have one. Unless you're already well established on GitHub, please use your real name as your GitHub/Gitter username. (Mine is JonathanReeve, for example.)
 
 If you want a second opinion about a question, or have questions that we can't answer in the chatroom, a good website for getting help with programming is [StackOverflow](https://stackoverflow.com). Also, the Internet is full of Python learning resources. One of my favorites is [CodeCademy](https://codecademy.com), which has a game-like interactive interface, badges, and more. If you like a good puzzle, and like being challenged, there's also the older [Python Challenge](http://pythonchallenge.com). 
 
@@ -44,9 +45,9 @@ Resources related to text analysis include, but are by no means limited to:
 
 Coursework falls into three categories:
 
- - Annotations (30% of final grade)
- - Homework (30% of final grade)
- - Final project (40% of final grade)
+ - Daily Annotations (30% of final grade)
+ - Weekly Homeworks (40% of final grade)
+ - Final project (30% of final grade)
 
 Additionally, there are three course readings: one novel and two short story collections. Reading these closely will help you to contextualize the quantitative analyses, and will prepare you for the close reading tasks of the final paper. 
 
@@ -73,7 +74,7 @@ You may respond to another student's annotation for one of your two, if you want
 
 ## Homework 
 
-Four short homework assignments, of 3-10 questions each, will be assigned weekly, and are due on Monday the following week. Jupyter notebook templates for each will be provided. Since we'll review the homework answers at the beginning of each week, late work cannot be accepted. There will be no homework due on the Monday of the last week, to give you more time to work on your final projects. 
+Four short homework assignments, of 3-15 questions each, will be assigned weekly, and are due on Monday the following week. Jupyter notebook templates for each will be provided. Since we'll review the homework answers at the beginning of each week, late work cannot be accepted. There will be no homework due on the Monday of the last week, to give you more time to work on your final projects. 
 
 Submit homework to me at my email address above.
 
@@ -99,6 +100,8 @@ Attendance is crucial. Although most course materials will be published in the c
 
 # Schedule
 
+Note: this schedule is subject to some change, so please check the course website for the most up-to-date version.
+
 ## Week 1: Introduction to Python for Text Analysis
 Text: [Wilkie Collins, _The Moonstone_](https://course-computational-literary-analysis.netlify.com/texts/moonstone)
 Tools: Python (Anaconda)
@@ -106,10 +109,9 @@ Tools: Python (Anaconda)
  - Unit 1.1: Course intro. [Motivation: what is possible with computational literary analysis?](http://jonreeve.com/presentations/icla-intro)
  - Unit 1.2: [Installing Python. Python 2 v. 3. Jupyter. Strings.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/01-Python-Basics.ipynb)
    - Text: [_The Moonstone_, First Period, Through Chapter IX](https://course-computational-literary-analysis.netlify.com/texts/moonstone/)
- - Unit 1.3: **No Class: Independence Day Holiday**
- - Unit 1.4: [Working with strings, lists, and dictionaries.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/01-Python-Basics.ipynb)
+ - Unit 1.3: [Working with strings, lists, and dictionaries.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/01-Python-Basics.ipynb)
    - Text: [First Period, Through Chapter XV](https://course-computational-literary-analysis.netlify.com/texts/moonstone/#chapter-x)
-   - [Homework 1 assigned.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Homework/Yourname-HW1.ipynb)
+ - Unit 1.4: TBA. Homework 1 assigned.
  
 ## Week 2 (7/9-7/13): Basic Text Analysis
 Text: _The Moonstone_, Continued
