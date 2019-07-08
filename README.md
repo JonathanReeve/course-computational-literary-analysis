@@ -113,7 +113,7 @@ Tools: Python (Anaconda)
    - Text: [First Period, Through Chapter XV](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/#chapter-x)
  - Unit 1.4: TBA. Homework 1 assigned.
  
-## Week 2 (7/9-7/13): Basic Text Analysis
+## Week 2: Basic Text Analysis
 Text: _The Moonstone_, Continued
 Tools: Natural Language ToolKit (NLTK)
 
@@ -127,7 +127,7 @@ Tools: Natural Language ToolKit (NLTK)
  - Unit 2.4: [More text statistics. Concordances, collocations, dispersion plots.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/05-NLTK.ipynb)
    - Text: [Second Period, Third Narrative](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/#third-narrative)
 
-## Week 3 (7/16-7/19): Word Frequency Analyses
+## Week 3: Word Frequency Analyses
 Text: _The Moonstone_ and Katherine Mansfield, _The Garden Party and Other Stories_ 
 Tools: Scikit-Learn, Pandas
 
@@ -141,7 +141,7 @@ Tools: Scikit-Learn, Pandas
  - Unit 3.4: [Downloading, using, and iterating over corpora.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/09-Corpora.ipynb) 
    - Texts: ["The Daughters of the Late Colonel,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-daughters-of-the-late-colonel) ["Mr. and Mrs. Dove"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#mr-and-mrs-dove)
 
-## Week 4 (7/23-7/26): Linguistic Techniques I
+## Week 4: Linguistic Techniques I
 Text: [Katherine Mansfield, _The Garden Party and Other Stories_](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party)
 Tools: NLTK, SpaCy
 
@@ -155,7 +155,7 @@ Tools: NLTK, SpaCy
  - Unit 4.4: [Topic modeling with LDA. Quote parsing.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/13-Topic-Modeling.ipynb) 
    - Texts: ["An Ideal Family,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#an-ideal-family) ["The Lady's Maid"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-ladys-maid)
 
-## Week 5 (7/30-8/2): Linguistic Techniques II
+## Week 5: Linguistic Techniques II
 Text: James Joyce, _Dubliners_
 Tools: SpaCy
 
@@ -169,7 +169,7 @@ Tools: SpaCy
  - Unit 5.4: [Extras: TEI XML, APIs](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/18-Extras.ipynb)
    - Texts: ["The Boarding House,"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#the-boarding-house) ["Clay"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#clay)
 
-## Week 6 (8/6-8/9): Advanced Topics
+## Week 6: Advanced Topics
 Text: James Joyce, _Dubliners_
 Tools: Scikit-Learn, SpaCy
 
