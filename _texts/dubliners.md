@@ -5,7 +5,7 @@ author: James Joyce
 editor: Jonathan Reeve
 rights: Public Domain
 source: Project Gutenberg
-publication-date: 2018
+publication-date: 2019
 toc:
 - The Sisters
 - An Encounter

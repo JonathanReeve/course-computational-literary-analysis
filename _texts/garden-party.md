@@ -5,7 +5,7 @@ author: Katherine Mansfield
 editor: Jonathan Reeve
 rights: Public Domain
 source: Project Gutenberg
-publication-date: 2018
+publication-date: 2019
 toc:
 - At the Bay
 - The Garden Party

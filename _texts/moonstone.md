@@ -5,7 +5,7 @@ author: Wilkie Collins
 editor: Jonathan Reeve
 rights: Public Domain
 source: Project Gutenberg
-publication-date: 2018
+publication-date: 2019
 toc:
 - Prologue
 - Chapter X
