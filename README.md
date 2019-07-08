@@ -108,7 +108,7 @@ Tools: Python (Anaconda)
 
  - Unit 1.1: Course intro. [Motivation: what is possible with computational literary analysis?](http://jonreeve.com/presentations/icla-intro)
  - Unit 1.2: [Installing Python. Python 2 v. 3. Jupyter. Strings.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/01-Python-Basics.ipynb)
-   - Download and install Anaconda
+   - Download and install [Anaconda for Python 3.7](https://www.anaconda.com/distribution/)
    - Text: [_The Moonstone_, First Period, Through Chapter IX](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/)
    - Two annotations due (make a hypothes.is account first)
    - Introduce yourself on Gitter in the course chatroom (make a GitHub account first)
