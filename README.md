@@ -111,7 +111,8 @@ Tools: Python (Anaconda)
    - Text: [_The Moonstone_, First Period, Through Chapter IX](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/)
  - Unit 1.3 (7/10): [Working with strings, lists, and dictionaries.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/01-Python-Basics.ipynb)
    - Text: [First Period, Through Chapter XV](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/#chapter-x)
- - Unit 1.4 (7/11): TBA. Homework 1 assigned.
+ - Unit 1.4 (7/11): Python basics, continued. Homework 1 assigned.
+   - Text: Reread part of _The Moonstone_, paying special attention to themes and motifs.
  
 ## Week 2: Basic Text Analysis
 Text: _The Moonstone_, Continued
