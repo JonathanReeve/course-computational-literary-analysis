@@ -106,12 +106,12 @@ Note: this schedule is subject to some change, so please check the course websit
 Text: [Wilkie Collins, _The Moonstone_](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone)
 Tools: Python (Anaconda)
 
- - Unit 1.1: Course intro. [Motivation: what is possible with computational literary analysis?](http://jonreeve.com/presentations/icla-intro)
- - Unit 1.2: [Installing Python. Python 2 v. 3. Jupyter. Strings.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/01-Python-Basics.ipynb)
+ - Unit 1.1 (7/8): Course intro. [Motivation: what is possible with computational literary analysis?](http://jonreeve.com/presentations/icla-intro)
+ - Unit 1.2 (7/9): [Installing Python. Python 2 v. 3. Jupyter. Strings.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/01-Python-Basics.ipynb)
    - Text: [_The Moonstone_, First Period, Through Chapter IX](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/)
- - Unit 1.3: [Working with strings, lists, and dictionaries.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/01-Python-Basics.ipynb)
+ - Unit 1.3 (7/10): [Working with strings, lists, and dictionaries.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/01-Python-Basics.ipynb)
    - Text: [First Period, Through Chapter XV](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/#chapter-x)
- - Unit 1.4: TBA. Homework 1 assigned.
+ - Unit 1.4 (7/11): TBA. Homework 1 assigned.
  
 ## Week 2: Basic Text Analysis
 Text: _The Moonstone_, Continued
