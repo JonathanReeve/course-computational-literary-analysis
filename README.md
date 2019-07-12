@@ -2,7 +2,7 @@
 
  - Instructor: Jonathan Reeve
  - Room: [Dwinelle Hall, Room 229](https://www.berkeley.edu/map?dwinelle)
- - Office: Barrows Hall Room 350J
+ - Office: D-Lab Collaborative Space, Barrows Hall 356 
  - Office Hours: Fridays, 12pm-2pm, or by appointment 
  - Email address: jonathan.reeve@columbia.edu
  - [Course website: https://github.com/JonathanReeve/course-computational-literary-analysis](https://github.com/JonathanReeve/course-computational-literary-analysis)
