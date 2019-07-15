@@ -121,53 +121,53 @@ Tools: Natural Language ToolKit (NLTK)
  - Unit 2.1: Review of Week 1 and Homework 1. [Loading and manipulating plain text files.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/02-files.ipynb)
    - Text: [First Period, Complete.](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/#chapter-xv)
    - **Homework 1 due**
- - Unit 2.2: [Working with words. Tokenization techniques. Lemmatizers.]()
+ - Unit 2.2: Working with words. Tokenization techniques. Lemmatizers.
    - Text: [Second Period, First Narrative](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/#second-period)
- - Unit 2.3: [Basic text statistics with the NLTK. Type / token ratios. Loops, functions, and other control structures.]()
+ - Unit 2.3: Basic text statistics with the NLTK. Type / token ratios. Loops, functions, and other control structures.
    - Text: [Second Period, Second Narrative ](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/#second-narrative)
- - Unit 2.4: [More text statistics. Concordances, collocations, dispersion plots.]()
+ - Unit 2.4: More text statistics. Concordances, collocations, dispersion plots.
    - Text: [Second Period, Third Narrative](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/#third-narrative)
 
 ## Week 3: Word Frequency Analyses
 Text: _The Moonstone_ and Katherine Mansfield, _The Garden Party and Other Stories_ 
 Tools: Scikit-Learn, Pandas
 
- - Unit 3.1: Review of Week 2 and Homework 2. [Numpy, Pandas, and narrative time.]()
+ - Unit 3.1: Review of Week 2 and Homework 2. Numpy, Pandas, and narrative time.
    - **Homework 2 due**
    - Text: [Second Period, Fourth and Fifth Narratives](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/#fourth-narrative)
- - Unit 3.2: [N-grams and part-of-speech analyses.]()
+ - Unit 3.2: N-grams and part-of-speech analyses.
    - Text: [_The Moonstone_, Complete](https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone/#sixth-narrative)
- - Unit 3.3: [WordNet and WordNet-based text analysis.]()
+ - Unit 3.3: WordNet and WordNet-based text analysis.
    - Texts: ["The Garden Party"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-garden-party)
- - Unit 3.4: [Downloading, using, and iterating over corpora.]() 
+ - Unit 3.4: Downloading, using, and iterating over corpora. 
    - Texts: ["The Daughters of the Late Colonel,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-daughters-of-the-late-colonel) ["Mr. and Mrs. Dove"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#mr-and-mrs-dove)
 
 ## Week 4: Linguistic Techniques I
 Text: [Katherine Mansfield, _The Garden Party and Other Stories_](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party)
 Tools: NLTK, SpaCy
 
- - Unit 4.1: Review of Week 3 and Homework 3. [Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.]()
+ - Unit 4.1: Review of Week 3 and Homework 3. Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.
    - **Homework 3 due**
    - Texts: ["The Young Girl,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-young-girl) ["Life of Ma Parker"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#life-of-ma-parker)
  - Unit 4.2: [Comparative stylometry. Corpus-DB.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/11-Stylometry.ipynb)
    - Texts: ["Marriage à la Mode,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#marriage-a-la-mode) ["The Voyage"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-voyage)
- - Unit 4.3: [Stylometry, continued.]()
+ - Unit 4.3: Stylometry, continued.
    - Texts: ["Her First Ball,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#her-first-ball) ["The Stranger"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-stranger)
- - Unit 4.4: [Topic modeling with LDA. Quote parsing.]() 
+ - Unit 4.4: Topic modeling with LDA. Quote parsing. 
    - Texts: ["An Ideal Family,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#an-ideal-family) ["The Lady's Maid"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-ladys-maid)
 
 ## Week 5: Linguistic Techniques II
 Text: James Joyce, _Dubliners_
 Tools: SpaCy
 
- - Unit 5.1: Review of Week 4 and Homework 4. [Using SpaCy. Named entity recognition.]()
+ - Unit 5.1: Review of Week 4 and Homework 4. Using SpaCy. Named entity recognition.
    - **Homework 4 due**
    - Texts: ["The Sisters,"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#the-sisters) ["An Encounter"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#an-encounter)
- - Unit 5.2: Intro to final project. [Sentiment analysis. Macro-etymological analysis.]()
+ - Unit 5.2: Intro to final project. Sentiment analysis. Macro-etymological analysis.
    - Texts: ["Araby"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#araby), ["Eveline"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#eveline)
- - Unit 5.3: [Sentence structure analysis using SpaCy.]() 
+ - Unit 5.3: Sentence structure analysis using SpaCy. 
    - Texts: ["After the Race,"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#after-the-race) ["Two Gallants"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#two-gallants)
- - Unit 5.4: [Extras: TEI XML, APIs]()
+ - Unit 5.4: Extras: TEI XML, APIs
    - Texts: ["The Boarding House,"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#the-boarding-house) ["Clay"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#clay)
 
 ## Week 6: Advanced Topics
@@ -176,7 +176,7 @@ Tools: Scikit-Learn, SpaCy
 
  - Unit 6.1: Review of Week 5. Writing tips. 
    - Text: ["The Dead"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#the-dead)
- - Unit 6.2: [Extras: Social Network Analysis Example]() 
+ - Unit 6.2: Extras: Social Network Analysis Example 
  - Unit 6.3: Final project presentations. 
  - Unit 6.4: Final project presentations continued. Wrap-up. 
    - **Final project due.** 
