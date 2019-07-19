@@ -140,7 +140,7 @@ Tools: Scikit-Learn, Pandas
  - Unit 3.3: WordNet and WordNet-based text analysis.
    - Texts: ["The Garden Party"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-garden-party)
  - Unit 3.4: Downloading, using, and iterating over corpora. 
-   - Texts: ["The Daughters of the Late Colonel,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-daughters-of-the-late-colonel) ["Mr. and Mrs. Dove"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#mr-and-mrs-dove)
+   - Texts: ["The Daughters of the Late Colonel,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-daughters-of-the-late-colonel) 
 
 ## Week 4: Linguistic Techniques I
 Text: [Katherine Mansfield, _The Garden Party and Other Stories_](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party)
@@ -148,13 +148,13 @@ Tools: NLTK, SpaCy
 
  - Unit 4.1: Review of Week 3 and Homework 3. Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.
    - **Homework 3 due**
-   - Texts: ["The Young Girl,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-young-girl) ["Life of Ma Parker"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#life-of-ma-parker)
+   - Texts: ["The Young Girl,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-young-girl) 
  - Unit 4.2: [Comparative stylometry. Corpus-DB.](https://github.com/JonathanReeve/course-computational-literary-analysis/blob/master/Notes/11-Stylometry.ipynb)
-   - Texts: ["Marriage à la Mode,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#marriage-a-la-mode) ["The Voyage"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-voyage)
+   - Texts: ["Marriage à la Mode,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#marriage-a-la-mode) 
  - Unit 4.3: Stylometry, continued.
-   - Texts: ["Her First Ball,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#her-first-ball) ["The Stranger"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-stranger)
+   - Texts: ["Her First Ball,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#her-first-ball) 
  - Unit 4.4: Topic modeling with LDA. Quote parsing. 
-   - Texts: ["An Ideal Family,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#an-ideal-family) ["The Lady's Maid"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#the-ladys-maid)
+   - Texts: ["An Ideal Family,"](https://course-computational-literary-analysis-2019.netlify.com/texts/garden-party/#an-ideal-family) 
 
 ## Week 5: Linguistic Techniques II
 Text: James Joyce, _Dubliners_
@@ -166,9 +166,9 @@ Tools: SpaCy
  - Unit 5.2: Intro to final project. Sentiment analysis. Macro-etymological analysis.
    - Texts: ["Araby"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#araby), ["Eveline"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#eveline)
  - Unit 5.3: Sentence structure analysis using SpaCy. 
-   - Texts: ["After the Race,"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#after-the-race) ["Two Gallants"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#two-gallants)
+   - Texts: ["The Boarding House,"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#the-boarding-house)
  - Unit 5.4: Extras: TEI XML, APIs
-   - Texts: ["The Boarding House,"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#the-boarding-house) ["Clay"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#clay)
+   - Texts: ["Clay"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#clay)
 
 ## Week 6: Advanced Topics
 Text: James Joyce, _Dubliners_
