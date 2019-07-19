@@ -175,7 +175,6 @@ Text: James Joyce, _Dubliners_
 Tools: Scikit-Learn, SpaCy
 
  - Unit 6.1: Review of Week 5. Writing tips. 
-   - Text: ["The Dead"](https://course-computational-literary-analysis-2019.netlify.com/texts/dubliners/#the-dead)
  - Unit 6.2: Extras: Social Network Analysis Example 
  - Unit 6.3: Final project presentations. 
  - Unit 6.4: Final project presentations continued. Wrap-up. 
