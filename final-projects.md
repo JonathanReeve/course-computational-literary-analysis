@@ -9,3 +9,4 @@ Here are links to some final projects from students in the course, Introduction 
 "](https://gist.github.com/KayLeonard/520624662013a23672b6d77035266c7c)
 - Peng Wang, ["Places: the Soul of _Dubliners_"](https://nbviewer.jupyter.org/github/LisaWang0306/final-project/blob/master/Peng-Wang-final.ipynb) 
 - Jiaqi Wu, ["Realism and Romanticism: A Comparative Analysis of Pride and Prejudice and Jane Eyre"](https://nbviewer.jupyter.org/github/Kattthy/DH2019_Public/blob/master/Jiaqi%20Wu-final.ipynb) 
+- Yishu Yang, ["A text analysis of Oscar Wilde's 'Happy Prince and Other Tales'"](https://nbviewer.jupyter.org/github/YishuYang/computational-text-analysis/blob/master/YishuYang-final.ipynb)
