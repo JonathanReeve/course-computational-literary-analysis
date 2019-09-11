@@ -10,3 +10,4 @@ Here are links to some final projects from students in the course, Introduction 
 - Peng Wang, ["Places: the Soul of _Dubliners_"](https://nbviewer.jupyter.org/github/LisaWang0306/final-project/blob/master/Peng-Wang-final.ipynb) 
 - Jiaqi Wu, ["Realism and Romanticism: A Comparative Analysis of Pride and Prejudice and Jane Eyre"](https://nbviewer.jupyter.org/github/Kattthy/DH2019_Public/blob/master/Jiaqi%20Wu-final.ipynb) 
 - Yishu Yang, ["A text analysis of Oscar Wilde's 'Happy Prince and Other Tales'"](https://nbviewer.jupyter.org/github/YishuYang/computational-text-analysis/blob/master/YishuYang-final.ipynb)
+- Zhao Yu, ["An Analysis of the Lyric Style of The Beatles"](https://gist.github.com/Evo-Yu-Zhao/70bc94935f8506b28564bd9c6881abf3)
