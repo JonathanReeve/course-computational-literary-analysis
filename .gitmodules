@@ -1,0 +1,4 @@
+[submodule "course-computational-literary-analysis"]
+	path = Readings
+	url = git@github.com:JonathanReeve/course-computational-literary-analysis.git
+	branch = gh-pages
