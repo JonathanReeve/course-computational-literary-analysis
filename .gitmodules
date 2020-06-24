@@ -2,3 +2,6 @@
 	path = Readings
 	url = git@github.com:JonathanReeve/course-computational-literary-analysis.git
 	branch = gh-pages
+[submodule "Readings2"]
+	path = Readings2
+	url = https://github.com/srid/rib-sample.git
