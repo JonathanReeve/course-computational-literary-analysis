@@ -84,7 +84,7 @@ Coursework falls into three categories:
 
 - Daily [[Annotations]] (30% of final grade)
 - Weekly [[Homework]] (40% of final grade)
-- [[Final project]] (30% of final grade)
+- [[Final Project]] (30% of final grade)
 
 Additionally, there are three course readings: one novel and two short story collections. Reading these closely will help you to contextualize the quantitative analyses, and will prepare you for the close reading tasks of the final paper.
 
@@ -139,11 +139,11 @@ Note: this schedule is subject to some change, so please check the course websit
 
 ** Week 1: Introduction to Python for Text Analysis
 
-Text: [[https://course-computational-literary-analysis-2019.netlify.com/texts/moonstone][Wilkie Collins, /The Moonstone/]]
+Text: Wilkie Collins, /The Moonstone/
 Tools: Python (Anaconda)
 
 *** Unit 1.1 <2020-07-06 lun>: Course intro.
-- Lecture: [[http://jonreeve.com/presentations/icla-intro][Motivation: what is possible with computational literary analysis?]]
+- Lecture: Motivation: what is possible with computational literary analysis?
 
 *** Unit 1.2 <2020-07-07 mar>:Installing Python. Python 2 v. 3. Jupyter. Strings.
 **** Assignments
