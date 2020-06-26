@@ -1,6 +1,6 @@
 * Introduction to Computational Literary Analysis, Summer 2020
 
-**WARNING: this is a draft syllabus, and will not be complete until the course start date, 6 July 2020.**
+**NB: this is a draft syllabus, and will not be complete until the course start date, 6 July 2020.**
 
 - Instructor: Jonathan Reeve
 - Summer Session D, 2020 (6 July – 14 August). Fully online this year.
@@ -14,9 +14,11 @@
 - Open labs: Fridays, 19:00-21:00 UTC
   - Synchronous, in a videoconference room to be announced
 - Email address: jonathan.reeve@columbia.edu
-- Course website: https://gitlab.com/digitalhumanitiesatberkeley/course-computational-literary-analysis
+- Course website: https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis
 - Course chatroom: https://cla.zulipchat.com/
 - Course readings: TODO
+
+[[Getting Started][Get Started!]]
 
 ** Description
 
@@ -53,13 +55,32 @@ I'll be on Zulip every day, for one hour each day:
  - Discussion Section A, Mondays, Wednesdays: 15:00–16:00 UTC on Zulip
  - Discussion Section B, Tuesdays, Thursdays: 1:00–2:00 UTC on Zulip
 
-**Please participate synchronously in one of these sections, and asynchronously in the other.** That means, if the Monday and Wednesday time works well for your time zone, please be in the chatroom then. Or if the Tuesday / Thursday chatroom works better for you, go to those instead. Synchronous participation means logging on, reading the discussions, asking questions, and answering questions in real time. Asynchronous participation means logging on whenever is convenient for you, maybe even when the rest of us are asleep, but still writing in the chatroom.
+Try to pick a section that you can attend synchronously (that is, in real-time), and participate in the other asynchronously (on your own time, at your convenience).
 
 Discussion about the texts themselves, if they are specific to a particular passage, might be better placed in annotations, in the margins of the text, using our annotation platform. See "[[Annotations]]," below.
 
 *** Open Labs
 
 Although not required, these are informal, synchronous videoconferences that happen every week, on Friday. They're a good time and virtual place to come with your homework questions, or just to hang out and work on your own, or in groups. At Berkeley last summer, we'd just invite everyone to the D-Lab, and have pizza, and hang out and code. This year, you'll have to bring your own pizza, sadly. But we can still code together, exchange coding tips, and talk about the readings. We'll also have guests from other courses. Everyone is welcome.
+
+** Getting Started
+
+To get set up for this course, you will need:
+
+ - A computer that runs Linux, MacOS, or Windows.
+ - An Internet connection. I've tried my best to make our course software work as globally as possible, but if you live in a country that has restricted Internet, you might want to look into setting up a VPN, either through Berkeley, or using a private provider.
+
+Now that we have that, let's get started! First, let's set up a couple of accounts:
+
+1. Fill out [[https://jonreeve.typeform.com/to/fZZbj6CS][this short course survey]], so I can keep track of who's who.
+2. [[https://gitlab.com/users/sign_in][Create a GitLab account]]. Unless you're already well-established there, **please use your real name (or English name / nickname, etc) as your username**.
+3. Use that account to log into [[https://cla.zulipchat.com/][our Zulip chatroom]]. (Click "sign up," then "sign up with GitLab.")
+4. Introduce yourself to everyone in the chatroom.
+5. Sign up for a user account on [[https://hypothes.is][hypothes.is]], our annotation platform.
+
+Now that you're set up with accounts, let's get some software:
+
+1. Download and install [[Anaconda]], a Python distribution, which contains a lot of useful data science packages.
 
 ** Extra Resources
 
@@ -76,9 +97,6 @@ Resources related to text analysis include, but are by no means limited to:
 - [[https://github.com/JonathanReeve/advanced-text-analysis-workshop-2017][My advanced text analysis tutorial with SpaCy]]
 
 ** Requirements
-   :PROPERTIES:
-   :CUSTOM_ID: requirements
-   :END:
 
 Coursework falls into three categories:
 
@@ -103,7 +121,7 @@ All readings will be provided in digital form on the course GitLab repository, b
 
 *** Annotations
 
-For each reading assignment, please write 3-5 annotations to our editions of the text, using [[http://hypothes.is][hypothes.is]]. Links are provided below. You'll have to sign up for a hypothes.is account first. As above, please use your real name as your username, so I know who you are. You may write about anything you want, but it will help your final project to think about ways in which computational analysis might help you to better understand what you observe in the text. Good annotations are:
+For each reading assignment, please write 3-4 annotations to our editions of the text, using [[http://hypothes.is][hypothes.is]]. Links are provided below. You'll have to sign up for a hypothes.is account first. As above, please use your real name as your username, so I know who you are. You may write about anything you want, but it will help your final project to think about ways in which computational analysis might help you to better understand what you observe in the text. Good annotations are:
 
  - Concise (think: a long tweet)
  - Well-written (although not too formal)
@@ -142,19 +160,16 @@ Note: this schedule is subject to some change, so please check the course websit
 Text: Wilkie Collins, /The Moonstone/
 Tools: Python (Anaconda)
 
-*** Unit 1.1 <2020-07-06 lun>: Course intro.
+*** Unit 1.1 <2020-07-06>: Course intro.
 - Lecture: Motivation: what is possible with computational literary analysis?
 
-*** Unit 1.2 <2020-07-07 mar>:Installing Python. Python 2 v. 3. Jupyter. Strings.
-**** Assignments
+*** Unit 1.2 <2020-07-07>: Installing Python. Python 2 v. 3. Jupyter. Strings.
 - Reading: /The Moonstone/, First Period, Through Chapter IX
 
-*** Unit 1.3  <2020-07-08 mer>: Working with strings, lists, and dictionaries.
-**** Assignments
+*** Unit 1.3  <2020-07-08>: Working with strings, lists, and dictionaries.
 - Reading: First Period, Through Chapter XV
 
-*** Unit 1.4 <2020-07-09 ĵaŭ>: Python basics, continued. Homework 1 assigned.
-**** Assignments
+*** Unit 1.4 <2020-07-09>: Python basics, continued. Homework 1 assigned.
 - Reading: Reread part of /The Moonstone/, paying special attention to themes and motifs.
 
 ** Week 2: Basic Text Analysis
@@ -162,21 +177,17 @@ Tools: Python (Anaconda)
 Text: /The Moonstone/, Continued
 Tools: Natural Language ToolKit (NLTK)
 
-*** Unit 2.1 <2020-07-13 lun>: Review of Week 1 and Homework 1.
-**** Assignments
+*** Unit 2.1 <2020-07-13>: Review of Week 1 and Homework 1.
 - Text: First Period, Complete.
 - *Homework 1 due*
 
-*** Unit 2.2 <2020-07-14 mar>: Working with words. Tokenization techniques. Lemmatizers.
-**** Assignments
+*** Unit 2.2 <2020-07-14>: Working with words. Tokenization techniques. Lemmatizers.
   - Text: Second Period, First Narrative
 
-*** Unit 2.3 <2020-07-15 mer>: Basic text statistics with the NLTK. Type / token ratios. Loops, functions, and other control structures.
-**** Assignments
+*** Unit 2.3 <2020-07-15>: Basic text statistics with the NLTK. Type / token ratios. Loops, functions, and other control structures.
 - Text: Second Period, Second Narrative
 
-*** Unit 2.4: <2020-07-16 ĵaŭ>: More text statistics. Concordances, collocations, dispersion plots.
-**** Assignments
+*** Unit 2.4: <2020-07-16>: More text statistics. Concordances, collocations, dispersion plots.
  - Text: Second Period, Third Narrative
 
 ** Week 3: Word Frequency Analyses
@@ -184,21 +195,17 @@ Tools: Natural Language ToolKit (NLTK)
 Text: /The Moonstone/ and Katherine Mansfield, /The Garden Party and Other Stories/
 Tools: Scikit-Learn, Pandas
 
-*** Unit 3.1 <2020-07-20 lun>: Review of Week 2 and Homework 2. Numpy, Pandas, and narrative time.
-**** Assignments
+*** Unit 3.1 <2020-07-20>: Review of Week 2 and Homework 2. Numpy, Pandas, and narrative time.
 - *Homework 2 due*
 - Text: Second Period, Fourth and Fifth Narratives
 
-*** Unit 3.2 <2020-07-21 mar>: N-grams and part-of-speech analyses.
-**** Assignments
+*** Unit 3.2 <2020-07-21>: N-grams and part-of-speech analyses.
 - Text: /The Moonstone/, Complete
 
-*** Unit 3.3 <2020-07-22 mer>: WordNet and WordNet-based text analysis.
-**** Assignments
+*** Unit 3.3 <2020-07-22>: WordNet and WordNet-based text analysis.
 - Texts: "The Garden Party"
 
-*** Unit 3.4 <2020-07-23 ĵaŭ>: Downloading, using, and iterating over corpora.
-**** Assignments
+*** Unit 3.4 <2020-07-23>: Downloading, using, and iterating over corpora.
 - Texts: "The Daughters of the Late Colonel,"
 
 ** Week 4: Linguistic Techniques I
@@ -206,21 +213,17 @@ Tools: Scikit-Learn, Pandas
 Text: Katherine Mansfield, /The Garden Party and Other Stories/
 Tools: NLTK, SpaCy
 
-*** Unit 4.1 <2020-07-27 lun>: Review of Week 3 and Homework 3. Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.
-**** Assignments
+*** Unit 4.1 <2020-07-27>: Review of Week 3 and Homework 3. Corpus vectorization with Scikit-Learn. TF-IDF. Stylometry.
 - *Homework 3 due*
 - Texts: "The Young Girl"
 
-*** Unit 4.2  <2020-07-28 mar>: Comparative stylometry. Corpus-DB.
-**** Assignments
+*** Unit 4.2 <2020-07-28>: Comparative stylometry. Corpus-DB.
 - Texts: "Marriage à la Mode"
 
-*** Unit 4.3 <2020-07-29 mer>: Stylometry, continued.
-**** Assignments
+*** Unit 4.3 <2020-07-29>: Stylometry, continued.
 - Texts: "Her First Ball"
 
-*** Unit 4.4  <2020-07-30 ĵaŭ>: Topic modeling with LDA. Quote parsing.
-**** Assignments
+*** Unit 4.4 <2020-07-30>: Topic modeling with LDA. Quote parsing.
 - Texts: "An Ideal Family,"
 
 ** Week 5: Linguistic Techniques II
@@ -228,21 +231,17 @@ Tools: NLTK, SpaCy
 Text: James Joyce, /Dubliners/
 Tools: SpaCy
 
-*** Unit 5.1 <2020-08-03 lun>: Review of Week 4 and Homework 4. Using SpaCy. Named entity recognition.
-**** Assignments
+*** Unit 5.1 <2020-08-03>: Review of Week 4 and Homework 4. Using SpaCy. Named entity recognition.
  - *Homework 4 due*
  - Texts: "The Sisters," "An Encounter"
 
-*** Unit 5.2  <2020-08-04 mar>: Intro to final project. Sentiment analysis. Macro-etymological analysis.
-**** Assignments
+*** Unit 5.2 <2020-08-04>: Intro to final project. Sentiment analysis. Macro-etymological analysis.
  - Texts: "Araby", "Eveline"
 
-*** Unit 5.3  <2020-08-05 mer>: Sentence structure analysis using SpaCy.
-**** Assignments
+*** Unit 5.3 <2020-08-05>: Sentence structure analysis using SpaCy.
  - Texts: "The Boarding House,"
 
-*** Unit 5.4  <2020-08-06 ĵaŭ>: Extras: TEI XML, APIs
-**** Assignments
+*** Unit 5.4 <2020-08-06>: Extras: TEI XML, APIs
  - Texts: "Clay"
 
 ** Week 6: Advanced Topics
@@ -250,9 +249,9 @@ Tools: SpaCy
  Text: James Joyce, /Dubliners/
  Tools: Scikit-Learn, SpaCy
 
-*** Unit 6.1 <2020-08-10 lun>: Review of Week 5. Writing tips.
-*** Unit 6.2 <2020-08-11 mar>: Extras: Social Network Analysis Example
-*** Unit 6.3 <2020-08-12 mer>: Final project presentations.
-*** Unit 6.4 <2020-08-13 ĵaŭ>: Final project presentations continued. Wrap-up.
-*** <2020-08-14 ven>: Final open lab.
-*** <2020-08-15 sab>: Final projects due.
+*** Unit 6.1 <2020-08-10>: Review of Week 5. Writing tips.
+*** Unit 6.2 <2020-08-11>: Extras: Social Network Analysis Example
+*** Unit 6.3 <2020-08-12>: Final project presentations.
+*** Unit 6.4 <2020-08-13>: Final project presentations continued. Wrap-up.
+*** <2020-08-14>: Final open lab.
+*** <2020-08-15>: Final projects due.
