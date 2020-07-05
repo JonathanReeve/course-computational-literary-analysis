@@ -1,4 +1,4 @@
 image: nixos/nix:latest
 
 build:
-  script: "cd Readings && nix-shell --run 'ghcid -T \':main -wS\''"
+  script: "cd Readings && nix-shell --run 'ghcid -T \":main -wS\"'"
