@@ -1,5 +1,34 @@
-# 1. AT THE BAY.
-## Chapter 1.I.
+---
+layout: narrative
+title: "The Garden Party and Other Stories" 
+author: Katherine Mansfield
+editor: Jonathan Reeve
+rights: Public Domain
+source: Project Gutenberg
+publication-date: 2019
+toc:
+- At the Bay
+- The Garden Party
+- The Daughters of the Late Colonel
+- Mr. and Mrs. Dove
+- The Young Girl
+- Life of Ma Parker
+- Marriage a la Mode
+- The Voyage
+- Miss Brill
+- Her First Ball
+- The Singing Lesson
+- The Stranger
+- Bank Holiday
+- An Ideal Family
+- The Ladys Maid
+---
+
+1. AT THE BAY.
+--------------
+
+Chapter 1.I.
+------------
 
 Very early morning. The sun was not yet risen, and the whole of Crescent
 Bay was hidden under a white sea-mist. The big bush-covered hills at the
@@ -15,7 +44,7 @@ cold fuchsias, round pearls of dew lay on the flat nasturtium leaves. It
 looked as though the sea had beaten up softly in the darkness, as though
 one immense wave had come rippling, rippling---how far? Perhaps if you
 had waked up in the middle of the night you might have seen a big fish
-flicking in at the window and gone again....
+flicking in at the window and gone again\....
 
 Ah-Aah! sounded the sleepy sea. And from the bush there came the sound
 of little streams flowing, quickly, lightly, slipping between the smooth
@@ -38,14 +67,14 @@ into his belt, the other grasped a beautifully smooth yellow stick. And
 as he walked, taking his time, he kept up a very soft light whistling,
 an airy, far-away fluting that sounded mournful and tender. The old dog
 cut an ancient caper or two and then drew up sharp, ashamed of his
-levity, and walked a few dignified paces by his master's side. The sheep
-ran forward in little pattering rushes; they began to bleat, and ghostly
-flocks and herds answered them from under the sea. "Baa! Baaa!" For a
-time they seemed to be always on the same piece of ground. There ahead
-was stretched the sandy road with shallow puddles; the same soaking
-bushes showed on either side and the same shadowy palings. Then
+levity, and walked a few dignified paces by his master's side. The
+sheep ran forward in little pattering rushes; they began to bleat, and
+ghostly flocks and herds answered them from under the sea. "Baa!
+Baaa!" For a time they seemed to be always on the same piece of ground.
+There ahead was stretched the sandy road with shallow puddles; the same
+soaking bushes showed on either side and the same shadowy palings. Then
 something immense came into view; an enormous shock-haired giant with
-his arms stretched out. It was the big gum-tree outside Mrs. Stubbs'
+his arms stretched out. It was the big gum-tree outside Mrs. Stubbs'
 shop, and as they passed by there was a strong whiff of eucalyptus. And
 now big spots of light gleamed in the mist. The shepherd stopped
 whistling; he rubbed his red nose and wet beard on his wet sleeve and,
@@ -67,32 +96,36 @@ looked proud of him.
 the summer colony before the first sleeper turned over and lifted a
 drowsy head; their cry sounded in the dreams of little children\... who
 lifted their arms to drag down, to cuddle the darling little woolly
-lambs of sleep. Then the first inhabitant appeared; it was the Burnells'
-cat Florrie, sitting on the gatepost, far too early as usual, looking
-for their milk-girl. When she saw the old sheep-dog she sprang up
-quickly, arched her back, drew in her tabby head, and seemed to give a
-little fastidious shiver. "Ugh! What a coarse, revolting creature!" said
-Florrie. But the old sheep-dog, not looking up, waggled past, flinging
-out his legs from side to side. Only one of his ears twitched to prove
-that he saw, and thought her a silly young female.
+lambs of sleep. Then the first inhabitant appeared; it was the
+Burnells' cat Florrie, sitting on the gatepost, far too early as usual,
+looking for their milk-girl. When she saw the old sheep-dog she sprang
+up quickly, arched her back, drew in her tabby head, and seemed to give
+a little fastidious shiver. "Ugh! What a coarse, revolting creature!"
+said Florrie. But the old sheep-dog, not looking up, waggled past,
+flinging out his legs from side to side. Only one of his ears twitched
+to prove that he saw, and thought her a silly young female.
 
 The breeze of morning lifted in the bush and the smell of leaves and wet
 black earth mingled with the sharp smell of the sea. Myriads of birds
-were singing. A goldfinch flew over the shepherd's head and, perching on
-the tiptop of a spray, it turned to the sun, ruffling its small breast
-feathers. And now they had passed the fisherman's hut, passed the
-charred-looking little whare where Leila the milk-girl lived with her
-old Gran. The sheep strayed over a yellow swamp and Wag, the sheep-dog,
-padded after, rounded them up and headed them for the steeper, narrower
-rocky pass that led out of Crescent Bay and towards Daylight Cove. "Baa!
-Baa!" Faint the cry came as they rocked along the fast-drying road. The
-shepherd put away his pipe, dropping it into his breast-pocket so that
-the little bowl hung over. And straightway the soft airy whistling began
-again. Wag ran out along a ledge of rock after something that smelled,
-and ran back again disgusted. Then pushing, nudging, hurrying, the sheep
-rounded the bend and the shepherd followed after out of sight.
+were singing. A goldfinch flew over the shepherd's head and, perching
+on the tiptop of a spray, it turned to the sun, ruffling its small
+breast feathers. And now they had passed the fisherman's hut, passed
+the charred-looking little whare where Leila the milk-girl lived with
+her old Gran. The sheep strayed over a yellow swamp and Wag, the
+sheep-dog, padded after, rounded them up and headed them for the
+steeper, narrower rocky pass that led out of Crescent Bay and towards
+Daylight Cove. "Baa! Baa!" Faint the cry came as they rocked along the
+fast-drying road. The shepherd put away his pipe, dropping it into his
+breast-pocket so that the little bowl hung over. And straightway the
+soft airy whistling began again. Wag ran out along a ledge of rock after
+something that smelled, and ran back again disgusted. Then pushing,
+nudging, hurrying, the sheep rounded the bend and the shepherd followed
+after out of sight.
 
-## Chapter 1.II.
+
+
+Chapter 1.II.
+-------------
 
 A few moments later the back door of one of the bungalows opened, and a
 figure in a broad-striped bathing suit flung down the paddock, cleared
@@ -122,24 +155,24 @@ What was the matter with the man? This mania for conversation irritated
 Stanley beyond words. And it was always the same---always some piffle
 about a dream he'd had, or some cranky idea he'd got hold of, or some
 rot he'd been reading. Stanley turned over on his back and kicked with
-his legs till he was a living waterspout. But even then\... "I dreamed I
-was hanging over a terrifically high cliff, shouting to some one below."
-You would be! thought Stanley. He could stick no more of it. He stopped
-splashing. "Look here, Trout," he said, "I'm in rather a hurry this
-morning."
+his legs till he was a living waterspout. But even then\... "I dreamed
+I was hanging over a terrifically high cliff, shouting to some one
+below." You would be! thought Stanley. He could stick no more of it. He
+stopped splashing. "Look here, Trout," he said, "I'm in rather a
+hurry this morning."
 
-"You're WHAT?" Jonathan was so surprised---or pretended to be---that he
-sank under the water, then reappeared again blowing.
+"You're WHAT?" Jonathan was so surprised---or pretended to be---that
+he sank under the water, then reappeared again blowing.
 
-"All I mean is," said Stanley, "I've no time to---to---to fool about. I
-want to get this over. I'm in a hurry. I've work to do this
+"All I mean is," said Stanley, "I've no time to---to---to fool
+about. I want to get this over. I'm in a hurry. I've work to do this
 morning---see?"
 
-Jonathan was gone before Stanley had finished. "Pass, friend!" said the
-bass voice gently, and he slid away through the water with scarcely a
-ripple\... But curse the fellow! He'd ruined Stanley's bathe. What an
-unpractical idiot the man was! Stanley struck out to sea again, and then
-as quickly swam in again, and away he rushed up the beach. He felt
+Jonathan was gone before Stanley had finished. "Pass, friend!" said
+the bass voice gently, and he slid away through the water with scarcely
+a ripple\... But curse the fellow! He'd ruined Stanley's bathe. What
+an unpractical idiot the man was! Stanley struck out to sea again, and
+then as quickly swam in again, and away he rushed up the beach. He felt
 cheated.
 
 Jonathan stayed a little longer in the water. He floated, gently moving
@@ -165,25 +198,27 @@ all over; it was as though some one was wringing the blood out of him.
 And stalking up the beach, shivering, all his muscles tight, he too felt
 his bathe was spoilt. He'd stayed in too long.
 
-## Chapter 1.III.
+
+Chapter 1.III.
+--------------
 
 Beryl was alone in the living-room when Stanley appeared, wearing a blue
 serge suit, a stiff collar and a spotted tie. He looked almost uncannily
 clean and brushed; he was going to town for the day. Dropping into his
 chair, he pulled out his watch and put it beside his plate.
 
-"I've just got twenty-five minutes," he said. "You might go and see if
-the porridge is ready, Beryl?"
+"I've just got twenty-five minutes," he said. "You might go and see
+if the porridge is ready, Beryl?"
 
-"Mother's just gone for it," said Beryl. She sat down at the table and
-poured out his tea.
+"Mother's just gone for it," said Beryl. She sat down at the table
+and poured out his tea.
 
-"Thanks!" Stanley took a sip. "Hallo!" he said in an astonished voice,
-"you've forgotten the sugar."
+"Thanks!" Stanley took a sip. "Hallo!" he said in an astonished
+voice, "you've forgotten the sugar."
 
-"Oh, sorry!" But even then Beryl didn't help him; she pushed the basin
-across. What did this mean? As Stanley helped himself his blue eyes
-widened; they seemed to quiver. He shot a quick glance at his
+"Oh, sorry!" But even then Beryl didn't help him; she pushed the
+basin across. What did this mean? As Stanley helped himself his blue
+eyes widened; they seemed to quiver. He shot a quick glance at his
 sister-in-law and leaned back.
 
 "Nothing wrong, is there?" he asked carelessly, fingering his collar.
@@ -209,23 +244,23 @@ good morning to your father?"
 "Yes, grandma." They settled themselves on the bench opposite Stanley
 and Beryl.
 
-"Good morning, Stanley!" Old Mrs. Fairfield gave him his plate.
+"Good morning, Stanley!" Old Mrs. Fairfield gave him his plate.
 
 "Morning, mother! How's the boy?"
 
-"Splendid! He only woke up once last night. What a perfect morning!" The
-old woman paused, her hand on the loaf of bread, to gaze out of the open
-door into the garden. The sea sounded. Through the wide-open window
+"Splendid! He only woke up once last night. What a perfect morning!"
+The old woman paused, her hand on the loaf of bread, to gaze out of the
+open door into the garden. The sea sounded. Through the wide-open window
 streamed the sun on to the yellow varnished walls and bare floor.
 Everything on the table flashed and glittered. In the middle there was
 an old salad bowl filled with yellow and red nasturtiums. She smiled,
 and a look of deep content shone in her eyes.
 
-"You might cut me a slice of that bread, mother," said Stanley. "I've
-only twelve and a half minutes before the coach passes. Has anyone given
-my shoes to the servant girl?"
+"You might cut me a slice of that bread, mother," said Stanley.
+"I've only twelve and a half minutes before the coach passes. Has
+anyone given my shoes to the servant girl?"
 
-"Yes, they're ready for you." Mrs. Fairfield was quite unruffled.
+"Yes, they're ready for you." Mrs. Fairfield was quite unruffled.
 
 "Oh, Kezia! Why are you such a messy child!" cried Beryl despairingly.
 
@@ -239,13 +274,13 @@ unfair grown-ups are!
 
 "But Lottie always makes a floating island, don't you, Lottie?"
 
-"I don't," said Isabel smartly. "I just sprinkle mine with sugar and put
-on the milk and finish it. Only babies play with their food."
+"I don't," said Isabel smartly. "I just sprinkle mine with sugar and
+put on the milk and finish it. Only babies play with their food."
 
 Stanley pushed back his chair and got up.
 
-"Would you get me those shoes, mother? And, Beryl, if you've finished, I
-wish you'd cut down to the gate and stop the coach. Run in to your
+"Would you get me those shoes, mother? And, Beryl, if you've finished,
+I wish you'd cut down to the gate and stop the coach. Run in to your
 mother, Isabel, and ask her where my bowler hat's been put. Wait a
 minute---have you children been playing with my stick?"
 
@@ -259,16 +294,16 @@ Even Alice, the servant-girl, was drawn into the chase. "You haven't
 been using it to poke the kitchen fire with by any chance?"
 
 Stanley dashed into the bedroom where Linda was lying. "Most
-extraordinary thing. I can't keep a single possession to myself. They've
-made away with my stick, now!"
+extraordinary thing. I can't keep a single possession to myself.
+They've made away with my stick, now!"
 
 "Stick, dear? What stick?" Linda's vagueness on these occasions could
 not be real, Stanley decided. Would nobody sympathize with him?
 
 "Coach! Coach, Stanley!" Beryl's voice cried from the gate.
 
-Stanley waved his arm to Linda. "No time to say good-bye!" he cried. And
-he meant that as a punishment to her.
+Stanley waved his arm to Linda. "No time to say good-bye!" he cried.
+And he meant that as a punishment to her.
 
 He snatched his bowler hat, dashed out of the house, and swung down the
 garden path. Yes, the coach was there waiting, and Beryl, leaning over
@@ -278,9 +313,9 @@ granted it was your job to slave away for them while they didn't even
 take the trouble to see that your walking-stick wasn't lost. Kelly
 trailed his whip across the horses.
 
-"Good-bye, Stanley," called Beryl, sweetly and gaily. It was easy enough
-to say good-bye! And there she stood, idle, shading her eyes with her
-hand. The worst of it was Stanley had to shout good-bye too, for the
+"Good-bye, Stanley," called Beryl, sweetly and gaily. It was easy
+enough to say good-bye! And there she stood, idle, shading her eyes with
+her hand. The worst of it was Stanley had to shout good-bye too, for the
 sake of appearances. Then he saw her turn, give a little skip and run
 back to the house. She was glad to be rid of him!
 
@@ -300,20 +335,23 @@ wanted, somehow, to celebrate the fact that they could do what they
 liked now. There was no man to disturb them; the whole perfect day was
 theirs.
 
-"No, thank you, child," said old Mrs. Fairfield, but the way at that
-moment she tossed the boy up and said "a-goos-a-goos-a-ga!" to him meant
-that she felt the same. The little girls ran into the paddock like
+"No, thank you, child," said old Mrs. Fairfield, but the way at that
+moment she tossed the boy up and said "a-goos-a-goos-a-ga!" to him
+meant that she felt the same. The little girls ran into the paddock like
 chickens let out of a coop.
 
 Even Alice, the servant-girl, washing up the dishes in the kitchen,
 caught the infection and used the precious tank water in a perfectly
 reckless fashion.
 
-"Oh, these men!" said she, and she plunged the teapot into the bowl and
-held it under the water even after it had stopped bubbling, as if it too
-was a man and drowning was too good for them.
+"Oh, these men!" said she, and she plunged the teapot into the bowl
+and held it under the water even after it had stopped bubbling, as if it
+too was a man and drowning was too good for them.
 
-## Chapter 1.IV.
+
+
+Chapter 1.IV.
+-------------
 
 ### "Wait for me, Isa-bel! Kezia, wait for me!"
 
@@ -326,12 +364,12 @@ feeling was awful. She was half in the paddock still and half in the
 tussock grass. She clutched the post desperately and lifted up her
 voice. "Wait for me!"
 
-"No, don't you wait for her, Kezia!" said Isabel. "She's such a little
-silly. She's always making a fuss. Come on!" And she tugged Kezia's
-jersey. "You can use my bucket if you come with me," she said kindly.
-"It's bigger than yours." But Kezia couldn't leave Lottie all by
-herself. She ran back to her. By this time Lottie was very red in the
-face and breathing heavily.
+"No, don't you wait for her, Kezia!" said Isabel. "She's such a
+little silly. She's always making a fuss. Come on!" And she tugged
+Kezia's jersey. "You can use my bucket if you come with me," she said
+kindly. "It's bigger than yours." But Kezia couldn't leave Lottie
+all by herself. She ran back to her. By this time Lottie was very red in
+the face and breathing heavily.
 
 "Here, put your other foot over," said Kezia.
 
@@ -341,8 +379,8 @@ Lottie looked down at Kezia as if from a mountain height.
 
 "Here where my hand is." Kezia patted the place.
 
-"Oh, there do you mean!" Lottie gave a deep sigh and put the second foot
-over.
+"Oh, there do you mean!" Lottie gave a deep sigh and put the second
+foot over.
 
 "Now---sort of turn round and sit down and slide," said Kezia.
 
@@ -367,7 +405,7 @@ she wore tied round her neck, and a small cane with which she directed
 operations. The Samuel Josephs never played by themselves or managed
 their own game. If they did, it ended in the boys pouring water down the
 girls' necks or the girls trying to put little black crabs into the
-boys' pockets. So Mrs. S. J. and the poor lady-help drew up what she
+boys' pockets. So Mrs. S. J. and the poor lady-help drew up what she
 called a "brogramme" every morning to keep them "abused and out of
 bischief." It was all competitions or races or round games. Everything
 began with a piercing blast of the lady-help's whistle and ended with
@@ -377,11 +415,12 @@ string kit. The Samuel Josephs fought fearfully for the prizes and
 cheated and pinched one another's arms---they were all expert pinchers.
 The only time the Burnell children ever played with them Kezia had got a
 prize, and when she undid three bits of paper she found a very small
-rusty button-hook. She couldn't understand why they made such a fuss....
+rusty button-hook. She couldn't understand why they made such a
+fuss\....
 
 But they never played with the Samuel Josephs now or even went to their
-parties. The Samuel Josephs were always giving children's parties at the
-Bay and there was always the same food. A big washhand basin of very
+parties. The Samuel Josephs were always giving children's parties at
+the Bay and there was always the same food. A big washhand basin of very
 brown fruit-salad, buns cut into four and a washhand jug full of
 something the lady-help called "Limonadear." And you went away in the
 evening with half the frill torn off your frock or something spilled all
@@ -392,31 +431,32 @@ On the other side of the beach, close down to the water, two little
 boys, their knickers rolled up, twinkled like spiders. One was digging,
 the other pattered in and out of the water, filling a small bucket. They
 were the Trout boys, Pip and Rags. But Pip was so busy digging and Rags
-was so busy helping that they didn't see their little cousins until they
-were quite close.
+was so busy helping that they didn't see their little cousins until
+they were quite close.
 
-"Look!" said Pip. "Look what I've discovered." And he showed them an old
-wet, squashed-looking boot. The three little girls stared.
+"Look!" said Pip. "Look what I've discovered." And he showed them
+an old wet, squashed-looking boot. The three little girls stared.
 
 "Whatever are you going to do with it?" asked Kezia.
 
 "Keep it, of course!" Pip was very scornful. "It's a find---see?"
 
-Yes, Kezia saw that. All the same....
+Yes, Kezia saw that. All the same\....
 
-"There's lots of things buried in the sand," explained Pip. "They get
-chucked up from wrecks. Treasure. Why---you might find---"
+"There's lots of things buried in the sand," explained Pip. "They
+get chucked up from wrecks. Treasure. Why---you might find---"
 
 "But why does Rags have to keep on pouring water in?" asked Lottie.
 
-"Oh, that's to moisten it," said Pip, "to make the work a bit easier.
-Keep it up, Rags."
+"Oh, that's to moisten it," said Pip, "to make the work a bit
+easier. Keep it up, Rags."
 
 And good little Rags ran up and down, pouring in the water that turned
 brown like cocoa.
 
-"Here, shall I show you what I found yesterday?" said Pip mysteriously,
-and he stuck his spade into the sand. "Promise not to tell."
+"Here, shall I show you what I found yesterday?" said Pip
+mysteriously, and he stuck his spade into the sand. "Promise not to
+tell."
 
 They promised.
 
@@ -444,7 +484,10 @@ The lovely green thing seemed to dance in Pip's fingers. Aunt Beryl had
 a nemeral in a ring, but it was a very small one. This one was as big as
 a star and far more beautiful.
 
-## Chapter 1.V.
+
+
+Chapter 1.V.
+------------
 
 As the morning lengthened whole parties appeared over the sand-hills and
 came down on the beach to bathe. It was understood that at eleven
@@ -455,7 +498,7 @@ children were unbuttoned. The beach was strewn with little heaps of
 clothes and shoes; the big summer hats, with stones on them to keep them
 from blowing away, looked like immense shells. It was strange that even
 the sea seemed to sound differently when all those leaping, laughing
-figures ran into the waves. Old Mrs. Fairfield, in a lilac cotton dress
+figures ran into the waves. Old Mrs. Fairfield, in a lilac cotton dress
 and a black hat tied under the chin, gathered her little brood and got
 them ready. The little Trout boys whipped their shirts over their heads,
 and away the five sped, while their grandma sat with one hand in her
@@ -467,8 +510,8 @@ delicate-looking little boys. Pip and Rags, shivering, crouching down,
 slapping the water, never hesitated. But Isabel, who could swim twelve
 strokes, and Kezia, who could nearly swim eight, only followed on the
 strict understanding they were not to be splashed. As for Lottie, she
-didn't follow at all. She liked to be left to go in her own way, please.
-And that way was to sit down at the edge of the water, her legs
+didn't follow at all. She liked to be left to go in her own way,
+please. And that way was to sit down at the edge of the water, her legs
 straight, her knees pressed together, and to make vague motions with her
 arms as if she expected to be wafted out to sea. But when a bigger wave
 than usual, an old whiskery one, came lolloping along in her direction,
@@ -481,21 +524,21 @@ Two rings and a thin gold chain were dropped into Mrs Fairfield's lap.
 
 "Yes, dear. But aren't you going to bathe here?"
 
-"No-o," Beryl drawled. She sounded vague. "I'm undressing farther along.
-I'm going to bathe with Mrs. Harry Kember."
+"No-o," Beryl drawled. She sounded vague. "I'm undressing farther
+along. I'm going to bathe with Mrs. Harry Kember."
 
-"Very well." But Mrs. Fairfield's lips set. She disapproved of Mrs Harry
-Kember. Beryl knew it.
+"Very well." But Mrs. Fairfield's lips set. She disapproved of Mrs
+Harry Kember. Beryl knew it.
 
 Poor old mother, she smiled, as she skimmed over the stones. Poor old
-mother! Old! Oh, what joy, what bliss it was to be young....
+mother! Old! Oh, what joy, what bliss it was to be young\....
 
-"You look very pleased," said Mrs. Harry Kember. She sat hunched up on
+"You look very pleased," said Mrs. Harry Kember. She sat hunched up on
 the stones, her arms round her knees, smoking.
 
 "It's such a lovely day," said Beryl, smiling down at her.
 
-"Oh my dear!" Mrs. Harry Kember's voice sounded as though she knew
+"Oh my dear!" Mrs. Harry Kember's voice sounded as though she knew
 better than that. But then her voice always sounded as though she knew
 something better about you than you did yourself. She was a long,
 strange-looking woman with narrow hands and feet. Her face, too, was
@@ -512,16 +555,16 @@ tossed-up driftwood. The women at the Bay thought she was very, very
 fast. Her lack of vanity, her slang, the way she treated men as though
 she was one of them, and the fact that she didn't care twopence about
 her house and called the servant Gladys "Glad-eyes," was disgraceful.
-Standing on the veranda steps Mrs. Kember would call in her indifferent,
+Standing on the veranda steps Mrs. Kember would call in her indifferent,
 tired voice, "I say, Glad-eyes, you might heave me a handkerchief if
-I've got one, will you?" And Glad-eyes, a red bow in her hair instead of
-a cap, and white shoes, came running with an impudent smile. It was an
-absolute scandal! True, she had no children, and her husband\... Here
+I've got one, will you?" And Glad-eyes, a red bow in her hair instead
+of a cap, and white shoes, came running with an impudent smile. It was
+an absolute scandal! True, she had no children, and her husband\... Here
 the voices were always raised; they became fervent. How can he have
 married her? How can he, how can he? It must have been money, of course,
 but even then!
 
-Mrs. Kember's husband was at least ten years younger than she was, and
+Mrs. Kember's husband was at least ten years younger than she was, and
 so incredibly handsome that he looked like a mask or a most perfect
 illustration in an American novel rather than a man. Black hair, dark
 blue eyes, red lips, a slow sleepy smile, a fine tennis player, a
@@ -532,47 +575,48 @@ live? Of course there were stories, but such stories! They simply
 couldn't be told. The women he'd been seen with, the places he'd been
 seen in\... but nothing was ever certain, nothing definite. Some of the
 women at the Bay privately thought he'd commit a murder one day. Yes,
-even while they talked to Mrs. Kember and took in the awful concoction
+even while they talked to Mrs. Kember and took in the awful concoction
 she was wearing, they saw her, stretched as she lay on the beach; but
 cold, bloody, and still with a cigarette stuck in the corner of her
 mouth.
 
-Mrs. Kember rose, yawned, unsnapped her belt buckle, and tugged at the
+Mrs. Kember rose, yawned, unsnapped her belt buckle, and tugged at the
 tape of her blouse. And Beryl stepped out of her skirt and shed her
 jersey, and stood up in her short white petticoat, and her camisole with
 ribbon bows on the shoulders.
 
-"Mercy on us," said Mrs. Harry Kember, "what a little beauty you are!"
+"Mercy on us," said Mrs. Harry Kember, "what a little beauty you
+are!"
 
-"Don't!" said Beryl softly; but, drawing off one stocking and then the
-other, she felt a little beauty.
+"Don't!" said Beryl softly; but, drawing off one stocking and then
+the other, she felt a little beauty.
 
-"My dear---why not?" said Mrs. Harry Kember, stamping on her own
+"My dear---why not?" said Mrs. Harry Kember, stamping on her own
 petticoat. Really---her underclothes! A pair of blue cotton knickers and
 a linen bodice that reminded one somehow of a pillow-case\... "And you
-don't wear stays, do you?" She touched Beryl's waist, and Beryl sprang
-away with a small affected cry. Then "Never!" she said firmly.
+don't wear stays, do you?" She touched Beryl's waist, and Beryl
+sprang away with a small affected cry. Then "Never!" she said firmly.
 
-"Lucky little creature," sighed Mrs. Kember, unfastening her own.
+"Lucky little creature," sighed Mrs. Kember, unfastening her own.
 
 Beryl turned her back and began the complicated movements of some one
 who is trying to take off her clothes and to pull on her bathing-dress
 all at one and the same time.
 
-"Oh, my dear---don't mind me," said Mrs. Harry Kember. "Why be shy? I
-shan't eat you. I shan't be shocked like those other ninnies." And she
-gave her strange neighing laugh and grimaced at the other women.
+"Oh, my dear---don't mind me," said Mrs. Harry Kember. "Why be shy?
+I shan't eat you. I shan't be shocked like those other ninnies." And
+she gave her strange neighing laugh and grimaced at the other women.
 
 But Beryl was shy. She never undressed in front of anybody. Was that
-silly? Mrs. Harry Kember made her feel it was silly, even something to
+silly? Mrs. Harry Kember made her feel it was silly, even something to
 be ashamed of. Why be shy indeed! She glanced quickly at her friend
 standing so boldly in her torn chemise and lighting a fresh cigarette;
 and a quick, bold, evil feeling started up in her breast. Laughing
 recklessly, she drew on the limp, sandy-feeling bathing-dress that was
 not quite dry and fastened the twisted buttons.
 
-"That's better," said Mrs. Harry Kember. They began to go down the beach
-together. "Really, it's a sin for you to wear clothes, my dear.
+"That's better," said Mrs. Harry Kember. They began to go down the
+beach together. "Really, it's a sin for you to wear clothes, my dear.
 Somebody's got to tell you some day."
 
 The water was quite warm. It was that marvellous transparent blue,
@@ -582,17 +626,20 @@ waves just reached her breast. Beryl stood, her arms outstretched,
 gazing out, and as each wave came she gave the slightest little jump, so
 that it seemed it was the wave which lifted her so gently.
 
-"I believe in pretty girls having a good time," said Mrs. Harry Kember.
-"Why not? Don't you make a mistake, my dear. Enjoy yourself." And
-suddenly she turned turtle, disappeared, and swam away quickly, quickly,
-like a rat. Then she flicked round and began swimming back. She was
-going to say something else. Beryl felt that she was being poisoned by
-this cold woman, but she longed to hear. But oh, how strange, how
-horrible! As Mrs. Harry Kember came up close she looked, in her black
+"I believe in pretty girls having a good time," said Mrs. Harry
+Kember. "Why not? Don't you make a mistake, my dear. Enjoy yourself."
+And suddenly she turned turtle, disappeared, and swam away quickly,
+quickly, like a rat. Then she flicked round and began swimming back. She
+was going to say something else. Beryl felt that she was being poisoned
+by this cold woman, but she longed to hear. But oh, how strange, how
+horrible! As Mrs. Harry Kember came up close she looked, in her black
 waterproof bathing-cap, with her sleepy face lifted above the water,
 just her chin touching, like a horrible caricature of her husband.
 
-## Chapter 1.VI.
+
+
+Chapter 1.VI.
+-------------
 
 In a steamer chair, under a manuka tree that grew in the middle of the
 front grass patch, Linda Burnell dreamed the morning away. She did
@@ -629,11 +676,11 @@ be so? Was there no escape?
 
 \... Now she sat on the veranda of their Tasmanian home, leaning against
 her father's knee. And he promised, "As soon as you and I are old
-enough, Linny, we'll cut off somewhere, we'll escape. Two boys together.
-I have a fancy I'd like to sail up a river in China." Linda saw that
-river, very wide, covered with little rafts and boats. She saw the
-yellow hats of the boatmen and she heard their high, thin voices as they
-called\...
+enough, Linny, we'll cut off somewhere, we'll escape. Two boys
+together. I have a fancy I'd like to sail up a river in China." Linda
+saw that river, very wide, covered with little rafts and boats. She saw
+the yellow hats of the boatmen and she heard their high, thin voices as
+they called\...
 
 "Yes, papa."
 
@@ -678,8 +725,8 @@ the strength she never would have nursed and played with the little
 girls. No, it was as though a cold breath had chilled her through and
 through on each of those awful journeys; she had no warmth left to give
 them. As to the boy---well, thank Heaven, mother had taken him; he was
-mother's, or Beryl's, or anybody's who wanted him. She had hardly held
-him in her arms. She was so indifferent about him that as he lay
+mother's, or Beryl's, or anybody's who wanted him. She had hardly
+held him in her arms. She was so indifferent about him that as he lay
 there\... Linda glanced down.
 
 The boy had turned over. He lay facing her, and he was no longer asleep.
@@ -687,19 +734,20 @@ His dark-blue, baby eyes were open; he looked as though he was peeping
 at his mother. And suddenly his face dimpled; it broke into a wide,
 toothless smile, a perfect beam, no less.
 
-"I'm here!" that happy smile seemed to say. "Why don't you like me?"
+"I'm here!" that happy smile seemed to say. "Why don't you like
+me?"
 
 There was something so quaint, so unexpected about that smile that Linda
 smiled herself. But she checked herself and said to the boy coldly, "I
 don't like babies."
 
-"Don't like babies?" The boy couldn't believe her. "Don't like me?" He
-waved his arms foolishly at his mother.
+"Don't like babies?" The boy couldn't believe her. "Don't like
+me?" He waved his arms foolishly at his mother.
 
 Linda dropped off her chair on to the grass.
 
-"Why do you keep on smiling?" she said severely. "If you knew what I was
-thinking about, you wouldn't."
+"Why do you keep on smiling?" she said severely. "If you knew what I
+was thinking about, you wouldn't."
 
 But he only squeezed up his eyes, slyly, and rolled his head on the
 pillow. He didn't believe a word she said.
@@ -717,7 +765,10 @@ it and it immediately disappeared. But when he lay back, another, like
 the first, appeared. This time he determined to catch it. He made a
 tremendous effort and rolled right over.
 
-## Chapter 1.VII.
+
+
+Chapter 1.VII.
+--------------
 
 The tide was out; the beach was deserted; lazily flopped the warm sea.
 The sun beat down, beat down hot and fiery on the fine sand, baking the
@@ -740,8 +791,8 @@ berry-spotted weeds. Now a stone on the bottom moved, rocked, and there
 was a glimpse of a black feeler; now a thread-like creature wavered by
 and was lost. Something was happening to the pink, waving trees; they
 were changing to a cold moonlight blue. And now there sounded the
-faintest "plop." Who made that sound? What was going on down there? And
-how strong, how damp the seaweed smelt in the hot sun\...
+faintest "plop." Who made that sound? What was going on down there?
+And how strong, how damp the seaweed smelt in the hot sun\...
 
 The green blinds were drawn in the bungalows of the summer colony. Over
 the verandas, prone on the paddock, flung over the fences, there were
@@ -759,10 +810,10 @@ of staring at the wall?"
 
 Kezia and her grandmother were taking their siesta together. The little
 girl, wearing only her short drawers and her under-bodice, her arms and
-legs bare, lay on one of the puffed-up pillows of her grandma's bed, and
-the old woman, in a white ruffled dressing-gown, sat in a rocker at the
-window, with a long piece of pink knitting in her lap. This room that
-they shared, like the other rooms of the bungalow, was of light
+legs bare, lay on one of the puffed-up pillows of her grandma's bed,
+and the old woman, in a white ruffled dressing-gown, sat in a rocker at
+the window, with a long piece of pink knitting in her lap. This room
+that they shared, like the other rooms of the bungalow, was of light
 varnished wood and the floor was bare. The furniture was of the
 shabbiest, the simplest. The dressing-table, for instance, was a
 packing-case in a sprigged muslin petticoat, and the mirror above was
@@ -788,11 +839,11 @@ the bone needle through. She was casting on.
 
 "That was the one."
 
-"Well, what happened to him?" Kezia knew perfectly well, but she wanted
-to be told again.
+"Well, what happened to him?" Kezia knew perfectly well, but she
+wanted to be told again.
 
-"He went to the mines, and he got a sunstroke there and died," said old
-Mrs. Fairfield.
+"He went to the mines, and he got a sunstroke there and died," said
+old Mrs. Fairfield.
 
 Kezia blinked and considered the picture again\... a little man fallen
 over like a tin soldier by the side of a big black hole.
@@ -807,10 +858,11 @@ it make her sad? No, life was like that.
 
 "No, Kezia."
 
-"But why?" asked Kezia. She lifted one bare arm and began to draw things
-in the air. "Why did Uncle William have to die? He wasn't old."
+"But why?" asked Kezia. She lifted one bare arm and began to draw
+things in the air. "Why did Uncle William have to die? He wasn't
+old."
 
-Mrs. Fairfield began counting the stitches in threes. "It just
+Mrs. Fairfield began counting the stitches in threes. "It just
 happened," she said in an absorbed voice.
 
 "Does everybody have to die?" asked Kezia.
@@ -821,17 +873,17 @@ happened," she said in an absorbed voice.
 
 "Some day, my darling."
 
-"But, grandma." Kezia waved her left leg and waggled the toes. They felt
-sandy. "What if I just won't?"
+"But, grandma." Kezia waved her left leg and waggled the toes. They
+felt sandy. "What if I just won't?"
 
 The old woman sighed again and drew a long thread from the ball.
 
 "We're not asked, Kezia," she said sadly. "It happens to all of us
 sooner or later."
 
-Kezia lay still thinking this over. She didn't want to die. It meant she
-would have to leave here, leave everywhere, for ever, leave---leave her
-grandma. She rolled over quickly.
+Kezia lay still thinking this over. She didn't want to die. It meant
+she would have to leave here, leave everywhere, for ever, leave---leave
+her grandma. She rolled over quickly.
 
 "Grandma," she said in a startled voice.
 
@@ -842,9 +894,9 @@ grandma. She rolled over quickly.
 "Ah, Kezia"---her grandma looked up and smiled and shook her
 head---"don't let's talk about it."
 
-"But you're not to. You couldn't leave me. You couldn't not be there."
-This was awful. "Promise me you won't ever do it, grandma," pleaded
-Kezia.
+"But you're not to. You couldn't leave me. You couldn't not be
+there." This was awful. "Promise me you won't ever do it, grandma,"
+pleaded Kezia.
 
 The old woman went on knitting.
 
@@ -864,37 +916,41 @@ grandma.
 "Kezia!" The old woman dropped her knitting. She swung back in the
 rocker. She began to tickle Kezia. "Say never, say never, say never,"
 gurgled Kezia, while they lay there laughing in each other's arms.
-"Come, that's enough, my squirrel! That's enough, my wild pony!" said
-old Mrs. Fairfield, setting her cap straight. "Pick up my knitting."
+"Come, that's enough, my squirrel! That's enough, my wild pony!"
+said old Mrs. Fairfield, setting her cap straight. "Pick up my
+knitting."
 
 Both of them had forgotten what the "never" was about.
 
-## Chapter 1.VIII.
 
-The sun was still full on the garden when the back door of the Burnells'
-shut with a bang, and a very gay figure walked down the path to the
-gate. It was Alice, the servant-girl, dressed for her afternoon out. She
-wore a white cotton dress with such large red spots on it and so many
-that they made you shudder, white shoes and a leghorn turned up under
-the brim with poppies. Of course she wore gloves, white ones, stained at
-the fastenings with iron-mould, and in one hand she carried a very
-dashed-looking sunshade which she referred to as her "perishall."
+
+Chapter 1.VIII.
+---------------
+
+The sun was still full on the garden when the back door of the
+Burnells' shut with a bang, and a very gay figure walked down the path
+to the gate. It was Alice, the servant-girl, dressed for her afternoon
+out. She wore a white cotton dress with such large red spots on it and
+so many that they made you shudder, white shoes and a leghorn turned up
+under the brim with poppies. Of course she wore gloves, white ones,
+stained at the fastenings with iron-mould, and in one hand she carried a
+very dashed-looking sunshade which she referred to as her "perishall."
 
 Beryl, sitting in the window, fanning her freshly-washed hair, thought
 she had never seen such a guy. If Alice had only blacked her face with a
 piece of cork before she started out, the picture would have been
 complete. And where did a girl like that go to in a place like this? The
 heart-shaped Fijian fan beat scornfully at that lovely bright mane. She
-supposed Alice had picked up some horrible common larrikin and they'd go
-off into the bush together. Pity to have made herself so conspicuous;
+supposed Alice had picked up some horrible common larrikin and they'd
+go off into the bush together. Pity to have made herself so conspicuous;
 they'd have hard work to hide with Alice in that rig-out.
 
 But no, Beryl was unfair. Alice was going to tea with Mrs Stubbs, who'd
 sent her an "invite" by the little boy who called for orders. She had
-taken ever such a liking to Mrs. Stubbs ever since the first time she
+taken ever such a liking to Mrs. Stubbs ever since the first time she
 went to the shop to get something for her mosquitoes.
 
-"Dear heart!" Mrs. Stubbs had clapped her hand to her side. "I never
+"Dear heart!" Mrs. Stubbs had clapped her hand to her side. "I never
 seen anyone so eaten. You might have been attacked by canningbals."
 
 Alice did wish there'd been a bit of life on the road though. Made her
@@ -904,10 +960,10 @@ it was silly to turn round; it gave you away. She pulled up her gloves,
 hummed to herself and said to the distant gum-tree, "Shan't be long
 now." But that was hardly company.
 
-Mrs. Stubbs's shop was perched on a little hillock just off the road. It
-had two big windows for eyes, a broad veranda for a hat, and the sign on
-the roof, scrawled MRS. STUBBS'S, was like a little card stuck rakishly
-in the hat crown.
+Mrs. Stubbs's shop was perched on a little hillock just off the road.
+It had two big windows for eyes, a broad veranda for a hat, and the sign
+on the roof, scrawled MRS. STUBBS'S, was like a little card stuck
+rakishly in the hat crown.
 
 On the veranda there hung a long string of bathing-dresses, clinging
 together as though they'd just been rescued from the sea rather than
@@ -916,7 +972,7 @@ extraordinarily mixed that to get at one pair you had to tear apart and
 forcibly separate at least fifty. Even then it was the rarest thing to
 find the left that belonged to the right. So many people had lost
 patience and gone off with one shoe that fitted and one that was a
-little too big\... Mrs. Stubbs prided herself on keeping something of
+little too big\... Mrs. Stubbs prided herself on keeping something of
 everything. The two windows, arranged in the form of precarious
 pyramids, were crammed so tight, piled so high, that it seemed only a
 conjurer could prevent them from toppling over. In the left-hand corner
@@ -926,29 +982,29 @@ was---and there had been from time immemorial---a notice.
 LOST! HANSOME GOLE BROOCH SOLID GOLD ON OR NEAR BEACH REWARD OFFERED
 
 Alice pressed open the door. The bell jangled, the red serge curtains
-parted, and Mrs. Stubbs appeared. With her broad smile and the long
+parted, and Mrs. Stubbs appeared. With her broad smile and the long
 bacon knife in her hand, she looked like a friendly brigand. Alice was
 welcomed so warmly that she found it quite difficult to keep up her
-"manners." They consisted of persistent little coughs and hems, pulls at
-her gloves, tweaks at her skirt, and a curious difficulty in seeing what
-was set before her or understanding what was said.
+"manners." They consisted of persistent little coughs and hems, pulls
+at her gloves, tweaks at her skirt, and a curious difficulty in seeing
+what was set before her or understanding what was said.
 
 Tea was laid on the parlour table---ham, sardines, a whole pound of
 butter, and such a large johnny cake that it looked like an
 advertisement for somebody's baking-powder. But the Primus stove roared
 so loudly that it was useless to try to talk above it. Alice sat down on
-the edge of a basket-chair while Mrs. Stubbs pumped the stove still
-higher. Suddenly Mrs. Stubbs whipped the cushion off a chair and
+the edge of a basket-chair while Mrs. Stubbs pumped the stove still
+higher. Suddenly Mrs. Stubbs whipped the cushion off a chair and
 disclosed a large brown-paper parcel.
 
-"I've just had some new photers taken, my dear," she shouted cheerfully
-to Alice. "Tell me what you think of them."
+"I've just had some new photers taken, my dear," she shouted
+cheerfully to Alice. "Tell me what you think of them."
 
 In a very dainty, refined way Alice wet her finger and put the tissue
 back from the first one. Life! How many there were! There were three
 dozzing at least. And she held it up to the light.
 
-Mrs. Stubbs sat in an arm-chair, leaning very much to one side. There
+Mrs. Stubbs sat in an arm-chair, leaning very much to one side. There
 was a look of mild astonishment on her large face, and well there might
 be. For though the arm-chair stood on a carpet, to the left of it,
 miraculously skirting the carpet-border, there was a dashing water-fall.
@@ -956,36 +1012,37 @@ On her right stood a Grecian pillar with a giant fern-tree on either
 side of it, and in the background towered a gaunt mountain, pale with
 snow.
 
-"It is a nice style, isn't it?" shouted Mrs. Stubbs; and Alice had just
-screamed "Sweetly" when the roaring of the Primus stove died down,
-fizzled out, ceased, and she said "Pretty" in a silence that was
+"It is a nice style, isn't it?" shouted Mrs. Stubbs; and Alice had
+just screamed "Sweetly" when the roaring of the Primus stove died
+down, fizzled out, ceased, and she said "Pretty" in a silence that was
 frightening.
 
-"Draw up your chair, my dear," said Mrs. Stubbs, beginning to pour out.
-"Yes," she said thoughtfully, as she handed the tea, "but I don't care
-about the size. I'm having an enlargemint. All very well for Christmas
-cards, but I never was the one for small photers myself. You get no
-comfort out of them. To say the truth, I find them dis'eartening."
+"Draw up your chair, my dear," said Mrs. Stubbs, beginning to pour
+out. "Yes," she said thoughtfully, as she handed the tea, "but I
+don't care about the size. I'm having an enlargemint. All very well
+for Christmas cards, but I never was the one for small photers myself.
+You get no comfort out of them. To say the truth, I find them
+dis'eartening."
 
 Alice quite saw what she meant.
 
-"Size," said Mrs. Stubbs. "Give me size. That was what my poor dear
+"Size," said Mrs. Stubbs. "Give me size. That was what my poor dear
 husband was always saying. He couldn't stand anything small. Gave him
-the creeps. And, strange as it may seem, my dear"---here Mrs. Stubbs
-creaked and seemed to expand herself at the memory---"it was dropsy that
-carried him off at the larst. Many's the time they drawn one and a half
-pints from 'im at the 'ospital\... It seemed like a judgmint."
+the creeps. And, strange as it may seem, my dear"---here Mrs. Stubbs
+creaked and seemed to expand herself at the memory---"it was dropsy
+that carried him off at the larst. Many's the time they drawn one and a
+half pints from 'im at the 'ospital\... It seemed like a judgmint."
 
 Alice burned to know exactly what it was that was drawn from him. She
 ventured, "I suppose it was water."
 
-But Mrs. Stubbs fixed Alice with her eyes and replied meaningly, "It was
-liquid, my dear."
+But Mrs. Stubbs fixed Alice with her eyes and replied meaningly, "It
+was liquid, my dear."
 
 Liquid! Alice jumped away from the word like a cat and came back to it,
 nosing and wary.
 
-"That's 'im!" said Mrs. Stubbs, and she pointed dramatically to the
+"That's 'im!" said Mrs. Stubbs, and she pointed dramatically to the
 life-size head and shoulders of a burly man with a dead white rose in
 the buttonhole of his coat that made you think of a curl of cold mutting
 fat. Just below, in silver letters on a red cardboard ground, were the
@@ -993,20 +1050,23 @@ words, "Be not afraid, it is I."
 
 "It's ever such a fine face," said Alice faintly.
 
-The pale-blue bow on the top of Mrs. Stubbs's fair frizzy hair quivered.
-She arched her plump neck. What a neck she had! It was bright pink where
-it began and then it changed to warm apricot, and that faded to the
-colour of a brown egg and then to a deep creamy.
+The pale-blue bow on the top of Mrs. Stubbs's fair frizzy hair
+quivered. She arched her plump neck. What a neck she had! It was bright
+pink where it began and then it changed to warm apricot, and that faded
+to the colour of a brown egg and then to a deep creamy.
 
-"All the same, my dear," she said surprisingly, "freedom's best!" Her
-soft, fat chuckle sounded like a purr. "Freedom's best," said
-Mrs. Stubbs again.
+"All the same, my dear," she said surprisingly, "freedom's best!"
+Her soft, fat chuckle sounded like a purr. "Freedom's best," said
+Mrs. Stubbs again.
 
 Freedom! Alice gave a loud, silly little titter. She felt awkward. Her
 mind flew back to her own kitching. Ever so queer! She wanted to be back
 in it again.
 
-## Chapter 1.IX.
+
+
+Chapter 1.IX.
+-------------
 
 A strange company assembled in the Burnells' washhouse after tea. Round
 the table there sat a bull, a rooster, a donkey that kept forgetting it
@@ -1026,8 +1086,8 @@ was in the middle with a form at either side.
 bee, all yellow-furry, with striped legs. She drew her legs up under her
 and leaned over the table. She felt she was a bee.
 
-"A ninseck must be an animal," she said stoutly. "It makes a noise. It's
-not like a fish."
+"A ninseck must be an animal," she said stoutly. "It makes a noise.
+It's not like a fish."
 
 "I'm a bull, I'm a bull!" cried Pip. And he gave such a tremendous
 bellow---how did he make that noise?---that Lottie looked quite alarmed.
@@ -1037,60 +1097,60 @@ this morning."
 
 "How do you know?"
 
-"Dad heard them. Baa!" He sounded like the little lamb that trots behind
-and seems to wait to be carried.
+"Dad heard them. Baa!" He sounded like the little lamb that trots
+behind and seems to wait to be carried.
 
-"Cock-a-doodle-do!" shrilled Isabel. With her red cheeks and bright eyes
-she looked like a rooster.
+"Cock-a-doodle-do!" shrilled Isabel. With her red cheeks and bright
+eyes she looked like a rooster.
 
 "What'll I be?" Lottie asked everybody, and she sat there smiling,
 waiting for them to decide for her. It had to be an easy one.
 
-"Be a donkey, Lottie." It was Kezia's suggestion. "Hee-haw! You can't
-forget that."
+"Be a donkey, Lottie." It was Kezia's suggestion. "Hee-haw! You
+can't forget that."
 
 "Hee-haw!" said Lottie solemnly. "When do I have to say it?"
 
 "I'll explain, I'll explain," said the bull. It was he who had the
-cards. He waved them round his head. "All be quiet! All listen!" And he
-waited for them. "Look here, Lottie." He turned up a card. "It's got two
-spots on it---see? Now, if you put that card in the middle and somebody
-else has one with two spots as well, you say 'Hee-haw,' and the card's
-yours."
+cards. He waved them round his head. "All be quiet! All listen!" And
+he waited for them. "Look here, Lottie." He turned up a card. "It's
+got two spots on it---see? Now, if you put that card in the middle and
+somebody else has one with two spots as well, you say 'Hee-haw,' and
+the card's yours."
 
 "Mine?" Lottie was round-eyed. "To keep?"
 
-"No, silly. Just for the game, see? Just while we're playing." The bull
-was very cross with her.
+"No, silly. Just for the game, see? Just while we're playing." The
+bull was very cross with her.
 
 "Oh, Lottie, you are a little silly," said the proud rooster.
 
 Lottie looked at both of them. Then she hung her head; her lip quivered.
-"I don't want to play," she whispered. The others glanced at one another
-like conspirators. All of them knew what that meant. She would go away
-and be discovered somewhere standing with her pinny thrown over her
-head, in a corner, or against a wall, or even behind a chair.
+"I don't want to play," she whispered. The others glanced at one
+another like conspirators. All of them knew what that meant. She would
+go away and be discovered somewhere standing with her pinny thrown over
+her head, in a corner, or against a wall, or even behind a chair.
 
 "Yes, you do, Lottie. It's quite easy," said Kezia.
 
 And Isabel, repentant, said exactly like a grown-up, "Watch me, Lottie,
 and you'll soon learn."
 
-"Cheer up, Lot," said Pip. "There, I know what I'll do. I'll give you
-the first one. It's mine, really, but I'll give it to you. Here you
-are." And he slammed the card down in front of Lottie.
+"Cheer up, Lot," said Pip. "There, I know what I'll do. I'll give
+you the first one. It's mine, really, but I'll give it to you. Here
+you are." And he slammed the card down in front of Lottie.
 
 Lottie revived at that. But now she was in another difficulty. "I
 haven't got a hanky," she said; "I want one badly, too."
 
-"Here, Lottie, you can use mine." Rags dipped into his sailor blouse and
-brought up a very wet-looking one, knotted together. "Be very careful,"
-he warned her. "Only use that corner. Don't undo it. I've got a little
-starfish inside I'm going to try and tame."
+"Here, Lottie, you can use mine." Rags dipped into his sailor blouse
+and brought up a very wet-looking one, knotted together. "Be very
+careful," he warned her. "Only use that corner. Don't undo it. I've
+got a little starfish inside I'm going to try and tame."
 
-"Oh, come on, you girls," said the bull. "And mind---you're not to look
-at your cards. You've got to keep your hands under the table till I say
-'Go.'"
+"Oh, come on, you girls," said the bull. "And mind---you're not to
+look at your cards. You've got to keep your hands under the table till
+I say 'Go.'"
 
 Smack went the cards round the table. They tried with all their might to
 see, but Pip was too quick for them. It was very exciting, sitting there
@@ -1103,8 +1163,8 @@ Timidly Lottie stretched out a hand, took the top card off her pack, had
 a good look at it---it was plain she was counting the spots---and put it
 down.
 
-"No, Lottie, you can't do that. You mustn't look first. You must turn it
-the other way over."
+"No, Lottie, you can't do that. You mustn't look first. You must turn
+it the other way over."
 
 "But then everybody will see it the same time as me," said Lottie.
 
@@ -1135,8 +1195,8 @@ stopped them, holding up his hand. "What's that? What's that noise?"
 
 "What noise? What do you mean?" asked the rooster.
 
-"Ss! Shut up! Listen!" They were mouse-still. "I thought I heard a---a
-sort of knocking," said the bull.
+"Ss! Shut up! Listen!" They were mouse-still. "I thought I heard
+a---a sort of knocking," said the bull.
 
 "What was it like?" asked the sheep faintly.
 
@@ -1172,8 +1232,8 @@ forgotten. That was what their smile meant. They had decided to leave
 them there all by themselves.
 
 Suddenly Lottie gave such a piercing scream that all of them jumped off
-the forms, all of them screamed too. "A face---a face looking!" shrieked
-Lottie.
+the forms, all of them screamed too. "A face---a face looking!"
+shrieked Lottie.
 
 It was true, it was real. Pressed against the window was a pale face,
 black eyes, a black beard.
@@ -1183,7 +1243,10 @@ black eyes, a black beard.
 But they had not got to the door, tumbling over one another, before it
 opened for Uncle Jonathan. He had come to take the little boys home.
 
-## Chapter 1.X.
+
+
+Chapter 1.X.
+------------
 
 He had meant to be there before, but in the front garden he had come
 upon Linda walking up and down the grass, stopping to pick off a dead
@@ -1219,8 +1282,8 @@ swish of the sea at full tide sweeping the pebbles. The sun was sinking.
 "And so you go back to the office on Monday, do you, Jonathan?" asked
 Linda.
 
-"On Monday the cage door opens and clangs to upon the victim for another
-eleven months and a week," answered Jonathan.
+"On Monday the cage door opens and clangs to upon the victim for
+another eleven months and a week," answered Jonathan.
 
 Linda swung a little. "It must be awful," she said slowly.
 
@@ -1232,9 +1295,9 @@ attention to it.
 "I suppose," she said vaguely, "one gets used to it. One gets used to
 anything."
 
-"Does one? Hum!" The "Hum" was so deep it seemed to boom from underneath
-the ground. "I wonder how it's done," brooded Jonathan; "I've never
-managed it."
+"Does one? Hum!" The "Hum" was so deep it seemed to boom from
+underneath the ground. "I wonder how it's done," brooded Jonathan;
+"I've never managed it."
 
 Looking at him as he lay there, Linda thought again how attractive he
 was. It was strange to think that he was only an ordinary clerk, that
@@ -1251,46 +1314,46 @@ manner of speaking, and he sang in church---he was the leader of the
 choir---with such fearful dramatic intensity that the meanest hymn put
 on an unholy splendour.
 
-"It seems to me just as imbecile, just as infernal, to have to go to the
-office on Monday," said Jonathan, "as it always has done and always will
-do. To spend all the best years of one's life sitting on a stool from
-nine to five, scratching in somebody's ledger! It's a queer use to make
-of one's\... one and only life, isn't it? Or do I fondly dream?" He
-rolled over on the grass and looked up at Linda. "Tell me, what is the
-difference between my life and that of an ordinary prisoner. The only
-difference I can see is that I put myself in jail and nobody's ever
-going to let me out. That's a more intolerable situation than the other.
-For if I'd been---pushed in, against my will---kicking, even---once the
-door was locked, or at any rate in five years or so, I might have
-accepted the fact and begun to take an interest in the flight of flies
-or counting the warder's steps along the passage with particular
-attention to variations of tread and so on. But as it is, I'm like an
-insect that's flown into a room of its own accord. I dash against the
-walls, dash against the windows, flop against the ceiling, do everything
-on God's earth, in fact, except fly out again. And all the while I'm
-thinking, like that moth, or that butterfly, or whatever it is, 'The
-shortness of life! The shortness of life!' I've only one night or one
-day, and there's this vast dangerous garden, waiting out there,
-undiscovered, unexplored."
+"It seems to me just as imbecile, just as infernal, to have to go to
+the office on Monday," said Jonathan, "as it always has done and
+always will do. To spend all the best years of one's life sitting on a
+stool from nine to five, scratching in somebody's ledger! It's a queer
+use to make of one's\... one and only life, isn't it? Or do I fondly
+dream?" He rolled over on the grass and looked up at Linda. "Tell me,
+what is the difference between my life and that of an ordinary prisoner.
+The only difference I can see is that I put myself in jail and nobody's
+ever going to let me out. That's a more intolerable situation than the
+other. For if I'd been---pushed in, against my will---kicking,
+even---once the door was locked, or at any rate in five years or so, I
+might have accepted the fact and begun to take an interest in the flight
+of flies or counting the warder's steps along the passage with
+particular attention to variations of tread and so on. But as it is,
+I'm like an insect that's flown into a room of its own accord. I dash
+against the walls, dash against the windows, flop against the ceiling,
+do everything on God's earth, in fact, except fly out again. And all
+the while I'm thinking, like that moth, or that butterfly, or whatever
+it is, 'The shortness of life! The shortness of life!' I've only one
+night or one day, and there's this vast dangerous garden, waiting out
+there, undiscovered, unexplored."
 
 "But, if you feel like that, why---" began Linda quickly.
 
-"Ah!" cried Jonathan. And that "ah!" was somehow almost exultant. "There
-you have me. Why? Why indeed? There's the maddening, mysterious
+"Ah!" cried Jonathan. And that "ah!" was somehow almost exultant.
+"There you have me. Why? Why indeed? There's the maddening, mysterious
 question. Why don't I fly out again? There's the window or the door or
 whatever it was I came in by. It's not hopelessly shut---is it? Why
-don't I find it and be off? Answer me that, little sister." But he gave
-her no time to answer.
+don't I find it and be off? Answer me that, little sister." But he
+gave her no time to answer.
 
-"I'm exactly like that insect again. For some reason"---Jonathan paused
-between the words---"it's not allowed, it's forbidden, it's against the
-insect law, to stop banging and flopping and crawling up the pane even
-for an instant. Why don't I leave the office? Why don't I seriously
-consider, this moment, for instance, what it is that prevents me
-leaving? It's not as though I'm tremendously tied. I've two boys to
-provide for, but, after all, they're boys. I could cut off to sea, or
-get a job up-country, or---" Suddenly he smiled at Linda and said in a
-changed voice, as if he were confiding a secret, "Weak\... weak. No
+"I'm exactly like that insect again. For some reason"---Jonathan
+paused between the words---"it's not allowed, it's forbidden, it's
+against the insect law, to stop banging and flopping and crawling up the
+pane even for an instant. Why don't I leave the office? Why don't I
+seriously consider, this moment, for instance, what it is that prevents
+me leaving? It's not as though I'm tremendously tied. I've two boys
+to provide for, but, after all, they're boys. I could cut off to sea,
+or get a job up-country, or---" Suddenly he smiled at Linda and said in
+a changed voice, as if he were confiding a secret, "Weak\... weak. No
 stamina. No anchor. No guiding principle, let us call it." But then the
 dark velvety voice rolled out:
 
@@ -1314,16 +1377,16 @@ something infinitely joyful and loving in those silver beams. And now no
 sound came from the sea. It breathed softly as if it would draw that
 tender, joyful beauty into its own bosom.
 
-"It's all wrong, it's all wrong," came the shadowy voice of Jonathan.
-"It's not the scene, it's not the setting for\... three stools, three
-desks, three inkpots and a wire blind."
+"It's all wrong, it's all wrong," came the shadowy voice of
+Jonathan. "It's not the scene, it's not the setting for\... three
+stools, three desks, three inkpots and a wire blind."
 
 Linda knew that he would never change, but she said, "Is it too late,
 even now?"
 
-"I'm old---I'm old," intoned Jonathan. He bent towards her, he passed
-his hand over his head. "Look!" His black hair was speckled all over
-with silver, like the breast plumage of a black fowl.
+"I'm old---I'm old," intoned Jonathan. He bent towards her, he
+passed his hand over his head. "Look!" His black hair was speckled all
+over with silver, like the breast plumage of a black fowl.
 
 Linda was surprised. She had no idea that he was grey. And yet, as he
 stood up beside her and sighed and stretched, she saw him, for the first
@@ -1333,10 +1396,13 @@ her mind, "He is like a weed."
 
 Jonathan stooped again and kissed her fingers.
 
-"Heaven reward thy sweet patience, lady mine," he murmured. "I must go
-seek those heirs to my fame and fortune\..." He was gone.
+"Heaven reward thy sweet patience, lady mine," he murmured. "I must
+go seek those heirs to my fame and fortune\... " He was gone.
 
-## Chapter 1.XI.
+
+
+Chapter 1.XI.
+-------------
 
 Light shone in the windows of the bungalow. Two square patches of gold
 fell upon the pinks and the peaked marigolds. Florrie, the cat, came out
@@ -1344,8 +1410,8 @@ on to the veranda, and sat on the top step, her white paws close
 together, her tail curled round. She looked content, as though she had
 been waiting for this moment all day.
 
-"Thank goodness, it's getting late," said Florrie. "Thank goodness, the
-long day is over." Her greengage eyes opened.
+"Thank goodness, it's getting late," said Florrie. "Thank goodness,
+the long day is over." Her greengage eyes opened.
 
 Presently there sounded the rumble of the coach, the crack of Kelly's
 whip. It came near enough for one to hear the voices of the men from
@@ -1371,30 +1437,34 @@ reach you before I did. I've been in tortures, Linda."
 
 "But, Stanley," said Linda, "what must I forgive you for?"
 
-"Linda!"---Stanley was very hurt---"didn't you realize---you must have
-realized---I went away without saying good-bye to you this morning? I
-can't imagine how I can have done such a thing. My confounded temper, of
-course. But---well"---and he sighed and took her in his arms
+"Linda!"---Stanley was very hurt---"didn't you realize---you must
+have realized---I went away without saying good-bye to you this morning?
+I can't imagine how I can have done such a thing. My confounded temper,
+of course. But---well"---and he sighed and took her in his arms
 again---"I've suffered for it enough to-day."
 
-"What's that you've got in your hand?" asked Linda. "New gloves? Let me
-see."
+"What's that you've got in your hand?" asked Linda. "New gloves?
+Let me see."
 
 "Oh, just a cheap pair of wash-leather ones," said Stanley humbly. "I
 noticed Bell was wearing some in the coach this morning, so, as I was
 passing the shop, I dashed in and got myself a pair. What are you
 smiling at? You don't think it was wrong of me, do you?"
 
-"On the con-trary, darling," said Linda, "I think it was most sensible."
+"On the con-trary, darling," said Linda, "I think it was most
+sensible."
 
 She pulled one of the large, pale gloves on her own fingers and looked
 at her hand, turning it this way and that. She was still smiling.
 
 Stanley wanted to say, "I was thinking of you the whole time I bought
-them." It was true, but for some reason he couldn't say it. "Let's go
-in," said he.
+them." It was true, but for some reason he couldn't say it. "Let's
+go in," said he.
 
-## Chapter 1.XII.
+
+
+Chapter 1.XII.
+--------------
 
 Why does one feel so different at night? Why is it so exciting to be
 awake when everybody else is asleep? Late---it is very late! And yet
@@ -1461,10 +1531,10 @@ And the thought was almost, "Save me, my love. Save me!"
 
 \... "Oh, go on! Don't be a prude, my dear. You enjoy yourself while
 you're young. That's my advice." And a high rush of silly laughter
-joined Mrs. Harry Kember's loud, indifferent neigh.
+joined Mrs. Harry Kember's loud, indifferent neigh.
 
-You see, it's so frightfully difficult when you've nobody. You're so at
-the mercy of things. You can't just be rude. And you've always this
+You see, it's so frightfully difficult when you've nobody. You're so
+at the mercy of things. You can't just be rude. And you've always this
 horror of seeming inexperienced and stuffy like the other ninnies at the
 Bay. And---and it's fascinating to know you've power over people. Yes,
 that is fascinating\...
@@ -1476,16 +1546,16 @@ If I go on living here, thought Beryl, anything may happen to me.
 "But how do you know he is coming at all?" mocked a small voice within
 her.
 
-But Beryl dismissed it. She couldn't be left. Other people, perhaps, but
-not she. It wasn't possible to think that Beryl Fairfield never married,
-that lovely fascinating girl.
+But Beryl dismissed it. She couldn't be left. Other people, perhaps,
+but not she. It wasn't possible to think that Beryl Fairfield never
+married, that lovely fascinating girl.
 
 "Do you remember Beryl Fairfield?"
 
 "Remember her! As if I could forget her! It was one summer at the Bay
 that I saw her. She was standing on the beach in a blue"---no,
-pink---"muslin frock, holding on a big cream"---no, black---"straw hat.
-But it's years ago now."
+pink---"muslin frock, holding on a big cream"---no, black---"straw
+hat. But it's years ago now."
 
 "She's as lovely as ever, more so if anything."
 
@@ -1538,8 +1608,8 @@ Her hand was pulled gently, tugged. She held back.
 
 "No, I'm not coming any farther," said Beryl.
 
-"Oh, rot!" Harry Kember didn't believe her. "Come along! We'll just go
-as far as that fuchsia bush. Come along!"
+"Oh, rot!" Harry Kember didn't believe her. "Come along! We'll just
+go as far as that fuchsia bush. Come along!"
 
 The fuchsia bush was tall. It fell over the fence in a shower. There was
 a little pit of darkness beneath.
@@ -1566,14 +1636,19 @@ But Beryl was strong. She slipped, ducked, wrenched free.
 
 Nobody answered him.
 
-## Chapter 1.XIII.
+
+
+Chapter 1.XIII.
+---------------
 
 A cloud, small, serene, floated across the moon. In that moment of
 darkness the sea sounded deep, troubled. Then the cloud sailed away, and
 the sound of the sea was a vague murmur, as though it waked out of a
 dark dream. All was still.
 
-# 2. THE GARDEN PARTY.
+
+2. THE GARDEN PARTY.
+--------------------
 
 And after all the weather was ideal. They could not have had a more
 perfect day for a garden-party if they had ordered it. Windless, warm,
@@ -1614,9 +1689,9 @@ that she had not got the bread-and-butter, but there was nowhere to put
 it, and she couldn't possibly throw it away. She blushed and tried to
 look severe and even a little bit short-sighted as she came up to them.
 
-"Good morning," she said, copying her mother's voice. But that sounded
-so fearfully affected that she was ashamed, and stammered like a little
-girl, "Oh---er---have you come---is it about the marquee?"
+"Good morning," she said, copying her mother's voice. But that
+sounded so fearfully affected that she was ashamed, and stammered like a
+little girl, "Oh---er---have you come---is it about the marquee?"
 
 "That's right, miss," said the tallest of the men, a lanky, freckled
 fellow, and he shifted his tool-bag, knocked back his straw hat and
@@ -1624,8 +1699,8 @@ smiled down at her. "That's about it."
 
 His smile was so easy, so friendly that Laura recovered. What nice eyes
 he had, small, but such a dark blue! And now she looked at the others,
-they were smiling too. "Cheer up, we won't bite," their smile seemed to
-say. How very nice workmen were! And what a beautiful morning! She
+they were smiling too. "Cheer up, we won't bite," their smile seemed
+to say. How very nice workmen were! And what a beautiful morning! She
 mustn't mention the morning; she must be business-like. The marquee.
 
 "Well, what about the lily-lawn? Would that do?"
@@ -1634,24 +1709,24 @@ And she pointed to the lily-lawn with the hand that didn't hold the
 bread-and-butter. They turned, they stared in the direction. A little
 fat chap thrust out his under-lip, and the tall fellow frowned.
 
-"I don't fancy it," said he. "Not conspicuous enough. You see, with a
-thing like a marquee," and he turned to Laura in his easy way, "you want
-to put it somewhere where it'll give you a bang slap in the eye, if you
-follow me."
+"I don't fancy it," said he. "Not conspicuous enough. You see, with
+a thing like a marquee," and he turned to Laura in his easy way, "you
+want to put it somewhere where it'll give you a bang slap in the eye,
+if you follow me."
 
 Laura's upbringing made her wonder for a moment whether it was quite
 respectful of a workman to talk to her of bangs slap in the eye. But she
 did quite follow him.
 
-"A corner of the tennis-court," she suggested. "But the band's going to
-be in one corner."
+"A corner of the tennis-court," she suggested. "But the band's going
+to be in one corner."
 
 "H'm, going to have a band, are you?" said another of the workmen. He
 was pale. He had a haggard look as his dark eyes scanned the
 tennis-court. What was he thinking?
 
-"Only a very small band," said Laura gently. Perhaps he wouldn't mind so
-much if the band was quite small. But the tall fellow interrupted.
+"Only a very small band," said Laura gently. Perhaps he wouldn't mind
+so much if the band was quite small. But the tall fellow interrupted.
 
 "Look here, miss, that's the place. Against those trees. Over there.
 That'll do fine."
@@ -1669,37 +1744,38 @@ up the smell. When Laura saw that gesture she forgot all about the
 karakas in her wonder at him caring for things like that---caring for
 the smell of lavender. How many men that she knew would have done such a
 thing? Oh, how extraordinarily nice workmen were, she thought. Why
-couldn't she have workmen for her friends rather than the silly boys she
-danced with and who came to Sunday night supper? She would get on much
-better with men like these.
+couldn't she have workmen for her friends rather than the silly boys
+she danced with and who came to Sunday night supper? She would get on
+much better with men like these.
 
 It's all the fault, she decided, as the tall fellow drew something on
 the back of an envelope, something that was to be looped up or left to
-hang, of these absurd class distinctions. Well, for her part, she didn't
-feel them. Not a bit, not an atom\... And now there came the chock-chock
-of wooden hammers. Some one whistled, some one sang out, "Are you right
-there, matey?" "Matey!" The friendliness of it, the---the---Just to
-prove how happy she was, just to show the tall fellow how at home she
-felt, and how she despised stupid conventions, Laura took a big bite of
-her bread-and-butter as she stared at the little drawing. She felt just
-like a work-girl.
+hang, of these absurd class distinctions. Well, for her part, she
+didn't feel them. Not a bit, not an atom\... And now there came the
+chock-chock of wooden hammers. Some one whistled, some one sang out,
+"Are you right there, matey?" "Matey!" The friendliness of it,
+the---the---Just to prove how happy she was, just to show the tall
+fellow how at home she felt, and how she despised stupid conventions,
+Laura took a big bite of her bread-and-butter as she stared at the
+little drawing. She felt just like a work-girl.
 
-"Laura, Laura, where are you? Telephone, Laura!" a voice cried from the
-house.
+"Laura, Laura, where are you? Telephone, Laura!" a voice cried from
+the house.
 
 "Coming!" Away she skimmed, over the lawn, up the path, up the steps,
 across the veranda, and into the porch. In the hall her father and
 Laurie were brushing their hats ready to go to the office.
 
-"I say, Laura," said Laurie very fast, "you might just give a squiz at
-my coat before this afternoon. See if it wants pressing."
+"I say, Laura," said Laurie very fast, "you might just give a squiz
+at my coat before this afternoon. See if it wants pressing."
 
 "I will," said she. Suddenly she couldn't stop herself. She ran at
 Laurie and gave him a small, quick squeeze. "Oh, I do love parties,
 don't you?" gasped Laura.
 
-"Ra-ther," said Laurie's warm, boyish voice, and he squeezed his sister
-too, and gave her a gentle push. "Dash off to the telephone, old girl."
+"Ra-ther," said Laurie's warm, boyish voice, and he squeezed his
+sister too, and gave her a gentle push. "Dash off to the telephone, old
+girl."
 
 The telephone. "Yes, yes; oh yes. Kitty? Good morning, dear. Come to
 lunch? Do, dear. Delighted of course. It will only be a very scratch
@@ -1708,11 +1784,11 @@ left over. Yes, isn't it a perfect morning? Your white? Oh, I certainly
 should. One moment---hold the line. Mother's calling." And Laura sat
 back. "What, mother? Can't hear."
 
-Mrs. Sheridan's voice floated down the stairs. "Tell her to wear that
+Mrs. Sheridan's voice floated down the stairs. "Tell her to wear that
 sweet hat she had on last Sunday."
 
-"Mother says you're to wear that sweet hat you had on last Sunday. Good.
-One o'clock. Bye-bye."
+"Mother says you're to wear that sweet hat you had on last Sunday.
+Good. One o'clock. Bye-bye."
 
 Laura put back the receiver, flung her arms over her head, took a deep
 breath, stretched and let them fall. "Huh," she sighed, and the moment
@@ -1748,25 +1824,26 @@ they were in her fingers, on her lips, growing in her breast.
 "It's some mistake," she said faintly. "Nobody ever ordered so many.
 Sadie, go and find mother."
 
-But at that moment Mrs. Sheridan joined them.
+But at that moment Mrs. Sheridan joined them.
 
-"It's quite right," she said calmly. "Yes, I ordered them. Aren't they
-lovely?" She pressed Laura's arm. "I was passing the shop yesterday, and
-I saw them in the window. And I suddenly thought for once in my life I
-shall have enough canna lilies. The garden-party will be a good excuse."
+"It's quite right," she said calmly. "Yes, I ordered them. Aren't
+they lovely?" She pressed Laura's arm. "I was passing the shop
+yesterday, and I saw them in the window. And I suddenly thought for once
+in my life I shall have enough canna lilies. The garden-party will be a
+good excuse."
 
-"But I thought you said you didn't mean to interfere," said Laura. Sadie
-had gone. The florist's man was still outside at his van. She put her
-arm round her mother's neck and gently, very gently, she bit her
+"But I thought you said you didn't mean to interfere," said Laura.
+Sadie had gone. The florist's man was still outside at his van. She put
+her arm round her mother's neck and gently, very gently, she bit her
 mother's ear.
 
-"My darling child, you wouldn't like a logical mother, would you? Don't
-do that. Here's the man."
+"My darling child, you wouldn't like a logical mother, would you?
+Don't do that. Here's the man."
 
 He carried more lilies still, another whole tray.
 
 "Bank them up, just inside the door, on both sides of the porch,
-please," said Mrs. Sheridan. "Don't you agree, Laura?"
+please," said Mrs. Sheridan. "Don't you agree, Laura?"
 
 "Oh, I do, mother."
 
@@ -1781,7 +1858,7 @@ out of the room except the chairs, don't you think?"
 "Hans, move these tables into the smoking-room, and bring a sweeper to
 take these marks off the carpet and---one moment, Hans---" Jose loved
 giving orders to the servants, and they loved obeying her. She always
-made them feel they were taking part in some drama. \"Tell mother and
+made them feel they were taking part in some drama. "Tell mother and
 Miss Laura to come here at once.
 
 "Very good, Miss Jose."
@@ -1817,10 +1894,10 @@ But now Sadie interrupted them. "What is it, Sadie?"
 "If you please, m'm, cook says have you got the flags for the
 sandwiches?"
 
-"The flags for the sandwiches, Sadie?" echoed Mrs. Sheridan dreamily.
+"The flags for the sandwiches, Sadie?" echoed Mrs. Sheridan dreamily.
 And the children knew by her face that she hadn't got them. "Let me
-see." And she said to Sadie firmly, "Tell cook I'll let her have them in
-ten minutes."
+see." And she said to Sadie firmly, "Tell cook I'll let her have them
+in ten minutes."
 
 Sadie went.
 
@@ -1833,14 +1910,14 @@ when he comes home to-night? And---and, Jose, pacify cook if you do go
 into the kitchen, will you? I'm terrified of her this morning."
 
 The envelope was found at last behind the dining-room clock, though how
-it had got there Mrs. Sheridan could not imagine.
+it had got there Mrs. Sheridan could not imagine.
 
 "One of you children must have stolen it out of my bag, because I
 remember vividly---cream cheese and lemon-curd. Have you done that?"
 
 "Yes."
 
-"Egg and---" Mrs. Sheridan held the envelope away from her. "It looks
+"Egg and---" Mrs. Sheridan held the envelope away from her. "It looks
 like mice. It can't be mice, can it?"
 
 "Olive, pet," said Laura, looking over her shoulder.
@@ -1860,8 +1937,8 @@ voice. "How many kinds did you say there were, cook? Fifteen?"
 
 Cook swept up crusts with the long sandwich knife, and smiled broadly.
 
-"Godber's has come," announced Sadie, issuing out of the pantry. She had
-seen the man pass the window.
+"Godber's has come," announced Sadie, issuing out of the pantry. She
+had seen the man pass the window.
 
 That meant the cream puffs had come. Godber's were famous for their
 cream puffs. Nobody ever thought of making them at home.
@@ -1870,16 +1947,17 @@ cream puffs. Nobody ever thought of making them at home.
 
 Sadie brought them in and went back to the door. Of course Laura and
 Jose were far too grown-up to really care about such things. All the
-same, they couldn't help agreeing that the puffs looked very attractive.
-Very. Cook began arranging them, shaking off the extra icing sugar.
+same, they couldn't help agreeing that the puffs looked very
+attractive. Very. Cook began arranging them, shaking off the extra icing
+sugar.
 
 "Don't they carry one back to all one's parties?" said Laura.
 
-"I suppose they do," said practical Jose, who never liked to be carried
-back. "They look beautifully light and feathery, I must say."
+"I suppose they do," said practical Jose, who never liked to be
+carried back. "They look beautifully light and feathery, I must say."
 
-"Have one each, my dears," said cook in her comfortable voice. "Yer ma
-won't know."
+"Have one each, my dears," said cook in her comfortable voice. "Yer
+ma won't know."
 
 Oh, impossible. Fancy cream puffs so soon after breakfast. The very idea
 made one shudder. All the same, two minutes later Jose and Laura were
@@ -1905,14 +1983,14 @@ enjoying himself; it was his story.
 
 "A man killed! Where? How? When?"
 
-But Godber's man wasn't going to have his story snatched from under his
-very nose.
+But Godber's man wasn't going to have his story snatched from under
+his very nose.
 
 "Know those little cottages just below here, miss?" Know them? Of
-course, she knew them. "Well, there's a young chap living there, name of
-Scott, a carter. His horse shied at a traction-engine, corner of Hawke
-Street this morning, and he was thrown out on the back of his head.
-Killed."
+course, she knew them. "Well, there's a young chap living there, name
+of Scott, a carter. His horse shied at a traction-engine, corner of
+Hawke Street this morning, and he was thrown out on the back of his
+head. Killed."
 
 "Dead!" Laura stared at Godber's man.
 
@@ -1920,10 +1998,10 @@ Killed."
 were taking the body home as I come up here." And he said to the cook,
 "He's left a wife and five little ones."
 
-"Jose, come here." Laura caught hold of her sister's sleeve and dragged
-her through the kitchen to the other side of the green baize door. There
-she paused and leaned against it. "Jose!" she said, horrified, "however
-are we going to stop everything?"
+"Jose, come here." Laura caught hold of her sister's sleeve and
+dragged her through the kitchen to the other side of the green baize
+door. There she paused and leaned against it. "Jose!" she said,
+horrified, "however are we going to stop everything?"
 
 "Stop everything, Laura!" cried Jose in astonishment. "What do you
 mean?"
@@ -1934,8 +2012,8 @@ But Jose was still more amazed. "Stop the garden-party? My dear Laura,
 don't be so absurd. Of course we can't do anything of the kind. Nobody
 expects us to. Don't be so extravagant."
 
-"But we can't possibly have a garden-party with a man dead just outside
-the front gate."
+"But we can't possibly have a garden-party with a man dead just
+outside the front gate."
 
 That really was extravagant, for the little cottages were in a lane to
 themselves at the very bottom of a steep rise that led up to the house.
@@ -1960,10 +2038,11 @@ said Laura.
 
 "Oh, Laura!" Jose began to be seriously annoyed. "If you're going to
 stop a band playing every time some one has an accident, you'll lead a
-very strenuous life. I'm every bit as sorry about it as you. I feel just
-as sympathetic." Her eyes hardened. She looked at her sister just as she
-used to when they were little and fighting together. "You won't bring a
-drunken workman back to life by being sentimental," she said softly.
+very strenuous life. I'm every bit as sorry about it as you. I feel
+just as sympathetic." Her eyes hardened. She looked at her sister just
+as she used to when they were little and fighting together. "You won't
+bring a drunken workman back to life by being sentimental," she said
+softly.
 
 "Drunk! Who said he was drunk?" Laura turned furiously on Jose. She
 said, just as they had used to say on those occasions, "I'm going
@@ -1975,8 +2054,8 @@ straight up to tell mother."
 door-knob.
 
 "Of course, child. Why, what's the matter? What's given you such a
-colour?" And Mrs. Sheridan turned round from her dressing-table. She was
-trying on a new hat.
+colour?" And Mrs. Sheridan turned round from her dressing-table. She
+was trying on a new hat.
 
 "Mother, a man's been killed," began Laura.
 
@@ -1984,19 +2063,20 @@ trying on a new hat.
 
 "No, no!"
 
-"Oh, what a fright you gave me!" Mrs. Sheridan sighed with relief, and
+"Oh, what a fright you gave me!" Mrs. Sheridan sighed with relief, and
 took off the big hat and held it on her knees.
 
-"But listen, mother," said Laura. Breathless, half-choking, she told the
-dreadful story. "Of course, we can't have our party, can we?" she
+"But listen, mother," said Laura. Breathless, half-choking, she told
+the dreadful story. "Of course, we can't have our party, can we?" she
 pleaded. "The band and everybody arriving. They'd hear us, mother;
 they're nearly neighbours!"
 
-To Laura's astonishment her mother behaved just like Jose; it was harder
-to bear because she seemed amused. She refused to take Laura seriously.
+To Laura's astonishment her mother behaved just like Jose; it was
+harder to bear because she seemed amused. She refused to take Laura
+seriously.
 
-"But, my dear child, use your common sense. It's only by accident we've
-heard of it. If some one had died there normally---and I can't
+"But, my dear child, use your common sense. It's only by accident
+we've heard of it. If some one had died there normally---and I can't
 understand how they keep alive in those poky little holes---we should
 still be having our party, shouldn't we?"
 
@@ -2005,25 +2085,25 @@ down on her mother's sofa and pinched the cushion frill.
 
 "Mother, isn't it terribly heartless of us?" she asked.
 
-"Darling!" Mrs. Sheridan got up and came over to her, carrying the hat.
-Before Laura could stop her she had popped it on. "My child!" said her
-mother, "the hat is yours. It's made for you. It's much too young for
-me. I have never seen you look such a picture. Look at yourself!" And
-she held up her hand-mirror.
+"Darling!" Mrs. Sheridan got up and came over to her, carrying the
+hat. Before Laura could stop her she had popped it on. "My child!"
+said her mother, "the hat is yours. It's made for you. It's much too
+young for me. I have never seen you look such a picture. Look at
+yourself!" And she held up her hand-mirror.
 
 "But, mother," Laura began again. She couldn't look at herself; she
 turned aside.
 
-This time Mrs. Sheridan lost patience just as Jose had done.
+This time Mrs. Sheridan lost patience just as Jose had done.
 
-"You are being very absurd, Laura," she said coldly. "People like that
-don't expect sacrifices from us. And it's not very sympathetic to spoil
-everybody's enjoyment as you're doing now."
+"You are being very absurd, Laura," she said coldly. "People like
+that don't expect sacrifices from us. And it's not very sympathetic to
+spoil everybody's enjoyment as you're doing now."
 
-"I don't understand," said Laura, and she walked quickly out of the room
-into her own bedroom. There, quite by chance, the first thing she saw
-was this charming girl in the mirror, in her black hat trimmed with gold
-daisies, and a long black velvet ribbon. Never had she imagined she
+"I don't understand," said Laura, and she walked quickly out of the
+room into her own bedroom. There, quite by chance, the first thing she
+saw was this charming girl in the mirror, in her black hat trimmed with
+gold daisies, and a long black velvet ribbon. Never had she imagined she
 could look like that. Is mother right? she thought. And now she hoped
 her mother was right. Am I being extravagant? Perhaps it was
 extravagant. Just for a moment she had another glimpse of that poor
@@ -2048,12 +2128,12 @@ followed him into the hall.
 "Laurie!"
 
 "Hallo!" He was half-way upstairs, but when he turned round and saw
-Laura he suddenly puffed out his cheeks and goggled his eyes at her. "My
-word, Laura! You do look stunning," said Laurie. "What an absolutely
-topping hat!"
+Laura he suddenly puffed out his cheeks and goggled his eyes at her.
+"My word, Laura! You do look stunning," said Laurie. "What an
+absolutely topping hat!"
 
-Laura said faintly "Is it?" and smiled up at Laurie, and didn't tell him
-after all.
+Laura said faintly "Is it?" and smiled up at Laurie, and didn't tell
+him after all.
 
 Soon after that people began coming in streams. The band struck up; the
 hired waiters ran from the house to the marquee. Wherever you looked
@@ -2067,44 +2147,45 @@ hands, press cheeks, smile into eyes.
 
 "What a becoming hat, child!"
 
-"Laura, you look quite Spanish. I've never seen you look so striking."
+"Laura, you look quite Spanish. I've never seen you look so
+striking."
 
 And Laura, glowing, answered softly, "Have you had tea? Won't you have
 an ice? The passion-fruit ices really are rather special." She ran to
-her father and begged him. "Daddy darling, can't the band have something
-to drink?"
+her father and begged him. "Daddy darling, can't the band have
+something to drink?"
 
 And the perfect afternoon slowly ripened, slowly faded, slowly its
 petals closed.
 
-"Never a more delightful garden-party\..." "The greatest success\..."
-"Quite the most\..."
+"Never a more delightful garden-party\... " "The greatest success\...
+" "Quite the most\... "
 
 Laura helped her mother with the good-byes. They stood side by side in
 the porch till it was all over.
 
-"All over, all over, thank heaven," said Mrs. Sheridan. "Round up the
-others, Laura. Let's go and have some fresh coffee. I'm exhausted. Yes,
-it's been very successful. But oh, these parties, these parties! Why
-will you children insist on giving parties!" And they all of them sat
-down in the deserted marquee.
+"All over, all over, thank heaven," said Mrs. Sheridan. "Round up the
+others, Laura. Let's go and have some fresh coffee. I'm exhausted.
+Yes, it's been very successful. But oh, these parties, these parties!
+Why will you children insist on giving parties!" And they all of them
+sat down in the deserted marquee.
 
 "Have a sandwich, daddy dear. I wrote the flag."
 
-"Thanks." Mr. Sheridan took a bite and the sandwich was gone. He took
-another. "I suppose you didn't hear of a beastly accident that happened
-to-day?" he said.
+"Thanks." Mr. Sheridan took a bite and the sandwich was gone. He took
+another. "I suppose you didn't hear of a beastly accident that
+happened to-day?" he said.
 
-"My dear," said Mrs. Sheridan, holding up her hand, "we did. It nearly
-ruined the party. Laura insisted we should put it off."
+"My dear," said Mrs. Sheridan, holding up her hand, "we did. It
+nearly ruined the party. Laura insisted we should put it off."
 
 "Oh, mother!" Laura didn't want to be teased about it.
 
-"It was a horrible affair all the same," said Mr. Sheridan. "The chap
+"It was a horrible affair all the same," said Mr. Sheridan. "The chap
 was married too. Lived just below in the lane, and leaves a wife and
 half a dozen kiddies, so they say."
 
-An awkward little silence fell. Mrs. Sheridan fidgeted with her cup.
+An awkward little silence fell. Mrs. Sheridan fidgeted with her cup.
 Really, it was very tactless of father\...
 
 Suddenly she looked up. There on the table were all those sandwiches,
@@ -2113,8 +2194,8 @@ brilliant ideas.
 
 "I know," she said. "Let's make up a basket. Let's send that poor
 creature some of this perfectly good food. At any rate, it will be the
-greatest treat for the children. Don't you agree? And she's sure to have
-neighbours calling in and so on. What a point to have it all ready
+greatest treat for the children. Don't you agree? And she's sure to
+have neighbours calling in and so on. What a point to have it all ready
 prepared. Laura!" She jumped up. "Get me the big basket out of the
 stairs cupboard."
 
@@ -2135,8 +2216,9 @@ arum lilies."
 
 "The stems will ruin her lace frock," said practical Jose.
 
-So they would. Just in time. "Only the basket, then. And, Laura!"---her
-mother followed her out of the marquee---"don't on any account---"
+So they would. Just in time. "Only the basket, then. And,
+Laura!"---her mother followed her out of the marquee---"don't on any
+account---"
 
 "What mother?"
 
@@ -2170,22 +2252,22 @@ Laura drew near. The group parted. It was as though she was expected, as
 though they had known she was coming here.
 
 Laura was terribly nervous. Tossing the velvet ribbon over her shoulder,
-she said to a woman standing by, "Is this Mrs. Scott's house?" and the
-woman, smiling queerly, said, "It is, my lass."
+she said to a woman standing by, "Is this Mrs. Scott's house?" and
+the woman, smiling queerly, said, "It is, my lass."
 
 Oh, to be away from this! She actually said, "Help me, God," as she
 walked up the tiny path and knocked. To be away from those staring eyes,
-or to be covered up in anything, one of those women's shawls even. I'll
-just leave the basket and go, she decided. I shan't even wait for it to
-be emptied.
+or to be covered up in anything, one of those women's shawls even.
+I'll just leave the basket and go, she decided. I shan't even wait for
+it to be emptied.
 
 Then the door opened. A little woman in black showed in the gloom.
 
-Laura said, "Are you Mrs. Scott?" But to her horror the woman answered,
-"Walk in please, miss," and she was shut in the passage.
+Laura said, "Are you Mrs. Scott?" But to her horror the woman
+answered, "Walk in please, miss," and she was shut in the passage.
 
-"No," said Laura, "I don't want to come in. I only want to leave this
-basket. Mother sent---"
+"No," said Laura, "I don't want to come in. I only want to leave
+this basket. Mother sent---"
 
 The little woman in the gloomy passage seemed not to have heard her.
 "Step this way, please, miss," she said in an oily voice, and Laura
@@ -2195,32 +2277,32 @@ She found herself in a wretched little low kitchen, lighted by a smoky
 lamp. There was a woman sitting before the fire.
 
 "Em," said the little creature who had let her in. "Em! It's a young
-lady." She turned to Laura. She said meaningly, "I'm 'er sister, miss.
-You'll excuse 'er, won't you?"
+lady." She turned to Laura. She said meaningly, "I'm 'er sister,
+miss. You'll excuse 'er, won't you?"
 
 "Oh, but of course!" said Laura. "Please, please don't disturb her.
 I---I only want to leave---"
 
 But at that moment the woman at the fire turned round. Her face, puffed
 up, red, with swollen eyes and swollen lips, looked terrible. She seemed
-as though she couldn't understand why Laura was there. What did it mean?
-Why was this stranger standing in the kitchen with a basket? What was it
-all about? And the poor face puckered up again.
+as though she couldn't understand why Laura was there. What did it
+mean? Why was this stranger standing in the kitchen with a basket? What
+was it all about? And the poor face puckered up again.
 
 "All right, my dear," said the other. "I'll thenk the young lady."
 
-And again she began, "You'll excuse her, miss, I'm sure," and her face,
-swollen too, tried an oily smile.
+And again she began, "You'll excuse her, miss, I'm sure," and her
+face, swollen too, tried an oily smile.
 
 Laura only wanted to get out, to get away. She was back in the passage.
 The door opened. She walked straight through into the bedroom, where the
 dead man was lying.
 
-"You'd like a look at 'im, wouldn't you?" said Em's sister, and she
-brushed past Laura over to the bed. "Don't be afraid, my lass,"---and
-now her voice sounded fond and sly, and fondly she drew down the
-sheet---"'e looks a picture. There's nothing to show. Come along, my
-dear."
+"You'd like a look at 'im, wouldn't you?" said Em's sister, and
+she brushed past Laura over to the bed. "Don't be afraid, my
+lass,"---and now her voice sounded fond and sly, and fondly she drew
+down the sheet---"'e looks a picture. There's nothing to show. Come
+along, my dear."
 
 Laura came.
 
@@ -2240,8 +2322,8 @@ without saying something to him. Laura gave a loud childish sob.
 
 "Forgive my hat," she said.
 
-And this time she didn't wait for Em's sister. She found her way out of
-the door, down the path, past all those dark people. At the corner of
+And this time she didn't wait for Em's sister. She found her way out
+of the door, down the path, past all those dark people. At the corner of
 the lane she met Laurie.
 
 He stepped out of the shadow. "Is that you, Laura?"
@@ -2250,25 +2332,32 @@ He stepped out of the shadow. "Is that you, Laura?"
 
 "Mother was getting anxious. Was it all right?"
 
-"Yes, quite. Oh, Laurie!" She took his arm, she pressed up against him.
+"Yes, quite. Oh, Laurie!" She took his arm, she pressed up against
+him.
 
 "I say, you're not crying, are you?" asked her brother.
 
 Laura shook her head. She was.
 
-Laurie put his arm round her shoulder. "Don't cry," he said in his warm,
-loving voice. "Was it awful?"
+Laurie put his arm round her shoulder. "Don't cry," he said in his
+warm, loving voice. "Was it awful?"
 
 "No," sobbed Laura. "It was simply marvellous. But Laurie---" She
-stopped, she looked at her brother. "Isn't life," she stammered, "isn't
-life---" But what life was she couldn't explain. No matter. He quite
-understood.
+stopped, she looked at her brother. "Isn't life," she stammered,
+"isn't life---" But what life was she couldn't explain. No matter.
+He quite understood.
 
 "Isn't it, darling?" said Laurie.
 
-# 3. THE DAUGHTERS OF THE LATE COLONEL.
 
-## Chapter 3.I.
+
+3. THE DAUGHTERS OF THE LATE COLONEL.
+-------------------------------------
+
+
+
+Chapter 3.I.
+------------
 
 The week after was one of the busiest weeks of their lives. Even when
 they went to bed it was only their bodies that lay down and rested;
@@ -2285,18 +2374,20 @@ ceiling.
 extraordinary idea!"
 
 "Because," said Constantia slowly, "he must often have to go to
-funerals. And I noticed at---at the cemetery that he only had a bowler."
-She paused. "I thought then how very much he'd appreciate a top-hat. We
-ought to give him a present, too. He was always very nice to father."
+funerals. And I noticed at---at the cemetery that he only had a
+bowler." She paused. "I thought then how very much he'd appreciate a
+top-hat. We ought to give him a present, too. He was always very nice to
+father."
 
 "But," cried Josephine, flouncing on her pillow and staring across the
-dark at Constantia, "father's head!" And suddenly, for one awful moment,
-she nearly giggled. Not, of course, that she felt in the least like
-giggling. It must have been habit. Years ago, when they had stayed awake
-at night talking, their beds had simply heaved. And now the porter's
-head, disappearing, popped out, like a candle, under father's hat\...
-The giggle mounted, mounted; she clenched her hands; she fought it down;
-she frowned fiercely at the dark and said "Remember" terribly sternly.
+dark at Constantia, "father's head!" And suddenly, for one awful
+moment, she nearly giggled. Not, of course, that she felt in the least
+like giggling. It must have been habit. Years ago, when they had stayed
+awake at night talking, their beds had simply heaved. And now the
+porter's head, disappearing, popped out, like a candle, under father's
+hat\... The giggle mounted, mounted; she clenched her hands; she fought
+it down; she frowned fiercely at the dark and said "Remember" terribly
+sternly.
 
 "We can decide to-morrow," she said.
 
@@ -2306,9 +2397,9 @@ Constantia had noticed nothing; she sighed.
 
 "Black?" almost shrieked Josephine.
 
-"Well, what else?" said Constantia. "I was thinking---it doesn't seem
-quite sincere, in a way, to wear black out of doors and when we're fully
-dressed, and then when we're at home---"
+"Well, what else?" said Constantia. "I was thinking---it doesn't
+seem quite sincere, in a way, to wear black out of doors and when we're
+fully dressed, and then when we're at home---"
 
 "But nobody sees us," said Josephine. She gave the bedclothes such a
 twitch that both her feet became uncovered, and she had to creep up the
@@ -2317,9 +2408,9 @@ pillows to get them well under again.
 "Kate does," said Constantia. "And the postman very well might."
 
 Josephine thought of her dark-red slippers, which matched her
-dressing-gown, and of Constantia's favourite indefinite green ones which
-went with hers. Black! Two black dressing-gowns and two pairs of black
-woolly slippers, creeping off to the bathroom like black cats.
+dressing-gown, and of Constantia's favourite indefinite green ones
+which went with hers. Black! Two black dressing-gowns and two pairs of
+black woolly slippers, creeping off to the bathroom like black cats.
 
 "I don't think it's absolutely necessary," said she.
 
@@ -2330,17 +2421,17 @@ letters have we had up till now?"
 "Twenty-three."
 
 Josephine had replied to them all, and twenty-three times when she came
-to "We miss our dear father so much" she had broken down and had to use
-her handkerchief, and on some of them even to soak up a very light-blue
-tear with an edge of blotting-paper. Strange! She couldn't have put it
-on---but twenty-three times. Even now, though, when she said over to
-herself sadly "We miss our dear father so much," she could have cried if
-she'd wanted to.
+to "We miss our dear father so much" she had broken down and had to
+use her handkerchief, and on some of them even to soak up a very
+light-blue tear with an edge of blotting-paper. Strange! She couldn't
+have put it on---but twenty-three times. Even now, though, when she said
+over to herself sadly "We miss our dear father so much," she could
+have cried if she'd wanted to.
 
 "Have you got enough stamps?" came from Constantia.
 
-"Oh, how can I tell?" said Josephine crossly. "What's the good of asking
-me that now?"
+"Oh, how can I tell?" said Josephine crossly. "What's the good of
+asking me that now?"
 
 "I was just wondering," said Constantia mildly.
 
@@ -2348,7 +2439,8 @@ Silence again. There came a little rustle, a scurry, a hop.
 
 "A mouse," said Constantia.
 
-"It can't be a mouse because there aren't any crumbs," said Josephine.
+"It can't be a mouse because there aren't any crumbs," said
+Josephine.
 
 "But it doesn't know there aren't," said Constantia.
 
@@ -2365,14 +2457,17 @@ And Constantia said more loudly than she meant to, "Mice."
 Josephine was furious. "Oh, what nonsense, Con!" she said. "What have
 mice got to do with it? You're asleep."
 
-"I don't think I am," said Constantia. She shut her eyes to make sure.
-She was.
+"I don't think I am," said Constantia. She shut her eyes to make
+sure. She was.
 
 Josephine arched her spine, pulled up her knees, folded her arms so that
 her fists came under her ears, and pressed her cheek hard against the
 pillow.
 
-## Chapter 3.II.
+
+
+Chapter 3.II.
+-------------
 
 Another thing which complicated matters was they had Nurse Andrews
 staying on with them that week. It was their own fault; they had asked
@@ -2384,10 +2479,10 @@ stay on for a week as our guest?"
 "Very nice," said Constantia.
 
 "I thought," went on Josephine quickly, "I should just say this
-afternoon, after I've paid her, 'My sister and I would be very pleased,
-after all you've done for us, Nurse Andrews, if you would stay on for a
-week as our guest.' I'd have to put that in about being our guest in
-case---"
+afternoon, after I've paid her, 'My sister and I would be very
+pleased, after all you've done for us, Nurse Andrews, if you would stay
+on for a week as our guest.' I'd have to put that in about being our
+guest in case---"
 
 "Oh, but she could hardly expect to be paid!" cried Constantia.
 
@@ -2399,23 +2494,23 @@ whereas if they'd been alone they could just have asked Kate if she
 wouldn't have minded bringing them a tray wherever they were. And
 meal-times now that the strain was over were rather a trial.
 
-Nurse Andrews was simply fearful about butter. Really they couldn't help
-feeling that about butter, at least, she took advantage of their
+Nurse Andrews was simply fearful about butter. Really they couldn't
+help feeling that about butter, at least, she took advantage of their
 kindness. And she had that maddening habit of asking for just an inch
 more of bread to finish what she had on her plate, and then, at the last
-mouthful, absent-mindedly---of course it wasn't absent-mindedly---taking
-another helping. Josephine got very red when this happened, and she
-fastened her small, bead-like eyes on the tablecloth as if she saw a
-minute strange insect creeping through the web of it. But Constantia's
-long, pale face lengthened and set, and she gazed away---away---far over
-the desert, to where that line of camels unwound like a thread of
-wool\...
+mouthful, absent-mindedly---of course it wasn't
+absent-mindedly---taking another helping. Josephine got very red when
+this happened, and she fastened her small, bead-like eyes on the
+tablecloth as if she saw a minute strange insect creeping through the
+web of it. But Constantia's long, pale face lengthened and set, and she
+gazed away---away---far over the desert, to where that line of camels
+unwound like a thread of wool\...
 
-"When I was with Lady Tukes," said Nurse Andrews, "she had such a dainty
-little contrayvance for the buttah. It was a silvah Cupid balanced on
-the---on the bordah of a glass dish, holding a tayny fork. And when you
-wanted some buttah you simply pressed his foot and he bent down and
-speared you a piece. It was quite a gayme."
+"When I was with Lady Tukes," said Nurse Andrews, "she had such a
+dainty little contrayvance for the buttah. It was a silvah Cupid
+balanced on the---on the bordah of a glass dish, holding a tayny fork.
+And when you wanted some buttah you simply pressed his foot and he bent
+down and speared you a piece. It was quite a gayme."
 
 Josephine could hardly bear that. But "I think those things are very
 extravagant" was all she said.
@@ -2434,7 +2529,8 @@ or other and slapped down a white, terrified blancmange.
 Kate knelt and burst open the sideboard, lifted the lid of the jam-pot,
 saw it was empty, put it on the table, and stalked off.
 
-"I'm afraid," said Nurse Andrews a moment later, "there isn't any."
+"I'm afraid," said Nurse Andrews a moment later, "there isn't
+any."
 
 "Oh, what a bother!" said Josephine. She bit her lip. "What had we
 better do?"
@@ -2448,14 +2544,17 @@ camels. Josephine frowned heavily---concentrated. If it hadn't been for
 this idiotic woman she and Con would, of course, have eaten their
 blancmange without. Suddenly the idea came.
 
-"I know," she said. "Marmalade. There's some marmalade in the sideboard.
-Get it, Con."
+"I know," she said. "Marmalade. There's some marmalade in the
+sideboard. Get it, Con."
 
 "I hope," laughed Nurse Andrews---and her laugh was like a spoon
 tinkling against a medicine-glass---"I hope it's not very bittah
 marmalayde."
 
-## Chapter 3.III.
+
+
+Chapter 3.III.
+--------------
 
 But, after all, it was not long now, and then she'd be gone for good.
 And there was no getting over the fact that she had been very kind to
@@ -2463,8 +2562,8 @@ father. She had nursed him day and night at the end. Indeed, both
 Constantia and Josephine felt privately she had rather overdone the not
 leaving him at the very last. For when they had gone in to say good-bye
 Nurse Andrews had sat beside his bed the whole time, holding his wrist
-and pretending to look at her watch. It couldn't have been necessary. It
-was so tactless, too. Supposing father had wanted to say
+and pretending to look at her watch. It couldn't have been necessary.
+It was so tactless, too. Supposing father had wanted to say
 something---something private to them. Not that he had. Oh, far from it!
 He lay there, purple, a dark, angry purple in the face, and never even
 looked at them when they came in. Then, as they were standing there,
@@ -2473,9 +2572,12 @@ difference it would have made, what a difference to their memory of him,
 how much easier to tell people about it, if he had only opened both! But
 no---one eye only. It glared at them a moment and then\... went out.
 
-## Chapter 3.IV.
 
-It had made it very awkward for them when Mr. Farolles, of St. John's,
+
+Chapter 3.IV.
+-------------
+
+It had made it very awkward for them when Mr. Farolles, of St. John's,
 called the same afternoon.
 
 "The end was quite peaceful, I trust?" were the first words he said as
@@ -2486,21 +2588,22 @@ them felt certain that eye wasn't at all a peaceful eye.
 
 "Won't you sit down?" said Josephine.
 
-"Thank you, Miss Pinner," said Mr. Farolles gratefully. He folded his
+"Thank you, Miss Pinner," said Mr. Farolles gratefully. He folded his
 coat-tails and began to lower himself into father's arm-chair, but just
 as he touched it he almost sprang up and slid into the next chair
 instead.
 
 He coughed. Josephine clasped her hands; Constantia looked vague.
 
-"I want you to feel, Miss Pinner," said Mr. Farolles, "and you, Miss
+"I want you to feel, Miss Pinner," said Mr. Farolles, "and you, Miss
 Constantia, that I'm trying to be helpful. I want to be helpful to you
 both, if you will let me. These are the times," said Mr Farolles, very
-simply and earnestly, "when God means us to be helpful to one another."
+simply and earnestly, "when God means us to be helpful to one
+another."
 
-"Thank you very much, Mr. Farolles," said Josephine and Constantia.
+"Thank you very much, Mr. Farolles," said Josephine and Constantia.
 
-"Not at all," said Mr. Farolles gently. He drew his kid gloves through
+"Not at all," said Mr. Farolles gently. He drew his kid gloves through
 his fingers and leaned forward. "And if either of you would like a
 little Communion, either or both of you, here and now, you have only to
 tell me. A little Communion is often very help---a great comfort," he
@@ -2508,7 +2611,7 @@ added tenderly.
 
 But the idea of a little Communion terrified them. What! In the
 drawing-room by themselves---with no---no altar or anything! The piano
-would be much too high, thought Constantia, and Mr. Farolles could not
+would be much too high, thought Constantia, and Mr. Farolles could not
 possibly lean over it with the chalice. And Kate would be sure to come
 bursting in and interrupt them, thought Josephine. And supposing the
 bell rang in the middle? It might be somebody important---about their
@@ -2516,29 +2619,33 @@ mourning. Would they get up reverently and go out, or would they have to
 wait\... in torture?
 
 "Perhaps you will send round a note by your good Kate if you would care
-for it later," said Mr. Farolles.
+for it later," said Mr. Farolles.
 
 "Oh yes, thank you very much!" they both said.
 
-Mr. Farolles got up and took his black straw hat from the round table.
+Mr. Farolles got up and took his black straw hat from the round table.
 
-"And about the funeral," he said softly. "I may arrange that---as your
-dear father's old friend and yours, Miss Pinner---and Miss Constantia?"
+"And about the funeral," he said softly. "I may arrange that---as
+your dear father's old friend and yours, Miss Pinner---and Miss
+Constantia?"
 
 Josephine and Constantia got up too.
 
-"I should like it to be quite simple," said Josephine firmly, "and not
-too expensive. At the same time, I should like---"
+"I should like it to be quite simple," said Josephine firmly, "and
+not too expensive. At the same time, I should like---"
 
-"A good one that will last," thought dreamy Constantia, as if Josephine
-were buying a nightgown. But, of course, Josephine didn't say that. "One
-suitable to our father's position." She was very nervous.
+"A good one that will last," thought dreamy Constantia, as if
+Josephine were buying a nightgown. But, of course, Josephine didn't say
+that. "One suitable to our father's position." She was very nervous.
 
-"I'll run round to our good friend Mr. Knight," said Mr. Farolles
-soothingly. "I will ask him to come and see you. I am sure you will find
-him very helpful indeed."
+"I'll run round to our good friend Mr. Knight," said Mr. Farolles
+soothingly. "I will ask him to come and see you. I am sure you will
+find him very helpful indeed."
 
-## Chapter 3.V.
+
+
+Chapter 3.V.
+------------
 
 Well, at any rate, all that part of it was over, though neither of them
 could possibly believe that father was never coming back. Josephine had
@@ -2560,7 +2667,8 @@ bills. What would he say then?
 She heard him absolutely roaring. "And do you expect me to pay for this
 gimcrack excursion of yours?"
 
-"Oh," groaned poor Josephine aloud, "we shouldn't have done it, Con!"
+"Oh," groaned poor Josephine aloud, "we shouldn't have done it,
+Con!"
 
 And Constantia, pale as a lemon in all that blackness, said in a
 frightened whisper, "Done what, Jug?"
@@ -2569,24 +2677,27 @@ frightened whisper, "Done what, Jug?"
 crying into her new, queer-smelling mourning handkerchief.
 
 "But what else could we have done?" asked Constantia wonderingly. "We
-couldn't have kept him, Jug---we couldn't have kept him unburied. At any
-rate, not in a flat that size."
+couldn't have kept him, Jug---we couldn't have kept him unburied. At
+any rate, not in a flat that size."
 
 Josephine blew her nose; the cab was dreadfully stuffy.
 
-"I don't know," she said forlornly. "It is all so dreadful. I feel we
-ought to have tried to, just for a time at least. To make perfectly
+"I don't know," she said forlornly. "It is all so dreadful. I feel
+we ought to have tried to, just for a time at least. To make perfectly
 sure. One thing's certain"---and her tears sprang out again---"father
 will never forgive us for this---never!"
 
-## Chapter 3.VI.
+
+
+Chapter 3.VI.
+-------------
 
 Father would never forgive them. That was what they felt more than ever
 when, two mornings later, they went into his room to go through his
 things. They had discussed it quite calmly. It was even down on
-Josephine's list of things to be done. "Go through father's things and
-settle about them." But that was a very different matter from saying
-after breakfast:
+Josephine's list of things to be done. "Go through father's things
+and settle about them." But that was a very different matter from
+saying after breakfast:
 
 "Well, are you ready, Con?"
 
@@ -2609,8 +2720,8 @@ owned to for the world---what she kept for her very last weapon, "But
 you're the tallest," when they noticed that the kitchen door was open,
 and there stood Kate\...
 
-"Very stiff," said Josephine, grasping the doorhandle and doing her best
-to turn it. As if anything ever deceived Kate!
+"Very stiff," said Josephine, grasping the doorhandle and doing her
+best to turn it. As if anything ever deceived Kate!
 
 It couldn't be helped. That girl was\... Then the door was shut behind
 them, but---but they weren't in father's room at all. They might have
@@ -2634,8 +2745,8 @@ They only gave the blind a touch, but it flew up and the cord flew
 after, rolling round the blind-stick, and the little tassel tapped as if
 trying to get free. That was too much for Constantia.
 
-"Don't you think---don't you think we might put it off for another day?"
-she whispered.
+"Don't you think---don't you think we might put it off for another
+day?" she whispered.
 
 "Why?" snapped Josephine, feeling, as usual, much better now that she
 knew for certain that Constantia was terrified. "It's got to be done.
@@ -2646,7 +2757,8 @@ But I do wish you wouldn't whisper, Con."
 "And why do you keep staring at the bed?" said Josephine, raising her
 voice almost defiantly. "There's nothing on the bed."
 
-"Oh, Jug, don't say so!" said poor Connie. "At any rate, not so loudly."
+"Oh, Jug, don't say so!" said poor Connie. "At any rate, not so
+loudly."
 
 Josephine felt herself that she had gone too far. She took a wide swerve
 over to the chest of drawers, put out her hand, but quickly drew it back
@@ -2670,17 +2782,17 @@ in the old days when she was going to cry.
 
 "I can't open," she nearly wailed.
 
-"No, don't, Jug," whispered Constantia earnestly. "It's much better not
-to. Don't let's open anything. At any rate, not for a long time."
+"No, don't, Jug," whispered Constantia earnestly. "It's much better
+not to. Don't let's open anything. At any rate, not for a long time."
 
 "But---but it seems so weak," said Josephine, breaking down.
 
-"But why not be weak for once, Jug?" argued Constantia, whispering quite
-fiercely. "If it is weak." And her pale stare flew from the locked
-writing-table---so safe---to the huge glittering wardrobe, and she began
-to breathe in a queer, panting away. "Why shouldn't we be weak for once
-in our lives, Jug? It's quite excusable. Let's be weak---be weak, Jug.
-It's much nicer to be weak than to be strong."
+"But why not be weak for once, Jug?" argued Constantia, whispering
+quite fiercely. "If it is weak." And her pale stare flew from the
+locked writing-table---so safe---to the huge glittering wardrobe, and
+she began to breathe in a queer, panting away. "Why shouldn't we be
+weak for once in our lives, Jug? It's quite excusable. Let's be
+weak---be weak, Jug. It's much nicer to be weak than to be strong."
 
 And then she did one of those amazingly bold things that she'd done
 about twice before in their lives: she marched over to the wardrobe,
@@ -2690,8 +2802,8 @@ that she knew what she'd done---she'd risked deliberately father being
 in there among his overcoats.
 
 If the huge wardrobe had lurched forward, had crashed down on
-Constantia, Josephine wouldn't have been surprised. On the contrary, she
-would have thought it the only suitable thing to happen. But nothing
+Constantia, Josephine wouldn't have been surprised. On the contrary,
+she would have thought it the only suitable thing to happen. But nothing
 happened. Only the room seemed quieter than ever, and the bigger flakes
 of cold air fell on Josephine's shoulders and knees. She began to
 shiver.
@@ -2700,23 +2812,27 @@ shiver.
 Josephine followed just as she had that last time, when Constantia had
 pushed Benny into the round pond.
 
-## Chapter 3.VII.
+
+
+Chapter 3.VII.
+--------------
 
 But the strain told on them when they were back in the dining-room. They
 sat down, very shaky, and looked at each other.
 
-"I don't feel I can settle to anything," said Josephine, "until I've had
-something. Do you think we could ask Kate for two cups of hot water?"
+"I don't feel I can settle to anything," said Josephine, "until
+I've had something. Do you think we could ask Kate for two cups of hot
+water?"
 
-"I really don't see why we shouldn't," said Constantia carefully. She
-was quite normal again. "I won't ring. I'll go to the kitchen door and
-ask her."
+"I really don't see why we shouldn't," said Constantia carefully.
+She was quite normal again. "I won't ring. I'll go to the kitchen
+door and ask her."
 
 "Yes, do," said Josephine, sinking down into a chair. "Tell her, just
 two cups, Con, nothing else---on a tray."
 
-"She needn't even put the jug on, need she?" said Constantia, as though
-Kate might very well complain if the jug had been there.
+"She needn't even put the jug on, need she?" said Constantia, as
+though Kate might very well complain if the jug had been there.
 
 "Oh no, certainly not! The jug's not at all necessary. She can pour it
 direct out of the kettle," cried Josephine, feeling that would be a
@@ -2731,8 +2847,8 @@ steam, making it flutter from one side to the other.
 And though Benny hadn't been mentioned Constantia immediately looked as
 though he had.
 
-"He'll expect us to send him something of father's, of course. But it's
-so difficult to know what to send to Ceylon."
+"He'll expect us to send him something of father's, of course. But
+it's so difficult to know what to send to Ceylon."
 
 "You mean things get unstuck so on the voyage," murmured Constantia.
 
@@ -2741,47 +2857,51 @@ runners."
 
 Both paused to watch a black man in white linen drawers running through
 the pale fields for dear life, with a large brown-paper parcel in his
-hands. Josephine's black man was tiny; he scurried along glistening like
-an ant. But there was something blind and tireless about Constantia's
-tall, thin fellow, which made him, she decided, a very unpleasant person
-indeed\... On the veranda, dressed all in white and wearing a cork
-helmet, stood Benny. His right hand shook up and down, as father's did
-when he was impatient. And behind him, not in the least interested, sat
-Hilda, the unknown sister-in-law. She swung in a cane rocker and flicked
-over the leaves of the "Tatler."
+hands. Josephine's black man was tiny; he scurried along glistening
+like an ant. But there was something blind and tireless about
+Constantia's tall, thin fellow, which made him, she decided, a very
+unpleasant person indeed\... On the veranda, dressed all in white and
+wearing a cork helmet, stood Benny. His right hand shook up and down, as
+father's did when he was impatient. And behind him, not in the least
+interested, sat Hilda, the unknown sister-in-law. She swung in a cane
+rocker and flicked over the leaves of the "Tatler."
 
-"I think his watch would be the most suitable present," said Josephine.
+"I think his watch would be the most suitable present," said
+Josephine.
 
 Constantia looked up; she seemed surprised.
 
 "Oh, would you trust a gold watch to a native?"
 
-"But of course, I'd disguise it," said Josephine. "No one would know it
-was a watch." She liked the idea of having to make a parcel such a
+"But of course, I'd disguise it," said Josephine. "No one would know
+it was a watch." She liked the idea of having to make a parcel such a
 curious shape that no one could possibly guess what it was. She even
 thought for a moment of hiding the watch in a narrow cardboard
 corset-box that she'd kept by her for a long time, waiting for it to
 come in for something. It was such beautiful, firm cardboard. But, no,
 it wouldn't be appropriate for this occasion. It had lettering on it:
-"Medium Women's 28. Extra Firm Busks." It would be almost too much of a
-surprise for Benny to open that and find father's watch inside.
+"Medium Women's 28. Extra Firm Busks." It would be almost too much of
+a surprise for Benny to open that and find father's watch inside.
 
-"And of course it isn't as though it would be going---ticking, I mean,"
-said Constantia, who was still thinking of the native love of jewellery.
-"At least," she added, "it would be very strange if after all that time
-it was."
+"And of course it isn't as though it would be going---ticking, I
+mean," said Constantia, who was still thinking of the native love of
+jewellery. "At least," she added, "it would be very strange if after
+all that time it was."
 
-## Chapter 3.VIII.
+
+
+Chapter 3.VIII.
+---------------
 
 Josephine made no reply. She had flown off on one of her tangents. She
 had suddenly thought of Cyril. Wasn't it more usual for the only
 grandson to have the watch? And then dear Cyril was so appreciative, and
 a gold watch meant so much to a young man. Benny, in all probability,
 had quite got out of the habit of watches; men so seldom wore waistcoats
-in those hot climates. Whereas Cyril in London wore them from year's end
-to year's end. And it would be so nice for her and Constantia, when he
-came to tea, to know it was there. "I see you've got on grandfather's
-watch, Cyril." It would be somehow so satisfactory.
+in those hot climates. Whereas Cyril in London wore them from year's
+end to year's end. And it would be so nice for her and Constantia, when
+he came to tea, to know it was there. "I see you've got on
+grandfather's watch, Cyril." It would be somehow so satisfactory.
 
 Dear boy! What a blow his sweet, sympathetic little note had been! Of
 course they quite understood; but it was most unfortunate.
@@ -2794,13 +2914,13 @@ she was saying.
 However, as soon as he got back he was coming to tea with his aunties.
 Cyril to tea was one of their rare treats.
 
-"Now, Cyril, you mustn't be frightened of our cakes. Your Auntie Con and
-I bought them at Buszard's this morning. We know what a man's appetite
-is. So don't be ashamed of making a good tea."
+"Now, Cyril, you mustn't be frightened of our cakes. Your Auntie Con
+and I bought them at Buszard's this morning. We know what a man's
+appetite is. So don't be ashamed of making a good tea."
 
 Josephine cut recklessly into the rich dark cake that stood for her
-winter gloves or the soling and heeling of Constantia's only respectable
-shoes. But Cyril was most unmanlike in appetite.
+winter gloves or the soling and heeling of Constantia's only
+respectable shoes. But Cyril was most unmanlike in appetite.
 
 "I say, Aunt Josephine, I simply can't. I've only just had lunch, you
 know."
@@ -2808,9 +2928,9 @@ know."
 "Oh, Cyril, that can't be true! It's after four," cried Josephine.
 Constantia sat with her knife poised over the chocolate-roll.
 
-"It is, all the same," said Cyril. "I had to meet a man at Victoria, and
-he kept me hanging about till\... there was only time to get lunch and
-to come on here. And he gave me---phew"---Cyril put his hand to his
+"It is, all the same," said Cyril. "I had to meet a man at Victoria,
+and he kept me hanging about till\... there was only time to get lunch
+and to come on here. And he gave me---phew"---Cyril put his hand to his
 forehead---"a terrific blow-out," he said.
 
 It was disappointing---to-day of all days. But still he couldn't be
@@ -2832,13 +2952,14 @@ gently. She winced faintly as she broke through the shell of hers.
 
 At that they both looked up.
 
-"Don't know?" almost snapped Josephine. "Don't know a thing like that
-about your own father, Cyril?"
+"Don't know?" almost snapped Josephine. "Don't know a thing like
+that about your own father, Cyril?"
 
 "Surely," said Auntie Con softly.
 
-Cyril tried to laugh it off. "Oh, well," he said, "it's such a long time
-since---" He faltered. He stopped. Their faces were too much for him.
+Cyril tried to laugh it off. "Oh, well," he said, "it's such a long
+time since---" He faltered. He stopped. Their faces were too much for
+him.
 
 "Even so," said Josephine.
 
@@ -2853,18 +2974,18 @@ He looked up. They were beginning to brighten. Cyril slapped his knee.
 Yes, Aunt Josephine, you're perfectly right. Father's most frightfully
 keen on meringues."
 
-They didn't only beam. Aunt Josephine went scarlet with pleasure; Auntie
-Con gave a deep, deep sigh.
+They didn't only beam. Aunt Josephine went scarlet with pleasure;
+Auntie Con gave a deep, deep sigh.
 
 "And now, Cyril, you must come and see father," said Josephine. "He
 knows you were coming to-day."
 
-"Right," said Cyril, very firmly and heartily. He got up from his chair;
-suddenly he glanced at the clock.
+"Right," said Cyril, very firmly and heartily. He got up from his
+chair; suddenly he glanced at the clock.
 
-"I say, Auntie Con, isn't your clock a bit slow? I've got to meet a man
-at---at Paddington just after five. I'm afraid I shan't be able to stay
-very long with grandfather."
+"I say, Auntie Con, isn't your clock a bit slow? I've got to meet a
+man at---at Paddington just after five. I'm afraid I shan't be able to
+stay very long with grandfather."
 
 "Oh, he won't expect you to stay very long!" said Aunt Josephine.
 
@@ -2876,7 +2997,10 @@ Cyril still lingered. "Aren't you coming along, Auntie Con?"
 
 "Of course," said Josephine, "we shall all go. Come on, Con."
 
-## Chapter 3.IX.
+
+
+Chapter 3.IX.
+-------------
 
 They knocked at the door, and Cyril followed his aunts into
 grandfather's hot, sweetish room.
@@ -2888,8 +3012,8 @@ He was sitting in front of a roaring fire, clasping his stick. He had a
 thick rug over his knees. On his lap there lay a beautiful pale yellow
 silk handkerchief.
 
-"It's Cyril, father," said Josephine shyly. And she took Cyril's hand
-and led him forward.
+"It's Cyril, father," said Josephine shyly. And she took Cyril's
+hand and led him forward.
 
 "Good afternoon, grandfather," said Cyril, trying to take his hand out
 of Aunt Josephine's. Grandfather Pinner shot his eyes at Cyril in the
@@ -2897,8 +3021,8 @@ way he was famous for. Where was Auntie Con? She stood on the other side
 of Aunt Josephine; her long arms hung down in front of her; her hands
 were clasped. She never took her eyes off grandfather.
 
-"Well," said Grandfather Pinner, beginning to thump, "what have you got
-to tell me?"
+"Well," said Grandfather Pinner, beginning to thump, "what have you
+got to tell me?"
 
 What had he, what had he got to tell him? Cyril felt himself smiling
 like a perfect imbecile. The room was stifling, too.
@@ -2912,33 +3036,34 @@ meringue-shell over one ear.
 Josephine repeated, "Cyril says his father is still very fond of
 meringues."
 
-"Can't hear," said old Colonel Pinner. And he waved Josephine away with
-his stick, then pointed with his stick to Cyril. "Tell me what she's
-trying to say," he said.
+"Can't hear," said old Colonel Pinner. And he waved Josephine away
+with his stick, then pointed with his stick to Cyril. "Tell me what
+she's trying to say," he said.
 
-(My God!) "Must I?" said Cyril, blushing and staring at Aunt Josephine.
+(My God!) "Must I?" said Cyril, blushing and staring at Aunt
+Josephine.
 
 "Do, dear," she smiled. "It will please him so much."
 
-"Come on, out with it!" cried Colonel Pinner testily, beginning to thump
-again.
+"Come on, out with it!" cried Colonel Pinner testily, beginning to
+thump again.
 
 And Cyril leaned forward and yelled, "Father's still very fond of
 meringues."
 
 At that Grandfather Pinner jumped as though he had been shot.
 
-"Don't shout!" he cried. "What's the matter with the boy? Meringues!
-What about 'em?"
+"Don't shout!" he cried. "What's the matter with the boy?
+Meringues! What about 'em?"
 
 "Oh, Aunt Josephine, must we go on?" groaned Cyril desperately.
 
-"It's quite all right, dear boy," said Aunt Josephine, as though he and
-she were at the dentist's together. "He'll understand in a minute." And
-she whispered to Cyril, "He's getting a bit deaf, you know." Then she
-leaned forward and really bawled at Grandfather Pinner, "Cyril only
-wanted to tell you, father dear, that his father is still very fond of
-meringues."
+"It's quite all right, dear boy," said Aunt Josephine, as though he
+and she were at the dentist's together. "He'll understand in a
+minute." And she whispered to Cyril, "He's getting a bit deaf, you
+know." Then she leaned forward and really bawled at Grandfather Pinner,
+"Cyril only wanted to tell you, father dear, that his father is still
+very fond of meringues."
 
 Colonel Pinner heard that time, heard and brooded, looking Cyril up and
 down.
@@ -2953,7 +3078,10 @@ And Cyril felt it was.
 "That would be very nice," said Constantia. "I seem to remember last
 time he came there was some little trouble about the time."
 
-## Chapter 3.X.
+
+
+Chapter 3.X.
+------------
 
 They were interrupted by Kate bursting through the door in her usual
 fashion, as though she had discovered some secret panel in the wall.
@@ -2984,7 +3112,8 @@ open and slamming the door of her kitchen.
 Josephine gazed at Constantia; she raised her pale eyebrows until they
 rippled away into her pale hair. She got up. She said in a very lofty,
 imposing way, "Do you mind following me into the drawing-room,
-Constantia? I've got something of great importance to discuss with you."
+Constantia? I've got something of great importance to discuss with
+you."
 
 For it was always to the drawing-room they retired when they wanted to
 talk over Kate.
@@ -3006,12 +3135,12 @@ Constantia looked for a moment as though she might begin going over all
 the other times, but she pulled herself together and said, "Yes, Jug."
 
 "You see, Con," explained Josephine, "everything is so changed now."
-Constantia looked up quickly. "I mean," went on Josephine, "we're not
-dependent on Kate as we were." And she blushed faintly. "There's not
-father to cook for."
+Constantia looked up quickly. "I mean," went on Josephine, "we're
+not dependent on Kate as we were." And she blushed faintly. "There's
+not father to cook for."
 
-"That is perfectly true," agreed Constantia. "Father certainly doesn't
-want any cooking now, whatever else---"
+"That is perfectly true," agreed Constantia. "Father certainly
+doesn't want any cooking now, whatever else---"
 
 Josephine broke in sharply, "You're not sleepy, are you, Con?"
 
@@ -3022,14 +3151,14 @@ the subject. "What it comes to is, if we did"---and this she barely
 breathed, glancing at the door---"give Kate notice"---she raised her
 voice again---"we could manage our own food."
 
-"Why not?" cried Constantia. She couldn't help smiling. The idea was so
-exciting. She clasped her hands. "What should we live on, Jug?"
+"Why not?" cried Constantia. She couldn't help smiling. The idea was
+so exciting. She clasped her hands. "What should we live on, Jug?"
 
-"Oh, eggs in various forms!" said Jug, lofty again. "And, besides, there
-are all the cooked foods."
+"Oh, eggs in various forms!" said Jug, lofty again. "And, besides,
+there are all the cooked foods."
 
-"But I've always heard," said Constantia, "they are considered so very
-expensive."
+"But I've always heard," said Constantia, "they are considered so
+very expensive."
 
 "Not if one buys them in moderation," said Josephine. But she tore
 herself away from this fascinating bypath and dragged Constantia after
@@ -3040,10 +3169,13 @@ Kate or not."
 
 Constantia leaned back. Her flat little laugh flew from her lips.
 
-"Isn't it curious, Jug," said she, "that just on this one subject I've
-never been able to quite make up my mind?"
+"Isn't it curious, Jug," said she, "that just on this one subject
+I've never been able to quite make up my mind?"
 
-## Chapter 3.XI.
+
+
+Chapter 3.XI.
+-------------
 
 She never had. The whole difficulty was to prove anything. How did one
 prove things, how could one? Suppose Kate had stood in front of her and
@@ -3070,18 +3202,22 @@ as she closed the drawer; a jolt might have done it so easily.
 
 "You come, Jug, and decide. I really can't. It's too difficult."
 
-But after a pause and a long glare Josephine would sigh, "Now you've put
-the doubt into my mind, Con, I'm sure I can't tell myself."
+But after a pause and a long glare Josephine would sigh, "Now you've
+put the doubt into my mind, Con, I'm sure I can't tell myself."
 
-"Well, we can't postpone it again," said Josephine. "If we postpone it
-this time---"
+"Well, we can't postpone it again," said Josephine. "If we postpone
+it this time---"
 
-## Chapter 3.XII.
+
+
+Chapter 3.XII.
+--------------
 
 But at that moment in the street below a barrel-organ struck up.
 Josephine and Constantia sprang to their feet together.
 
-"Run, Con," said Josephine. "Run quickly. There's sixpence on the---"
+"Run, Con," said Josephine. "Run quickly. There's sixpence on
+the---"
 
 Then they remembered. It didn't matter. They would never have to stop
 the organ-grinder again. Never again would she and Constantia be told to
@@ -3098,8 +3234,9 @@ played the barrel-organ.
 What was Constantia thinking? She had such a strange smile; she looked
 different. She couldn't be going to cry.
 
-"Jug, Jug," said Constantia softly, pressing her hands together. "Do you
-know what day it is? It's Saturday. It's a week to-day, a whole week."
+"Jug, Jug," said Constantia softly, pressing her hands together. "Do
+you know what day it is? It's Saturday. It's a week to-day, a whole
+week."
 
          "A week since father died,
           A week since father died,"
@@ -3133,31 +3270,32 @@ this one of mother was very old. It was thirty-five years old. Josephine
 remembered standing on a chair and pointing out that feather boa to
 Constantia and telling her that it was a snake that had killed their
 mother in Ceylon\... Would everything have been different if mother
-hadn't died? She didn't see why. Aunt Florence had lived with them until
-they had left school, and they had moved three times and had their
+hadn't died? She didn't see why. Aunt Florence had lived with them
+until they had left school, and they had moved three times and had their
 yearly holiday and\... and there'd been changes of servants, of course.
 
 Some little sparrows, young sparrows they sounded, chirped on the
 window-ledge. "Yeep---eyeep---yeep." But Josephine felt they were not
 sparrows, not on the window-ledge. It was inside her, that queer little
-crying noise. "Yeep---eyeep---yeep." Ah, what was it crying, so weak and
-forlorn?
+crying noise. "Yeep---eyeep---yeep." Ah, what was it crying, so weak
+and forlorn?
 
 If mother had lived, might they have married? But there had been nobody
 for them to marry. There had been father's Anglo-Indian friends before
 he quarrelled with them. But after that she and Constantia never met a
-single man except clergymen. How did one meet men? Or even if they'd met
-them, how could they have got to know men well enough to be more than
-strangers? One read of people having adventures, being followed, and so
-on. But nobody had ever followed Constantia and her. Oh yes, there had
-been one year at Eastbourne a mysterious man at their boarding-house who
-had put a note on the jug of hot water outside their bedroom door! But
-by the time Connie had found it the steam had made the writing too faint
-to read; they couldn't even make out to which of them it was addressed.
-And he had left next day. And that was all. The rest had been looking
-after father, and at the same time keeping out of father's way. But now?
-But now? The thieving sun touched Josephine gently. She lifted her face.
-She was drawn over to the window by gentle beams\...
+single man except clergymen. How did one meet men? Or even if they'd
+met them, how could they have got to know men well enough to be more
+than strangers? One read of people having adventures, being followed,
+and so on. But nobody had ever followed Constantia and her. Oh yes,
+there had been one year at Eastbourne a mysterious man at their
+boarding-house who had put a note on the jug of hot water outside their
+bedroom door! But by the time Connie had found it the steam had made the
+writing too faint to read; they couldn't even make out to which of them
+it was addressed. And he had left next day. And that was all. The rest
+had been looking after father, and at the same time keeping out of
+father's way. But now? But now? The thieving sun touched Josephine
+gently. She lifted her face. She was drawn over to the window by gentle
+beams\...
 
 Until the barrel-organ stopped playing Constantia stayed before the
 Buddha, wondering, but not as usual, not vaguely. This time her wonder
@@ -3171,12 +3309,12 @@ and got as close to the sea as she could, and sung something, something
 she had made up, while she gazed all over that restless water. There had
 been this other life, running out, bringing things home in bags, getting
 things on approval, discussing them with Jug, and taking them back to
-get more things on approval, and arranging father's trays and trying not
-to annoy father. But it all seemed to have happened in a kind of tunnel.
-It wasn't real. It was only when she came out of the tunnel into the
-moonlight or by the sea or into a thunderstorm that she really felt
-herself. What did it mean? What was it she was always wanting? What did
-it all lead to? Now? Now?
+get more things on approval, and arranging father's trays and trying
+not to annoy father. But it all seemed to have happened in a kind of
+tunnel. It wasn't real. It was only when she came out of the tunnel
+into the moonlight or by the sea or into a thunderstorm that she really
+felt herself. What did it mean? What was it she was always wanting? What
+did it all lead to? Now? Now?
 
 She turned away from the Buddha with one of her vague gestures. She went
 over to where Josephine was standing. She wanted to say something to
@@ -3185,8 +3323,8 @@ what\...
 
 "Don't you think perhaps---" she began.
 
-But Josephine interrupted her. "I was wondering if now---" she murmured.
-They stopped; they waited for each other.
+But Josephine interrupted her. "I was wondering if now---" she
+murmured. They stopped; they waited for each other.
 
 "Go on, Con," said Josephine.
 
@@ -3205,18 +3343,21 @@ Constantia.
 
 "Oh, Jug!"
 
-A pause. Then Constantia said faintly, "I can't say what I was going to
-say, Jug, because I've forgotten what it was\... that I was going to
+A pause. Then Constantia said faintly, "I can't say what I was going
+to say, Jug, because I've forgotten what it was\... that I was going to
 say."
 
 Josephine was silent for a moment. She stared at a big cloud where the
 sun had been. Then she replied shortly, "I've forgotten too."
 
-# 4. MR. AND MRS. DOVE.
+
+
+4. MR. AND MRS. DOVE.
+---------------------
 
 Of course he knew---no man better---that he hadn't a ghost of a chance,
-he hadn't an earthly. The very idea of such a thing was preposterous. So
-preposterous that he'd perfectly understand it if her father---well,
+he hadn't an earthly. The very idea of such a thing was preposterous.
+So preposterous that he'd perfectly understand it if her father---well,
 whatever her father chose to do he'd perfectly understand. In fact,
 nothing short of desperation, nothing short of the fact that this was
 positively his last day in England for God knows how long, would have
@@ -3224,8 +3365,8 @@ screwed him up to it. And even now\... He chose a tie out of the chest
 of drawers, a blue and cream check tie, and sat on the side of his bed.
 Supposing she replied, "What impertinence!" would he be surprised? Not
 in the least, he decided, turning up his soft collar and turning it down
-over the tie. He expected her to say something like that. He didn't see,
-if he looked at the affair dead soberly, what else she could say.
+over the tie. He expected her to say something like that. He didn't
+see, if he looked at the affair dead soberly, what else she could say.
 
 Here he was! And nervously he tied a bow in front of the mirror, jammed
 his hair down with both hands, pulled out the flaps of his jacket
@@ -3233,22 +3374,22 @@ pockets. Making between 500 and 600 pounds a year on a fruit farm
 in---of all places---Rhodesia. No capital. Not a penny coming to him. No
 chance of his income increasing for at least four years. As for looks
 and all that sort of thing, he was completely out of the running. He
-couldn't even boast of top-hole health, for the East Africa business had
-knocked him out so thoroughly that he'd had to take six months' leave.
-He was still fearfully pale---worse even than usual this afternoon, he
-thought, bending forward and peering into the mirror. Good heavens! What
-had happened? His hair looked almost bright green. Dash it all, he
-hadn't green hair at all events. That was a bit too steep. And then the
-green light trembled in the glass; it was the shadow from the tree
-outside. Reggie turned away, took out his cigarette case, but
+couldn't even boast of top-hole health, for the East Africa business
+had knocked him out so thoroughly that he'd had to take six months'
+leave. He was still fearfully pale---worse even than usual this
+afternoon, he thought, bending forward and peering into the mirror. Good
+heavens! What had happened? His hair looked almost bright green. Dash it
+all, he hadn't green hair at all events. That was a bit too steep. And
+then the green light trembled in the glass; it was the shadow from the
+tree outside. Reggie turned away, took out his cigarette case, but
 remembering how the mater hated him to smoke in his bedroom, put it back
 again and drifted over to the chest of drawers. No, he was dashed if he
 could think of one blessed thing in his favour, while she\... Ah!\... He
 stopped dead, folded his arms, and leaned hard against the chest of
 drawers.
 
-And in spite of her position, her father's wealth, the fact that she was
-an only child and far and away the most popular girl in the
+And in spite of her position, her father's wealth, the fact that she
+was an only child and far and away the most popular girl in the
 neighbourhood; in spite of her beauty and her
 cleverness---cleverness!---it was a great deal more than that, there was
 really nothing she couldn't do; he fully believed, had it been
@@ -3260,8 +3401,8 @@ was it hope? Or was this queer, timid longing to have the chance of
 looking after her, of making it his job to see that she had everything
 she wanted, and that nothing came near her that wasn't perfect---just
 love? How he loved her! He squeezed hard against the chest of drawers
-and murmured to it, "I love her, I love her!" And just for the moment he
-was with her on the way to Umtali. It was night. She sat in a corner
+and murmured to it, "I love her, I love her!" And just for the moment
+he was with her on the way to Umtali. It was night. She sat in a corner
 asleep. Her soft chin was tucked into her soft collar, her gold-brown
 lashes lay on her cheeks. He doted on her delicate little nose, her
 perfect lips, her ear like a baby's, and the gold-brown curl that half
@@ -3283,11 +3424,11 @@ and left him the fruit farm, when he was convinced that to be a widow's
 only son was about the worst punishment a chap could have. And what made
 it rougher than ever was that she was positively all that he had. She
 wasn't only a combined parent, as it were, but she had quarrelled with
-all her own and the governor's relations before Reggie had won his first
-trouser pockets. So that whenever Reggie was homesick out there, sitting
-on his dark veranda by starlight, while the gramophone cried, "Dear,
-what is Life but Love?" his only vision was of the mater, tall and
-stout, rustling down the garden path, with Chinny and Biddy at her
+all her own and the governor's relations before Reggie had won his
+first trouser pockets. So that whenever Reggie was homesick out there,
+sitting on his dark veranda by starlight, while the gramophone cried,
+"Dear, what is Life but Love?" his only vision was of the mater, tall
+and stout, rustling down the garden path, with Chinny and Biddy at her
 heels\...
 
 The mater, with her scissors outspread to snap the head of a dead
@@ -3336,7 +3477,7 @@ piano, bucked him up---or rather, excited him. It was so quiet, and yet
 in one moment the door would open, and his fate be decided. The feeling
 was not unlike that of being at the dentist's; he was almost reckless.
 But at the same time, to his immense surprise, Reggie heard himself
-saying, "Lord, Thou knowest, Thou hast not done much for me\..." That
+saying, "Lord, Thou knowest, Thou hast not done much for me\... " That
 pulled him up; that made him realize again how dead serious it was. Too
 late. The door handle turned. Anne came in, crossed the shadowy space
 between them, gave him her hand, and said, in her small, soft voice,
@@ -3353,36 +3494,37 @@ Then, watching him, her chin tilted, she laughed outright, a long, soft
 peal, and walked away from him over to the piano, and leaned against it,
 playing with the tassel of the parasol.
 
-"I'm so sorry," she said, "to be laughing like this. I don't know why I
-do. It's just a bad ha---habit." And suddenly she stamped her grey shoe,
-and took a pocket-handkerchief out of her white woolly jacket. "I really
-must conquer it, it's too absurd," said she.
+"I'm so sorry," she said, "to be laughing like this. I don't know
+why I do. It's just a bad ha---habit." And suddenly she stamped her
+grey shoe, and took a pocket-handkerchief out of her white woolly
+jacket. "I really must conquer it, it's too absurd," said she.
 
 "Good heavens, Anne," cried Reggie, "I love to hear you laughing! I
 can't imagine anything more---"
 
-But the truth was, and they both knew it, she wasn't always laughing; it
-wasn't really a habit. Only ever since the day they'd met, ever since
-that very first moment, for some strange reason that Reggie wished to
-God he understood, Anne had laughed at him. Why? It didn't matter where
-they were or what they were talking about. They might begin by being as
-serious as possible, dead serious---at any rate, as far as he was
-concerned---but then suddenly, in the middle of a sentence, Anne would
-glance at him, and a little quick quiver passed over her face. Her lips
-parted, her eyes danced, and she began laughing.
+But the truth was, and they both knew it, she wasn't always laughing;
+it wasn't really a habit. Only ever since the day they'd met, ever
+since that very first moment, for some strange reason that Reggie wished
+to God he understood, Anne had laughed at him. Why? It didn't matter
+where they were or what they were talking about. They might begin by
+being as serious as possible, dead serious---at any rate, as far as he
+was concerned---but then suddenly, in the middle of a sentence, Anne
+would glance at him, and a little quick quiver passed over her face. Her
+lips parted, her eyes danced, and she began laughing.
 
 Another queer thing about it was, Reggie had an idea she didn't herself
 know why she laughed. He had seen her turn away, frown, suck in her
 cheeks, press her hands together. But it was no use. The long, soft peal
-sounded, even while she cried, "I don't know why I'm laughing." It was a
-mystery\...
+sounded, even while she cried, "I don't know why I'm laughing." It
+was a mystery\...
 
 Now she tucked the handkerchief away.
 
-"Do sit down," said she. "And smoke, won't you? There are cigarettes in
-that little box beside you. I'll have one too." He lighted a match for
-her, and as she bent forward he saw the tiny flame glow in the pearl
-ring she wore. "It is to-morrow that you're going, isn't it?" said Anne.
+"Do sit down," said she. "And smoke, won't you? There are cigarettes
+in that little box beside you. I'll have one too." He lighted a match
+for her, and as she bent forward he saw the tiny flame glow in the pearl
+ring she wore. "It is to-morrow that you're going, isn't it?" said
+Anne.
 
 "Yes, to-morrow as ever was," said Reggie, and he blew a little fan of
 smoke. Why on earth was he so nervous? Nervous wasn't the word for it.
@@ -3401,77 +3543,79 @@ of going back," he said.
 
 "Coo-roo-coo-coo-coo," sounded from the quiet.
 
-"But you're fond of being out there, aren't you?" said Anne. She hooked
-her finger through her pearl necklace. "Father was saying only the other
-night how lucky he thought you were to have a life of your own." And she
-looked up at him. Reginald's smile was rather wan. "I don't feel
-fearfully lucky," he said lightly.
+"But you're fond of being out there, aren't you?" said Anne. She
+hooked her finger through her pearl necklace. "Father was saying only
+the other night how lucky he thought you were to have a life of your
+own." And she looked up at him. Reginald's smile was rather wan. "I
+don't feel fearfully lucky," he said lightly.
 
 "Roo-coo-coo-coo," came again. And Anne murmured, "You mean it's
 lonely."
 
 "Oh, it isn't the loneliness I care about," said Reginald, and he
-stumped his cigarette savagely on the green ash-tray. "I could stand any
-amount of it, used to like it even. It's the idea of---" Suddenly, to
-his horror, he felt himself blushing.
+stumped his cigarette savagely on the green ash-tray. "I could stand
+any amount of it, used to like it even. It's the idea of---" Suddenly,
+to his horror, he felt himself blushing.
 
 "Roo-coo-coo-coo! Roo-coo-coo-coo!"
 
-Anne jumped up. "Come and say good-bye to my doves," she said. "They've
-been moved to the side veranda. You do like doves, don't you, Reggie?"
+Anne jumped up. "Come and say good-bye to my doves," she said.
+"They've been moved to the side veranda. You do like doves, don't
+you, Reggie?"
 
-"Awfully," said Reggie, so fervently that as he opened the French window
-for her and stood to one side, Anne ran forward and laughed at the doves
-instead.
+"Awfully," said Reggie, so fervently that as he opened the French
+window for her and stood to one side, Anne ran forward and laughed at
+the doves instead.
 
 To and fro, to and fro over the fine red sand on the floor of the dove
 house, walked the two doves. One was always in front of the other. One
 ran forward, uttering a little cry, and the other followed, solemnly
-bowing and bowing. "You see," explained Anne, "the one in front, she's
-Mrs. Dove. She looks at Mr. Dove and gives that little laugh and runs
-forward, and he follows her, bowing and bowing. And that makes her laugh
-again. Away she runs, and after her," cried Anne, and she sat back on
-her heels, "comes poor Mr. Dove, bowing and bowing\... and that's their
-whole life. They never do anything else, you know." She got up and took
-some yellow grains out of a bag on the roof of the dove house. "When you
-think of them, out in Rhodesia, Reggie, you can be sure that is what
-they will be doing\..."
+bowing and bowing. "You see," explained Anne, "the one in front,
+she's Mrs. Dove. She looks at Mr. Dove and gives that little laugh and
+runs forward, and he follows her, bowing and bowing. And that makes her
+laugh again. Away she runs, and after her," cried Anne, and she sat
+back on her heels, "comes poor Mr. Dove, bowing and bowing\... and
+that's their whole life. They never do anything else, you know." She
+got up and took some yellow grains out of a bag on the roof of the dove
+house. "When you think of them, out in Rhodesia, Reggie, you can be
+sure that is what they will be doing\... "
 
 Reggie gave no sign of having seen the doves or of having heard a word.
 For the moment he was conscious only of the immense effort it took to
-tear his secret out of himself and offer it to Anne. "Anne, do you think
-you could ever care for me?" It was done. It was over. And in the little
-pause that followed Reginald saw the garden open to the light, the blue
-quivering sky, the flutter of leaves on the veranda poles, and Anne
-turning over the grains of maize on her palm with one finger. Then
+tear his secret out of himself and offer it to Anne. "Anne, do you
+think you could ever care for me?" It was done. It was over. And in the
+little pause that followed Reginald saw the garden open to the light,
+the blue quivering sky, the flutter of leaves on the veranda poles, and
+Anne turning over the grains of maize on her palm with one finger. Then
 slowly she shut her hand, and the new world faded as she murmured
 slowly, "No, never in that way." But he had scarcely time to feel
 anything before she walked quickly away, and he followed her down the
 steps, along the garden path, under the pink rose arches, across the
 lawn. There, with the gay herbaceous border behind her, Anne faced
-Reginald. "It isn't that I'm not awfully fond of you," she said. "I am.
-But"---her eyes widened---"not in the way"---a quiver passed over her
-face---"one ought to be fond of---" Her lips parted, and she couldn't
-stop herself. She began laughing. "There, you see, you see," she cried,
-"it's your check t-tie. Even at this moment, when one would think one
-really would be solemn, your tie reminds me fearfully of the bow-tie
-that cats wear in pictures! Oh, please forgive me for being so horrid,
-please!"
+Reginald. "It isn't that I'm not awfully fond of you," she said. "I
+am. But"---her eyes widened---"not in the way"---a quiver passed over
+her face---"one ought to be fond of---" Her lips parted, and she
+couldn't stop herself. She began laughing. "There, you see, you see,"
+she cried, "it's your check t-tie. Even at this moment, when one would
+think one really would be solemn, your tie reminds me fearfully of the
+bow-tie that cats wear in pictures! Oh, please forgive me for being so
+horrid, please!"
 
 Reggie caught hold of her little warm hand. "There's no question of
-forgiving you," he said quickly. "How could there be? And I do believe I
-know why I make you laugh. It's because you're so far above me in every
-way that I am somehow ridiculous. I see that, Anne. But if I were to---"
+forgiving you," he said quickly. "How could there be? And I do believe
+I know why I make you laugh. It's because you're so far above me in
+every way that I am somehow ridiculous. I see that, Anne. But if I were
+to---"
 
-"No, no." Anne squeezed his hand hard. "It's not that. That's all wrong.
-I'm not far above you at all. You're much better than I am. You're
-marvellously unselfish and\... and kind and simple. I'm none of those
-things. You don't know me. I'm the most awful character," said Anne.
-"Please don't interrupt. And besides, that's not the point. The point
-is"---she shook her head---"I couldn't possibly marry a man I laughed
-at. Surely you see that. The man I marry---" breathed Anne softly. She
-broke off. She drew her hand away, and looking at Reggie she smiled
-strangely, dreamily. "The man I marry---"
+"No, no." Anne squeezed his hand hard. "It's not that. That's all
+wrong. I'm not far above you at all. You're much better than I am.
+You're marvellously unselfish and\... and kind and simple. I'm none of
+those things. You don't know me. I'm the most awful character," said
+Anne. "Please don't interrupt. And besides, that's not the point. The
+point is"---she shook her head---"I couldn't possibly marry a man I
+laughed at. Surely you see that. The man I marry---" breathed Anne
+softly. She broke off. She drew her hand away, and looking at Reggie she
+smiled strangely, dreamily. "The man I marry---"
 
 And it seemed to Reggie that a tall, handsome, brilliant stranger
 stepped in front of him and took his place---the kind of man that Anne
@@ -3482,56 +3626,57 @@ long, tremendous look, carrying her off to anywhere\...
 Reggie bowed to his vision. "Yes, I see," he said huskily.
 
 "Do you?" said Anne. "Oh, I do hope you do. Because I feel so horrid
-about it. It's so hard to explain. You know I've never---" She stopped.
-Reggie looked at her. She was smiling. "Isn't it funny?" she said. "I
-can say anything to you. I always have been able to from the very
-beginning."
+about it. It's so hard to explain. You know I've never---" She
+stopped. Reggie looked at her. She was smiling. "Isn't it funny?" she
+said. "I can say anything to you. I always have been able to from the
+very beginning."
 
-He tried to smile, to say "I'm glad." She went on. "I've never known any
-one I like as much as I like you. I've never felt so happy with any one.
-But I'm sure it's not what people and what books mean when they talk
-about love. Do you understand? Oh, if you only knew how horrid I feel.
-But we'd be like\... like Mr. and Mrs. Dove."
+He tried to smile, to say "I'm glad." She went on. "I've never
+known any one I like as much as I like you. I've never felt so happy
+with any one. But I'm sure it's not what people and what books mean
+when they talk about love. Do you understand? Oh, if you only knew how
+horrid I feel. But we'd be like\... like Mr. and Mrs. Dove."
 
 That did it. That seemed to Reginald final, and so terribly true that he
-could hardly bear it. "Don't drive it home," he said, and he turned away
-from Anne and looked across the lawn. There was the gardener's cottage,
-with the dark ilex-tree beside it. A wet, blue thumb of transparent
-smoke hung above the chimney. It didn't look real. How his throat ached!
-Could he speak? He had a shot. "I must be getting along home," he
-croaked, and he began walking across the lawn. But Anne ran after him.
-"No, don't. You can't go yet," she said imploringly. "You can't possibly
-go away feeling like that." And she stared up at him frowning, biting
-her lip.
+could hardly bear it. "Don't drive it home," he said, and he turned
+away from Anne and looked across the lawn. There was the gardener's
+cottage, with the dark ilex-tree beside it. A wet, blue thumb of
+transparent smoke hung above the chimney. It didn't look real. How his
+throat ached! Could he speak? He had a shot. "I must be getting along
+home," he croaked, and he began walking across the lawn. But Anne ran
+after him. "No, don't. You can't go yet," she said imploringly.
+"You can't possibly go away feeling like that." And she stared up at
+him frowning, biting her lip.
 
-"Oh, that's all right," said Reggie, giving himself a shake. "I'll\...
-I'll---" And he waved his hand as much to say "get over it."
+"Oh, that's all right," said Reggie, giving himself a shake.
+"I'll\... I'll---" And he waved his hand as much to say "get over
+it."
 
-"But this is awful," said Anne. She clasped her hands and stood in front
-of him. "Surely you do see how fatal it would be for us to marry, don't
-you?"
+"But this is awful," said Anne. She clasped her hands and stood in
+front of him. "Surely you do see how fatal it would be for us to marry,
+don't you?"
 
 "Oh, quite, quite," said Reggie, looking at her with haggard eyes.
 
-"How wrong, how wicked, feeling as I do. I mean, it's all very well for
-Mr. and Mrs. Dove. But imagine that in real life---imagine it!"
+"How wrong, how wicked, feeling as I do. I mean, it's all very well
+for Mr. and Mrs. Dove. But imagine that in real life---imagine it!"
 
-"Oh, absolutely," said Reggie, and he started to walk on. But again Anne
-stopped him. She tugged at his sleeve, and to his astonishment, this
-time, instead of laughing, she looked like a little girl who was going
-to cry.
+"Oh, absolutely," said Reggie, and he started to walk on. But again
+Anne stopped him. She tugged at his sleeve, and to his astonishment,
+this time, instead of laughing, she looked like a little girl who was
+going to cry.
 
-"Then why, if you understand, are you so un-unhappy?" she wailed. "Why
-do you mind so fearfully? Why do you look so aw-awful?"
+"Then why, if you understand, are you so un-unhappy?" she wailed.
+"Why do you mind so fearfully? Why do you look so aw-awful?"
 
-Reggie gulped, and again he waved something away. "I can't help it," he
-said, "I've had a blow. If I cut off now, I'll be able to---"
+Reggie gulped, and again he waved something away. "I can't help it,"
+he said, "I've had a blow. If I cut off now, I'll be able to---"
 
-"How can you talk of cutting off now?" said Anne scornfully. She stamped
-her foot at Reggie; she was crimson. "How can you be so cruel? I can't
-let you go until I know for certain that you are just as happy as you
-were before you asked me to marry you. Surely you must see that, it's so
-simple."
+"How can you talk of cutting off now?" said Anne scornfully. She
+stamped her foot at Reggie; she was crimson. "How can you be so cruel?
+I can't let you go until I know for certain that you are just as happy
+as you were before you asked me to marry you. Surely you must see that,
+it's so simple."
 
 But it did not seem at all simple to Reginald. It seemed impossibly
 difficult.
@@ -3540,60 +3685,66 @@ difficult.
 away, with only that awful mother to write to, and that you're
 miserable, and that it's all my fault?"
 
-"It's not your fault. Don't think that. It's just fate." Reggie took her
-hand off his sleeve and kissed it. "Don't pity me, dear little Anne," he
-said gently. And this time he nearly ran, under the pink arches, along
-the garden path.
+"It's not your fault. Don't think that. It's just fate." Reggie
+took her hand off his sleeve and kissed it. "Don't pity me, dear
+little Anne," he said gently. And this time he nearly ran, under the
+pink arches, along the garden path.
 
-"Roo-coo-coo-coo! Roo-coo-coo-coo!" sounded from the veranda. "Reggie,
-Reggie," from the garden.
+"Roo-coo-coo-coo! Roo-coo-coo-coo!" sounded from the veranda.
+"Reggie, Reggie," from the garden.
 
 He stopped, he turned. But when she saw his timid, puzzled look, she
 gave a little laugh.
 
-"Come back, Mr. Dove," said Anne. And Reginald came slowly across the
+"Come back, Mr. Dove," said Anne. And Reginald came slowly across the
 lawn.
 
-# 5. THE YOUNG GIRL.
+
+
+5. THE YOUNG GIRL.
+------------------
 
 In her blue dress, with her cheeks lightly flushed, her blue, blue eyes,
 and her gold curls pinned up as though for the first time---pinned up to
-be out of the way for her flight---Mrs. Raddick's daughter might have
-just dropped from this radiant heaven. Mrs. Raddick's timid, faintly
+be out of the way for her flight---Mrs. Raddick's daughter might have
+just dropped from this radiant heaven. Mrs. Raddick's timid, faintly
 astonished, but deeply admiring glance looked as if she believed it,
 too; but the daughter didn't appear any too pleased---why should
 she?---to have alighted on the steps of the Casino. Indeed, she was
 bored---bored as though Heaven had been full of casinos with snuffy old
 saints for croupiers and crowns to play with.
 
-"You don't mind taking Hennie?" said Mrs. Raddick. "Sure you don't?
+"You don't mind taking Hennie?" said Mrs. Raddick. "Sure you don't?
 There's the car, and you'll have tea and we'll be back here on this
 step---right here---in an hour. You see, I want her to go in. She's not
-been before, and it's worth seeing. I feel it wouldn't be fair to her."
+been before, and it's worth seeing. I feel it wouldn't be fair to
+her."
 
 "Oh, shut up, mother," said she wearily. "Come along. Don't talk so
 much. And your bag's open; you'll be losing all your money again."
 
-"I'm sorry, darling," said Mrs. Raddick.
+"I'm sorry, darling," said Mrs. Raddick.
 
-"Oh, do come in! I want to make money," said the impatient voice. "It's
-all jolly well for you---but I'm broke!"
+"Oh, do come in! I want to make money," said the impatient voice.
+"It's all jolly well for you---but I'm broke!"
 
-"Here---take fifty francs, darling, take a hundred!" I saw Mrs. Raddick
-pressing notes into her hand as they passed through the swing doors.
+"Here---take fifty francs, darling, take a hundred!" I saw Mrs.
+Raddick pressing notes into her hand as they passed through the swing
+doors.
 
 Hennie and I stood on the steps a minute, watching the people. He had a
 very broad, delighted smile.
 
-"I say," he cried, "there's an English bulldog. Are they allowed to take
-dogs in there?"
+"I say," he cried, "there's an English bulldog. Are they allowed to
+take dogs in there?"
 
 "No, they're not."
 
-"He's a ripping chap, isn't he? I wish I had one. They're such fun. They
-frighten people so, and they're never fierce with their---the people
-they belong to." Suddenly he squeezed my arm. "I say, do look at that
-old woman. Who is she? Why does she look like that? Is she a gambler?"
+"He's a ripping chap, isn't he? I wish I had one. They're such fun.
+They frighten people so, and they're never fierce with their---the
+people they belong to." Suddenly he squeezed my arm. "I say, do look
+at that old woman. Who is she? Why does she look like that? Is she a
+gambler?"
 
 The ancient, withered creature, wearing a green satin dress, a black
 velvet cloak and a white hat with purple feathers, jerked slowly, slowly
@@ -3601,39 +3752,40 @@ up the steps as though she were being drawn up on wires. She stared in
 front of her, she was laughing and nodding and cackling to herself; her
 claws clutched round what looked like a dirty boot-bag.
 
-But just at that moment there was Mrs. Raddick again with---her---and
-another lady hovering in the background. Mrs. Raddick rushed at me. She
+But just at that moment there was Mrs. Raddick again with---her---and
+another lady hovering in the background. Mrs. Raddick rushed at me. She
 was brightly flushed, gay, a different creature. She was like a woman
 who is saying "good-bye" to her friends on the station platform, with
 not a minute to spare before the train starts.
 
-"Oh, you're here, still. Isn't that lucky! You've not gone. Isn't that
-fine! I've had the most dreadful time with---her," and she waved to her
-daughter, who stood absolutely still, disdainful, looking down,
+"Oh, you're here, still. Isn't that lucky! You've not gone. Isn't
+that fine! I've had the most dreadful time with---her," and she waved
+to her daughter, who stood absolutely still, disdainful, looking down,
 twiddling her foot on the step, miles away. "They won't let her in. I
-swore she was twenty-one. But they won't believe me. I showed the man my
-purse; I didn't dare to do more. But it was no use. He simply
-scoffed\... And now I've just met Mrs. MacEwen from New York, and she
+swore she was twenty-one. But they won't believe me. I showed the man
+my purse; I didn't dare to do more. But it was no use. He simply
+scoffed\... And now I've just met Mrs. MacEwen from New York, and she
 just won thirteen thousand in the Salle Privee---and she wants me to go
 back with her while the luck lasts. Of course I can't leave---her. But
 if you'd---"
 
-At that "she" looked up; she simply withered her mother. "Why can't you
-leave me?" she said furiously. "What utter rot! How dare you make a
-scene like this? This is the last time I'll come out with you. You
+At that "she" looked up; she simply withered her mother. "Why can't
+you leave me?" she said furiously. "What utter rot! How dare you make
+a scene like this? This is the last time I'll come out with you. You
 really are too awful for words." She looked her mother up and down.
 "Calm yourself," she said superbly.
 
-Mrs. Raddick was desperate, just desperate. She was "wild" to go back
-with Mrs. MacEwen, but at the same time\...
+Mrs. Raddick was desperate, just desperate. She was "wild" to go back
+with Mrs. MacEwen, but at the same time\...
 
-I seized my courage. "Would you---do you care to come to tea with---us?"
+I seized my courage. "Would you---do you care to come to tea
+with---us?"
 
 "Yes, yes, she'll be delighted. That's just what I wanted, isn't it,
-darling? Mrs. MacEwen\... I'll be back here in an hour\... or less\...
+darling? Mrs. MacEwen\... I'll be back here in an hour\... or less\...
 I'll---"
 
-Mrs. R. dashed up the steps. I saw her bag was open again.
+Mrs. R. dashed up the steps. I saw her bag was open again.
 
 So we three were left. But really it wasn't my fault. Hennie looked
 crushed to the earth, too. When the car was there she wrapped her dark
@@ -3689,9 +3841,9 @@ While we waited she took out a little, gold powder-box with a mirror in
 the lid, shook the poor little puff as though she loathed it, and dabbed
 her lovely nose.
 
-"Hennie," she said, "take those flowers away." She pointed with her puff
-to the carnations, and I heard her murmur, "I can't bear flowers on a
-table." They had evidently been giving her intense pain, for she
+"Hennie," she said, "take those flowers away." She pointed with her
+puff to the carnations, and I heard her murmur, "I can't bear flowers
+on a table." They had evidently been giving her intense pain, for she
 positively closed her eyes as I moved them away.
 
 The waitress came back with the chocolate and the tea. She put the big,
@@ -3718,13 +3870,13 @@ swerved away she held up her plate.
 "Oh well, give me one," said she.
 
 The silver tongs dropped one, two, three---and a cherry tartlet. "I
-don't know why you're giving me all these," she said, and nearly smiled.
-"I shan't eat them; I couldn't!"
+don't know why you're giving me all these," she said, and nearly
+smiled. "I shan't eat them; I couldn't!"
 
 I felt much more comfortable. I sipped my tea, leaned back, and even
 asked if I might smoke. At that she paused, the fork in her hand, opened
-her eyes, and really did smile. "Of course," said she. "I always expect
-people to."
+her eyes, and really did smile. "Of course," said she. "I always
+expect people to."
 
 But at that moment a tragedy happened to Hennie. He speared his pastry
 horn too hard, and it flew in two, and one half spilled on the table.
@@ -3760,9 +3912,9 @@ about a fresh pineapple cream?"
 Hennie strongly approved. The waitress had her eye on us. The order was
 taken when she looked up from her crumbs.
 
-"Did you say tangerine and ginger? I like ginger. You can bring me one."
-And then quickly, "I wish that orchestra wouldn't play things from the
-year One. We were dancing to that all last Christmas. It's too
+"Did you say tangerine and ginger? I like ginger. You can bring me
+one." And then quickly, "I wish that orchestra wouldn't play things
+from the year One. We were dancing to that all last Christmas. It's too
 sickening!"
 
 But it was a charming air. Now that I noticed it, it warmed me.
@@ -3797,8 +3949,8 @@ with---oh---such a sigh!
 
 "Tell him," she gasped, "to drive as fast as he can."
 
-Hennie grinned at his friend the chauffeur. "Allie veet!" said he. Then
-he composed himself and sat on the small seat facing us.
+Hennie grinned at his friend the chauffeur. "Allie veet!" said he.
+Then he composed himself and sat on the small seat facing us.
 
 The gold powder-box came out again. Again the poor little puff was
 shaken; again there was that swift, deadly-secret glance between her and
@@ -3808,7 +3960,7 @@ We tore through the black-and-gold town like a pair of scissors tearing
 through brocade. Hennie had great difficulty not to look as though he
 were hanging on to something.
 
-And when we reached the Casino, of course Mrs. Raddick wasn't there.
+And when we reached the Casino, of course Mrs. Raddick wasn't there.
 There wasn't a sign of her on the steps---not a sign.
 
 "Will you stay in the car while I go and look?"
@@ -3816,21 +3968,25 @@ There wasn't a sign of her on the steps---not a sign.
 But no---she wouldn't do that. Good heavens, no! Hennie could stay. She
 couldn't bear sitting in a car. She'd wait on the steps.
 
-"But I scarcely like to leave you," I murmured. "I'd very much rather
-not leave you here."
+"But I scarcely like to leave you," I murmured. "I'd very much
+rather not leave you here."
 
 At that she threw back her coat; she turned and faced me; her lips
 parted. "Good heavens---why! I---I don't mind it a bit. I---I like
 waiting." And suddenly her cheeks crimsoned, her eyes grew dark---for a
 moment I thought she was going to cry. "L---let me, please," she
 stammered, in a warm, eager voice. "I like it. I love waiting!
-Really---really I do! I'm always waiting---in all kinds of places\..."
+Really---really I do! I'm always waiting---in all kinds of places\...
+"
 
 Her dark coat fell open, and her white throat---all her soft young body
 in the blue dress---was like a flower that is just emerging from its
 dark bud.
 
-# 6. LIFE OF MA PARKER.
+
+
+6. LIFE OF MA PARKER.
+---------------------
 
 When the literary gentleman, whose flat old Ma Parker cleaned every
 Tuesday, opened the door to her that morning, he asked after her
@@ -3838,8 +3994,8 @@ grandson. Ma Parker stood on the doormat inside the dark little hall,
 and she stretched out her hand to help her gentleman shut the door
 before she replied. "We buried 'im yesterday, sir," she said quietly.
 
-"Oh, dear me! I'm sorry to hear that," said the literary gentleman in a
-shocked tone. He was in the middle of his breakfast. He wore a very
+"Oh, dear me! I'm sorry to hear that," said the literary gentleman in
+a shocked tone. He was in the middle of his breakfast. He wore a very
 shabby dressing-gown and carried a crumpled newspaper in one hand. But
 he felt awkward. He could hardly go back to the warm sitting-room
 without saying something---something more. Then because these people set
@@ -3854,21 +4010,23 @@ and hobbled off to the kitchen, clasping the old fish bag that held her
 cleaning things and an apron and a pair of felt shoes. The literary
 gentleman raised his eyebrows and went back to his breakfast.
 
-"Overcome, I suppose," he said aloud, helping himself to the marmalade.
+"Overcome, I suppose," he said aloud, helping himself to the
+marmalade.
 
 Ma Parker drew the two jetty spears out of her toque and hung it behind
 the door. She unhooked her worn jacket and hung that up too. Then she
 tied her apron and sat down to take off her boots. To take off her boots
 or to put them on was an agony to her, but it had been an agony for
 years. In fact, she was so accustomed to the pain that her face was
-drawn and screwed up ready for the twinge before she'd so much as untied
-the laces. That over, she sat back with a sigh and softly rubbed her
-knees\...
+drawn and screwed up ready for the twinge before she'd so much as
+untied the laces. That over, she sat back with a sigh and softly rubbed
+her knees\...
 
-"Gran! Gran!" Her little grandson stood on her lap in his button boots.
-He'd just come in from playing in the street.
+"Gran! Gran!" Her little grandson stood on her lap in his button
+boots. He'd just come in from playing in the street.
 
-"Look what a state you've made your gran's skirt into---you wicked boy!"
+"Look what a state you've made your gran's skirt into---you wicked
+boy!"
 
 But he put his arms round her neck and rubbed his cheek against hers.
 
@@ -3913,16 +4071,16 @@ expanse of sad-looking sky, and whenever there were clouds they looked
 very worn, old clouds, frayed at the edges, with holes in them, or dark
 stains like tea.
 
-While the water was heating, Ma Parker began sweeping the floor. "Yes,"
-she thought, as the broom knocked, "what with one thing and another I've
-had my share. I've had a hard life."
+While the water was heating, Ma Parker began sweeping the floor.
+"Yes," she thought, as the broom knocked, "what with one thing and
+another I've had my share. I've had a hard life."
 
 Even the neighbours said that of her. Many a time, hobbling home with
 her fish bag she heard them, waiting at the corner, or leaning over the
 area railings, say among themselves, "She's had a hard life, has Ma
-Parker." And it was so true she wasn't in the least proud of it. It was
-just as if you were to say she lived in the basement-back at Number 27.
-A hard life!\...
+Parker." And it was so true she wasn't in the least proud of it. It
+was just as if you were to say she lived in the basement-back at Number
+27. A hard life!\...
 
 At sixteen she'd left Stratford and come up to London as kitching-maid.
 Yes, she was born in Stratford-on-Avon. Shakespeare, sir? No, people
@@ -3931,9 +4089,9 @@ she saw it on the theatres.
 
 Nothing remained of Stratford except that "sitting in the fire-place of
 a evening you could see the stars through the chimley," and "Mother
-always 'ad 'er side of bacon, 'anging from the ceiling." And there was
-something---a bush, there was---at the front door, that smelt ever so
-nice. But the bush was very vague. She'd only remembered it once or
+always 'ad 'er side of bacon, 'anging from the ceiling." And there
+was something---a bush, there was---at the front door, that smelt ever
+so nice. But the bush was very vague. She'd only remembered it once or
 twice in the hospital, when she'd been taken bad.
 
 That was a dreadful place---her first place. She was never allowed out.
@@ -3945,27 +4103,28 @@ it?---until she came to London she'd never seen a black beedle. Here Ma
 always gave a little laugh, as though---not to have seen a black beedle!
 Well! It was as if to say you'd never seen your own feet.
 
-When that family was sold up she went as "help" to a doctor's house, and
-after two years there, on the run from morning till night, she married
-her husband. He was a baker.
+When that family was sold up she went as "help" to a doctor's house,
+and after two years there, on the run from morning till night, she
+married her husband. He was a baker.
 
-"A baker, Mrs. Parker!" the literary gentleman would say. For
+"A baker, Mrs. Parker!" the literary gentleman would say. For
 occasionally he laid aside his tomes and lent an ear, at least, to this
-product called Life. "It must be rather nice to be married to a baker!"
+product called Life. "It must be rather nice to be married to a
+baker!"
 
-Mrs. Parker didn't look so sure.
+Mrs. Parker didn't look so sure.
 
 "Such a clean trade," said the gentleman.
 
-Mrs. Parker didn't look convinced.
+Mrs. Parker didn't look convinced.
 
 "And didn't you like handing the new loaves to the customers?"
 
-"Well, sir," said Mrs. Parker, "I wasn't in the shop above a great deal.
-We had thirteen little ones and buried seven of them. If it wasn't the
-'ospital it was the infirmary, you might say!"
+"Well, sir," said Mrs. Parker, "I wasn't in the shop above a great
+deal. We had thirteen little ones and buried seven of them. If it
+wasn't the 'ospital it was the infirmary, you might say!"
 
-"You might, indeed, Mrs. Parker!" said the gentleman, shuddering, and
+"You might, indeed, Mrs. Parker!" said the gentleman, shuddering, and
 taking up his pen again.
 
 Yes, seven had gone, and while the six were still small her husband was
@@ -3973,9 +4132,9 @@ taken ill with consumption. It was flour on the lungs, the doctor told
 her at the time\... Her husband sat up in bed with his shirt pulled over
 his head, and the doctor's finger drew a circle on his back.
 
-"Now, if we were to cut him open here, Mrs. Parker," said the doctor,
-"you'd find his lungs chock-a-block with white powder. Breathe, my good
-fellow!" And Mrs. Parker never knew for certain whether she saw or
+"Now, if we were to cut him open here, Mrs. Parker," said the doctor,
+"you'd find his lungs chock-a-block with white powder. Breathe, my
+good fellow!" And Mrs. Parker never knew for certain whether she saw or
 whether she fancied she saw a great fan of white dust come out of her
 poor dead husband's lips\...
 
@@ -3996,12 +4155,12 @@ ink-black knives were cleaned with a piece of potato and finished off
 with a piece of cork. The table was scrubbed, and the dresser and the
 sink that had sardine tails swimming in it\...
 
-He'd never been a strong child---never from the first. He'd been one of
-those fair babies that everybody took for a girl. Silvery fair curls he
-had, blue eyes, and a little freckle like a diamond on one side of his
-nose. The trouble she and Ethel had had to rear that child! The things
-out of the newspapers they tried him with! Every Sunday morning Ethel
-would read aloud while Ma Parker did her washing.
+He'd never been a strong child---never from the first. He'd been one
+of those fair babies that everybody took for a girl. Silvery fair curls
+he had, blue eyes, and a little freckle like a diamond on one side of
+his nose. The trouble she and Ethel had had to rear that child! The
+things out of the newspapers they tried him with! Every Sunday morning
+Ethel would read aloud while Ma Parker did her washing.
 
 "Dear Sir,---Just a line to let you know my little Myrtil was laid out
 for dead\... After four bottils\... gained 8 lbs. in 9 weeks, and is
@@ -4015,15 +4174,15 @@ shake-up in the bus never improved his appetite.
 
 But he was gran's boy from the first\...
 
-"Whose boy are you?" said old Ma Parker, straightening up from the stove
-and going over to the smudgy window. And a little voice, so warm, so
-close, it half stifled her---it seemed to be in her breast under her
+"Whose boy are you?" said old Ma Parker, straightening up from the
+stove and going over to the smudgy window. And a little voice, so warm,
+so close, it half stifled her---it seemed to be in her breast under her
 heart---laughed out, and said, "I'm gran's boy!"
 
 At that moment there was a sound of steps, and the literary gentleman
 appeared, dressed for walking.
 
-"Oh, Mrs. Parker, I'm going out."
+"Oh, Mrs. Parker, I'm going out."
 
 "Very good, sir."
 
@@ -4031,14 +4190,14 @@ appeared, dressed for walking.
 
 "Thank you, sir."
 
-"Oh, by the way, Mrs. Parker," said the literary gentleman quickly, "you
-didn't throw away any cocoa last time you were here---did you?"
+"Oh, by the way, Mrs. Parker," said the literary gentleman quickly,
+"you didn't throw away any cocoa last time you were here---did you?"
 
 "No, sir." "Very strange. I could have sworn I left a teaspoonful of
 cocoa in the tin." He broke off. He said softly and firmly, "You'll
-always tell me when you throw things away---won't you, Mrs. Parker?" And
-he walked off very well pleased with himself, convinced, in fact, he'd
-shown Mrs. Parker that under his apparent carelessness he was as
+always tell me when you throw things away---won't you, Mrs. Parker?"
+And he walked off very well pleased with himself, convinced, in fact,
+he'd shown Mrs. Parker that under his apparent carelessness he was as
 vigilant as a woman.
 
 The door banged. She took her brushes and cloths into the bedroom. But
@@ -4056,21 +4215,21 @@ bubbled as a potato knocks in a saucepan. But what was more awful than
 all was when he didn't cough he sat against the pillow and never spoke
 or answered, or even made as if he heard. Only he looked offended.
 
-"It's not your poor old gran's doing it, my lovey," said old Ma Parker,
-patting back the damp hair from his little scarlet ears. But Lennie
-moved his head and edged away. Dreadfully offended with her he
+"It's not your poor old gran's doing it, my lovey," said old Ma
+Parker, patting back the damp hair from his little scarlet ears. But
+Lennie moved his head and edged away. Dreadfully offended with her he
 looked---and solemn. He bent his head and looked at her sideways as
 though he couldn't have believed it of his gran.
 
 But at the last\... Ma Parker threw the counterpane over the bed. No,
-she simply couldn't think about it. It was too much---she'd had too much
-in her life to bear. She'd borne it up till now, she'd kept herself to
-herself, and never once had she been seen to cry. Never by a living
-soul. Not even her own children had seen Ma break down. She'd kept a
-proud face always. But now! Lennie gone---what had she? She had nothing.
-He was all she'd got from life, and now he was took too. Why must it all
-have happened to me? she wondered. "What have I done?" said old Ma
-Parker. "What have I done?"
+she simply couldn't think about it. It was too much---she'd had too
+much in her life to bear. She'd borne it up till now, she'd kept
+herself to herself, and never once had she been seen to cry. Never by a
+living soul. Not even her own children had seen Ma break down. She'd
+kept a proud face always. But now! Lennie gone---what had she? She had
+nothing. He was all she'd got from life, and now he was took too. Why
+must it all have happened to me? she wondered. "What have I done?"
+said old Ma Parker. "What have I done?"
 
 As she said those words she suddenly let fall her brush. She found
 herself in the kitchen. Her misery was so terrible that she pinned on
@@ -4101,9 +4260,9 @@ chin began to tremble; there was no time to lose. But where? Where?
 
 She couldn't go home; Ethel was there. It would frighten Ethel out of
 her life. She couldn't sit on a bench anywhere; people would come
-arsking her questions. She couldn't possibly go back to the gentleman's
-flat; she had no right to cry in strangers' houses. If she sat on some
-steps a policeman would speak to her.
+arsking her questions. She couldn't possibly go back to the
+gentleman's flat; she had no right to cry in strangers' houses. If she
+sat on some steps a policeman would speak to her.
 
 Oh, wasn't there anywhere where she could hide and keep herself to
 herself and stay as long as she liked, not disturbing anybody, and
@@ -4113,15 +4272,18 @@ have her cry out---at last?
 Ma Parker stood, looking up and down. The icy wind blew out her apron
 into a balloon. And now it began to rain. There was nowhere.
 
-# 7. MARRIAGE A LA MODE.
+
+
+7. MARRIAGE A LA MODE.
+----------------------
 
 On his way to the station William remembered with a fresh pang of
 disappointment that he was taking nothing down to the kiddies. Poor
 little chaps! It was hard lines on them. Their first words always were
-as they ran to greet him, "What have you got for me, daddy?" and he had
-nothing. He would have to buy them some sweets at the station. But that
-was what he had done for the past four Saturdays; their faces had fallen
-last time when they saw the same old boxes produced again.
+as they ran to greet him, "What have you got for me, daddy?" and he
+had nothing. He would have to buy them some sweets at the station. But
+that was what he had done for the past four Saturdays; their faces had
+fallen last time when they saw the same old boxes produced again.
 
 And Paddy had said, "I had red ribbing on mine bee-fore!"
 
@@ -4144,8 +4306,8 @@ be taken to the Royal Academy."
 And she spoke as though a visit to the Royal Academy was certain
 immediate death to any one\...
 
-"Well, I don't know," said William slowly. "When I was their age I used
-to go to bed hugging an old towel with a knot in it."
+"Well, I don't know," said William slowly. "When I was their age I
+used to go to bed hugging an old towel with a knot in it."
 
 The new Isabel looked at him, her eyes narrowed, her lips apart.
 
@@ -4194,19 +4356,20 @@ shelter under the dark trees. A wide river, with naked children
 splashing in the shallows, glided into sight and was gone again. The sky
 shone pale, and one bird drifted high like a dark fleck in a jewel.
 
-"We have examined our client's correspondence files\..." The last
-sentence he had read echoed in his mind. "We have examined\..." William
-hung on to that sentence, but it was no good; it snapped in the middle,
-and the fields, the sky, the sailing bird, the water, all said,
-"Isabel." The same thing happened every Saturday afternoon. When he was
-on his way to meet Isabel there began those countless imaginary
+"We have examined our client's correspondence files\... " The last
+sentence he had read echoed in his mind. "We have examined\... "
+William hung on to that sentence, but it was no good; it snapped in the
+middle, and the fields, the sky, the sailing bird, the water, all said,
+"Isabel." The same thing happened every Saturday afternoon. When he
+was on his way to meet Isabel there began those countless imaginary
 meetings. She was at the station, standing just a little apart from
 everybody else; she was sitting in the open taxi outside; she was at the
 garden gate; walking across the parched grass; at the door, or just
 inside the hall.
 
-And her clear, light voice said, "It's William," or "Hillo, William!" or
-"So William has come!" He touched her cool hand, her cool cheek.
+And her clear, light voice said, "It's William," or "Hillo,
+William!" or "So William has come!" He touched her cool hand, her
+cool cheek.
 
 The exquisite freshness of Isabel! When he had been a little boy, it was
 his delight to run into the garden after a shower of rain and shake the
@@ -4228,20 +4391,21 @@ stranger. At that Isabel wheeled round quickly and faced him.
 
 "Oh, William!" she cried imploringly, and she held up the hair-brush:
 "Please! Please don't be so dreadfully stuffy and---tragic. You're
-always saying or looking or hinting that I've changed. Just because I've
-got to know really congenial people, and go about more, and am
-frightfully keen on---on everything, you behave as though I'd---" Isabel
-tossed back her hair and laughed---"killed our love or something. It's
-so awfully absurd"---she bit her lip---"and it's so maddening, William.
-Even this new house and the servants you grudge me."
+always saying or looking or hinting that I've changed. Just because
+I've got to know really congenial people, and go about more, and am
+frightfully keen on---on everything, you behave as though I'd---"
+Isabel tossed back her hair and laughed---"killed our love or
+something. It's so awfully absurd"---she bit her lip---"and it's so
+maddening, William. Even this new house and the servants you grudge
+me."
 
 "Isabel!"
 
-"Yes, yes, it's true in a way," said Isabel quickly. "You think they are
-another bad sign. Oh, I know you do. I feel it," she said softly, "every
-time you come up the stairs. But we couldn't have gone on living in that
-other poky little hole, William. Be practical, at least! Why, there
-wasn't enough room for the babies even."
+"Yes, yes, it's true in a way," said Isabel quickly. "You think they
+are another bad sign. Oh, I know you do. I feel it," she said softly,
+"every time you come up the stairs. But we couldn't have gone on
+living in that other poky little hole, William. Be practical, at least!
+Why, there wasn't enough room for the babies even."
 
 No, it was true. Every morning when he came back from chambers it was to
 find the babies with Isabel in the back drawing-room. They were having
@@ -4253,19 +4417,19 @@ a pick-a-back up the narrow stairs to their fat old Nanny.
 
 Yes, he supposed it was a poky little house. A little white house with
 blue curtains and a window-box of petunias. William met their friends at
-the door with "Seen our petunias? Pretty terrific for London, don't you
-think?"
+the door with "Seen our petunias? Pretty terrific for London, don't
+you think?"
 
 But the imbecile thing, the absolutely extraordinary thing was that he
 hadn't the slightest idea that Isabel wasn't as happy as he. God, what
 blindness! He hadn't the remotest notion in those days that she really
 hated that inconvenient little house, that she thought the fat Nanny was
 ruining the babies, that she was desperately lonely, pining for new
-people and new music and pictures and so on. If they hadn't gone to that
-studio party at Moira Morrison's---if Moira Morrison hadn't said as they
-were leaving, "I'm going to rescue your wife, selfish man. She's like an
-exquisite little Titania"---if Isabel hadn't gone with Moira to
-Paris---if---if\...
+people and new music and pictures and so on. If they hadn't gone to
+that studio party at Moira Morrison's---if Moira Morrison hadn't said
+as they were leaving, "I'm going to rescue your wife, selfish man.
+She's like an exquisite little Titania"---if Isabel hadn't gone with
+Moira to Paris---if---if\...
 
 The train stopped at another station. Bettingford. Good heavens! They'd
 be there in ten minutes. William stuffed that papers back into his
@@ -4280,24 +4444,24 @@ And he remembered the holidays they used to have, the four of them, with
 a little farm girl, Rose, to look after the babies. Isabel wore a jersey
 and her hair in a plait; she looked about fourteen. Lord! how his nose
 used to peel! And the amount they ate, and the amount they slept in that
-immense feather bed with their feet locked together\... William couldn't
-help a grim smile as he thought of Isabel's horror if she knew the full
-extent of his sentimentality.
+immense feather bed with their feet locked together\... William
+couldn't help a grim smile as he thought of Isabel's horror if she
+knew the full extent of his sentimentality.
 
 ------------------------------------------------------------------------
 
-"Hillo, William!" She was at the station after all, standing just as he
-had imagined, apart from the others, and---William's heart leapt---she
-was alone.
+"Hillo, William!" She was at the station after all, standing just as
+he had imagined, apart from the others, and---William's heart
+leapt---she was alone.
 
-"Hallo, Isabel!" William stared. He thought she looked so beautiful that
-he had to say something, "You look very cool."
+"Hallo, Isabel!" William stared. He thought she looked so beautiful
+that he had to say something, "You look very cool."
 
-"Do I?" said Isabel. "I don't feel very cool. Come along, your horrid
-old train is late. The taxi's outside." She put her hand lightly on his
-arm as they passed the ticket collector. "We've all come to meet you,"
-she said. "But we've left Bobby Kane at the sweet shop, to be called
-for."
+"Do I?" said Isabel. "I don't feel very cool. Come along, your
+horrid old train is late. The taxi's outside." She put her hand
+lightly on his arm as they passed the ticket collector. "We've all
+come to meet you," she said. "But we've left Bobby Kane at the sweet
+shop, to be called for."
 
 "Oh!" said William. It was all he could say for the moment.
 
@@ -4313,33 +4477,33 @@ fishmonger's."
 
 And Bill Hunt, emerging, added, "With whole fish in it."
 
-"Oh, what a bore!" wailed Isabel. And she explained to William how they
-had been chasing round the town for ice while she waited for him.
+"Oh, what a bore!" wailed Isabel. And she explained to William how
+they had been chasing round the town for ice while she waited for him.
 "Simply everything is running down the steep cliffs into the sea,
 beginning with the butter."
 
-"We shall have to anoint ourselves with butter," said Dennis. "May thy
-head, William, lack not ointment."
+"We shall have to anoint ourselves with butter," said Dennis. "May
+thy head, William, lack not ointment."
 
-"Look here," said William, "how are we going to sit? I'd better get up
-by the driver."
+"Look here," said William, "how are we going to sit? I'd better get
+up by the driver."
 
-"No, Bobby Kane's by the driver," said Isabel. "You're to sit between
-Moira and me." The taxi started. "What have you got in those mysterious
-parcels?"
+"No, Bobby Kane's by the driver," said Isabel. "You're to sit
+between Moira and me." The taxi started. "What have you got in those
+mysterious parcels?"
 
 "De-cap-it-ated heads!" said Bill Hunt, shuddering beneath his hat.
 
-"Oh, fruit!" Isabel sounded very pleased. "Wise William! A melon and a
-pineapple. How too nice!"
+"Oh, fruit!" Isabel sounded very pleased. "Wise William! A melon and
+a pineapple. How too nice!"
 
-"No, wait a bit," said William, smiling. But he really was anxious. "I
-brought them down for the kiddies."
+"No, wait a bit," said William, smiling. But he really was anxious.
+"I brought them down for the kiddies."
 
 "Oh, my dear!" Isabel laughed, and slipped her hand through his arm.
-"They'd be rolling in agonies if they were to eat them. No"---she patted
-his hand---"you must bring them something next time. I refuse to part
-with my pineapple."
+"They'd be rolling in agonies if they were to eat them. No"---she
+patted his hand---"you must bring them something next time. I refuse to
+part with my pineapple."
 
 "Cruel Isabel! Do let me smell it!" said Moira. She flung her arms
 across William appealingly. "Oh!" The strawberry bonnet fell forward:
@@ -4351,14 +4515,15 @@ full of little packets.
 
 "I do hope they'll be good. I've chosen them because of the colours.
 There are some round things which really look too divine. And just look
-at this nougat," he cried ecstatically, "just look at it! It's a perfect
-little ballet."
+at this nougat," he cried ecstatically, "just look at it! It's a
+perfect little ballet."
 
-But at that moment the shopman appeared. "Oh, I forgot. They're none of
-them paid for," said Bobby, looking frightened. Isabel gave the shopman
-a note, and Bobby was radiant again. "Hallo, William! I'm sitting by the
-driver." And bareheaded, all in white, with his sleeves rolled up to the
-shoulders, he leapt into his place. "Avanti!" he cried\...
+But at that moment the shopman appeared. "Oh, I forgot. They're none
+of them paid for," said Bobby, looking frightened. Isabel gave the
+shopman a note, and Bobby was radiant again. "Hallo, William! I'm
+sitting by the driver." And bareheaded, all in white, with his sleeves
+rolled up to the shoulders, he leapt into his place. "Avanti!" he
+cried\...
 
 After tea the others went off to bathe, while William stayed and made
 his peace with the kiddies. But Johnny and Paddy were asleep, the
@@ -4387,23 +4552,24 @@ coming up the sandy road; their voices rang through the quiet.
 
 A tragic moan from Moira.
 
-"We ought to have a gramophone for the weekends that played 'The Maid of
-the Mountains.'"
+"We ought to have a gramophone for the weekends that played 'The Maid
+of the Mountains.'"
 
-"Oh no! Oh no!" cried Isabel's voice. "That's not fair to William. Be
-nice to him, my children! He's only staying until to-morrow evening."
+"Oh no! Oh no!" cried Isabel's voice. "That's not fair to William.
+Be nice to him, my children! He's only staying until to-morrow
+evening."
 
-"Leave him to me," cried Bobby Kane. "I'm awfully good at looking after
-people."
+"Leave him to me," cried Bobby Kane. "I'm awfully good at looking
+after people."
 
 The gate swung open and shut. William moved on the terrace; they had
-seen him. "Hallo, William!" And Bobby Kane, flapping his towel, began to
-leap and pirouette on the parched lawn. "Pity you didn't come, William.
-The water was divine. And we all went to a little pub afterwards and had
-sloe gin."
+seen him. "Hallo, William!" And Bobby Kane, flapping his towel, began
+to leap and pirouette on the parched lawn. "Pity you didn't come,
+William. The water was divine. And we all went to a little pub
+afterwards and had sloe gin."
 
-The others had reached the house. "I say, Isabel," called Bobby, "would
-you like me to wear my Nijinsky dress to-night?"
+The others had reached the house. "I say, Isabel," called Bobby,
+"would you like me to wear my Nijinsky dress to-night?"
 
 "No," said Isabel, "nobody's going to dress. We're all starving.
 William's starving, too. Come along, mes amis, let's begin with
@@ -4414,8 +4580,8 @@ holding a box high in the air.
 
 "A Lady with a Box of Sardines," said Dennis gravely.
 
-"Well, William, and how's London?" asked Bill Hunt, drawing the cork out
-of a bottle of whisky.
+"Well, William, and how's London?" asked Bill Hunt, drawing the cork
+out of a bottle of whisky.
 
 "Oh, London's not much changed," answered William.
 
@@ -4445,22 +4611,22 @@ until it was late enough to go to bed\...
 It was not until William was waiting for his taxi the next afternoon
 that he found himself alone with Isabel. When he brought his suit-case
 down into the hall, Isabel left the others and went over to him. She
-stooped down and picked up the suit-case. "What a weight!" she said, and
-she gave a little awkward laugh. "Let me carry it! To the gate."
+stooped down and picked up the suit-case. "What a weight!" she said,
+and she gave a little awkward laugh. "Let me carry it! To the gate."
 
 "No, why should you?" said William. "Of course, not. Give it to me."
 
-"Oh, please, do let me," said Isabel. "I want to, really." They walked
-together silently. William felt there was nothing to say now.
+"Oh, please, do let me," said Isabel. "I want to, really." They
+walked together silently. William felt there was nothing to say now.
 
 "There," said Isabel triumphantly, setting the suit-case down, and she
 looked anxiously along the sandy road. "I hardly seem to have seen you
 this time," she said breathlessly. "It's so short, isn't it? I feel
-you've only just come. Next time---" The taxi came into sight. "I hope
-they look after you properly in London. I'm so sorry the babies have
-been out all day, but Miss Neil had arranged it. They'll hate missing
-you. Poor William, going back to London." The taxi turned. "Good-bye!"
-She gave him a little hurried kiss; she was gone.
+you've only just come. Next time---" The taxi came into sight. "I
+hope they look after you properly in London. I'm so sorry the babies
+have been out all day, but Miss Neil had arranged it. They'll hate
+missing you. Poor William, going back to London." The taxi turned.
+"Good-bye!" She gave him a little hurried kiss; she was gone.
 
 Fields, trees, hedges streamed by. They shook through the empty,
 blind-looking little town, ground up the steep pull to the station.
@@ -4476,7 +4642,8 @@ The post was late as usual. They sat outside the house in long chairs
 under coloured parasols. Only Bobby Kane lay on the turf at Isabel's
 feet. It was dull, stifling; the day drooped like a flag.
 
-"Do you think there will be Mondays in Heaven?" asked Bobby childishly.
+"Do you think there will be Mondays in Heaven?" asked Bobby
+childishly.
 
 And Dennis murmured, "Heaven will be one long Monday."
 
@@ -4484,8 +4651,9 @@ But Isabel couldn't help wondering what had happened to the salmon they
 had for supper last night. She had meant to have fish mayonnaise for
 lunch and now\...
 
-Moira was asleep. Sleeping was her latest discovery. "It's so wonderful.
-One simply shuts one's eyes, that's all. It's so delicious."
+Moira was asleep. Sleeping was her latest discovery. "It's so
+wonderful. One simply shuts one's eyes, that's all. It's so
+delicious."
 
 When the old ruddy postman came beating along the sandy road on his
 tricycle one felt the handle-bars ought to have been oars.
@@ -4516,12 +4684,12 @@ laughing.
 
 "Do, do tell us," said the others. "You must tell us."
 
-"I'm longing to," gurgled Isabel. She sat up, gathered the letter, and
-waved it at them. "Gather round," she said. "Listen, it's too
+"I'm longing to," gurgled Isabel. She sat up, gathered the letter,
+and waved it at them. "Gather round," she said. "Listen, it's too
 marvellous. A love-letter!"
 
-"A love-letter! But how divine!" "Darling, precious Isabel." But she had
-hardly begun before their laughter interrupted her.
+"A love-letter! But how divine!" "Darling, precious Isabel." But she
+had hardly begun before their laughter interrupted her.
 
 "Go on, Isabel, it's perfect."
 
@@ -4541,8 +4709,8 @@ rolled on the turf and almost sobbed.
 "You must let me have it just as it is, entire, for my new book," said
 Dennis firmly. "I shall give it a whole chapter."
 
-"Oh, Isabel," moaned Moira, "that wonderful bit about holding you in his
-arms!"
+"Oh, Isabel," moaned Moira, "that wonderful bit about holding you in
+his arms!"
 
 "I always thought those letters in divorce cases were made up. But they
 pale before this."
@@ -4560,9 +4728,9 @@ pressed her eyes with her knuckles and rocked to and fro. And again she
 saw them, but not four, more like forty, laughing, sneering, jeering,
 stretching out their hands while she read them William's letter. Oh,
 what a loathsome thing to have done. How could she have done it! "God
-forbid, my darling, that I should be a drag on your happiness." William!
-Isabel pressed her face into the pillow. But she felt that even the
-grave bedroom knew her for what she was, shallow, tinkling, vain\...
+forbid, my darling, that I should be a drag on your happiness."
+William! Isabel pressed her face into the pillow. But she felt that even
+the grave bedroom knew her for what she was, shallow, tinkling, vain\...
 
 Presently from the garden below there came voices.
 
@@ -4587,7 +4755,10 @@ write," thought Isabel hurriedly.
 
 And, laughing, in the new way, she ran down the stairs.
 
-# 8. THE VOYAGE.
+
+
+8. THE VOYAGE.
+--------------
 
 The Picton boat was due to leave at half-past eleven. It was a beautiful
 night, mild, starry, only when they got out of the cab and started to
@@ -4605,11 +4776,11 @@ Fenella's father pushed on with quick, nervous strides. Beside him her
 grandma bustled along in her crackling black ulster; they went so fast
 that she had now and again to give an undignified little skip to keep up
 with them. As well as her luggage strapped into a neat sausage, Fenella
-carried clasped to her her grandma's umbrella, and the handle, which was
-a swan's head, kept giving her shoulder a sharp little peck as if it too
-wanted her to hurry\... Men, their caps pulled down, their collars
-turned up, swung by; a few women all muffled scurried along; and one
-tiny boy, only his little black arms and legs showing out of a white
+carried clasped to her her grandma's umbrella, and the handle, which
+was a swan's head, kept giving her shoulder a sharp little peck as if
+it too wanted her to hurry\... Men, their caps pulled down, their
+collars turned up, swung by; a few women all muffled scurried along; and
+one tiny boy, only his little black arms and legs showing out of a white
 woolly shawl, was jerked along angrily between his father and mother; he
 looked like a baby fly that had fallen into the cream.
 
@@ -4645,16 +4816,17 @@ Grandma felt for them inside her glove and showed him the tips.
 
 He sounded stern, but Fenella, eagerly watching him, saw that he looked
 tired and sad. "Mia-oo-oo-O-O!" The second whistle blared just above
-their heads, and a voice like a cry shouted, "Any more for the gangway?"
+their heads, and a voice like a cry shouted, "Any more for the
+gangway?"
 
-"You'll give my love to father," Fenella saw her father's lips say. And
-her grandma, very agitated, answered, "Of course I will, dear. Go now.
-You'll be left. Go now, Frank. Go now."
+"You'll give my love to father," Fenella saw her father's lips say.
+And her grandma, very agitated, answered, "Of course I will, dear. Go
+now. You'll be left. Go now, Frank. Go now."
 
 "It's all right, mother. I've got another three minutes." To her
 surprise Fenella saw her father take off his hat. He clasped grandma in
-his arms and pressed her to him. "God bless you, mother!" she heard him
-say.
+his arms and pressed her to him. "God bless you, mother!" she heard
+him say.
 
 And grandma put her hand, with the black thread glove that was worn
 through on her ring finger, against his cheek, and she sobbed, "God
@@ -4664,26 +4836,27 @@ This was so awful that Fenella quickly turned her back on them,
 swallowed once, twice, and frowned terribly at a little green star on a
 mast head. But she had to turn round again; her father was going.
 
-"Good-bye, Fenella. Be a good girl." His cold, wet moustache brushed her
-cheek. But Fenella caught hold of the lapels of his coat.
+"Good-bye, Fenella. Be a good girl." His cold, wet moustache brushed
+her cheek. But Fenella caught hold of the lapels of his coat.
 
-"How long am I going to stay?" she whispered anxiously. He wouldn't look
-at her. He shook her off gently, and gently said, "We'll see about that.
-Here! Where's your hand?" He pressed something into her palm. "Here's a
-shilling in case you should need it."
+"How long am I going to stay?" she whispered anxiously. He wouldn't
+look at her. He shook her off gently, and gently said, "We'll see
+about that. Here! Where's your hand?" He pressed something into her
+palm. "Here's a shilling in case you should need it."
 
 A shilling! She must be going away for ever! "Father!" cried Fenella.
 But he was gone. He was the last off the ship. The sailors put their
 shoulders to the gangway. A huge coil of dark rope went flying through
-the air and fell "thump" on the wharf. A bell rang; a whistle shrilled.
-Silently the dark wharf began to slip, to slide, to edge away from them.
-Now there was a rush of water between. Fenella strained to see with all
-her might. "Was that father turning round?"---or waving?---or standing
-alone?---or walking off by himself? The strip of water grew broader,
-darker. Now the Picton boat began to swing round steady, pointing out to
-sea. It was no good looking any longer. There was nothing to be seen but
-a few lights, the face of the town clock hanging in the air, and more
-lights, little patches of them, on the dark hills.
+the air and fell "thump" on the wharf. A bell rang; a whistle
+shrilled. Silently the dark wharf began to slip, to slide, to edge away
+from them. Now there was a rush of water between. Fenella strained to
+see with all her might. "Was that father turning round?"---or
+waving?---or standing alone?---or walking off by himself? The strip of
+water grew broader, darker. Now the Picton boat began to swing round
+steady, pointing out to sea. It was no good looking any longer. There
+was nothing to be seen but a few lights, the face of the town clock
+hanging in the air, and more lights, little patches of them, on the dark
+hills.
 
 The freshening wind tugged at Fenella's skirts; she went back to her
 grandma. To her relief grandma seemed no longer sad. She had put the two
@@ -4695,9 +4868,9 @@ bright nod as if to say the prayer was nearly over. She unclasped her
 hands, sighed, clasped them again, bent forward, and at last gave
 herself a soft shake.
 
-"And now, child," she said, fingering the bow of her bonnet-strings, "I
-think we ought to see about our cabins. Keep close to me, and mind you
-don't slip."
+"And now, child," she said, fingering the bow of her bonnet-strings,
+"I think we ought to see about our cabins. Keep close to me, and mind
+you don't slip."
 
 "Yes, grandma!"
 
@@ -4738,20 +4911,20 @@ Grandma could hardly believe it.
 "That's right," said the steward, and he winked at his companion.
 
 Grandma made a small, astonished face. Then she whispered primly to
-Fenella. "What wickedness!" And they sailed out at the further door and
-along a passage that had cabins on either side. Such a very nice
+Fenella. "What wickedness!" And they sailed out at the further door
+and along a passage that had cabins on either side. Such a very nice
 stewardess came to meet them. She was dressed all in blue, and her
 collar and cuffs were fastened with large brass buttons. She seemed to
 know grandma well.
 
-"Well, Mrs. Crane," said she, unlocking their washstand. "We've got you
-back again. It's not often you give yourself a cabin."
+"Well, Mrs. Crane," said she, unlocking their washstand. "We've got
+you back again. It's not often you give yourself a cabin."
 
 "No," said grandma. "But this time my dear son's thoughtfulness---"
 
-"I hope---" began the stewardess. Then she turned round and took a long,
-mournful look at grandma's blackness and at Fenella's black coat and
-skirt, black blouse, and hat with a crape rose.
+"I hope---" began the stewardess. Then she turned round and took a
+long, mournful look at grandma's blackness and at Fenella's black coat
+and skirt, black blouse, and hat with a crape rose.
 
 Grandma nodded. "It was God's will," said she.
 
@@ -4766,8 +4939,8 @@ it's no good offering you a little something to keep the cold out."
 Grandma shook her head. "Nothing, thank you. We've got a few wine
 biscuits, and Fenella has a very nice banana."
 
-"Then I'll give you a look later on," said the stewardess, and she went
-out, shutting the door.
+"Then I'll give you a look later on," said the stewardess, and she
+went out, shutting the door.
 
 What a very small cabin it was! It was like being shut up in a box with
 grandma. The dark round eye above the washstand gleamed at them dully.
@@ -4796,8 +4969,8 @@ flannel dressing-gown grandma was quite ready.
 
 Grandma gave them a moment's deep consideration. "You'd feel a great
 deal more comfortable if you did, child," said she. She kissed Fenella.
-"Don't forget to say your prayers. Our dear Lord is with us when we are
-at sea even more than when we are on dry land. And because I am an
+"Don't forget to say your prayers. Our dear Lord is with us when we
+are at sea even more than when we are on dry land. And because I am an
 experienced traveller," said grandma briskly, "I shall take the upper
 berth."
 
@@ -4807,8 +4980,8 @@ Three little spider-like steps were all Fenella saw. The old woman gave
 a small silent laugh before she mounted them nimbly, and she peered over
 the high bunk at the astonished Fenella.
 
-"You didn't think your grandma could do that, did you?" said she. And as
-she sank back Fenella heard her light laugh again.
+"You didn't think your grandma could do that, did you?" said she. And
+as she sank back Fenella heard her light laugh again.
 
 The hard square of brown soap would not lather, and the water in the
 bottle was like a kind of blue jelly. How hard it was, too, to turn down
@@ -4838,7 +5011,7 @@ too, at the same time.
 "I wonder if you'd mind, stewardess, laying down my umbrella," she
 whispered.
 
-"Not at all, Mrs. Crane." And the stewardess, coming back to grandma,
+"Not at all, Mrs. Crane." And the stewardess, coming back to grandma,
 breathed, "Your little granddaughter's in such a beautiful sleep."
 
 "God be praised for that!" said grandma.
@@ -4847,18 +5020,18 @@ breathed, "Your little granddaughter's in such a beautiful sleep."
 still telling the stewardess all about what happened when Fenella fell
 asleep.
 
-But she hadn't been asleep long enough to dream before she woke up again
-to see something waving in the air above her head. What was it? What
-could it be? It was a small grey foot. Now another joined it. They
+But she hadn't been asleep long enough to dream before she woke up
+again to see something waving in the air above her head. What was it?
+What could it be? It was a small grey foot. Now another joined it. They
 seemed to be feeling about for something; there came a sigh.
 
 "I'm awake, grandma," said Fenella.
 
-"Oh, dear, am I near the ladder?" asked grandma. "I thought it was this
-end."
+"Oh, dear, am I near the ladder?" asked grandma. "I thought it was
+this end."
 
-"No, grandma, it's the other. I'll put your foot on it. Are we there?"
-asked Fenella.
+"No, grandma, it's the other. I'll put your foot on it. Are we
+there?" asked Fenella.
 
 "In the harbour," said grandma. "We must get up, child. You'd better
 have a biscuit to steady yourself before you move."
@@ -4868,11 +5041,11 @@ night was over, and it was cold. Peering through that round eye she
 could see far off some rocks. Now they were scattered over with foam;
 now a gull flipped by; and now there came a long piece of real land.
 
-"It's land, grandma," said Fenella, wonderingly, as though they had been
-at sea for weeks together. She hugged herself; she stood on one leg and
-rubbed it with the toes of the other foot; she was trembling. Oh, it had
-all been so sad lately. Was it going to change? But all her grandma said
-was, "Make haste, child. I should leave your nice banana for the
+"It's land, grandma," said Fenella, wonderingly, as though they had
+been at sea for weeks together. She hugged herself; she stood on one leg
+and rubbed it with the toes of the other foot; she was trembling. Oh, it
+had all been so sad lately. Was it going to change? But all her grandma
+said was, "Make haste, child. I should leave your nice banana for the
 stewardess as you haven't eaten it." And Fenella put on her black
 clothes again and a button sprang off one of her gloves and rolled to
 where she couldn't reach it. They went up on deck.
@@ -4891,7 +5064,7 @@ And now the landing-stage came out to meet them. Slowly it swam towards
 the Picton boat, and a man holding a coil of rope, and a cart with a
 small drooping horse and another man sitting on the step, came too.
 
-"It's Mr. Penreddy, Fenella, come for us," said grandma. She sounded
+"It's Mr. Penreddy, Fenella, come for us," said grandma. She sounded
 pleased. Her white waxen cheeks were blue with cold, her chin trembled,
 and she had to keep wiping her eyes and her little pink nose.
 
@@ -4907,8 +5080,8 @@ sank softly into the sandy road. Not a soul was to be seen; there was
 not even a feather of smoke. The mist rose and fell and the sea still
 sounded asleep as slowly it turned on the beach.
 
-"I seen Mr. Crane yestiddy," said Mr. Penreddy. "He looked himself then.
-Missus knocked him up a batch of scones last week."
+"I seen Mr. Crane yestiddy," said Mr. Penreddy. "He looked himself
+then. Missus knocked him up a batch of scones last week."
 
 And now the little horse pulled up before one of the shell-like houses.
 They got down. Fenella put her hand on the gate, and the big, trembling
@@ -4930,8 +5103,8 @@ into a small dusky sitting-room.
 On the table a white cat, that had been folded up like a camel, rose,
 stretched itself, yawned, and then sprang on to the tips of its toes.
 Fenella buried one cold little hand in the white, warm fur, and smiled
-timidly while she stroked and listened to grandma's gentle voice and the
-rolling tones of grandpa.
+timidly while she stroked and listened to grandma's gentle voice and
+the rolling tones of grandpa.
 
 A door creaked. "Come in, dear." The old woman beckoned, Fenella
 followed. There, lying to one side on an immense bed, lay grandpa. Just
@@ -4950,10 +5123,14 @@ the bed there was a big text in a deep black frame:---
           No Reward Is Offered
           For It Is Gone For Ever!"
 
-"Yer grandma painted that," said grandpa. And he ruffled his white tuft
-and looked at Fenella so merrily she almost thought he winked at her.
+"Yer grandma painted that," said grandpa. And he ruffled his white
+tuft and looked at Fenella so merrily she almost thought he winked at
+her.
 
-# 9. MISS BRILL.
+
+
+9. MISS BRILL.
+--------------
 
 Although it was so brilliantly fine---the blue sky powdered with gold
 and great spots of light like white wine splashed over the Jardins
@@ -4964,15 +5141,15 @@ and again a leaf came drifting---from nowhere, from the sky. Miss Brill
 put up her hand and touched her fur. Dear little thing! It was nice to
 feel it again. She had taken it out of its box that afternoon, shaken
 out the moth-powder, given it a good brush, and rubbed the life back
-into the dim little eyes. "What has been happening to me?" said the sad
-little eyes. Oh, how sweet it was to see them snap at her again from the
-red eiderdown!\... But the nose, which was of some black composition,
-wasn't at all firm. It must have had a knock, somehow. Never mind---a
-little dab of black sealing-wax when the time came---when it was
-absolutely necessary\... Little rogue! Yes, she really felt like that
-about it. Little rogue biting its tail just by her left ear. She could
-have taken it off and laid it on her lap and stroked it. She felt a
-tingling in her hands and arms, but that came from walking, she
+into the dim little eyes. "What has been happening to me?" said the
+sad little eyes. Oh, how sweet it was to see them snap at her again from
+the red eiderdown!\... But the nose, which was of some black
+composition, wasn't at all firm. It must have had a knock, somehow.
+Never mind---a little dab of black sealing-wax when the time came---when
+it was absolutely necessary\... Little rogue! Yes, she really felt like
+that about it. Little rogue biting its tail just by her left ear. She
+could have taken it off and laid it on her lap and stroked it. She felt
+a tingling in her hands and arms, but that came from walking, she
 supposed. And when she breathed, something light and sad---no, not sad,
 exactly---something gentle seemed to move in her bosom.
 
@@ -4981,13 +5158,13 @@ Sunday. And the band sounded louder and gayer. That was because the
 Season had begun. For although the band played all the year round on
 Sundays, out of season it was never the same. It was like some one
 playing with only the family to listen; it didn't care how it played if
-there weren't any strangers present. Wasn't the conductor wearing a new
-coat, too? She was sure it was new. He scraped with his foot and flapped
-his arms like a rooster about to crow, and the bandsmen sitting in the
-green rotunda blew out their cheeks and glared at the music. Now there
-came a little "flutey" bit---very pretty!---a little chain of bright
-drops. She was sure it would be repeated. It was; she lifted her head
-and smiled.
+there weren't any strangers present. Wasn't the conductor wearing a
+new coat, too? She was sure it was new. He scraped with his foot and
+flapped his arms like a rooster about to crow, and the bandsmen sitting
+in the green rotunda blew out their cheeks and glared at the music. Now
+there came a little "flutey" bit---very pretty!---a little chain of
+bright drops. She was sure it would be repeated. It was; she lifted her
+head and smiled.
 
 Only two people shared her "special" seat: a fine old man in a velvet
 coat, his hands clasped over a huge carved walking-stick, and a big old
@@ -4998,14 +5175,15 @@ she thought, at listening as though she didn't listen, at sitting in
 other people's lives just for a minute while they talked round her.
 
 She glanced, sideways, at the old couple. Perhaps they would go soon.
-Last Sunday, too, hadn't been as interesting as usual. An Englishman and
-his wife, he wearing a dreadful Panama hat and she button boots. And
-she'd gone on the whole time about how she ought to wear spectacles; she
-knew she needed them; but that it was no good getting any; they'd be
-sure to break and they'd never keep on. And he'd been so patient. He'd
-suggested everything---gold rims, the kind that curved round your ears,
-little pads inside the bridge. No, nothing would please her. "They'll
-always be sliding down my nose!" Miss Brill had wanted to shake her.
+Last Sunday, too, hadn't been as interesting as usual. An Englishman
+and his wife, he wearing a dreadful Panama hat and she button boots. And
+she'd gone on the whole time about how she ought to wear spectacles;
+she knew she needed them; but that it was no good getting any; they'd
+be sure to break and they'd never keep on. And he'd been so patient.
+He'd suggested everything---gold rims, the kind that curved round your
+ears, little pads inside the bridge. No, nothing would please her.
+"They'll always be sliding down my nose!" Miss Brill had wanted to
+shake her.
 
 The old people sat on the bench, still as statues. Never mind, there was
 always the crowd to watch. To and fro, in front of the flower-beds and
@@ -5021,7 +5199,8 @@ Other people sat on the benches and green chairs, but they were nearly
 always the same, Sunday after Sunday, and---Miss Brill had often
 noticed---there was something funny about nearly all of them. They were
 odd, silent, nearly all old, and from the way they stared they looked as
-though they'd just come from dark little rooms or even---even cupboards!
+though they'd just come from dark little rooms or even---even
+cupboards!
 
 Behind the rotunda the slender trees with yellow leaves down drooping,
 and through them just a line of sea, and beyond the blue sky with
@@ -5049,24 +5228,24 @@ his head, lighted a cigarette, slowly breathed a great deep puff into
 her face, and even while she was still talking and laughing, flicked the
 match away and walked on. The ermine toque was alone; she smiled more
 brightly than ever. But even the band seemed to know what she was
-feeling and played more softly, played tenderly, and the drum beat, "The
-Brute! The Brute!" over and over. What would she do? What was going to
-happen now? But as Miss Brill wondered, the ermine toque turned, raised
-her hand as though she'd seen some one else, much nicer, just over
-there, and pattered away. And the band changed again and played more
-quickly, more gayly than ever, and the old couple on Miss Brill's seat
-got up and marched away, and such a funny old man with long whiskers
-hobbled along in time to the music and was nearly knocked over by four
-girls walking abreast.
+feeling and played more softly, played tenderly, and the drum beat,
+"The Brute! The Brute!" over and over. What would she do? What was
+going to happen now? But as Miss Brill wondered, the ermine toque
+turned, raised her hand as though she'd seen some one else, much nicer,
+just over there, and pattered away. And the band changed again and
+played more quickly, more gayly than ever, and the old couple on Miss
+Brill's seat got up and marched away, and such a funny old man with
+long whiskers hobbled along in time to the music and was nearly knocked
+over by four girls walking abreast.
 
 Oh, how fascinating it was! How she enjoyed it! How she loved sitting
 here, watching it all! It was like a play. It was exactly like a play.
-Who could believe the sky at the back wasn't painted? But it wasn't till
-a little brown dog trotted on solemn and then slowly trotted off, like a
-little "theatre" dog, a little dog that had been drugged, that Miss
-Brill discovered what it was that made it so exciting. They were all on
-the stage. They weren't only the audience, not only looking on; they
-were acting. Even she had a part and came every Sunday. No doubt
+Who could believe the sky at the back wasn't painted? But it wasn't
+till a little brown dog trotted on solemn and then slowly trotted off,
+like a little "theatre" dog, a little dog that had been drugged, that
+Miss Brill discovered what it was that made it so exciting. They were
+all on the stage. They weren't only the audience, not only looking on;
+they were acting. Even she had a part and came every Sunday. No doubt
 somebody would have noticed if she hadn't been there; she was part of
 the performance after all. How strange she'd never thought of it like
 that before! And yet it explained why she made such a point of starting
@@ -5078,12 +5257,12 @@ the stage. She thought of the old invalid gentleman to whom she read the
 newspaper four afternoons a week while he slept in the garden. She had
 got quite used to the frail head on the cotton pillow, the hollowed
 eyes, the open mouth and the high pinched nose. If he'd been dead she
-mightn't have noticed for weeks; she wouldn't have minded. But suddenly
-he knew he was having the paper read to him by an actress! "An actress!"
-The old head lifted; two points of light quivered in the old eyes. "An
-actress---are ye?" And Miss Brill smoothed the newspaper as though it
-were the manuscript of her part and said gently; "Yes, I have been an
-actress for a long time."
+mightn't have noticed for weeks; she wouldn't have minded. But
+suddenly he knew he was having the paper read to him by an actress! "An
+actress!" The old head lifted; two points of light quivered in the old
+eyes. "An actress---are ye?" And Miss Brill smoothed the newspaper as
+though it were the manuscript of her part and said gently; "Yes, I have
+been an actress for a long time."
 
 The band had been having a rest. Now they started again. And what they
 played was warm, sunny, yet there was just a faint chill---a something,
@@ -5107,26 +5286,26 @@ prepared to listen.
 
 "No, not now," said the girl. "Not here, I can't."
 
-"But why? Because of that stupid old thing at the end there?" asked the
-boy. "Why does she come here at all---who wants her? Why doesn't she
-keep her silly old mug at home?"
+"But why? Because of that stupid old thing at the end there?" asked
+the boy. "Why does she come here at all---who wants her? Why doesn't
+she keep her silly old mug at home?"
 
-"It's her fu-ur which is so funny," giggled the girl. "It's exactly like
-a fried whiting."
+"It's her fu-ur which is so funny," giggled the girl. "It's exactly
+like a fried whiting."
 
-"Ah, be off with you!" said the boy in an angry whisper. Then: "Tell me,
-ma petite chere---"
+"Ah, be off with you!" said the boy in an angry whisper. Then: "Tell
+me, ma petite chere---"
 
 "No, not here," said the girl. "Not yet."
 
 ------------------------------------------------------------------------
 
-On her way home she usually bought a slice of honey-cake at the baker's.
-It was her Sunday treat. Sometimes there was an almond in her slice,
-sometimes not. It made a great difference. If there was an almond it was
-like carrying home a tiny present---a surprise---something that might
-very well not have been there. She hurried on the almond Sundays and
-struck the match for the kettle in quite a dashing way.
+On her way home she usually bought a slice of honey-cake at the
+baker's. It was her Sunday treat. Sometimes there was an almond in her
+slice, sometimes not. It made a great difference. If there was an almond
+it was like carrying home a tiny present---a surprise---something that
+might very well not have been there. She hurried on the almond Sundays
+and struck the match for the kettle in quite a dashing way.
 
 But to-day she passed the baker's by, climbed the stairs, went into the
 little dark room---her room like a cupboard---and sat down on the red
@@ -5135,14 +5314,17 @@ of was on the bed. She unclasped the necklet quickly; quickly, without
 looking, laid it inside. But when she put the lid on she thought she
 heard something crying.
 
-# 10. HER FIRST BALL.
+
+
+10. HER FIRST BALL.
+-------------------
 
 Exactly when the ball began Leila would have found it hard to say.
 Perhaps her first real partner was the cab. It did not matter that she
 shared the cab with the Sheridan girls and their brother. She sat back
 in her own little corner of it, and the bolster on which her hand rested
-felt like the sleeve of an unknown young man's dress suit; and away they
-bowled, past waltzing lamp-posts and houses and fences and trees.
+felt like the sleeve of an unknown young man's dress suit; and away
+they bowled, past waltzing lamp-posts and houses and fences and trees.
 
 "Have you really never been to a ball before, Leila? But, my child, how
 too weird---" cried the Sheridan girls.
@@ -5160,14 +5342,15 @@ from the fastenings of his new gloves. She would like to have kept those
 wisps as a keepsake, as a remembrance. Laurie leaned forward and put his
 hand on Laura's knee.
 
-"Look here, darling," he said. "The third and the ninth as usual. Twig?"
+"Look here, darling," he said. "The third and the ninth as usual.
+Twig?"
 
 Oh, how marvellous to have a brother! In her excitement Leila felt that
-if there had been time, if it hadn't been impossible, she couldn't have
-helped crying because she was an only child, and no brother had ever
-said "Twig?" to her; no sister would ever say, as Meg said to Jose that
-moment, "I've never known your hair go up more successfully than it has
-to-night!"
+if there had been time, if it hadn't been impossible, she couldn't
+have helped crying because she was an only child, and no brother had
+ever said "Twig?" to her; no sister would ever say, as Meg said to
+Jose that moment, "I've never known your hair go up more successfully
+than it has to-night!"
 
 But, of course, there was no time. They were at the drill hall already;
 there were cabs in front of them and cabs behind. The road was bright on
@@ -5188,9 +5371,9 @@ old women in white aprons ran up and down tossing fresh armfuls. And
 everybody was pressing forward trying to get at the little
 dressing-table and mirror at the far end.
 
-A great quivering jet of gas lighted the ladies' room. It couldn't wait;
-it was dancing already. When the door opened again and there came a
-burst of tuning from the drill hall, it leaped almost to the ceiling.
+A great quivering jet of gas lighted the ladies' room. It couldn't
+wait; it was dancing already. When the door opened again and there came
+a burst of tuning from the drill hall, it leaped almost to the ceiling.
 
 Dark girls, fair girls were patting their hair, tying ribbons again,
 tucking handkerchiefs down the fronts of their bodices, smoothing
@@ -5205,14 +5388,14 @@ extraordinary! I can't see a single invisible hair-pin."
 "But I must have a needle and cotton. I've torn simply miles and miles
 of the frill," wailed a third.
 
-Then, "Pass them along, pass them along!" The straw basket of programmes
-was tossed from arm to arm. Darling little pink-and-silver programmes,
-with pink pencils and fluffy tassels. Leila's fingers shook as she took
-one out of the basket. She wanted to ask some one, "Am I meant to have
-one too?" but she had just time to read: "Waltz 3. 'Two, Two in a
-Canoe.' Polka 4. 'Making the Feathers Fly,'" when Meg cried, "Ready,
-Leila?" and they pressed their way through the crush in the passage
-towards the big double doors of the drill hall.
+Then, "Pass them along, pass them along!" The straw basket of
+programmes was tossed from arm to arm. Darling little pink-and-silver
+programmes, with pink pencils and fluffy tassels. Leila's fingers shook
+as she took one out of the basket. She wanted to ask some one, "Am I
+meant to have one too?" but she had just time to read: "Waltz 3.
+'Two, Two in a Canoe.' Polka 4. 'Making the Feathers Fly,'" when
+Meg cried, "Ready, Leila?" and they pressed their way through the
+crush in the passage towards the big double doors of the drill hall.
 
 Dancing had not begun yet, but the band had stopped tuning, and the
 noise was so great it seemed that when it did begin to play it would
@@ -5223,11 +5406,12 @@ how in the middle of dressing she had sat down on the bed with one shoe
 off and one shoe on and begged her mother to ring up her cousins and say
 she couldn't go after all. And the rush of longing she had had to be
 sitting on the veranda of their forsaken up-country home, listening to
-the baby owls crying "More pork" in the moonlight, was changed to a rush
-of joy so sweet that it was hard to bear alone. She clutched her fan,
-and, gazing at the gleaming, golden floor, the azaleas, the lanterns,
-the stage at one end with its red carpet and gilt chairs and the band in
-a corner, she thought breathlessly, "How heavenly; how simply heavenly!"
+the baby owls crying "More pork" in the moonlight, was changed to a
+rush of joy so sweet that it was hard to bear alone. She clutched her
+fan, and, gazing at the gleaming, golden floor, the azaleas, the
+lanterns, the stage at one end with its red carpet and gilt chairs and
+the band in a corner, she thought breathlessly, "How heavenly; how
+simply heavenly!"
 
 All the girls stood grouped together at one side of the doors, the men
 at the other, and the chaperones in dark dresses, smiling rather
@@ -5239,27 +5423,27 @@ partners; she's under my wing," said Meg, going up to one girl after
 another.
 
 Strange faces smiled at Leila---sweetly, vaguely. Strange voices
-answered, "Of course, my dear." But Leila felt the girls didn't really
-see her. They were looking towards the men. Why didn't the men begin?
-What were they waiting for? There they stood, smoothing their gloves,
-patting their glossy hair and smiling among themselves. Then, quite
-suddenly, as if they had only just made up their minds that that was
-what they had to do, the men came gliding over the parquet. There was a
-joyful flutter among the girls. A tall, fair man flew up to Meg, seized
-her programme, scribbled something; Meg passed him on to Leila. "May I
-have the pleasure?" He ducked and smiled. There came a dark man wearing
-an eyeglass, then cousin Laurie with a friend, and Laura with a little
-freckled fellow whose tie was crooked. Then quite an old man---fat, with
-a big bald patch on his head---took her programme and murmured, "Let me
-see, let me see!" And he was a long time comparing his programme, which
-looked black with names, with hers. It seemed to give him so much
-trouble that Leila was ashamed. "Oh, please don't bother," she said
-eagerly. But instead of replying the fat man wrote something, glanced at
-her again. "Do I remember this bright little face?" he said softly. "Is
-it known to me of yore?" At that moment the band began playing; the fat
-man disappeared. He was tossed away on a great wave of music that came
-flying over the gleaming floor, breaking the groups up into couples,
-scattering them, sending them spinning\...
+answered, "Of course, my dear." But Leila felt the girls didn't
+really see her. They were looking towards the men. Why didn't the men
+begin? What were they waiting for? There they stood, smoothing their
+gloves, patting their glossy hair and smiling among themselves. Then,
+quite suddenly, as if they had only just made up their minds that that
+was what they had to do, the men came gliding over the parquet. There
+was a joyful flutter among the girls. A tall, fair man flew up to Meg,
+seized her programme, scribbled something; Meg passed him on to Leila.
+"May I have the pleasure?" He ducked and smiled. There came a dark man
+wearing an eyeglass, then cousin Laurie with a friend, and Laura with a
+little freckled fellow whose tie was crooked. Then quite an old
+man---fat, with a big bald patch on his head---took her programme and
+murmured, "Let me see, let me see!" And he was a long time comparing
+his programme, which looked black with names, with hers. It seemed to
+give him so much trouble that Leila was ashamed. "Oh, please don't
+bother," she said eagerly. But instead of replying the fat man wrote
+something, glanced at her again. "Do I remember this bright little
+face?" he said softly. "Is it known to me of yore?" At that moment
+the band began playing; the fat man disappeared. He was tossed away on a
+great wave of music that came flying over the gleaming floor, breaking
+the groups up into couples, scattering them, sending them spinning\...
 
 Leila had learned to dance at boarding school. Every Saturday afternoon
 the boarders were hurried off to a little corrugated iron mission hall
@@ -5273,22 +5457,23 @@ marvellous music and to watch the others sliding, gliding over the
 golden floor, she would die at least, or faint, or lift her arms and fly
 out of one of those dark windows that showed the stars.
 
-"Ours, I think---" Some one bowed, smiled, and offered her his arm; she
-hadn't to die after all. Some one's hand pressed her waist, and she
-floated away like a flower that is tossed into a pool.
+"Ours, I think---" Some one bowed, smiled, and offered her his arm;
+she hadn't to die after all. Some one's hand pressed her waist, and
+she floated away like a flower that is tossed into a pool.
 
-"Quite a good floor, isn't it?" drawled a faint voice close to her ear.
+"Quite a good floor, isn't it?" drawled a faint voice close to her
+ear.
 
 "I think it's most beautifully slippery," said Leila.
 
 "Pardon!" The faint voice sounded surprised. Leila said it again. And
-there was a tiny pause before the voice echoed, "Oh, quite!" and she was
-swung round again.
+there was a tiny pause before the voice echoed, "Oh, quite!" and she
+was swung round again.
 
 He steered so beautifully. That was the great difference between dancing
 with girls and men, Leila decided. Girls banged into each other, and
-stamped on each other's feet; the girl who was gentleman always clutched
-you so.
+stamped on each other's feet; the girl who was gentleman always
+clutched you so.
 
 The azaleas were separate flowers no longer; they were pink and white
 flags streaming by.
@@ -5303,7 +5488,7 @@ Her partner gave a little gasping laugh. "Oh, I say," he protested.
 
 "Yes, it is really the first dance I've ever been to." Leila was most
 fervent. It was such a relief to be able to tell somebody. "You see,
-I've lived in the country all my life up till now\..."
+I've lived in the country all my life up till now\... "
 
 At that moment the music stopped, and they went to sit on two chairs
 against the wall. Leila tucked her pink satin feet under and fanned
@@ -5320,13 +5505,14 @@ didn't matter. Almost immediately the band started and her second
 partner seemed to spring from the ceiling.
 
 "Floor's not bad," said the new voice. Did one always begin with the
-floor? And then, "Were you at the Neaves' on Tuesday?" And again Leila
-explained. Perhaps it was a little strange that her partners were not
-more interested. For it was thrilling. Her first ball! She was only at
-the beginning of everything. It seemed to her that she had never known
-what the night was like before. Up till now it had been dark, silent,
-beautiful very often---oh yes---but mournful somehow. Solemn. And now it
-would never be like that again---it had opened dazzling bright.
+floor? And then, "Were you at the Neaves' on Tuesday?" And again
+Leila explained. Perhaps it was a little strange that her partners were
+not more interested. For it was thrilling. Her first ball! She was only
+at the beginning of everything. It seemed to her that she had never
+known what the night was like before. Up till now it had been dark,
+silent, beautiful very often---oh yes---but mournful somehow. Solemn.
+And now it would never be like that again---it had opened dazzling
+bright.
 
 "Care for an ice?" said her partner. And they went through the swing
 doors, down the passage, to the supper room. Her cheeks burned, she was
@@ -5358,19 +5544,20 @@ Leila looked at his bald head, and she felt quite sorry for him.
 "I think it's marvellous to be still going on," she said kindly.
 
 "Kind little lady," said the fat man, and he pressed her a little
-closer, and hummed a bar of the waltz. "Of course," he said, "you can't
-hope to last anything like as long as that. No-o," said the fat man,
-"long before that you'll be sitting up there on the stage, looking on,
-in your nice black velvet. And these pretty arms will have turned into
-little short fat ones, and you'll beat time with such a different kind
-of fan---a black bony one." The fat man seemed to shudder. "And you'll
-smile away like the poor old dears up there, and point to your daughter,
-and tell the elderly lady next to you how some dreadful man tried to
-kiss her at the club ball. And your heart will ache, ache"---the fat man
-squeezed her closer still, as if he really was sorry for that poor
-heart---"because no one wants to kiss you now. And you'll say how
-unpleasant these polished floors are to walk on, how dangerous they are.
-Eh, Mademoiselle Twinkletoes?" said the fat man softly.
+closer, and hummed a bar of the waltz. "Of course," he said, "you
+can't hope to last anything like as long as that. No-o," said the fat
+man, "long before that you'll be sitting up there on the stage,
+looking on, in your nice black velvet. And these pretty arms will have
+turned into little short fat ones, and you'll beat time with such a
+different kind of fan---a black bony one." The fat man seemed to
+shudder. "And you'll smile away like the poor old dears up there, and
+point to your daughter, and tell the elderly lady next to you how some
+dreadful man tried to kiss her at the club ball. And your heart will
+ache, ache"---the fat man squeezed her closer still, as if he really
+was sorry for that poor heart---"because no one wants to kiss you now.
+And you'll say how unpleasant these polished floors are to walk on, how
+dangerous they are. Eh, Mademoiselle Twinkletoes?" said the fat man
+softly.
 
 Leila gave a light little laugh, but she did not feel like laughing. Was
 it---could it all be true? It sounded terribly true. Was this first ball
@@ -5379,14 +5566,14 @@ to change; it sounded sad, sad; it rose upon a great sigh. Oh, how
 quickly things changed! Why didn't happiness last for ever? For ever
 wasn't a bit too long.
 
-"I want to stop," she said in a breathless voice. The fat man led her to
-the door.
+"I want to stop," she said in a breathless voice. The fat man led her
+to the door.
 
-"No," she said, "I won't go outside. I won't sit down. I'll just stand
-here, thank you." She leaned against the wall, tapping with her foot,
-pulling up her gloves and trying to smile. But deep inside her a little
-girl threw her pinafore over her head and sobbed. Why had he spoiled it
-all?
+"No," she said, "I won't go outside. I won't sit down. I'll just
+stand here, thank you." She leaned against the wall, tapping with her
+foot, pulling up her gloves and trying to smile. But deep inside her a
+little girl threw her pinafore over her head and sobbed. Why had he
+spoiled it all?
 
 "I say, you know," said the fat man, "you mustn't take me seriously,
 little lady."
@@ -5410,7 +5597,10 @@ flying wheel. And when her next partner bumped her into the fat man and
 he said, "Pardon," she smiled at him more radiantly than ever. She
 didn't even recognise him again.
 
-# 11. THE SINGING LESSON.
+
+
+11. THE SINGING LESSON.
+-----------------------
 
 With despair---cold, sharp despair---buried deep in her heart like a
 wicked knife, Miss Meadows, in cap and gown and carrying a little baton,
@@ -5418,9 +5608,9 @@ trod the cold corridors that led to the music hall. Girls of all ages,
 rosy from the air, and bubbling over with that gleeful excitement that
 comes from running to school on a fine autumn morning, hurried, skipped,
 fluttered by; from the hollow class-rooms came a quick drumming of
-voices; a bell rang; a voice like a bird cried, "Muriel." And then there
-came from the staircase a tremendous knock-knock-knocking. Some one had
-dropped her dumbbells.
+voices; a bell rang; a voice like a bird cried, "Muriel." And then
+there came from the staircase a tremendous knock-knock-knocking. Some
+one had dropped her dumbbells.
 
 The Science Mistress stopped Miss Meadows.
 
@@ -5445,28 +5635,28 @@ on\...
 
 Forms Four, Five, and Six were assembled in the music hall. The noise
 was deafening. On the platform, by the piano, stood Mary Beazley, Miss
-Meadows' favourite, who played accompaniments. She was turning the music
-stool. When she saw Miss Meadows she gave a loud, warning "Sh-sh!
+Meadows' favourite, who played accompaniments. She was turning the
+music stool. When she saw Miss Meadows she gave a loud, warning "Sh-sh!
 girls!" and Miss Meadows, her hands thrust in her sleeves, the baton
 under her arm, strode down the centre aisle, mounted the steps, turned
 sharply, seized the brass music stand, planted it in front of her, and
 gave two sharp taps with her baton for silence.
 
-"Silence, please! Immediately!" and, looking at nobody, her glance swept
-over that sea of coloured flannel blouses, with bobbing pink faces and
-hands, quivering butterfly hair-bows, and music-books outspread. She
-knew perfectly well what they were thinking. "Meady is in a wax." Well,
-let them think it! Her eyelids quivered; she tossed her head, defying
-them. What could the thoughts of those creatures matter to some one who
-stood there bleeding to death, pierced to the heart, to the heart, by
-such a letter---
+"Silence, please! Immediately!" and, looking at nobody, her glance
+swept over that sea of coloured flannel blouses, with bobbing pink faces
+and hands, quivering butterfly hair-bows, and music-books outspread. She
+knew perfectly well what they were thinking. "Meady is in a wax."
+Well, let them think it! Her eyelids quivered; she tossed her head,
+defying them. What could the thoughts of those creatures matter to some
+one who stood there bleeding to death, pierced to the heart, to the
+heart, by such a letter---
 
 \... "I feel more and more strongly that our marriage would be a
 mistake. Not that I do not love you. I love you as much as it is
 possible for me to love any woman, but, truth to tell, I have come to
 the conclusion that I am not a marrying man, and the idea of settling
-down fills me with nothing but---" and the word "disgust" was scratched
-out lightly and "regret" written over the top.
+down fills me with nothing but---" and the word "disgust" was
+scratched out lightly and "regret" written over the top.
 
 Basil! Miss Meadows stalked over to the piano. And Mary Beazley, who was
 waiting for this moment, bent forward; her curls fell over her cheeks
@@ -5501,25 +5691,25 @@ and in chimed those young, mournful voices:---
 
 Good Heavens, what could be more tragic than that lament! Every note was
 a sigh, a sob, a groan of awful mournfulness. Miss Meadows lifted her
-arms in the wide gown and began conducting with both hands. "\... I feel
-more and more strongly that our marriage would be a mistake\..." she
-beat. And the voices cried: "Fleetly! Ah, Fleetly." What could have
-possessed him to write such a letter! What could have led up to it! It
-came out of nothing. His last letter had been all about a fumed-oak
-bookcase he had bought for "our" books, and a "natty little hall-stand"
-he had seen, "a very neat affair with a carved owl on a bracket, holding
-three hat-brushes in its claws." How she had smiled at that! So like a
-man to think one needed three hat-brushes! "From the Listening Ear,"
-sang the voices.
+arms in the wide gown and began conducting with both hands. "\... I
+feel more and more strongly that our marriage would be a mistake\... "
+she beat. And the voices cried: "Fleetly! Ah, Fleetly." What could
+have possessed him to write such a letter! What could have led up to it!
+It came out of nothing. His last letter had been all about a fumed-oak
+bookcase he had bought for "our" books, and a "natty little
+hall-stand" he had seen, "a very neat affair with a carved owl on a
+bracket, holding three hat-brushes in its claws." How she had smiled at
+that! So like a man to think one needed three hat-brushes! "From the
+Listening Ear," sang the voices.
 
-"Once again," said Miss Meadows. "But this time in parts. Still without
-expression." "Fast! Ah, too Fast." With the gloom of the contraltos
-added, one could scarcely help shuddering. "Fade the Roses of Pleasure."
-Last time he had come to see her, Basil had worn a rose in his
-buttonhole. How handsome he had looked in that bright blue suit, with
-that dark red rose! And he knew it, too. He couldn't help knowing it.
-First he stroked his hair, then his moustache; his teeth gleamed when he
-smiled.
+"Once again," said Miss Meadows. "But this time in parts. Still
+without expression." "Fast! Ah, too Fast." With the gloom of the
+contraltos added, one could scarcely help shuddering. "Fade the Roses
+of Pleasure." Last time he had come to see her, Basil had worn a rose
+in his buttonhole. How handsome he had looked in that bright blue suit,
+with that dark red rose! And he knew it, too. He couldn't help knowing
+it. First he stroked his hair, then his moustache; his teeth gleamed
+when he smiled.
 
 "The headmaster's wife keeps on asking me to dinner. It's a perfect
 nuisance. I never get an evening to myself in that place."
@@ -5528,26 +5718,26 @@ nuisance. I never get an evening to myself in that place."
 
 "Oh, well, it doesn't do for a man in my position to be unpopular."
 
-"Music's Gay Measure," wailed the voices. The willow trees, outside the
-high, narrow windows, waved in the wind. They had lost half their
+"Music's Gay Measure," wailed the voices. The willow trees, outside
+the high, narrow windows, waved in the wind. They had lost half their
 leaves. The tiny ones that clung wriggled like fishes caught on a line.
-"\... I am not a marrying man\..." The voices were silent; the piano
+"\... I am not a marrying man\... " The voices were silent; the piano
 waited.
 
-"Quite good," said Miss Meadows, but still in such a strange, stony tone
-that the younger girls began to feel positively frightened. "But now
-that we know it, we shall take it with expression. As much expression as
-you can put into it. Think of the words, girls. Use your imaginations.
-'Fast! Ah, too Fast,'" cried Miss Meadows. "That ought to break out---a
-loud, strong forte---a lament. And then in the second line, 'Winter
-Drear,' make that 'Drear' sound as if a cold wind were blowing through
-it. 'Dre-ear!'" said she so awfully that Mary Beazley, on the music
-stool, wriggled her spine. "The third line should be one crescendo.
-'Fleetly! Ah, Fleetly Music's Gay Measure.' Breaking on the first word
-of the last line, Passes.' And then on the word, 'Away,' you must begin
-to die\... to fade\... until 'The Listening Ear' is nothing more than a
-faint whisper\... You can slow down as much as you like almost on the
-last line. Now, please."
+"Quite good," said Miss Meadows, but still in such a strange, stony
+tone that the younger girls began to feel positively frightened. "But
+now that we know it, we shall take it with expression. As much
+expression as you can put into it. Think of the words, girls. Use your
+imaginations. 'Fast! Ah, too Fast,'" cried Miss Meadows. "That ought
+to break out---a loud, strong forte---a lament. And then in the second
+line, 'Winter Drear,' make that 'Drear' sound as if a cold wind were
+blowing through it. 'Dre-ear!'" said she so awfully that Mary
+Beazley, on the music stool, wriggled her spine. "The third line should
+be one crescendo. 'Fleetly! Ah, Fleetly Music's Gay Measure.'
+Breaking on the first word of the last line, Passes.' And then on the
+word, 'Away,' you must begin to die\... to fade\... until 'The
+Listening Ear' is nothing more than a faint whisper\... You can slow
+down as much as you like almost on the last line. Now, please."
 
 Again the two light taps; she lifted her arms again. 'Fast! Ah, too
 Fast.' "\... and the idea of settling down fills me with nothing but
@@ -5557,25 +5747,26 @@ engagement! People had been surprised enough that she had got engaged.
 The Science Mistress would not believe it at first. But nobody had been
 as surprised as she. She was thirty. Basil was twenty-five. It had been
 a miracle, simply a miracle, to hear him say, as they walked home from
-church that very dark night, "You know, somehow or other, I've got fond
-of you." And he had taken hold of the end of her ostrich feather boa.
-"Passes away from the Listening Ear."
+church that very dark night, "You know, somehow or other, I've got
+fond of you." And he had taken hold of the end of her ostrich feather
+boa. "Passes away from the Listening Ear."
 
 "Repeat! Repeat!" said Miss Meadows. "More expression, girls! Once
 more!"
 
-"Fast! Ah, too Fast." The older girls were crimson; some of the younger
-ones began to cry. Big spots of rain blew against the windows, and one
-could hear the willows whispering, "\... not that I do not love you\..."
+"Fast! Ah, too Fast." The older girls were crimson; some of the
+younger ones began to cry. Big spots of rain blew against the windows,
+and one could hear the willows whispering, "\... not that I do not love
+you\... "
 
-"But, my darling, if you love me," thought Miss Meadows, "I don't mind
-how much it is. Love me as little as you like." But she knew he didn't
-love her. Not to have cared enough to scratch out that word "disgust,"
-so that she couldn't read it! "Soon Autumn yields unto Winter Drear."
-She would have to leave the school, too. She could never face the
-Science Mistress or the girls after it got known. She would have to
-disappear somewhere. "Passes away." The voices began to die, to fade, to
-whisper\... to vanish\...
+"But, my darling, if you love me," thought Miss Meadows, "I don't
+mind how much it is. Love me as little as you like." But she knew he
+didn't love her. Not to have cared enough to scratch out that word
+"disgust," so that she couldn't read it! "Soon Autumn yields unto
+Winter Drear." She would have to leave the school, too. She could never
+face the Science Mistress or the girls after it got known. She would
+have to disappear somewhere. "Passes away." The voices began to die,
+to fade, to whisper\... to vanish\...
 
 Suddenly the door opened. A little girl in blue walked fussily up the
 aisle, hanging her head, biting her lips, and twisting the silver bangle
@@ -5584,8 +5775,8 @@ Meadows.
 
 "Well, Monica, what is it?"
 
-"Oh, if you please, Miss Meadows," said the little girl, gasping, "Miss
-Wyatt wants to see you in the mistress's room."
+"Oh, if you please, Miss Meadows," said the little girl, gasping,
+"Miss Wyatt wants to see you in the mistress's room."
 
 "Very well," said Miss Meadows. And she called to the girls, "I shall
 put you on your honour to talk quietly while I am away." But they were
@@ -5602,18 +5793,21 @@ now because this telegram has come for you."
 
 Basil! He had committed suicide, decided Miss Meadows. Her hand flew
 out, but Miss Wyatt held the telegram back a moment. "I hope it's not
-bad news," she said, so more than kindly. And Miss Meadows tore it open.
+bad news," she said, so more than kindly. And Miss Meadows tore it
+open.
 
 "Pay no attention to letter, must have been mad, bought hat-stand
-to-day---Basil," she read. She couldn't take her eyes off the telegram.
+to-day---Basil," she read. She couldn't take her eyes off the
+telegram.
 
-"I do hope it's nothing very serious," said Miss Wyatt, leaning forward.
+"I do hope it's nothing very serious," said Miss Wyatt, leaning
+forward.
 
-"Oh, no, thank you, Miss Wyatt," blushed Miss Meadows. "It's nothing bad
-at all. It's"---and she gave an apologetic little laugh---"it's from my
-fiance saying that\... saying that---" There was a pause. "I see," said
-Miss Wyatt. And another pause. Then---"You've fifteen minutes more of
-your class, Miss Meadows, haven't you?"
+"Oh, no, thank you, Miss Wyatt," blushed Miss Meadows. "It's nothing
+bad at all. It's"---and she gave an apologetic little laugh---"it's
+from my fiance saying that\... saying that---" There was a pause. "I
+see," said Miss Wyatt. And another pause. Then---"You've fifteen
+minutes more of your class, Miss Meadows, haven't you?"
 
 "Yes, Miss Wyatt." She got up. She half ran towards the door.
 
@@ -5626,8 +5820,8 @@ news, Miss Meadows, will always keep, you know."
 On the wings of hope, of love, of joy, Miss Meadows sped back to the
 music hall, up the aisle, up the steps, over to the piano.
 
-"Page thirty-two, Mary," she said, "page thirty-two," and, picking up
-the yellow chrysanthemum, she held it to her lips to hide her smile.
+"Page thirty-two, Mary," she said, "page thirty-two," and, picking
+up the yellow chrysanthemum, she held it to her lips to hide her smile.
 Then she turned to the girls, rapped with her baton: "Page thirty-two,
 girls. Page thirty-two."
 
@@ -5635,18 +5829,21 @@ girls. Page thirty-two."
           With Baskets of Fruit and Ribbons to boot,
           To-oo Congratulate...
 
-"Stop! Stop!" cried Miss Meadows. "This is awful. This is dreadful." And
-she beamed at her girls. "What's the matter with you all? Think, girls,
-think of what you're singing. Use your imaginations. 'With Flowers
-o'erladen. Baskets of Fruit and Ribbons to boot.' And 'Congratulate.'"
-Miss Meadows broke off. "Don't look so doleful, girls. It ought to sound
-warm, joyful, eager. 'Congratulate.' Once more. Quickly. All together.
-Now then!"
+"Stop! Stop!" cried Miss Meadows. "This is awful. This is dreadful."
+And she beamed at her girls. "What's the matter with you all? Think,
+girls, think of what you're singing. Use your imaginations. 'With
+Flowers o'erladen. Baskets of Fruit and Ribbons to boot.' And
+'Congratulate.'" Miss Meadows broke off. "Don't look so doleful,
+girls. It ought to sound warm, joyful, eager. 'Congratulate.' Once
+more. Quickly. All together. Now then!"
 
 And this time Miss Meadows' voice sounded over all the other
 voices---full, deep, glowing with expression.
 
-# 12. THE STRANGER
+
+
+12. THE STRANGER
+----------------
 
 It seemed to the little crowd on the wharf that she was never going to
 move again. There she lay, immense, motionless on the grey crinkled
@@ -5668,15 +5865,15 @@ the shepherd.
 But what a fool---what a fool he had been not to bring any glasses!
 There wasn't a pair of glasses between the whole lot of them.
 
-"Curious thing, Mr. Scott, that none of us thought of glasses. We might
+"Curious thing, Mr. Scott, that none of us thought of glasses. We might
 have been able to stir 'em up a bit. We might have managed a little
-signalling. 'Don't hesitate to land. Natives harmless.' Or: 'A welcome
-awaits you. All is forgiven.' What? Eh?"
+signalling. 'Don't hesitate to land. Natives harmless.' Or: 'A
+welcome awaits you. All is forgiven.' What? Eh?"
 
-Mr. Hammond's quick, eager glance, so nervous and yet so friendly and
+Mr. Hammond's quick, eager glance, so nervous and yet so friendly and
 confiding, took in everybody on the wharf, roped in even those old chaps
 lounging against the gangways. They knew, every man-jack of them, that
-Mrs. Hammond was on that boat, and that he was so tremendously excited
+Mrs. Hammond was on that boat, and that he was so tremendously excited
 it never entered his head not to believe that this marvellous fact meant
 something to them too. It warmed his heart towards them. They were, he
 decided, as decent a crowd of people---Those old chaps over by the
@@ -5694,78 +5891,78 @@ twentieth---fiftieth---hundredth time he made the calculation.
 
 "Let me see now. It was two fifteen when the doctor's launch went off.
 Two fifteen. It is now exactly twenty-eight minutes past four. That is
-to say, the doctor's been gone two hours and thirteen minutes. Two hours
-and thirteen minutes! Whee-ooh!" He gave a queer little half-whistle and
-snapped his watch to again. "But I think we should have been told if
-there was anything up---don't you, Mr. Gaven?"
+to say, the doctor's been gone two hours and thirteen minutes. Two
+hours and thirteen minutes! Whee-ooh!" He gave a queer little
+half-whistle and snapped his watch to again. "But I think we should
+have been told if there was anything up---don't you, Mr. Gaven?"
 
-"Oh, yes, Mr. Hammond! I don't think there's anything to---anything to
-worry about," said Mr. Gaven, knocking out his pipe against the heel of
-his shoe. "At the same time---"
+"Oh, yes, Mr. Hammond! I don't think there's anything to---anything
+to worry about," said Mr. Gaven, knocking out his pipe against the heel
+of his shoe. "At the same time---"
 
-"Quite so! Quite so!" cried Mr. Hammond. "Dashed annoying!" He paced
-quickly up and down and came back again to his stand between Mr. and
-Mrs. Scott and Mr. Gaven. "It's getting quite dark, too," and he waved
-his folded umbrella as though the dusk at least might have had the
+"Quite so! Quite so!" cried Mr. Hammond. "Dashed annoying!" He paced
+quickly up and down and came back again to his stand between Mr. and
+Mrs. Scott and Mr. Gaven. "It's getting quite dark, too," and he
+waved his folded umbrella as though the dusk at least might have had the
 decency to keep off for a bit. But the dusk came slowly, spreading like
 a slow stain over the water. Little Jean Scott dragged at her mother's
 hand.
 
 "I wan' my tea, mammy!" she wailed.
 
-"I expect you do," said Mr. Hammond. "I expect all these ladies want
+"I expect you do," said Mr. Hammond. "I expect all these ladies want
 their tea." And his kind, flushed, almost pitiful glance roped them all
 in again. He wondered whether Janey was having a final cup of tea in the
 saloon out there. He hoped so; he thought not. It would be just like her
 not to leave the deck. In that case perhaps the deck steward would bring
-her up a cup. If he'd been there he'd have got it for her---somehow. And
-for a moment he was on deck, standing over her, watching her little hand
-fold round the cup in the way she had, while she drank the only cup of
-tea to be got on board\... But now he was back here, and the Lord only
-knew when that cursed Captain would stop hanging about in the stream. He
-took another turn, up and down, up and down. He walked as far as the
-cab-stand to make sure his driver hadn't disappeared; back he swerved
-again to the little flock huddled in the shelter of the banana crates.
-Little Jean Scott was still wanting her tea. Poor little beggar! He
-wished he had a bit of chocolate on him.
+her up a cup. If he'd been there he'd have got it for her---somehow.
+And for a moment he was on deck, standing over her, watching her little
+hand fold round the cup in the way she had, while she drank the only cup
+of tea to be got on board\... But now he was back here, and the Lord
+only knew when that cursed Captain would stop hanging about in the
+stream. He took another turn, up and down, up and down. He walked as far
+as the cab-stand to make sure his driver hadn't disappeared; back he
+swerved again to the little flock huddled in the shelter of the banana
+crates. Little Jean Scott was still wanting her tea. Poor little beggar!
+He wished he had a bit of chocolate on him.
 
-"Here, Jean!" he said. "Like a lift up?" And easily, gently, he swung
-the little girl on to a higher barrel. The movement of holding her,
-steadying her, relieved him wonderfully, lightened his heart.
+"Here, Jean!" he said. "Like a lift up?" And easily, gently, he
+swung the little girl on to a higher barrel. The movement of holding
+her, steadying her, relieved him wonderfully, lightened his heart.
 
 "Hold on," he said, keeping an arm round her.
 
-"Oh, don't worry about Jean, Mr. Hammond!" said Mrs. Scott.
+"Oh, don't worry about Jean, Mr. Hammond!" said Mrs. Scott.
 
-"That's all right, Mrs. Scott. No trouble. It's a pleasure. Jean's a
+"That's all right, Mrs. Scott. No trouble. It's a pleasure. Jean's a
 little pal of mine, aren't you, Jean?"
 
-"Yes, Mr. Hammond," said Jean, and she ran her finger down the dent of
+"Yes, Mr. Hammond," said Jean, and she ran her finger down the dent of
 his felt hat.
 
 But suddenly she caught him by the ear and gave a loud scream. "Lo-ok,
-Mr. Hammond! She's moving! Look, she's coming in!"
+Mr. Hammond! She's moving! Look, she's coming in!"
 
 By Jove! So she was. At last! She was slowly, slowly turning round. A
 bell sounded far over the water and a great spout of steam gushed into
 the air. The gulls rose; they fluttered away like bits of white paper.
-And whether that deep throbbing was her engines or his heart Mr. Hammond
+And whether that deep throbbing was her engines or his heart Mr. Hammond
 couldn't say. He had to nerve himself to bear it, whatever it was. At
 that moment old Captain Johnson, the harbour-master, came striding down
 the wharf, a leather portfolio under his arm.
 
-"Jean'll be all right," said Mr. Scott. "I'll hold her." He was just in
-time. Mr. Hammond had forgotten about Jean. He sprang away to greet old
-Captain Johnson.
+"Jean'll be all right," said Mr. Scott. "I'll hold her." He was
+just in time. Mr. Hammond had forgotten about Jean. He sprang away to
+greet old Captain Johnson.
 
-"Well, Captain," the eager, nervous voice rang out again, "you've taken
-pity on us at last."
+"Well, Captain," the eager, nervous voice rang out again, "you've
+taken pity on us at last."
 
-"It's no good blaming me, Mr. Hammond," wheezed old Captain Johnson,
-staring at the liner. "You got Mrs. Hammond on board, ain't yer?"
+"It's no good blaming me, Mr. Hammond," wheezed old Captain Johnson,
+staring at the liner. "You got Mrs. Hammond on board, ain't yer?"
 
 "Yes, yes!" said Hammond, and he kept by the harbour-master's side.
-"Mrs. Hammond's there. Hul-lo! We shan't be long now!"
+"Mrs. Hammond's there. Hul-lo! We shan't be long now!"
 
 With her telephone ring-ringing, the thrum of her screw filling the air,
 the big liner bore down on them, cutting sharp through the dark water so
@@ -5782,16 +5979,17 @@ Captain Johnson.
 clumsy idiots---"Get out of the way there!" he signed with his
 umbrella---he saw a hand raised---a white glove shaking a handkerchief.
 Another moment, and---thank God, thank God!---there she was. There was
-Janey. There was Mrs. Hammond, yes, yes, yes---standing by the rail and
+Janey. There was Mrs. Hammond, yes, yes, yes---standing by the rail and
 smiling and nodding and waving her handkerchief.
 
-"Well that's first class---first class! Well, well, well!" He positively
-stamped. Like lightning he drew out his cigar-case and offered it to old
-Captain Johnson. "Have a cigar, Captain! They're pretty good. Have a
-couple! Here"---and he pressed all the cigars in the case on the
-harbour-master---"I've a couple of boxes up at the hotel."
+"Well that's first class---first class! Well, well, well!" He
+positively stamped. Like lightning he drew out his cigar-case and
+offered it to old Captain Johnson. "Have a cigar, Captain! They're
+pretty good. Have a couple! Here"---and he pressed all the cigars in
+the case on the harbour-master---"I've a couple of boxes up at the
+hotel."
 
-"Thenks, Mr. Hammond!" wheezed old Captain Johnson.
+"Thenks, Mr. Hammond!" wheezed old Captain Johnson.
 
 Hammond stuffed the cigar-case back. His hands were shaking, but he'd
 got hold of himself again. He was able to face Janey. There she was,
@@ -5827,17 +6025,17 @@ The voices on shore and the voices on board flew to greet each other.
 
 The engines stopped. Slowly she edged to the wharf-side.
 
-"Make way there---make way---make way!" And the wharf hands brought the
-heavy gangways along at a sweeping run. Hammond signed to Janey to stay
-where she was. The old harbour-master stepped forward; he followed. As
-to "ladies first," or any rot like that, it never entered his head.
+"Make way there---make way---make way!" And the wharf hands brought
+the heavy gangways along at a sweeping run. Hammond signed to Janey to
+stay where she was. The old harbour-master stepped forward; he followed.
+As to "ladies first," or any rot like that, it never entered his head.
 
-"After you, Captain!" he cried genially. And, treading on the old man's
-heels, he strode up the gangway on to the deck in a bee-line to Janey,
-and Janey was clasped in his arms.
+"After you, Captain!" he cried genially. And, treading on the old
+man's heels, he strode up the gangway on to the deck in a bee-line to
+Janey, and Janey was clasped in his arms.
 
-"Well, well, well! Yes, yes! Here we are at last!" he stammered. It was
-all he could say. And Janey emerged, and her cool little voice---the
+"Well, well, well! Yes, yes! Here we are at last!" he stammered. It
+was all he could say. And Janey emerged, and her cool little voice---the
 only voice in the world for him---said,
 
 "Well, darling! Have you been waiting long?"
@@ -5859,20 +6057,20 @@ laid her small hand on his sleeve.
 "Yes, yes---of course! I've left them at the hotel for you to digest
 later on."
 
-"We can't go quite so fast," said she. "I've got people to say good-bye
-to---and then there's the Captain." As his face fell she gave his arm a
-small understanding squeeze. "If the Captain comes off the bridge I want
-you to thank him for having looked after your wife so beautifully."
-Well, he'd got her. If she wanted another ten minutes---As he gave way
-she was surrounded. The whole first-class seemed to want to say good-bye
-to Janey.
+"We can't go quite so fast," said she. "I've got people to say
+good-bye to---and then there's the Captain." As his face fell she gave
+his arm a small understanding squeeze. "If the Captain comes off the
+bridge I want you to thank him for having looked after your wife so
+beautifully." Well, he'd got her. If she wanted another ten
+minutes---As he gave way she was surrounded. The whole first-class
+seemed to want to say good-bye to Janey.
 
-"Good-bye, dear Mrs. Hammond! And next time you're in Sydney I'll expect
-you."
+"Good-bye, dear Mrs. Hammond! And next time you're in Sydney I'll
+expect you."
 
-"Darling Mrs. Hammond! You won't forget to write to me, will you?"
+"Darling Mrs. Hammond! You won't forget to write to me, will you?"
 
-"Well, Mrs. Hammond, what this boat would have been without you!"
+"Well, Mrs. Hammond, what this boat would have been without you!"
 
 It was as plain as a pikestaff that she was by far the most popular
 woman on board. And she took it all---just as usual. Absolutely
@@ -5892,17 +6090,17 @@ the cabin that had been hers gave him exquisite happiness.
 But---confound it!---the stewardess was there on the floor, strapping up
 the rugs.
 
-"That's the last, Mrs. Hammond," said the stewardess, rising and pulling
-down her cuffs.
+"That's the last, Mrs. Hammond," said the stewardess, rising and
+pulling down her cuffs.
 
 He was introduced again, and then Janey and the stewardess disappeared
 into the passage. He heard whisperings. She was getting the tipping
 business over, he supposed. He sat down on the striped sofa and took his
 hat off. There were the rugs she had taken with her; they looked good as
 new. All her luggage looked fresh, perfect. The labels were written in
-her beautiful little clear hand---"Mrs. John Hammond."
+her beautiful little clear hand---"Mrs. John Hammond."
 
-"Mrs. John Hammond!" He gave a long sigh of content and leaned back,
+"Mrs. John Hammond!" He gave a long sigh of content and leaned back,
 crossing his arms. The strain was over. He felt he could have sat there
 for ever sighing his relief---the relief at being rid of that horrible
 tug, pull, grip on his heart. The danger was over. That was the feeling.
@@ -5929,28 +6127,28 @@ note from the hotel even if the affair had been urgent. Urgent? Did
 it---could it mean that she had been ill on the voyage---she was keeping
 something from him? That was it! He seized his hat. He was going off to
 find that fellow and to wring the truth out of him at all costs. He
-thought he'd noticed just something. She was just a touch too calm---too
-steady. From the very first moment---
+thought he'd noticed just something. She was just a touch too
+calm---too steady. From the very first moment---
 
 The curtains rang. Janey was back. He jumped to his feet.
 
 "Janey, have you been ill on this voyage? You have!"
 
-"Ill?" Her airy little voice mocked him. She stepped over the rugs, and
-came up close, touched his breast, and looked up at him.
+"Ill?" Her airy little voice mocked him. She stepped over the rugs,
+and came up close, touched his breast, and looked up at him.
 
-"Darling," she said, "don't frighten me. Of course I haven't! Whatever
-makes you think I have? Do I look ill?"
+"Darling," she said, "don't frighten me. Of course I haven't!
+Whatever makes you think I have? Do I look ill?"
 
-But Hammond didn't see her. He only felt that she was looking at him and
-that there was no need to worry about anything. She was here to look
+But Hammond didn't see her. He only felt that she was looking at him
+and that there was no need to worry about anything. She was here to look
 after things. It was all right. Everything was.
 
 The gentle pressure of her hand was so calming that he put his over hers
 to hold it there. And she said:
 
-"Stand still. I want to look at you. I haven't seen you yet. You've had
-your beard beautifully trimmed, and you look---younger, I think, and
+"Stand still. I want to look at you. I haven't seen you yet. You've
+had your beard beautifully trimmed, and you look---younger, I think, and
 decidedly thinner! Bachelor life agrees with you."
 
 "Agrees with me!" He groaned for love and caught her close again. And
@@ -5969,27 +6167,27 @@ again. And the difference it made to get into the cab after Janey---to
 throw the red-and-yellow striped blanket round them both---to tell the
 driver to hurry because neither of them had had any tea. No more going
 without his tea or pouring out his own. She was back. He turned to her,
-squeezed her hand, and said gently, teasingly, in the "special" voice he
-had for her: "Glad to be home again, dearie?" She smiled; she didn't
-even bother to answer, but gently she drew his hand away as they came to
-the brighter streets.
+squeezed her hand, and said gently, teasingly, in the "special" voice
+he had for her: "Glad to be home again, dearie?" She smiled; she
+didn't even bother to answer, but gently she drew his hand away as they
+came to the brighter streets.
 
-"We've got the best room in the hotel," he said. "I wouldn't be put off
-with another. And I asked the chambermaid to put in a bit of a fire in
-case you felt chilly. She's a nice, attentive girl. And I thought now we
-were here we wouldn't bother to go home to-morrow, but spend the day
-looking round and leave the morning after. Does that suit you? There's
-no hurry, is there? The children will have you soon enough\... I thought
-a day's sight-seeing might make a nice break in your journey---eh,
-Janey?"
+"We've got the best room in the hotel," he said. "I wouldn't be put
+off with another. And I asked the chambermaid to put in a bit of a fire
+in case you felt chilly. She's a nice, attentive girl. And I thought
+now we were here we wouldn't bother to go home to-morrow, but spend the
+day looking round and leave the morning after. Does that suit you?
+There's no hurry, is there? The children will have you soon enough\...
+I thought a day's sight-seeing might make a nice break in your
+journey---eh, Janey?"
 
 "Have you taken the tickets for the day after?" she asked.
 
 "I should think I have!" He unbuttoned his overcoat and took out his
 bulging pocket-book. "Here we are! I reserved a first-class carriage to
-Cooktown. There it is---'Mr. and Mrs. John Hammond.' I thought we might
-as well do ourselves comfortably, and we don't want other people butting
-in, do we? But if you'd like to stop here a bit longer---?"
+Cooktown. There it is---'Mr. and Mrs. John Hammond.' I thought we
+might as well do ourselves comfortably, and we don't want other people
+butting in, do we? But if you'd like to stop here a bit longer---?"
 
 "Oh, no!" said Janey quickly. "Not for the world! The day after
 to-morrow, then. And the children---"
@@ -5998,17 +6196,17 @@ But they had reached the hotel. The manager was standing in the broad,
 brilliantly-lighted porch. He came down to greet them. A porter ran from
 the hall for their boxes.
 
-"Well, Mr. Arnold, here's Mrs. Hammond at last!"
+"Well, Mr. Arnold, here's Mrs. Hammond at last!"
 
 The manager led them through the hall himself and pressed the
 elevator-bell. Hammond knew there were business pals of his sitting at
-the little hall tables having a drink before dinner. But he wasn't going
-to risk interruption; he looked neither to the right nor the left. They
-could think what they pleased. If they didn't understand, the more fools
-they---and he stepped out of the lift, unlocked the door of their room,
-and shepherded Janey in. The door shut. Now, at last, they were alone
-together. He turned up the light. The curtains were drawn; the fire
-blazed. He flung his hat on to the huge bed and went towards her.
+the little hall tables having a drink before dinner. But he wasn't
+going to risk interruption; he looked neither to the right nor the left.
+They could think what they pleased. If they didn't understand, the more
+fools they---and he stepped out of the lift, unlocked the door of their
+room, and shepherded Janey in. The door shut. Now, at last, they were
+alone together. He turned up the light. The curtains were drawn; the
+fire blazed. He flung his hat on to the huge bed and went towards her.
 
 But---would you believe it!---again they were interrupted. This time it
 was the porter with the luggage. He made two journeys of it, leaving the
@@ -6019,51 +6217,53 @@ bedside.
 
 At last the fool was gone. The door clicked. Now they were alone. Said
 Hammond: "I feel I'll never have you to myself again. These cursed
-people! Janey"---and he bent his flushed, eager gaze upon her---"let's
-have dinner up here. If we go down to the restaurant we'll be
-interrupted, and then there's the confounded music" (the music he'd
-praised so highly, applauded so loudly last night!). "We shan't be able
-to hear each other speak. Let's have something up here in front of the
-fire. It's too late for tea. I'll order a little supper, shall I? How
-does that idea strike you?"
+people! Janey"---and he bent his flushed, eager gaze upon
+her---"let's have dinner up here. If we go down to the restaurant
+we'll be interrupted, and then there's the confounded music" (the
+music he'd praised so highly, applauded so loudly last night!). "We
+shan't be able to hear each other speak. Let's have something up here
+in front of the fire. It's too late for tea. I'll order a little
+supper, shall I? How does that idea strike you?"
 
 "Do, darling!" said Janey. "And while you're away---the children's
 letters---"
 
 "Oh, later on will do!" said Hammond.
 
-"But then we'd get it over," said Janey. "And I'd first have time to---"
+"But then we'd get it over," said Janey. "And I'd first have time
+to---"
 
-"Oh, I needn't go down!" explained Hammond. "I'll just ring and give the
-order\... you don't want to send me away, do you?"
+"Oh, I needn't go down!" explained Hammond. "I'll just ring and
+give the order\... you don't want to send me away, do you?"
 
 Janey shook her head and smiled.
 
 "But you're thinking of something else. You're worrying about
-something," said Hammond. "What is it? Come and sit here---come and sit
-on my knee before the fire."
+something," said Hammond. "What is it? Come and sit here---come and
+sit on my knee before the fire."
 
 "I'll just unpin my hat," said Janey, and she went over to the
 dressing-table. "A-ah!" She gave a little cry.
 
 "What is it?"
 
-"Nothing, darling. I've just found the children's letters. That's all
-right! They will keep. No hurry now!" She turned to him, clasping them.
-She tucked them into her frilled blouse. She cried quickly, gaily: "Oh,
-how typical this dressing-table is of you!"
+"Nothing, darling. I've just found the children's letters. That's
+all right! They will keep. No hurry now!" She turned to him, clasping
+them. She tucked them into her frilled blouse. She cried quickly, gaily:
+"Oh, how typical this dressing-table is of you!"
 
 "Why? What's the matter with it?" said Hammond.
 
-"If it were floating in eternity I should say 'John!'" laughed Janey,
-staring at the big bottle of hair tonic, the wicker bottle of
+"If it were floating in eternity I should say 'John!'" laughed
+Janey, staring at the big bottle of hair tonic, the wicker bottle of
 eau-de-Cologne, the two hair-brushes, and a dozen new collars tied with
 pink tape. "Is this all your luggage?"
 
-"Hang my luggage!" said Hammond; but all the same he liked being laughed
-at by Janey. "Let's talk. Let's get down to things. Tell me"---and as
-Janey perched on his knees he leaned back and drew her into the deep,
-ugly chair---"tell me you're really glad to be back, Janey."
+"Hang my luggage!" said Hammond; but all the same he liked being
+laughed at by Janey. "Let's talk. Let's get down to things. Tell
+me"---and as Janey perched on his knees he leaned back and drew her
+into the deep, ugly chair---"tell me you're really glad to be back,
+Janey."
 
 "Yes, darling, I am glad," she said.
 
@@ -6085,29 +6285,30 @@ breathing rose and fell together.
 
 "What is it?"
 
-"Turn to me," he whispered. A slow, deep flush flowed into his forehead.
-"Kiss me, Janey! You kiss me!"
+"Turn to me," he whispered. A slow, deep flush flowed into his
+forehead. "Kiss me, Janey! You kiss me!"
 
 It seemed to him there was a tiny pause---but long enough for him to
 suffer torture---before her lips touched his, firmly, lightly---kissing
 them as she always kissed him, as though the kiss---how could he
 describe it?---confirmed what they were saying, signed the contract. But
-that wasn't what he wanted; that wasn't at all what he thirsted for. He
-felt suddenly, horrible tired.
+that wasn't what he wanted; that wasn't at all what he thirsted for.
+He felt suddenly, horrible tired.
 
-"If you knew," he said, opening his eyes, "what it's been like---waiting
-to-day. I thought the boat never would come in. There we were, hanging
-about. What kept you so long?"
+"If you knew," he said, opening his eyes, "what it's been
+like---waiting to-day. I thought the boat never would come in. There we
+were, hanging about. What kept you so long?"
 
 She made no answer. She was looking away from him at the fire. The
 flames hurried---hurried over the coals, flickered, fell.
 
 "Not asleep, are you?" said Hammond, and he jumped her up and down.
 
-"No," she said. And then: "Don't do that, dear. No, I was thinking. As a
-matter of fact," she said, "one of the passengers died last night---a
-man. That's what held us up. We brought him in---I mean, he wasn't
-buried at sea. So, of course, the ship's doctor and the shore doctor---"
+"No," she said. And then: "Don't do that, dear. No, I was thinking.
+As a matter of fact," she said, "one of the passengers died last
+night---a man. That's what held us up. We brought him in---I mean, he
+wasn't buried at sea. So, of course, the ship's doctor and the shore
+doctor---"
 
 "What was it?" asked Hammond uneasily. He hated to hear of death. He
 hated this to have happened. It was, in some queer way, as though he and
@@ -6115,8 +6316,8 @@ Janey had met a funeral on their way to the hotel.
 
 "Oh, it wasn't anything in the least infectious!" said Janey. She was
 speaking scarcely above her breath. "It was heart." A pause. "Poor
-fellow!" she said. "Quite young." And she watched the fire flicker and
-fall. "He died in my arms," said Janey.
+fellow!" she said. "Quite young." And she watched the fire flicker
+and fall. "He died in my arms," said Janey.
 
 The blow was so sudden that Hammond thought he would faint. He couldn't
 move; he couldn't breathe. He felt all his strength flowing---flowing
@@ -6143,8 +6344,8 @@ doctor was too late. He couldn't have done anything, anyway."
 
 At that Janey turned quickly, quickly searched his face.
 
-"You don't mind, John, do you?" she asked. "You don't---It's nothing to
-do with you and me."
+"You don't mind, John, do you?" she asked. "You don't---It's
+nothing to do with you and me."
 
 Somehow or other he managed to shake some sort of smile at her. Somehow
 or other he stammered: "No---go---on, go on! I want you to tell me."
@@ -6168,7 +6369,7 @@ And besides\... he might have wanted to leave a message\... to---"
 
 "No, darling, not a word!" She shook her head softly. "All the time I
 was with him he was too weak\... he was too weak even to move a
-finger\..."
+finger\... "
 
 Janey was silent. But her words, so light, so soft, so chill, seemed to
 hover in the air, to rain into his breast like snow.
@@ -6190,8 +6391,8 @@ wouldn't face it. He couldn't stand it. It was too much to bear!
 And now Janey touched his tie with her fingers. She pinched the edges of
 the tie together.
 
-"You're not---sorry I told you, John darling? It hasn't made you sad? It
-hasn't spoilt our evening---our being alone together?"
+"You're not---sorry I told you, John darling? It hasn't made you sad?
+It hasn't spoilt our evening---our being alone together?"
 
 But at that he had to hide his face. He put his face into her bosom and
 his arms enfolded her.
@@ -6199,7 +6400,10 @@ his arms enfolded her.
 Spoilt their evening! Spoilt their being alone together! They would
 never be alone together again.
 
-# 13. BANK HOLIDAY.
+
+
+13. BANK HOLIDAY.
+-----------------
 
 A stout man with a pink face wears dingy white flannel trousers, a blue
 coat with a pink handkerchief showing, and a straw hat much too small
@@ -6217,22 +6421,22 @@ A crowd collects, eating oranges and bananas, tearing off the skins,
 dividing, sharing. One young girl has even a basket of strawberries, but
 she does not eat them. "Aren't they dear!" She stares at the tiny
 pointed fruits as if she were afraid of them. The Australian soldier
-laughs. "Here, go on, there's not more than a mouthful." But he doesn't
-want her to eat them, either. He likes to watch her little frightened
-face, and her puzzled eyes lifted to his: "Aren't they a price!" He
-pushes out his chest and grins. Old fat women in velvet bodices---old
-dusty pin-cushions---lean old hags like worn umbrellas with a quivering
-bonnet on top; young women, in muslins, with hats that might have grown
-on hedges, and high pointed shoes; men in khaki, sailors, shabby clerks,
-young Jews in fine cloth suits with padded shoulders and wide trousers,
-"hospital boys" in blue---the sun discovers them---the loud, bold music
-holds them together in one big knot for a moment. The young ones are
-larking, pushing each other on and off the pavement, dodging, nudging;
-the old ones are talking: "So I said to 'im, if you wants the doctor to
-yourself, fetch 'im, says I."
+laughs. "Here, go on, there's not more than a mouthful." But he
+doesn't want her to eat them, either. He likes to watch her little
+frightened face, and her puzzled eyes lifted to his: "Aren't they a
+price!" He pushes out his chest and grins. Old fat women in velvet
+bodices---old dusty pin-cushions---lean old hags like worn umbrellas
+with a quivering bonnet on top; young women, in muslins, with hats that
+might have grown on hedges, and high pointed shoes; men in khaki,
+sailors, shabby clerks, young Jews in fine cloth suits with padded
+shoulders and wide trousers, "hospital boys" in blue---the sun
+discovers them---the loud, bold music holds them together in one big
+knot for a moment. The young ones are larking, pushing each other on and
+off the pavement, dodging, nudging; the old ones are talking: "So I
+said to 'im, if you wants the doctor to yourself, fetch 'im, says I."
 
-"An' by the time they was cooked there wasn't so much as you could put
-in the palm of me 'and!"
+"An' by the time they was cooked there wasn't so much as you could
+put in the palm of me 'and!"
 
 The only ones who are quiet are the ragged children. They stand, as
 close up to the musicians as they can get, their hands behind their
@@ -6260,9 +6464,9 @@ the soldiers.
 
 "Buy a rose. Give 'er a rose, boy. Roses, lady?"
 
-"Fevvers! Fevvers!" They are hard to resist. Lovely, streaming feathers,
-emerald green, scarlet, bright blue, canary yellow. Even the babies wear
-feathers threaded through their bonnets.
+"Fevvers! Fevvers!" They are hard to resist. Lovely, streaming
+feathers, emerald green, scarlet, bright blue, canary yellow. Even the
+babies wear feathers threaded through their bonnets.
 
 And an old woman in a three-cornered paper hat cries as if it were her
 final parting advice, the only way of saving yourself or of bringing him
@@ -6300,10 +6504,10 @@ your life---beware! beware!
 
 "Ladies and gentlemen, I am an auctioneer by profession, and if what I
 tell you is not the truth I am liable to have my licence taken away from
-me and a heavy imprisonment." He holds the licence across his chest; the
-sweat pours down his face into his paper collar; his eyes look glazed.
-When he takes off his hat there is a deep pucker of angry flesh on his
-forehead. Nobody buys a watch.
+me and a heavy imprisonment." He holds the licence across his chest;
+the sweat pours down his face into his paper collar; his eyes look
+glazed. When he takes off his hat there is a deep pucker of angry flesh
+on his forehead. Nobody buys a watch.
 
 Look out again! A huge barouche comes swinging down the hill with two
 old, old babies inside. She holds up a lace parasol; he sucks the knob
@@ -6338,15 +6542,18 @@ shouting, laughing, squealing, as though they were being pushed by
 something, far below, and by the sun, far ahead of them---drawn up into
 the full, bright, dazzling radiance to\... what?
 
-# 14. AN IDEAL FAMILY.
+
+
+14. AN IDEAL FAMILY.
+--------------------
 
 That evening for the first time in his life, as he pressed through the
 swing door and descended the three broad steps to the pavement, old Mr.
 Neave felt he was too old for the spring. Spring---warm, eager,
 restless---was there, waiting for him in the golden light, ready in
 front of everybody to run up, to blow in his white beard, to drag
-sweetly on his arm. And he couldn't meet her, no; he couldn't square up
-once more and stride off, jaunty as a young man. He was tired and,
+sweetly on his arm. And he couldn't meet her, no; he couldn't square
+up once more and stride off, jaunty as a young man. He was tired and,
 although the late sun was still shining, curiously cold, with a numbed
 feeling all over. Quite suddenly he hadn't the energy, he hadn't the
 heart to stand this gaiety and bright movement any longer; it confused
@@ -6355,7 +6562,7 @@ him. He wanted to stand still, to wave it away with his stick, to say,
 usual---tipping his wide-awake with his stick---all the people whom he
 knew, the friends, acquaintances, shopkeepers, postmen, drivers. But the
 gay glance that went with the gesture, the kindly twinkle that seemed to
-say, "I'm a match and more for any of you"---that old Mr. Neave could
+say, "I'm a match and more for any of you"---that old Mr. Neave could
 not manage at all. He stumped along, lifting his knees high as if he
 were walking through air that had somehow grown heavy and solid like
 water. And the homeward-looking crowd hurried by, the trams clanked, the
@@ -6365,7 +6572,7 @@ reckless, defiant indifference that one knows only in dreams\...
 It had been a day like other days at the office. Nothing special had
 happened. Harold hadn't come back from lunch until close on four. Where
 had he been? What had he been up to? He wasn't going to let his father
-know. Old Mr. Neave had happened to be in the vestibule, saying good-bye
+know. Old Mr. Neave had happened to be in the vestibule, saying good-bye
 to a caller, when Harold sauntered in, perfectly turned out as usual,
 cool, suave, smiling that peculiar little half-smile that women found so
 fascinating.
@@ -6377,52 +6584,52 @@ servants, it was not too much to say they made a young god of him; they
 worshipped Harold, they forgave him everything; and he had needed some
 forgiving ever since the time when he was thirteen and he had stolen his
 mother's purse, taken the money, and hidden the purse in the cook's
-bedroom. Old Mr. Neave struck sharply with his stick upon the pavement
-edge. But it wasn't only his family who spoiled Harold, he reflected, it
-was everybody; he had only to look and to smile, and down they went
+bedroom. Old Mr. Neave struck sharply with his stick upon the pavement
+edge. But it wasn't only his family who spoiled Harold, he reflected,
+it was everybody; he had only to look and to smile, and down they went
 before him. So perhaps it wasn't to be wondered at that he expected the
-office to carry on the tradition. H'm, h'm! But it couldn't be done. No
-business---not even a successful, established, big paying
+office to carry on the tradition. H'm, h'm! But it couldn't be done.
+No business---not even a successful, established, big paying
 concern---could be played with. A man had either to put his whole heart
 and soul into it, or it went all to pieces before his eyes\...
 
 And then Charlotte and the girls were always at him to make the whole
 thing over to Harold, to retire, and to spend his time enjoying himself.
-Enjoying himself! Old Mr. Neave stopped dead under a group of ancient
+Enjoying himself! Old Mr. Neave stopped dead under a group of ancient
 cabbage palms outside the Government buildings! Enjoying himself! The
 wind of evening shook the dark leaves to a thin airy cackle. Sitting at
-home, twiddling his thumbs, conscious all the while that his life's work
-was slipping away, dissolving, disappearing through Harold's fine
+home, twiddling his thumbs, conscious all the while that his life's
+work was slipping away, dissolving, disappearing through Harold's fine
 fingers, while Harold smiled\...
 
-"Why will you be so unreasonable, father? There's absolutely no need for
-you to go to the office. It only makes it very awkward for us when
+"Why will you be so unreasonable, father? There's absolutely no need
+for you to go to the office. It only makes it very awkward for us when
 people persist in saying how tired you're looking. Here's this huge
 house and garden. Surely you could be happy in---in---appreciating it
 for a change. Or you could take up some hobby."
 
-And Lola the baby had chimed in loftily, "All men ought to have hobbies.
-It makes life impossible if they haven't."
+And Lola the baby had chimed in loftily, "All men ought to have
+hobbies. It makes life impossible if they haven't."
 
-Well, well! He couldn't help a grim smile as painfully he began to climb
-the hill that led into Harcourt Avenue. Where would Lola and her sisters
-and Charlotte be if he'd gone in for hobbies, he'd like to know? Hobbies
-couldn't pay for the town house and the seaside bungalow, and their
-horses, and their golf, and the sixty-guinea gramophone in the
+Well, well! He couldn't help a grim smile as painfully he began to
+climb the hill that led into Harcourt Avenue. Where would Lola and her
+sisters and Charlotte be if he'd gone in for hobbies, he'd like to
+know? Hobbies couldn't pay for the town house and the seaside bungalow,
+and their horses, and their golf, and the sixty-guinea gramophone in the
 music-room for them to dance to. Not that he grudged them these things.
 No, they were smart, good-looking girls, and Charlotte was a remarkable
 woman; it was natural for them to be in the swim. As a matter of fact,
 no other house in the town was as popular as theirs; no other family
-entertained so much. And how many times old Mr. Neave, pushing the cigar
+entertained so much. And how many times old Mr. Neave, pushing the cigar
 box across the smoking-room table, had listened to praises of his wife,
 his girls, of himself even.
 
-"You're an ideal family, sir, an ideal family. It's like something one
-reads about or sees on the stage."
+"You're an ideal family, sir, an ideal family. It's like something
+one reads about or sees on the stage."
 
-"That's all right, my boy," old Mr. Neave would reply. "Try one of
-those; I think you'll like them. And if you care to smoke in the garden,
-you'll find the girls on the lawn, I dare say."
+"That's all right, my boy," old Mr. Neave would reply. "Try one of
+those; I think you'll like them. And if you care to smoke in the
+garden, you'll find the girls on the lawn, I dare say."
 
 That was why the girls had never married, so people said. They could
 have married anybody. But they had too good a time at home. They were
@@ -6437,97 +6644,98 @@ curtains floating outwards, its blue jars of hyacinths on the broad
 sills. On either side of the carriage porch their hydrangeas---famous in
 the town---were coming into flower; the pinkish, bluish masses of flower
 lay like light among the spreading leaves. And somehow, it seemed to old
-Mr. Neave that the house and the flowers, and even the fresh marks on
+Mr. Neave that the house and the flowers, and even the fresh marks on
 the drive, were saying, "There is young life here. There are girls---"
 
 The hall, as always, was dusky with wraps, parasols, gloves, piled on
 the oak chests. From the music-room sounded the piano, quick, loud and
 impatient. Through the drawing-room door that was ajar voices floated.
 
-"And were there ices?" came from Charlotte. Then the creak, creak of her
-rocker.
+"And were there ices?" came from Charlotte. Then the creak, creak of
+her rocker.
 
-"Ices!" cried Ethel. "My dear mother, you never saw such ices. Only two
-kinds. And one a common little strawberry shop ice, in a sopping wet
+"Ices!" cried Ethel. "My dear mother, you never saw such ices. Only
+two kinds. And one a common little strawberry shop ice, in a sopping wet
 frill."
 
 "The food altogether was too appalling," came from Marion.
 
 "Still, it's rather early for ices," said Charlotte easily.
 
-"But why, if one has them at all\..." began Ethel.
+"But why, if one has them at all\... " began Ethel.
 
 "Oh, quite so, darling," crooned Charlotte.
 
 Suddenly the music-room door opened and Lola dashed out. She started,
-she nearly screamed, at the sight of old Mr. Neave.
+she nearly screamed, at the sight of old Mr. Neave.
 
 "Gracious, father! What a fright you gave me! Have you just come home?
 Why isn't Charles here to help you off with your coat?"
 
 Her cheeks were crimson from playing, her eyes glittered, the hair fell
 over her forehead. And she breathed as though she had come running
-through the dark and was frightened. Old Mr. Neave stared at his
+through the dark and was frightened. Old Mr. Neave stared at his
 youngest daughter; he felt he had never seen her before. So that was
 Lola, was it? But she seemed to have forgotten her father; it was not
 for him that she was waiting there. Now she put the tip of her crumpled
 handkerchief between her teeth and tugged at it angrily. The telephone
 rang. A-ah! Lola gave a cry like a sob and dashed past him. The door of
-the telephone-room slammed, and at the same moment Charlotte called, "Is
-that you, father?"
+the telephone-room slammed, and at the same moment Charlotte called,
+"Is that you, father?"
 
-"You're tired again," said Charlotte reproachfully, and she stopped the
-rocker and offered her warm plum-like cheek. Bright-haired Ethel pecked
-his beard, Marion's lips brushed his ear.
+"You're tired again," said Charlotte reproachfully, and she stopped
+the rocker and offered her warm plum-like cheek. Bright-haired Ethel
+pecked his beard, Marion's lips brushed his ear.
 
 "Did you walk back, father?" asked Charlotte.
 
-"Yes, I walked home," said old Mr. Neave, and he sank into one of the
+"Yes, I walked home," said old Mr. Neave, and he sank into one of the
 immense drawing-room chairs.
 
-"But why didn't you take a cab?" said Ethel. "There are hundred of cabs
-about at that time."
+"But why didn't you take a cab?" said Ethel. "There are hundred of
+cabs about at that time."
 
-"My dear Ethel," cried Marion, "if father prefers to tire himself out, I
-really don't see what business of ours it is to interfere."
+"My dear Ethel," cried Marion, "if father prefers to tire himself
+out, I really don't see what business of ours it is to interfere."
 
 "Children, children?" coaxed Charlotte.
 
-But Marion wouldn't be stopped. "No, mother, you spoil father, and it's
-not right. You ought to be stricter with him. He's very naughty." She
-laughed her hard, bright laugh and patted her hair in a mirror. Strange!
-When she was a little girl she had such a soft, hesitating voice; she
-had even stuttered, and now, whatever she said---even if it was only
-"Jam, please, father"---it rang out as though she were on the stage.
+But Marion wouldn't be stopped. "No, mother, you spoil father, and
+it's not right. You ought to be stricter with him. He's very
+naughty." She laughed her hard, bright laugh and patted her hair in a
+mirror. Strange! When she was a little girl she had such a soft,
+hesitating voice; she had even stuttered, and now, whatever she
+said---even if it was only "Jam, please, father"---it rang out as
+though she were on the stage.
 
 "Did Harold leave the office before you, dear?" asked Charlotte,
 beginning to rock again.
 
-"I'm not sure," said Old Mr. Neave. "I'm not sure. I didn't see him
-after four o'clock."
+"I'm not sure," said Old Mr. Neave. "I'm not sure. I didn't see
+him after four o'clock."
 
 "He said---" began Charlotte.
 
 But at that moment Ethel, who was twitching over the leaves of some
 paper or other, ran to her mother and sank down beside her chair.
 
-"There, you see," she cried. "That's what I mean, mummy. Yellow, with
-touches of silver. Don't you agree?"
+"There, you see," she cried. "That's what I mean, mummy. Yellow,
+with touches of silver. Don't you agree?"
 
 "Give it to me, love," said Charlotte. She fumbled for her
 tortoise-shell spectacles and put them on, gave the page a little dab
-with her plump small fingers, and pursed up her lips. "Very sweet!" she
-crooned vaguely; she looked at Ethel over her spectacles. "But I
+with her plump small fingers, and pursed up her lips. "Very sweet!"
+she crooned vaguely; she looked at Ethel over her spectacles. "But I
 shouldn't have the train."
 
 "Not the train!" wailed Ethel tragically. "But the train's the whole
 point."
 
-"Here, mother, let me decide." Marion snatched the paper playfully from
-Charlotte. "I agree with mother," she cried triumphantly. "The train
-overweights it."
+"Here, mother, let me decide." Marion snatched the paper playfully
+from Charlotte. "I agree with mother," she cried triumphantly. "The
+train overweights it."
 
-Old Mr. Neave, forgotten, sank into the broad lap of his chair, and,
+Old Mr. Neave, forgotten, sank into the broad lap of his chair, and,
 dozing, heard them as though he dreamed. There was no doubt about it, he
 was tired out; he had lost his hold. Even Charlotte and the girls were
 too much for him to-night. They were too\... too\... But all his
@@ -6539,7 +6747,7 @@ climbing up endless flights of stairs. Who was he?
 
 "What do you say, father?"
 
-"Eh, what, what?" Old Mr. Neave woke with a start and stared across at
+"Eh, what, what?" Old Mr. Neave woke with a start and stared across at
 them. "I shan't dress to-night," he repeated.
 
 "But, father, we've got Lucile coming, and Henry Davenport, and Mrs.
@@ -6553,13 +6761,13 @@ Teddie Walker."
 
 "But if you're really not up to it," Charlotte wavered.
 
-"Very well! Very well!" Old Mr. Neave got up and went to join that
+"Very well! Very well!" Old Mr. Neave got up and went to join that
 little old climbing fellow just as far as his dressing-room\...
 
 There young Charles was waiting for him. Carefully, as though everything
 depended on it, he was tucking a towel round the hot-water can. Young
 Charles had been a favourite of his ever since as a little red-faced boy
-he had come into the house to look after the fires. Old Mr. Neave
+he had come into the house to look after the fires. Old Mr. Neave
 lowered himself into the cane lounge by the window, stretched out his
 legs, and made his little evening joke, "Dress him up, Charles!" And
 Charles, breathing intensely and frowning, bent forward to take the pin
@@ -6574,7 +6782,7 @@ partner\... Oh, very nice indeed." Then Charlotte calling from the
 veranda, "Where is Harold?" And Ethel, "He's certainly not here,
 mother." And Charlotte's vague, "He said---"
 
-Old Mr. Neave sighed, got up, and putting one hand under his beard, he
+Old Mr. Neave sighed, got up, and putting one hand under his beard, he
 took the comb from young Charles, and carefully combed the white beard
 over. Charles gave him a folded handkerchief, his watch and seals, and
 spectacle case.
@@ -6590,11 +6798,11 @@ like a spider's---thin, withered.
 But if that were true, why didn't Charlotte or the girls stop him? Why
 was he all alone, climbing up and down? Where was Harold? Ah, it was no
 good expecting anything from Harold. Down, down went the little old
-spider, and then, to his horror, old Mr. Neave saw him slip past the
+spider, and then, to his horror, old Mr. Neave saw him slip past the
 dining-room and make for the porch, the dark drive, the carriage gates,
 the office. Stop him, stop him, somebody!
 
-Old Mr. Neave started up. It was dark in his dressing-room; the window
+Old Mr. Neave started up. It was dark in his dressing-room; the window
 shone pale. How long had he been asleep? He listened, and through the
 big, airy, darkened house there floated far-away voices, far-away
 sounds. Perhaps, he thought vaguely, he had been asleep for a long time.
@@ -6608,43 +6816,47 @@ sorrowful, mournful, as though it understood. Small, warm arms were
 round his neck. A face, little and pale, lifted to his, and a voice
 breathed, "Good-bye, my treasure."
 
-My treasure! "Good-bye, my treasure!" Which of them had spoken? Why had
-they said good-bye? There had been some terrible mistake. She was his
-wife, that little pale girl, and all the rest of his life had been a
+My treasure! "Good-bye, my treasure!" Which of them had spoken? Why
+had they said good-bye? There had been some terrible mistake. She was
+his wife, that little pale girl, and all the rest of his life had been a
 dream.
 
 Then the door opened, and young Charles, standing in the light, put his
 hands by his side and shouted like a young soldier, "Dinner is on the
 table, sir!"
 
-"I'm coming, I'm coming," said old Mr. Neave.
+"I'm coming, I'm coming," said old Mr. Neave.
 
-# 15. The Lady's Maid
 
-Eleven o'clock. A knock at the door\... I hope I haven't disturbed you,
-madam. You weren't asleep---were you? But I've just given my lady her
-tea, and there was such a nice cup over, I thought, perhaps\...
+
+15. The Lady's Maid
+---------------------
+
+Eleven o'clock. A knock at the door\... I hope I haven't disturbed
+you, madam. You weren't asleep---were you? But I've just given my lady
+her tea, and there was such a nice cup over, I thought, perhaps\...
 
 \... Not at all, madam. I always make a cup of tea last thing. She
 drinks it in bed after her prayers to warm her up. I put the kettle on
-when she kneels down and I say to it, "Now you needn't be in too much of
-a hurry to say your prayers." But it's always boiling before my lady is
-half through. You see, madam, we know such a lot of people, and they've
-all got to be prayed for---every one. My lady keeps a list of the names
-in a little red book. Oh dear! whenever some one new has been to see us
-and my lady says afterwards, "Ellen, give me my little red book," I feel
-quite wild, I do. "There's another," I think, "keeping her out of her
-bed in all weathers." And she won't have a cushion, you know, madam; she
-kneels on the hard carpet. It fidgets me something dreadful to see her,
-knowing her as I do. I've tried to cheat her; I've spread out the
-eiderdown. But the first time I did it---oh, she gave me such a
-look---holy it was, madam. "Did our Lord have an eiderdown, Ellen?" she
-said. But---I was younger at the time---I felt inclined to say, "No, but
-our Lord wasn't your age, and he didn't know what it was to have your
-lumbago." Wicked---wasn't it? But she's too good, you know, madam. When
-I tucked her up just now and seen---saw her lying back, her hands
-outside and her head on the pillow---so pretty---I couldn't help
-thinking, "Now you look just like your dear mother when I laid her out!"
+when she kneels down and I say to it, "Now you needn't be in too much
+of a hurry to say your prayers." But it's always boiling before my
+lady is half through. You see, madam, we know such a lot of people, and
+they've all got to be prayed for---every one. My lady keeps a list of
+the names in a little red book. Oh dear! whenever some one new has been
+to see us and my lady says afterwards, "Ellen, give me my little red
+book," I feel quite wild, I do. "There's another," I think,
+"keeping her out of her bed in all weathers." And she won't have a
+cushion, you know, madam; she kneels on the hard carpet. It fidgets me
+something dreadful to see her, knowing her as I do. I've tried to cheat
+her; I've spread out the eiderdown. But the first time I did it---oh,
+she gave me such a look---holy it was, madam. "Did our Lord have an
+eiderdown, Ellen?" she said. But---I was younger at the time---I felt
+inclined to say, "No, but our Lord wasn't your age, and he didn't
+know what it was to have your lumbago." Wicked---wasn't it? But she's
+too good, you know, madam. When I tucked her up just now and seen---saw
+her lying back, her hands outside and her head on the pillow---so
+pretty---I couldn't help thinking, "Now you look just like your dear
+mother when I laid her out!"
 
 \... Yes, madam, it was all left to me. Oh, she did look sweet. I did
 her hair, soft-like, round her forehead, all in dainty curls, and just
@@ -6659,15 +6871,15 @@ dangerous; she was the sweetest old lady. But how it took her was---she
 thought she'd lost something. She couldn't keep still, she couldn't
 settle. All day long she'd be up and down, up and down; you'd meet her
 everywhere,---on the stairs, in the porch, making for the kitchen. And
-she'd look up at you, and she'd say---just like a child, "I've lost it,
-I've lost it." "Come along," I'd say, "come along, and I'll lay out your
-patience for you." But she'd catch me by the hand---I was a favourite of
-hers---and whisper, "Find it for me, Ellen. Find it for me." Sad, wasn't
-it?
+she'd look up at you, and she'd say---just like a child, "I've lost
+it, I've lost it." "Come along," I'd say, "come along, and I'll
+lay out your patience for you." But she'd catch me by the hand---I was
+a favourite of hers---and whisper, "Find it for me, Ellen. Find it for
+me." Sad, wasn't it?
 
 \... No, she never recovered, madam. She had a stroke at the end. Last
-words she ever said was---very slow, "Look in---the---Look---in---" And
-then she was gone.
+words she ever said was---very slow, "Look in---the---Look---in---"
+And then she was gone.
 
 \... No, madam, I can't say I noticed it. Perhaps some girls. But you
 see, it's like this, I've got nobody but my lady. My mother died of
@@ -6675,9 +6887,9 @@ consumption when I was four, and I lived with my grandfather, who kept a
 hair-dresser's shop. I used to spend all my time in the shop under a
 table dressing my doll's hair---copying the assistants, I suppose. They
 were ever so kind to me. Used to make me little wigs, all colours, the
-latest fashions and all. And there I'd sit all day, quiet as quiet---the
-customers never knew. Only now and again I'd take my peep from under the
-table-cloth.
+latest fashions and all. And there I'd sit all day, quiet as
+quiet---the customers never knew. Only now and again I'd take my peep
+from under the table-cloth.
 
 \... But one day I managed to get a pair of scissors and---would you
 believe it, madam? I cut off all my hair; snipped it off all in bits,
@@ -6711,31 +6923,32 @@ cuffs from the first. Oh yes---once I did! That was---funny! It was like
 this. My lady had her two little nieces staying with her---we were at
 Sheldon at the time---and there was a fair on the common.
 
-"Now, Ellen," she said, "I want you to take the two young ladies for a
-ride on the donkeys." Off we went; solemn little loves they were; each
-had a hand. But when we came to the donkeys they were too shy to go on.
-So we stood and watched instead. Beautiful those donkeys were! They were
-the first I'd seen out of a cart---for pleasure as you might say. They
-were a lovely silver-grey, with little red saddles and blue bridles and
-bells jing-a-jingling on their ears. And quite big girls---older than
-me, even---were riding them, ever so gay. Not at all common, I don't
-mean, madam, just enjoying themselves. And I don't know what it was, but
-the way the little feet went, and the eyes---so gentle---and the soft
-ears---made me want to go on a donkey more than anything in the world!
+"Now, Ellen," she said, "I want you to take the two young ladies for
+a ride on the donkeys." Off we went; solemn little loves they were;
+each had a hand. But when we came to the donkeys they were too shy to go
+on. So we stood and watched instead. Beautiful those donkeys were! They
+were the first I'd seen out of a cart---for pleasure as you might say.
+They were a lovely silver-grey, with little red saddles and blue bridles
+and bells jing-a-jingling on their ears. And quite big girls---older
+than me, even---were riding them, ever so gay. Not at all common, I
+don't mean, madam, just enjoying themselves. And I don't know what it
+was, but the way the little feet went, and the eyes---so gentle---and
+the soft ears---made me want to go on a donkey more than anything in the
+world!
 
-\... Of course, I couldn't. I had my young ladies. And what would I have
-looked like perched up there in my uniform? But all the rest of the day
-it was donkeys---donkeys on the brain with me. I felt I should have
+\... Of course, I couldn't. I had my young ladies. And what would I
+have looked like perched up there in my uniform? But all the rest of the
+day it was donkeys---donkeys on the brain with me. I felt I should have
 burst if I didn't tell some one; and who was there to tell? But when I
-went to bed---I was sleeping in Mrs. James's bedroom, our cook that was,
-at the time---as soon as the lights was out, there they were, my
+went to bed---I was sleeping in Mrs. James's bedroom, our cook that
+was, at the time---as soon as the lights was out, there they were, my
 donkeys, jingling along, with their neat little feet and sad eyes\...
 Well, madam, would you believe it, I waited for a long time and
 pretended to be asleep, and then suddenly I sat up and called out as
-loud as I could, "I do want to go on a donkey. I do want a donkey-ride!"
-You see, I had to say it, and I thought they wouldn't laugh at me if
-they knew I was only dreaming. Artful---wasn't it? Just what a silly
-child would think\...
+loud as I could, "I do want to go on a donkey. I do want a
+donkey-ride!" You see, I had to say it, and I thought they wouldn't
+laugh at me if they knew I was only dreaming. Artful---wasn't it? Just
+what a silly child would think\...
 
 \... No, madam, never now. Of course, I did think of it at one time. But
 it wasn't to be. He had a little flower-shop just down the road and
@@ -6758,43 +6971,44 @@ afternoon. Not that she'd said anything, of course; she never does or
 will. But I knew by the way that she kept wrapping herself up and asking
 me if it was cold---and her little nose looked\... pinched. I didn't
 like leaving her; I knew I'd be worrying all the time. At last I asked
-her if she'd rather I put it off. "Oh no, Ellen," she said, "you mustn't
-mind about me. You mustn't disappoint your young man." And so cheerful,
-you know, madam, never thinking about herself. It made me feel worse
-than ever. I began to wonder\... then she dropped her handkerchief and
-began to stoop down to pick it up herself---a thing she never did.
+her if she'd rather I put it off. "Oh no, Ellen," she said, "you
+mustn't mind about me. You mustn't disappoint your young man." And so
+cheerful, you know, madam, never thinking about herself. It made me feel
+worse than ever. I began to wonder\... then she dropped her handkerchief
+and began to stoop down to pick it up herself---a thing she never did.
 "Whatever are you doing!" I cried, running to stop her. "Well," she
-said, smiling, you know, madam, "I shall have to begin to practise." Oh,
-it was all I could do not to burst out crying. I went over to the
+said, smiling, you know, madam, "I shall have to begin to practise."
+Oh, it was all I could do not to burst out crying. I went over to the
 dressing-table and made believe to rub up the silver, and I couldn't
 keep myself in, and I asked her if she'd rather I\... didn't get
 married. "No, Ellen," she said---that was her voice, madam, like I'm
-giving you---"No, Ellen, not for the wide world!" But while she said it,
-madam---I was looking in her glass; of course, she didn't know I could
-see her---she put her little hand on her heart just like her dear mother
-used to, and lifted her eyes\... Oh, madam!
+giving you---"No, Ellen, not for the wide world!" But while she said
+it, madam---I was looking in her glass; of course, she didn't know I
+could see her---she put her little hand on her heart just like her dear
+mother used to, and lifted her eyes\... Oh, madam!
 
 When Harry came I had his letters all ready, and the ring and a ducky
 little brooch he'd given me---a silver bird it was, with a chain in its
 beak, and on the end of the chain a heart with a dagger. Quite the
 thing! I opened the door to him. I never gave him time for a word.
-"There you are," I said. "Take them all back," I said, "it's all over.
-I'm not going to marry you," I said, "I can't leave my lady." White! he
-turned as white as a woman. I had to slam the door, and there I stood,
-all of a tremble, till I knew he had gone. When I opened the
+"There you are," I said. "Take them all back," I said, "it's all
+over. I'm not going to marry you," I said, "I can't leave my lady."
+White! he turned as white as a woman. I had to slam the door, and there
+I stood, all of a tremble, till I knew he had gone. When I opened the
 door---believe me or not, madam---that man was gone! I ran out into the
 road just as I was, in my apron and my house-shoes, and there I stayed
 in the middle of the road\... staring. People must have laughed if they
 saw me\...
 
-\... Goodness gracious!---What's that? It's the clock striking! And here
-I've been keeping you awake. Oh, madam, you ought to have stopped me\...
-Can I tuck in your feet? I always tuck in my lady's feet, every night,
-just the same. And she says, "Good night, Ellen. Sleep sound and wake
-early!" I don't know what I should do if she didn't say that, now.
+\... Goodness gracious!---What's that? It's the clock striking! And
+here I've been keeping you awake. Oh, madam, you ought to have stopped
+me\... Can I tuck in your feet? I always tuck in my lady's feet, every
+night, just the same. And she says, "Good night, Ellen. Sleep sound and
+wake early!" I don't know what I should do if she didn't say that,
+now.
 
 \... Oh dear, I sometimes think\... whatever should I do if anything
 were to\... But, there, thinking's no good to any one---is it, madam?
 Thinking won't help. Not that I do it often. And if ever I do I pull
-myself up sharp, "Now, then, Ellen. At it again---you silly girl! If you
-can't find anything better to do than to start thinking!\..."
+myself up sharp, "Now, then, Ellen. At it again---you silly girl! If
+you can't find anything better to do than to start thinking!\... "

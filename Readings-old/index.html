@@ -1,0 +1,28 @@
+---
+layout: default
+title: "Ed."
+---
+<div class="introduction">
+  <h1>Hi.</h1>
+
+<p>This site contains digital editions of the readings assigned for the course "Introduction to Computational Literary Analysis," part of the Summer Minor in Digital Humanities program at UC-Berkeley, in Summer Session D of 2019, and taught by Jonathan Reeve.</p>
+</div>
+
+<hr>
+
+<div class="toc">
+  <h2>Texts</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+
+
+

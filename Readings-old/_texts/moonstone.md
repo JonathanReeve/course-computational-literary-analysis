@@ -246,7 +246,7 @@ gives the Diamond away.
 
 # The Story
 
-## First Period
+### First Period
 
 THE LOSS OF THE DIAMOND (1848)
 

@@ -7,7 +7,7 @@
 - DIGHUM 150C: Digital Humanties and Text and Language Analysis
 - [[https://classes.berkeley.edu/content/2020-summer-dighum-150c-001-sem-001][Course description via UC-Berkeley]]
 - Lectures posted asynchronously, Mondays – Thursdays, around 12:00 UTC.
-- Discussion Section A, Mondays, Wednesdays: 15:00 UTC on Zulip
+- Discussion Section A, Mondays, Wednesdays: 19:00 UTC on Zulip
   - [[https://time.is/compare/1900_6_July_2020_in_UTC/Berkeley/New_York/Beijing][(12:00 noon in Berkeley, 15:00 in New York)]]
 - Discussion Section B, Tuesdays, Thursday: 1:00 UTC on Zulip
   - [[https://time.is/compare/100_6_July_2020_in_UTC/Berkeley/New_York/Beijing][(18:00 in Berkeley, 21:00 in New York)]]
@@ -37,7 +37,6 @@ Although this course is focused on the analysis of literature, and British liter
 ** Prerequisites
 
 This course presumes no prior knowledge of programming, computer science, or quantitative disciplines. Those with programming experience, however, won't find this boring: the level of specialization is such that only the first week covers the basics.
-
 
 ** How this Course is Structured
 
