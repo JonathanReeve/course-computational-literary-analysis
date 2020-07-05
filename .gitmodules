@@ -1,3 +1,6 @@
 [submodule "Slides/reveal.js"]
 	path = Slides/reveal.js
 	url = https://github.com/hakimel/reveal.js.git
+[submodule "Readings"]
+	path = Readings
+	url = git@gitlab.com:digitalhumanitiesatberkeley/computational-literary-analysis-readings.git
