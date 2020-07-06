@@ -24,33 +24,55 @@ date: 6 July 2020
 
 ## Online-only (this summer only)
 
- - 
+- Mostly asynchronous
+- Zoom-free zone
 
 # Computational Literary Analysis
 
 ## An Exciting New Field {data-background-video="https://thumbs.gfycat.com/GloriousCautiousGar-mobile.mp4"}
 
-Also known as, or similar to: text analysis, cultural analytics, digital humanities
+Also known as, or similar to: text analysis, cultural analytics, digital humanities, "distant reading"
+
+## Reading Books with Computers
+
+![](images/books-computers.jpg)
+
+# Famous Examples
+
+## Game of Thrones
+
+![](images/game-of-thrones.png)
+
+## Loudness
+
+![](images/loudness.png)
+
+## Rap Lyrics
+
+![](images/rap-lyrics.png)
 
 # But why? 
 
-## Why learn computational literary analysis? 
+## Why computers? 
 
-Hello subsection 
+ - Procedures help us to learn.
+ - New way of reading
 
 ## Why literature? 
 
- - Text analysis is general-purpose. So...
- - Literature presents the greatest complexities of language. 
- - If you can understand literary language, you can understand any language. 
+ - Text analysis is general-purpose
+ - Literature is complex language 
  - Also, literature is awesome. 
- 
+
+## The Great Unread
+
+![](images/dark-library.jpg)
+
 # Prerequisites
 
 ## No prerequisites
 
-- Some people think that the prerequisite for learning to code is already knowing how to code. 
-- But programming is like explaining how to make a peanut butter and jelly sandwich to a four-year-old.
+- Programming is like explaining how to make a peanut butter and jelly sandwich to a four-year-old.
 
 ## Like Making a Sandwich
 
@@ -66,8 +88,9 @@ Hello subsection
 - It's not true that some people are better suited to coding. 
 - You can do it! 
 
-# Syllabus
+# Links
 
-https://gitlab.com/digitalhumanitiesatberkeley/computational-literary-analysis
+## Syllabus 
 
+https://icla.jonreeve.com
 
