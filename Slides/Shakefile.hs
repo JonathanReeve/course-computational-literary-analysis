@@ -7,7 +7,7 @@ main :: IO ()
 main = shakeArgs shakeOptions{shakeFiles="_build"} $ do
 
     "*.html" %> \out -> do
-        let org = out -<.> "org"
+        let md = out -<.> "md"
         let template = "default.revealjs"
-        need [org, template]
-        cmd_ "pandoc --standalone -t revealjs" ["--template="++template] "-o" [out] [org]
+        need [md, template]
+        cmd_ "pandoc --standalone -t revealjs" ["--template="++template] "-o" [out] [md]
