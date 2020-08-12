@@ -3,7 +3,7 @@
 
 ## Presentation Instructions
 
- - Make a four-minute video, and upload it libre.video by 19:00 UTC on Thursday, August 13th. (Noon Berkeley time.)
+ - Make a four-minute video, and upload it bittube.video by 19:00 UTC on Thursday, August 13th. (Noon Berkeley time.)
  - Try for one slide (or Jupyter screenfull) per minute: thus, four slides
  - Post a link to the course chat, in the #General -> Final Project Presentations. 
 
