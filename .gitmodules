@@ -3,4 +3,4 @@
 	url = https://github.com/hakimel/reveal.js.git
 [submodule "Readings"]
 	path = Readings
-	url = git@gitlab.com:digitalhumanitiesatberkeley/computational-literary-analysis-readings.git
+	url = git@github.com:JonathanReeve/course-computational-literary-analysis-readings.git
