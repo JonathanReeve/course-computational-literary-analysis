@@ -1,31 +1,36 @@
 ---
 title: Introduction to Computational Literary Analysis
 author: Jonathan Reeve
-date: 6 July 2020
+date: 9 September 2020
 ---
     
 # Introduction to Computational Literary Analysis
 
 ## Info 
 
- - An instance of DIGHUM 150: Text and Language Analysis
- - Summer Session D, 2020
- - University of California, Berkeley
-
-![](https://jonreeve.com/assets/images/noun_Book_1593490.svg)
+ - Department of English and Comparative Literature
+ - Columbia University
 
 # General Information
 
 ## Instructor: Jonathan Reeve
 
- - Columbia University PhD student, researcher, instructor
+ - PhD student, researcher, instructor
  - Department of English and Comparative Literature
  - <http://jonreeve.com>
 
-## Online-only (this summer only)
+## Course
 
-- Mostly asynchronous
+- Previously taught at Berkeley 
+  - (thrice, summers)
 - Zoom-free zone
+
+## Wait list options
+
+- Wait 
+- Audit
+- Summer
+- Computing in Context
 
 # Computational Literary Analysis
 
@@ -51,6 +56,10 @@ Also known as, or similar to: text analysis, cultural analytics, digital humanit
 
 ![](images/rap-lyrics.png)
 
+## Abstract/Concrete
+
+![](images/heuser.jpg)
+ 
 # But why? 
 
 ## Why computers? 
@@ -92,5 +101,5 @@ Also known as, or similar to: text analysis, cultural analytics, digital humanit
 
 ## Syllabus 
 
-https://icla.jonreeve.com
+https://icla2020b.jonreeve.com
 
