@@ -1,5 +1,7 @@
-# Introduction to Computational Literary Analysis, Fall 2020
+# Introduction to Computational Literary Analysis, Summer 2021
 
-This site contains materials for the course, Introduction to Computational Literary Analysis, a Fall 2020 course in the Department of English and Comparative Literature at at Columbia University.
+This site contains materials for the course, Introduction to Computational Literary Analysis, taught at UC-Berkeley in summer 2018, 2019, 2020, at Columbia University in 2020, and at UC-Berkeley in fall 2020. 
 
-**Please refer to the course website for more information: https://icla2020b.jonreeve.com**
+**Please refer to the course website for more information: https://icla2021.jonreeve.com**
+
+
