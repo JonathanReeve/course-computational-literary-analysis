@@ -1,36 +1,30 @@
 ---
 title: Introduction to Computational Literary Analysis
 author: Jonathan Reeve
-date: 9 September 2020
+date: 6 July 2021
 ---
     
 # Introduction to Computational Literary Analysis
 
 ## Info 
 
- - Department of English and Comparative Literature
- - Columbia University
+ - Digital Humanities Program, UC-Berkeley
+ - Summers since 2018, also at Columbia U
+ - Online only (this summer)
 
 # General Information
 
 ## Instructor: Jonathan Reeve
 
  - PhD student, researcher, instructor
- - Department of English and Comparative Literature
+ - Department of English and Comparative Literature, Columbia University
  - <http://jonreeve.com>
 
 ## Course
 
-- Previously taught at Berkeley 
-  - (thrice, summers)
+- Course website: http://icla2021.jonreeve.com
+- Text-based course communication (!)
 - Zoom-free zone
-
-## Wait list options
-
-- Wait 
-- Audit
-- Summer
-- Computing in Context
 
 # Computational Literary Analysis
 
@@ -91,6 +85,10 @@ Also known as, or similar to: text analysis, cultural analytics, digital humanit
 
 - Describe a process procedurally
 - Break a procedure into steps
+
+## Programming language
+
+<video data-autoplay loop src="https://i.giphy.com/media/35aVstfJYNlEA/giphy.mp4">
 
 ## Pep talk
 
