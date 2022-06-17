@@ -48,7 +48,7 @@ First, make sure you've read [the final project description in the syllabus](htt
 
 ## Final Project Notebook Instructions
 
- - Final projects will be due by 11:59pm, Berkeley time, on August the 15th. 
+ - Final projects will be due by 11:59pm, Berkeley time, on August the 15th.
  - Like the homework, it should be a single Jupyter notebook (.ipynb), and nothing more. I'll provide a template.
  - Send it to me via email, to jonathan.reeve@columbia.edu.
  - Word count: 2,000–3,000 words of markdown prose.
