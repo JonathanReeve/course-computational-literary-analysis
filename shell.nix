@@ -3,11 +3,11 @@ with import <nixpkgs> {};
 ( let
     wordcloud = pkgs.python3Packages.buildPythonPackage rec {
       pname = "wordcloud";
-      version = "1.7.0";
+      version = "1.8.2.2";
 
       src = pkgs.python3Packages.fetchPypi{
         inherit version; inherit pname;
-        sha256 = "1cpg9ypd9ak1b516i40hd1hdll5hhhkjjpf06mp9x1ha6n8bklms";
+        sha256 = "Uj24h+R+hA61wuYEKCQ7sddDn9xg+JYmsXuvob5kRZw=";
       };
 
       propagatedBuildInputs = with pkgs.python3Packages; [
