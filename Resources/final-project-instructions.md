@@ -48,7 +48,7 @@ First, make sure you've read [the final project description in the syllabus](htt
 
 ## Final Project Notebook Instructions
 
- - Final projects will be due by 11:59pm, Berkeley time, on August the 15th.
+ - Final projects will be due by noon, Berkeley time, on August the 13th.
  - Like the homework, it should be a single Jupyter notebook (.ipynb), and nothing more. I'll provide a template.
  - Send it to me via email, to jonathan.reeve@columbia.edu.
  - Word count: 2,000–3,000 words of markdown prose.
@@ -94,7 +94,7 @@ First, make sure you've read [the final project description in the syllabus](htt
    - Post the link to Zulip.
    - Add a link to your gist to the course repository.
  - Make a blog post about it? Tweet about it? 
- - Submit it to a conference? Like [DH2021](https://dh2021.adho.org/)
+ - Submit it to a conference? Like [DH2023](https://dh2023.adho.org/)
  - Submit it to a journal? Like [The Journal of Cultural Analytics](https://culturalanalytics.org/) 
    - Or [Digital Scholarship in the Humanities](https://academic.oup.com/dsh)
    - Respond to an existing paper? 
