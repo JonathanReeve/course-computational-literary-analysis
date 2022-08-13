@@ -12,4 +12,5 @@ Students, please submit pull requests with a link to your final project, as a Gi
  - [Queenie Lau: An Analysis on Class and Social Structures in in Wonderland](https://github.com/Queenie-Lau/dighum150c-final-proj)  
  - [Sean Fu: A Stylistic Analysis of Character Portrayal in Different Versions of *The Moonstone*](https://github.com/sean-fu88/SeanFu-Dighum150c-FinalProject)
  - [Zoe Lin: Innocence and Wishes](https://gist.github.com/z0e1in/20dbb402f9b89af46de53f17bbcb2ea8)
- - [Aditya Bhaskar: Narrative Structure in Modernism](https://gist.github.com/AdityaBhaskar0/cd63f8082619952550e9e793da95f20d)  
+ - [Aditya Bhaskar: Narrative Structure in Modernism](https://gist.github.com/AdityaBhaskar0/cd63f8082619952550e9e793da95f20d)
+ - [Jay Sahaym: Predictive and Manual Classification](https://github.com/jsahay/DH150C-final-project)
