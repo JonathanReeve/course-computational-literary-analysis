@@ -11,3 +11,4 @@ Students, please submit pull requests with a link to your final project, as a Gi
  - [Bryan Kim: Decoupling “Hip Hop” and “Rap” – A Textual Analysis of Rap Lyrics from 1980s to 2010s](https://github.com/bryank-js/150CRapTextualAnalysis)
  - [Queenie Lau: An Analysis on Class and Social Structures in in Wonderland](https://github.com/Queenie-Lau/dighum150c-final-proj)  
  - [Sean Fu: A Stylistic Analysis of Character Portrayal in Different Versions of *The Moonstone*](https://github.com/sean-fu88/SeanFu-Dighum150c-FinalProject)
+ - [Zoe Lin: Innocence and Wishes](https://gist.github.com/z0e1in/20dbb402f9b89af46de53f17bbcb2ea8)
