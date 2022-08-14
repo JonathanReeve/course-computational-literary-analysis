@@ -14,4 +14,5 @@ Students, please submit pull requests with a link to your final project, as a Gi
  - [Zoe Lin: Innocence and Wishes](https://gist.github.com/z0e1in/20dbb402f9b89af46de53f17bbcb2ea8)
  - [Aditya Bhaskar: Narrative Structure in Modernism](https://gist.github.com/AdityaBhaskar0/cd63f8082619952550e9e793da95f20d)
  - [Jay Sahaym: Predictive and Manual Classification](https://github.com/jsahay/DH150C-final-project)
+ - [Wooheum Xin: categorizer novels](https://github.com/woohuem-xin/categorizer-for-novels)
  - [Cassandra Calciano: Word Choice in Translations of *Notes from Underground*](https://github.com/CassandraCalciano/digital-humanities/blob/e3d5564511b5169bd6fcab3d907b7941750efe45/CassandraCalciano-TranslationAnalysisof_Notes.ipynb)
