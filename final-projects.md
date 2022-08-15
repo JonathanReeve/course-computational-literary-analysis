@@ -17,4 +17,4 @@ Students, please submit pull requests with a link to your final project, as a Gi
  - [Murray Eiland:Legal Language: Mr. Bruff in The Moonstone](https://github.com/mleiland/LitAnalysis/blob/main/MurrayEILAND-final.ipynb)
  - [Wooheum Xin: categorizer novels](https://github.com/woohuem-xin/categorizer-for-novels)
  - [Cassandra Calciano: Word Choice in Translations of *Notes from Underground*](https://github.com/CassandraCalciano/digital-humanities/blob/e3d5564511b5169bd6fcab3d907b7941750efe45/CassandraCalciano-TranslationAnalysisof_Notes.ipynb)
-
+ - [Taeho Hwang: How did Wilkie Collins Influence on Arthur Conan Doyle?](https://github.com/ThisIsHwang/WilkieAndConanAnalysis)
